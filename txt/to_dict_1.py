@@ -25,10 +25,12 @@ def replace_dots(x):
 
 def main():
     f = codecs.open(sys.argv[1], 'r', 'utf-8')
+    out = codecs.open('../dict/' + sys.argv[1], 'w', 'utf-8')
     for l in f.readlines():
         xs = re.split(r' {3,}', l.strip())
         body = replace_dots(xs[1])
         print xs[0].strip()
+        print >>out, xs[0].strip()
         for circ in body.split('\n'):
             if len(circ) == 0:
                 continue
@@ -38,9 +40,12 @@ def main():
                 tups.append(m.end())
             tups.append(len(circ))
             print circ[:tups[0]].strip()
+            print >>out, circ[:tups[0]].strip()
             for t in zip(tups, tups[1:]):
-                print '    ' + circ[t[0]:t[1]]
+                print '    ' + circ[t[0]:t[1]].strip()
+                print >>out, '    ' + circ[t[0]:t[1]].strip()
         print
+        print >>out, ''
 
 if __name__ == '__main__':
     main()
