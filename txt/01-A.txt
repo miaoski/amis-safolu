@@ -3,7 +3,7 @@ a    阿美語元音之一，系展唇、後低舌面元音，音值為[a]，[a/
 'a'acamen('acam)    [疊 2]①  要砍取蘆葦乾。O 'a'acamen ako. 我就要去砍蘆葦。② 指要砍取的蘆葦乾。Oni a 'a'acamen.要砍取的蘆葦。同 'a'alacamen。
 'a'acawen('acaw)    [疊 2]①  要汲取，要舀。O 'a'acawen nikaka ko nanom. 姊姊要去舀水。②  指要汲取的(水)。Ini ko 'a'acawen a nanom (nanum). 要舀的水在這裡。
 'a'ad'aden('ad'ad)    [疊 2]①  要搗騰、翻動。O 'a'ad'aden iso ko panay. 你就去把稻穀搗騰翻動一下。②  指要搗騰、翻動的(對象)。O 'a'ad''aden ako a pali.我要翻動的箱子。
-aadahen(adah)    [疊 2]要治療、診治的(疾病)。O adada no ﬁtoka ko aadahen ako. 我要去醫治胃病。
+aadahen(adah)    [疊 2]要治療、診治的(疾病)。O adada no fitoka ko aadahen ako. 我要去醫治胃病。
 'a'adapawen('adapaw)    [疊 2]①  即將埋伏、伏擊。O 'a'adapawen niyam ko 'ada.②  我們要去伏擊敵人。③  指即將埋伏、伏擊的(對象)。'A'adapawen a 'ada. 沝 要埋伏消滅的敵人。同sasalipawen、sasamamawen。
 'a'adawangen('adawang)    [疊 2]①  即將砍樹做門。O 'a'adawangen ako anohatini. 我現在要去砍樹來做門。②  要砍伐的樹。O maanan ko 'a'adawangen iso? 你要砍的是什麼樣的樹來做門。
 'a'adetomen('adetom)    [疊 2]①  要拔鬍子草。O 'a'adetomen iso han? 你就要去採鬍子草嗎？②  指要拔的鬍子草。Pina ko 'a'adetomen iso saw? 你要採多少鬍子草呢？同 dada'etomen。
@@ -20,8 +20,8 @@ aadahen(adah)    [疊 2]要治療、診治的(疾病)。O adada no ﬁtoka ko aa
 'a'afaren('afar)    [疊 2]①  要捉蝦。O 'a'afaren ako i koni 'alo. 我要在這河裡撈蝦。②  要捕捉的蝦。Oni a (ko) 'a'afaren iso. 這是你要捕撈的蝦。
 'a'afasen('afas)    [疊 2]①  要搶劫、搶奪。O 'a'afasen ira ko payso niyam. 他就要搶我們的錢。②  指要搶劫、搶奪的(東西)。O 'a'afasen a payso. (他)要搶的錢。
 'a'afaten('afat)    [疊 2]①  要砍芒草杆。O 'a'afaten ako. 我就(所)要砍的芒草杆。②  指要砍伐的芒草杆。O 'a'afaten koni.這是要砍取的芒草杆。
-'a'afiliden('afilid)    [疊 2]①  要懷抱。'A'aﬁliden ni ina ko safa. 媽媽就要去抱妹妹。。O cima ko ②  指要懷抱的(對象) 'a'aﬁliden iso? 你要抱誰呢？
-'a'afinongen('afinong)    [疊 2]①  要採集椰子。'A'aﬁnongen ako. 我就要去摘的椰子。②  指要採集的椰子。Oni ko 'a'aﬁnongen ako. 我要摘的椰子是這個。
+'a'afiliden('afilid)    [疊 2]①  要懷抱。'A'afiliden ni ina ko safa. 媽媽就要去抱妹妹。。O cima ko ②  指要懷抱的(對象) 'a'afiliden iso? 你要抱誰呢？
+'a'afinongen('afinong)    [疊 2]①  要採集椰子。'A'afinongen ako. 我就要去摘的椰子。②  指要採集的椰子。Oni ko 'a'afinongen ako. 我要摘的椰子是這個。
 'a'afoen('afo)    [疊 2]①  要焚燒。O 'a'afoen ni ama koni kilang. 父親要把這棵樹燒成灰燼。②  指要焚燒成灰的(東西)。'A'afoen a kilang. 要燒燼的木頭。
 'a'afofoen('afofo)    [疊 2]①  要懷抱。'A'afofoen ira ko wawa. 他將要把孩子抱住(在大腿上)。②  指要懷抱的(對象)。Ora ko 'a'afofoen ako. 我要懷抱的是那個。
 'a'afongen('afong)    [疊 2]①  要覆蓋、掩蓋。O 
@@ -92,7 +92,7 @@ acedet(cedet)    使之火烙、燙傷。
 'acefol    煙霧，蒸汽。'Acefol no tamako. 香煙的煙兒。同 'acofel。
 'acefolay a fo'is    短語。彗星。同 'acofelay a fo'is。
 'acefolay('acefol)    ①  冒煙了，冒汽了。'Acefolay ko loma' ira. 他的房子在冒煙。②  冒煙的，冒汽的。Icowaay kora 'acefolay saw? 那冒煙的是什麼地方呢？同 'acofelay。
-'acfel    煙霧，燻煙。Maﬁwﬁw no fali ko 'acfel . 煙被風吹散。同 'acefol。
+'acfel    煙霧，燻煙。Mafiwfiw no fali ko 'acfel . 煙被風吹散。同 'acefol。
 acek    ①  污穢，醜惡。②  令人惡心，嫌惡。Maacek kako to kadit. 我對髒很厭惡。參見 maacek。
 'acicim    酸，有酸味。'Acicim koni a 'asiro haw? 這個橘子酸嗎？
 'acicimay('acicim)    ①  酸了，有酸味了。'Acicimay to ko epah iso. 你的酒酸了。②  酸的，有酸味的。'Acicimay a fadiso'so'. 酸葡萄。
@@ -104,12 +104,12 @@ aciyah    (感嘆詞)。表示讚嘆不已。Aciyah makapahay kona kaying! 啊�
 'acofel    煙霧，蒸汽。同 'acefol。
 'acofelay a fo'is    短語。彗星。同 'acefolay a fo'is。
 'acofelay('acofel)    ①  冒煙了，冒汽了。②  冒煙的，冒汽的。同 'acefolay。
-acohod    塵土，塵埃，灰塵。Maﬁyok no fali ko acohod. 灰塵被風吹著。同 alafoh、tahfod。
+acohod    塵土，塵埃，灰塵。Mafiyok no fali ko acohod. 灰塵被風吹著。同 alafoh、tahfod。
 ada    請來吧！有請！ Ada micomod i loma' niyam. 請進我們家。同 dada。
 'ada    敵人，仇敵。'Ada no losay ko 'adadongac. 甲蟲是果樹的天敵。
 'ada'ada('ada)    [疊 2]異族人，陌生人。'Ada'ada canira, cowa ko 'Amis. 他們是異族人，不是阿美族。
 'ad'ad    翻騰，搗騰，挖掘(東西，如石頭)。同 wadwad。參見 mi'ad'ad、ma'ad'ad。
-adada    ①  疾病，疼痛，傷痛。O maan ko adada iso saw? 你有什麼病呢？②  患病，受傷。adada ko ﬁtoka no wama.父親的胃疼痛。③  痛苦，難過。Adada ko faloco' ako. 我內心很痛苦。
+adada    ①  疾病，疼痛，傷痛。O maan ko adada iso saw? 你有什麼病呢？②  患病，受傷。adada ko fitoka no wama.父親的胃疼痛。③  痛苦，難過。Adada ko faloco' ako. 我內心很痛苦。
 adadaay(adada)    ①  正在患病、疼痛。②  指病患者，傷痛者。Cowa kanga'ay ko futi' ako i dadaya, adadaayho ko fongoh ako imatini/hatini. 我昨天晚上睡不好，現在頭還痛呢。
 adadaen(adada)    感到疼痛。 adadaen to fongoh kako,cowa kamawmah kako anini. 我今天感到頭痛，不去工作了。
 'ad'aden('ad'ad)    把…翻騰、挖掘出來。'Ad'aden ko tafok! 把沙子翻一翻！同 wadwaden。
@@ -192,7 +192,7 @@ adihayen(adihay)    多一點，請多(給)一點。Adihayen ko mikaenan makena,
 'a'efecen('efec)    [疊 2]①  要阻止、禁止。O 'a'efecen ako cinira a somowal. 我要(會)阻止他發言。②  指要阻止、禁止的(對象)。
 a^ef^efay    眼睛蛇。Ma'araw ako ko a^ef^efay i lotok. 我在山上看到眼鏡蛇。同cacesces。參見 ka^fefay。
 'a'efengen('efeng)    [疊 2]①  要拋棄、丟棄。②  指要拋棄、丟棄的(東西)。同 'a'efangen。
-'a'efiden('efid)    [疊 2]①  要抽半截煙。②  指要抽半截的(香煙)。O 'a'eﬁden a tamako. 抽半截的香煙。
+'a'efiden('efid)    [疊 2]①  要抽半截煙。②  指要抽半截的(香煙)。O 'a'efiden a tamako. 抽半截的香煙。
 'a'ekaken('ekak)    [疊 2]①  要詛咒。②  指要詛咒的(物件)。參見 'ekaken。
 'a'eleken('elek)    [疊 2]①  要扣動陷阱的啟動器。O 'a'eleken ira ko talakal. 他就要扣動陷阱的板機。②  指要扣動的啟動器。'A'eleken a talakal. 要扣動板機的陷阱。
 aeli'en('eli' )    [疊 2]I omah na Kacaw ko a'eli'en.要割下來的茅草在卡兆先生的田裡。
@@ -240,13 +240,13 @@ a'efeken('efek)    要猛揍、狠打的(對像)。A'efeken ko maliangay a tamda
 a'efengen('efeng)    [疊 2]要拋棄、丟掉的。O lakaw ko a'fengen nangra. 他們要扔掉的是垃圾。O a'fengen niyam a lakaw koni.這是我們要扔的垃圾。同 feleten、falahen。
 afengfeng(fengfeng)    嗡嗡的聲音此起彼落。 Afengfeng ko lalangaw a ma'fer. 蒼蠅發出嗡嗡的聲音而飛。
 afet    火藥，炸藥，彈藥。Paroen ko afet i kowang. 把彈藥放入槍管裡。同 ^afet。
-afih    米糠，粗糠。Pakaenen ko koko' to aﬁh. 餵米糠給雞吃。
-Afih    部落名稱，今台灣花蓮縣玉里鎮鐵份部落。Alomanay ko palomaay to wilok i Aﬁh. 鐵份部落有許多人種柚子。
-'afilid    抱，懷抱。參見 mi'aﬁlid。
-'afiliden('afilid)    把…懷抱。'Aﬁliden ko wawa. 抱一下孩子。
+afih    米糠，粗糠。Pakaenen ko koko' to afih. 餵米糠給雞吃。
+Afih    部落名稱，今台灣花蓮縣玉里鎮鐵份部落。Alomanay ko palomaay to wilok i Afih. 鐵份部落有許多人種柚子。
+'afilid    抱，懷抱。參見 mi'afilid。
+'afiliden('afilid)    把…懷抱。'Afiliden ko wawa. 抱一下孩子。
 'afinong    椰子，椰果。
 'afinongan('afinong)    種椰子的地方。
-'afinongen('afinong)    把椰子砍伐。Cowa kaciheci kona 'aﬁnong, 'aﬁnongen hena! 這棵椰樹沒結果子，砍掉怎麼樣呢！
+'afinongen('afinong)    把椰子砍伐。Cowa kaciheci kona 'afinong, 'afinongen hena! 這棵椰樹沒結果子，砍掉怎麼樣呢！
 afelaw    淡，不鹹。Afelaw ko dateng. 菜很淡。
 afelaway(afelaw)    淡的，不鹹的。指淡的(菜肴、食品)。Aefelaway koni a dateng,pacinahen! 這菜很淡，加鹽吧！同afesa'、afesa'ay、kafesa'。
 'afo    灰，灰燼。
@@ -258,7 +258,7 @@ afelaway(afelaw)    淡的，不鹹的。指淡的(菜肴、食品)。Aefelaway 
 'afono    一種樹的名稱。其樹皮可製布。
 'afonoen('afono)    把(樹)砍伐。'Afonoen iso koni o hamaan? 你砍這棵樹打算做什麼用？
 'afosaw    微溫，溫熱，不冷不熱。'Afosaw to ko nanom han? 水溫了嗎？
-'afosaway('afosaw)    ①  有點熱了，溫熱了。'Afosaway ho ko kaﬁ. 咖啡還有熱度。②  溫熱的，不冷不熱的。'Afosaway a nanom. 溫水。
+'afosaway('afosaw)    ①  有點熱了，溫熱了。'Afosaway ho ko kafi. 咖啡還有熱度。②  溫熱的，不冷不熱的。'Afosaway a nanom. 溫水。
 'afoyong    一撮綠草，綠茸茸。
 afesa'    ①  味淡，不鹹。Afesa' ko mitangtangan iso a titi. 你煮的肉太淡。②  平淡無味。Afesa' ko sowal noya tapang. 那位長官的話太乏味。
 afesa'ay(afesa')    指淡的，平淡無味的。同 afelaway、afelaw。
@@ -332,7 +332,7 @@ alaca'nga'ngawsa(ca'ngaw)    [疊 2]一個個張眼抬頭看著。Alaca'nga'ngaw
 alacecay(cecay)    均分一個，平均每人得一個。Alacecay a kaysing ko tamdamdaw. 每人平均各得一碗。Cililamay kami alacecay to kangpi. 我們每人分到一支鋼筆。
 alacecayen(cecay)    每人要各分得一個。Alacecayen ni wama kora wawa to pawli. 父親給孩子每人分一根香蕉。
 alacefocefo'sa(cefo' )    [疊 1]於是一個個噗咚噗咚跳下水。Alacefocefo'sa ko takola' i nanom.青蛙一隻隻噗咚噗咚地跳下水。同cefocefo'sa。
-alaceficefis(cefis)    [疊 2]互相瞬間抽取，互相搶東西。Alaceﬁceﬁs sa cangra a panokay to lalosidan. 他們互相搶著把東西拿回家去。同 la'afa'afas。參見 miceﬁs。
+alaceficefis(cefis)    [疊 2]互相瞬間抽取，互相搶東西。Alaceficefis sa cangra a panokay to lalosidan. 他們互相搶著把東西拿回家去。同 la'afa'afas。參見 micefis。
 alacefocefo'(cefo' )    [疊 2]一個個爭相往下跳。Alacefocefo' ko wawa a midangoy.孩子一個個爭相往下跳水游泳。
 alacekecekem(cekem)    [疊 2]被刺得疼痛難耐，一陣陣疼痛。
 alacekecekemsa(cekem)    [疊 2]感到一陣陣刺痛。Alacekecekemsa ko kapal ako. 刺扎在我手掌上，感到陣陣刺痛。
@@ -348,10 +348,10 @@ ala'eneeneng('eneng)    [疊 2]個個跟著去看。Ala'eneeneng ko kapah tora k
 ala'eneenenghan('eneng)    [疊 2]個個跟著去看吧。Ala'eneenenghan no kapah ko fa'lohay a paso. 年輕人就湧上去參觀新巴士。
 ala'eneenengsa('eneng)    [疊 2]個個都看著。Alaeneenengsa ko tamdamdaw to sarakatay a comikayay. 人們跟著去看跑第一名的人。
 alaf^afa    (水)溫熱，微熱，有熱度。Alaf^afa ko nanom. 溫水。
-alaf^afaay(alaf^afa)    ①  (水)溫熱了，有點熱了。Alaf^afaay ko nanom i ﬁntang. 臉盆的水有點熱了。②  溫熱的(水)。同fala'fa。
+alaf^afaay(alaf^afa)    ①  (水)溫熱了，有點熱了。Alaf^afaay ko nanom i fintang. 臉盆的水有點熱了。②  溫熱的(水)。同fala'fa。
 alafengfengsa(fengfeng)    嗡嗡的聲音此起彼落地嚮著。Alafengfengsa to i kemod no ufang ko honi/soni no rarohod a matngil.聽見馬蜂的聲音在山洞深處嗡嗡地嚮著。
-'alafin    久，長久。'Alaﬁn caay ko mamafalic.永久不變。同 halaﬁn。
-'alafinay('alafin)    久了，長久了。'Alaﬁnay ko pinokayan ira i loma'. 他回家的時間很久了。(長久的，長時期的)。
+'alafin    久，長久。'Alafin caay ko mamafalic.永久不變。同 halafin。
+'alafinay('alafin)    久了，長久了。'Alafinay ko pinokayan ira i loma'. 他回家的時間很久了。(長久的，長時期的)。
 alafoh    塵埃，灰塵。Tihtihen ko alafoh. 把灰塵拍掉。同 acohod、tahfod。
 ala'iri'iring (' iring)    [疊 2]一個個都斜著頭瞪眼。
 ala'iri'iringsa    [疊 2]一個個都斜著頭。Ala'iri'iringsa ko tamdamdaw a miharateng. 人們都歪著腦袋在思考。同 pawing、tawi'ing。參見 mala' iring。
@@ -395,7 +395,7 @@ alapkapkawsa(pekaw)    [疊 2]一個個就爭先恐後拔腿就跑。Alapkapkaws
 'alapitan('alapit)    筷子、鉗具的種類。
 'alapiten('alapit)    使用夾子等工具把…夾起來。'Alapiten ko falah no lamal a nipateli i taringoan.把火炭夾起來放在暖爐裡。
 alapolipolin    [疊 2]一個個跌倒在地。
-alapolipolinsa    [疊 2]一個個就相繼跌倒在地。Alapolipolinsa a tahaﬁkod koya kaemangay a ma^min. 那些小孩都被絆住，一個個跌倒在地。參見mipolin，mapolin。
+alapolipolinsa    [疊 2]一個個就相繼跌倒在地。Alapolipolinsa a tahafikod koya kaemangay a ma^min. 那些小孩都被絆住，一個個跌倒在地。參見mipolin，mapolin。
 alarongorongoh(rongoh)    [疊 2]個個相互交頭接耳。
 alarongorongohsa(rongoh)    [疊 2]個個就交頭接耳，竊竊私語。Alarongorongohsa cangra a caciyaw.他們彼此間交頭接耳、竊竊私語。
 alasa'amamokomokot('amamokot)    [疊 2]一個個蜷曲著身軀。
@@ -413,8 +413,8 @@ alateletelep(telep)    [疊 2]一個個先後倒下來。
 alateletelepsa(telep)    [疊 2]一個個就倒了下來。Alateletelepsa koya tatoloay a tamdaw i tafok. 那三個人先後倒在沙地上。同payak，pingko。參見 mitelep。
 'alaten('alat)    把…阻礙、阻擋、妨礙。Mana 'alaten kako a matayal saw? 為什麼妨礙我工作呢？同 sa'eten。
 alatofififific(tofific)    [疊 2]每個人都來拉扯，每個人都用手拉扯。
-alatofifififichan(tofific)    [疊 2]每個人都來拉扯著。Alatoﬁﬁﬁﬁchan nangra koya tanginga noya wawa. 她們每個人都來拉扯那個小孩的耳朵。
-alatofififificsa(tofific)    [疊 2]每個人就都拉扯起來。Alatoﬁﬁﬁﬁcsa to riko'. 人人都在拉扯衣服。同 tofafac。參見 mitoﬁﬁc。
+alatofifififichan(tofific)    [疊 2]每個人都來拉扯著。Alatofifififichan nangra koya tanginga noya wawa. 她們每個人都來拉扯那個小孩的耳朵。
+alatofififificsa(tofific)    [疊 2]每個人就都拉扯起來。Alatofififificsa to riko'. 人人都在拉扯衣服。同 tofafac。參見 mitofific。
 alatolo(tolo)    每人分得三個。Alatolo kami to tama'. 我們每人分到三份獵物。
 alatoloay(tolo)    ①  每人分得三個了。②  指每人各分到的三個(東西)。Alatoloay a koren to ^epah ko sapasorot no lomaloma'. 平均每戶捐出三醰酒。
 alatoloen(tolo)    把東西每人平均分三個。Alatoloen ako kamo to 'odax. 我給你們每人三個糖果。
@@ -524,7 +524,7 @@ amecid    公猴，大雄猴。
 amoko'    短，短小。Mana amoko' konini a kotang? 這把矛槍為什麼這樣短？同amoto'。
 amoko'ay(amoko' )    短的，短小的。Amoko'ay to mamang ko caca'dongan. 衣袖短了一點。Amoko'ay a ka^red. 短的繩子。
 amoko'en(amoko' )    削短，縮短。Amoko'en ko oo' no 'to! 把桌腳弄短。
-amoot    霉味，發霉。Halaﬁn to ma'orad,saamootsato ko riko'. 下了很久的雨衣服都發了。同 tapedak。參見 maamoot。
+amoot    霉味，發霉。Halafin to ma'orad,saamootsato ko riko'. 下了很久的雨衣服都發了。同 tapedak。參見 maamoot。
 amoraw    堆積得很高、很尖。Amoraw ko tafok. 沙堆積得很高。同 'aporaw、mataring.
 amorawen(amoraw)    把東西堆積起來。Amorawen ko panay! 把稻穀堆起來！
 'amosol    橢圓形，棱形。
@@ -590,7 +590,7 @@ angliw    飯餿味，餿飯。Angliw ko hemay. 飯有餿味。同 'angliw。
 'angliway('angliw)    ①  飯餿了，有餿味了。Hamaanay to ko 'angliway a holo. 不要了，這飯餿了。②  有餿味的。'Angliway a holo. 餿飯。
 'angongol    深，深邃，深遠。Pakaka ko 'angongol noya riyal. 海非常深。同 'alolong、talolong。
 'angongolay('angongol)    ①  深了，深邃了，深遠了。②  深的，深邃的，深遠的。同 'alolongay、talolongay。
-angpaw    紅包(閩南語借詞)。Mililam to angpaw ano paﬁlongan. 過年領紅包。
+angpaw    紅包(閩南語借詞)。Mililam to angpaw ano pafilongan. 過年領紅包。
 'angrer    苦，苦味。'Angrer koni a lopas a kaenen. 這個桃子吃起來有苦味。同'anengel。
 'angreray('angrer)    ①  苦了，有苦味了。Tada 'angreray koni a iyo. 這藥非常苦。②  苦的，有苦味的。'Angreray a iyo. 苦的藥。同'anengelay。
 'angsaw    煙燻味，煙味。
@@ -637,7 +637,7 @@ anohatini(tini)    ①  如果這樣的話，倘若如此。②  那麼現在，
 anohatira aca    (短語)。那樣的話。Anohatira aca,kako ko mikotay. 那樣的話，我來代理。
 anohatira(tira)    ①  如果那樣的話。②  那麼。anohatira i, paterashan a milicay ko tamdaw. 那麼，你就隨便去問人吧。
 anohoni(honi)    一會兒，即刻，馬上就。Fa'det to anohoni, h^longen ako ko riko'. 一會兒天熱了，我就把衣服脫下來。同anosawni。
-anolafii(lafii)    在半夜，在深夜。Anolaﬁi ko saka kerah no riyal. 海水退潮時間在半夜會。
+anolafii(lafii)    在半夜，在深夜。Anolafii ko saka kerah no riyal. 海水退潮時間在半夜會。
 anolatek    有時候。Anolatek i, tayra i tokotokosan a mi'adop. 有時上山打獵。
 anomamiheca(miheca )    明年。Mimaan kiso anomamiheca saw? 明年你要做什麼(工作)呢？
 'anongnong    棟梁，房梁。'Anongnong no loma'. 屋子的棟梁。同 alinongnong。
@@ -659,7 +659,7 @@ anta'ay(anta' )    ①  生的，還沒有熟的。Aanta'ay koni a hemay. 這個
 'antox    腐朽味，腐臭味。同'antol、'angtol。'Antox sato ko cicacopiay a tama'. 獵物有蛆蟲、有腐臭味了。
 'antoxay('antox)    ①  發臭了。腐臭了。②  發臭的，腐臭的。同 'antolay、'angtolay。
 'a'oc    孵不出小雞的蛋，壞蛋。
-aocoran(ocor)    [疊 2]派遣、命令去執行任務的(對像)。Kiso ko aocoran niyam a mikiﬁ. 我派你去站崗。
+aocoran(ocor)    [疊 2]派遣、命令去執行任務的(對像)。Kiso ko aocoran niyam a mikifi. 我派你去站崗。
 aocoren(ocor)    [疊 2]要派遣的、打發的(對像)。Ci Kacaw ko aocoren ako a tamdaw.Kacaw 是我要派去的人。同 aolien。參見 miocor。
 aokosen(okos)    [疊 2]要炫耀的、誇耀的。Caka samaan ko demak ningra, o maan ko aokosen. 他沒什麼作為，有甚好誇讚的。參見 miokos。
 aolahen(olah)    [疊 2]要愛的、喜歡的(對像)。O aolahen a wawa cingra. 他是值得喜歡心疼的孩子。O aolahen ita ko tao.我們要對別人普施愛心。參見 maolah。
@@ -689,7 +689,7 @@ apac    ①  睡懶覺，晚起床。②  遲到，落後。Maapac ko katayni ak
 'apalo    菠蘿蜜。同 facidol。'Apaloay 臺灣花蓮縣壽豐鄉月眉地區。
 'apaloay('apalo)    菠蘿蜜的種類。
 'apanongnong    房中梁。同 'anongnong。
-'apapitan    果實累累。'Apapitan to ko 'ariray niyam. 我們的玉米結果累累了。同loﬁc。
+'apapitan    果實累累。'Apapitan to ko 'ariray niyam. 我們的玉米結果累累了。同lofic。
 'apapitanay('apapitan)    ①  果實累累了。'Apapitanay ko 
 nipalomaan a falisan anini a    mihecaan. 今年種下的高粱結果累累。②  果實累累的。'Apapitanay a falisan.碩果累累的高粱。
 'apapolo    丘陵，山丘。I 'apapolo amikacaw. 在山丘上瞭望。
@@ -703,7 +703,7 @@ apelahay(apelah)    ①  顏色深了。Apelahay ko cengel nora kiradom. 那塊�
 apener    矮，矮小，低矮。Pakaka ko apener ningra. 他太矮。
 apeneray(apener)    ①  矮的，低矮。②  矮小的。Kolong ko apeneray to 'fa. 牛比馬矮。同po^ner。
 'apengpeng    矮墩墩，圓溜溜。Mana 'apengpengsa koni a wawa ira saw? 他的小孩怎麼這麼胖呢。
-'apengpengay('apengpeng)    ①  矮墩墩了，圓溜溜了。'Apengpengay cinira ca (to) kaﬁlo a rakaten. 他胖墩墩的走不了路。②  矮墩墩的，圓溜溜的。'Apengpengay a tamdaw. 胖墩的人。
+'apengpengay('apengpeng)    ①  矮墩墩了，圓溜溜了。'Apengpengay cinira ca (to) kafilo a rakaten. 他胖墩墩的走不了路。②  矮墩墩的，圓溜溜的。'Apengpengay a tamdaw. 胖墩的人。
 'apesak    乾燥，缺少黏度。'Apesak ko hemay.米飯不粘。
 'apesakay('apesak)    ①  乾燥了，缺少黏度了。'Apesakay ko sera niyam. 我們的土地乾燥。②  乾燥的，缺少黏度的。'Apesakay a hemay.沒黏性的飯。
 apet    同胞配偶之間的互稱，連襟。O apet ako ci Noro. 諾魯是我的連襟。
@@ -753,7 +753,7 @@ araw'aw    喧嚷，喧鬧，喧囂。Araw'aw ko papotal. 外面很吵。同 nga
 aray    感謝，感激。Aray to pipadang iso.謝謝妳的協助。同 kansiya，ahowid。
 arayen(aray)    要深表感謝。Arayen ko singsi. 對老師深表謝意。同 ahowid，kansiyaen。
 arayhan(aray)    十分感謝、感激。Arayhan ako kiso!我對你十分感謝！
-'aredet    美味可口，味道香。'Aredet ko kaﬁno futing. 魚湯很可口。同 ka^eso'。
+'aredet    美味可口，味道香。'Aredet ko kafino futing. 魚湯很可口。同 ka^eso'。
 'aredetay('aredet)    ①  美味可口了，味道香了。'Aredetay a kaenen! 吃起來可香了！②  可口的，香噴噴的。'Aredetay a kohaw. 好吃的湯。同 ka^eso'ay。
 'aredo    一種可編制席子的植物，席草。
 arekah    手撫摸時粗糙感。Arekah ko kapal iso. 你的手掌很粗糙。同 carekah.
@@ -778,7 +778,7 @@ ari    (語氣助詞)。表示應答。Awaay ari!沒有吧！
 ariwawa    打擾，妨礙他人。同 cara。
 'ariyos    旋渦，頭旋。'Ariyos no tarodo. 指紋。同 'ariyot。
 'ariyot    旋渦，頭旋。同 'ariyos。
-aro'    ①  坐。②  居住，駐紮。Caka a'alaﬁn ko aro' niyam. 我們坐不久。同 maro。
+aro'    ①  坐。②  居住，駐紮。Caka a'alafin ko aro' niyam. 我們坐不久。同 maro。
 arodaw    黑，黑色。同 'olaw、koheting。
 arodaway(arodaw)    ①  黑了。②  黑的，黑顏色的。Arodaway ko cengel no tosiya ako.我車子是黑色的。
 aro'en(aro' )    ①  把位置坐了。Aro'en ako ko 'anengang ni Kacaw. 我把卡照的椅子坐了。②  請坐下。Aro'en itini! 請坐這裡！
@@ -886,14 +886,14 @@ awaay ko kihar    (短語)。自由自在地。Awaay ko kihar a romadiw. 我無�
 awaay(awa)    ①  沒有了，沒有的。Awaay ko fali.沒有風了。Awaay ko pising ningra anini. 他今天沒面子了。②  沒有的(人)。Awaay ko ramod. 未婚者。
 awakay    莖，莖部。Makaen ko awakay no lapot. 地瓜葉的莖部可以吃。同 'asidaw、'awakay。
 awasaca    怎麼也沒有，還是沒有。Awasaca a makilim ako koya masidayay a kolong. 我怎麼找也找不到那頭丟失的牛。
-'aw'aw    犬吠聲，狗叫聲。'Aw'aw ko waco i laﬁi. 半夜狗在叫。
+'aw'aw    犬吠聲，狗叫聲。'Aw'aw ko waco i lafii. 半夜狗在叫。
 Awawan    台東縣成功鎮石雨傘部落。Masakero ko Awawan anini. 今天石雨傘部落在跳舞。同 Folalacay。
 'aw'awsa('aw'aw)    汪汪叫著。'Aw'awsa ko waco to caay ko kananaman a tamdaw. 狗對著陌生人汪汪叫。
 'awakay    蔓梗，莖部。同 'asidaw，awakay。
 'awakayen('awakay)    把蔓梗採摘。同 'asidawen。
 'awas    跨步。cecay ko 'awas. 一個跨步。(量距離)同 hawang、lawat。參見mi'awas。
 'awasen('awas)    把…跨越、跨過去。'Awasen ko kali.把水溝跨過去。同 hawangen。
-awid    ①  (超過承受力)過度，過量的感嘆語。Caka ﬁlo awid. 沒辦法。②  阿美族男性年齡組織中同一級別的成員。指同輩、同窗、好友中的排行。Cima ko awid namo? 你們是那一級的？同selal、kapot(同年齡階層)。
+awid    ①  (超過承受力)過度，過量的感嘆語。Caka filo awid. 沒辦法。②  阿美族男性年齡組織中同一級別的成員。指同輩、同窗、好友中的排行。Cima ko awid namo? 你們是那一級的？同selal、kapot(同年齡階層)。
 'awit    用手提攜、拿到、接到。同 atiw。
 awtal    庭院，屋外，外面。Maro' i awtal ko tamdaw. 人們坐在屋外。同 paputal。
 'awiten('awit)    把…提攜。'Awiten ko pitaw! 把鋤頭拿起來！
