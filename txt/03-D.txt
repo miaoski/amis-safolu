@@ -1,4 +1,3 @@
-
 d    阿美語輔音之一，系舌尖中清擦音，舌值為[d]。該輔音在其他方言區有舌尖中濁塞音[d]、齒間濁擦音[∂](如英語 thank 的 th)、舌中濁擦音[lэ]，進一步清為[d]。
 da    (招呼對方過來)來吧，來呀。Da ini kako. 來吧，我在這裡。
 da    (副詞)。真正，非常，太。Da nga'ayay ko kakaenen namo. 你們吃的食物太好了。Da mafana'ay kiso a misakaniw idang ! 朋友，你真會開玩笑呀！同 tada。
@@ -7,7 +6,7 @@ da'aten(da'at)    用煙、水等物嗆人。Da'aten no 'acefel no tamako kako. 
 da'ci    箭竹筍。Adihay ko da'ci i palapalaan niyam. 我們園裡很多箭筍。同daheci、dadoheci。
 dacidac    白癬。Paising kami to dacidac. 我們治白癬。同 podas、podok。
 dacong    沈落，沈浸，浸染。Aka pidacong to moraraway a demak. 不要浸染惡事。同 defong。參見 midacong。
-dacongen(dacong)    把某物浸泡，浸染。Dacongen ko kiping i ﬁntang. 把上衣泡在臉盆裡。
+dacongen(dacong)    把某物浸泡，浸染。Dacongen ko kiping i fintang. 把上衣泡在臉盆裡。
 dada    (邀請客人就座、入席或先行敬辭)。請，請吧。Dada kamaro' itiraw ! 請坐在那個座位上！ Dada sanga'ayen ko rakat iso ! 好吧，祝你一路平安！同 'ada。
 dada'aten(da'at)    [疊 2]要用煙火嗆住的，要用煙火嗆噎的人或動物。O kakonah ko dada'aten niyam. 我們要嗆死螞蟻。
 dada'ocen(da'oc)    [疊 2]要堅持到終點的，要堅持到底的。Dada'ocen a miharateng ko makapahay a tayal ningra. 要堅持紀念他所作的好事。
@@ -49,7 +48,7 @@ dadi'ec(di'ec)    [疊 2]雙方互相擠，緊靠著、茂密的。Dadi'ec a mar
 dadi'edi'ec(di'ec)    [疊 2]許多人或物體互相擁擠。Dadi'edi'ec ko taling no dafong. 物品堆積的很擠。
 dadi'edi'ecsa(di'ec)    [疊 2]許多人或東西互相擁擠著。Dadi'edi'ecsa ko kodemolay a lotok. 茂密的樹林擁擠不堪。參見madadi'ec、madadi'edi'ec。
 dadi'i(di'i)    [疊 2]同衾而眠，共用一條被褥傍著睡，陪伴著睡。Madadi'i kami a mafuti'. 我們同床而睡。
-dadi'ien(di'i)    [疊 2]①  要傍著睡，要陪伴著睡的人。 ②  孵化的(蛋)。Dadi'ien a ﬁta'ol. 即將孵化的蛋。 dadi'ien ko wawa a mafuti'. 小孩要陪伴著睡。 參見 madadi'i。
+dadi'ien(di'i)    [疊 2]①  要傍著睡，要陪伴著睡的人。 ②  孵化的(蛋)。Dadi'ien a fita'ol. 即將孵化的蛋。 dadi'ien ko wawa a mafuti'. 小孩要陪伴著睡。 參見 madadi'i。
 dadi'tocan(di'toc)    [疊 2]①  粉刺。②  要拔出、抽出來的(穗兒)。O samado ko dadi'tocan. 把水稻中的雜草拔掉。
 dadico    [疊 2]剛好，恰好，恰到好處。Dadico ko tamdaw niyam. 我們的人數剛剛好。同 tatodong。
 dadicohen(dicoh)    [疊 2]要抽取的，要摘取的、要解脫的東西。Dadicohen a waya. 要解開的鐵索。O dadicohen koya hecek. 要拔掉的柱子。參見 dadocohen。
@@ -148,10 +147,10 @@ damohemoh    柔軟光滑。Damohemoh a nenengen ko fokes iso. 妳的頭髮看�
 damohemohay(damohemoh)    柔軟光滑的。Damohemohay a fakeloh.柔軟光滑的石頭。同 damihemihay。
 da'motay    草名，俗稱“胡子草”。同 da'etomay。
 damsay    善良，溫和，謙恭。Damsay ko faloco' ningra. 他內心溫順、謙恭。同kidamsay。
-damsayay(damsay)    ①  善良的，不發脾氣的，謙恭的 ②  善良、溫和的人。Damsayay ko faloco' a ﬁnacadan kita. 我們是善良而謙虛的民族。
+damsayay(damsay)    ①  善良的，不發脾氣的，謙恭的 ②  善良、溫和的人。Damsayay ko faloco' a finacadan kita. 我們是善良而謙虛的民族。
 damso'    滿足他人所需。Damso' kona tamdaw i takowan. 他對我很滿意。同marenec。參見 midamso'。
 damso'en(damso' )    決心滿足他人的需要。Damso'en kako to pipadang nangra. 我對他們的幫忙感到滿意。
-dangah    鍋的總稱。Pataynien koya mamangay a dangah. 把那小鍋帶來。同 naﬁ。
+dangah    鍋的總稱。Pataynien koya mamangay a dangah. 把那小鍋帶來。同 nafi。
 dangoy    游泳，浮水。Mafokilay kako a midangoy. 我不會游泳。參見 midangoy。
 dangoyan(dangoy)    游著去，游泳場。Dangoyan niyam a mipa'orip koya ma'aloray a wawa.我們游著去救那溺水的孩子。參見dadangoyan。
 dangoyen(dangoy)    要游過去。Aka dangoyen itini ! 禁止在此游泳！ Dangoyenho niyam kona riyal. 我們在這海裡再游一下吧。
@@ -197,7 +196,7 @@ dawmi'    柔軟。Dawmi' ko kamaro'an. 軟椅墊。同 dawmih、dawming、'awmi
 dawmi'ay(dawmi' )    柔軟的，細軟的。Dawmi'ay a kamay.柔軟的手。
 dawmih    柔軟，疲軟。Dawmih ko fanoh nona waco. 這隻狗的毛很柔軟。同dawming、dawmi'。
 dawmihay(dawmih)    柔軟的，皮軟的。Dawmihay a riko'.軟棉的衣服。
-dawming    柔軟。Dawming ko kero noya kaying.那小姐的舞姿真軟。柔軟的東西。Dawming ko sasiﬁn. 軟毛巾。同dawmih、dawmi'。
+dawming    柔軟。Dawming ko kero noya kaying.那小姐的舞姿真軟。柔軟的東西。Dawming ko sasifin. 軟毛巾。同dawmih、dawmi'。
 daya    台灣產接骨木。
 dayaday    (狗等)拉長著舌頭。參見madayaday、datadat.
 dayadaysa(dayaday)    舌頭拉長著下來。Dayadaysa tahafalohang ko sema nora saraw. 那妖怪伸出的舌頭拉到胸前。
@@ -212,13 +211,13 @@ demdem    忍受，強忍住。Midemdem kako to keter ningra. 我忍著他的氣
 demdemen(demdem)    把痛苦忍受，忍住感覺。Demdemen niyam ko pades. 我們忍受痛苦。同semsemen、'em'emen。
 demes    滿嘴油膩膩，沾滿(某種液體)。Demes saan ko tireng ningra a matayal. 他工作身上沾滿油。同demos。參見 mademes。
 defak    菜圃，畦壟。I defak a paloma to kenaw. 在畦壟間種蔥 .。
-defit    慪氣，賭氣，生悶氣。Madeﬁt cingra to kaka. 他生哥哥的氣。參見 madeﬁt。
+defit    慪氣，賭氣，生悶氣。Madefit cingra to kaka. 他生哥哥的氣。參見 madefit。
 defong    涉水，浸沒水中。Defongen niyam koni a 'alo a mifuting. 我們一定要涉水過這條河去撈魚。參見 midefong、mihidefong。
 di'ec    貼近，緊靠在一起。Madi'ec ko pateli to dafong. 擺的東西太擠了。參見midi'ec。
 di'ecen(di'ec)    把某物貼上去，緊靠在一起。Di'ecen ningra kako a maro'. 她緊靠我而坐。
 di'etocen(di'etoc)    要拔穗，要抽穗。Di'etocen iso ko 'mi. 你去拔麥穗吧。
 di'i    ①  把嬰兒摟抱懷中，依偎旁邊而睡。②  (雞)抱窩，孵蛋。Midi'i kako to wawa a mafuti'. 我抱著孩子睡。參見midi'i。
-di'ien(di'i)    ①  要緊靠在旁邊睡，要緊挨著睡 ② (雞)抱窩。Di'ien ako a mafuti'. 我要緊挨旁邊睡吧。Di'ien no tawinaan a koko' ko ﬁta'ol. 母雞要孵蛋。
+di'ien(di'i)    ①  要緊靠在旁邊睡，要緊挨著睡 ② (雞)抱窩。Di'ien ako a mafuti'. 我要緊挨旁邊睡吧。Di'ien no tawinaan a koko' ko fita'ol. 母雞要孵蛋。
 di'o    嬰兒咿呀學語。Mafana' a midio' kona wawa. 這小孩會學語。參見 padi'o.
 di'etoc    拔穗，抽穗。Midi'etoc to panay. 拔穗。參見 midi'etoc、do'toc。
 dicoh    摘取、脫落、解開。Dicoh ko kalileng.車輪脫落了。參見 midicoh。
@@ -262,7 +261,7 @@ dingit    阻礙，阻撓，阻塞。同 conged、denget。參見 midingit。
 dingiten(dingit)    要阻礙，要阻塞。同 congeden、dengeten。
 dingki    燈，電燈。[日本語借詞]Palikaten ko dingki. 開電燈。同 tingki。
 dingo    映照，照鏡子。Midingo to pising. 照鏡子。參見 midingo、dadingo。
-dingoen(dingo)    把某物映照，要照鏡子。Dingoen no ising ko ﬁtoka ako. 醫生給我照胃鏡。
+dingoen(dingo)    把某物映照，要照鏡子。Dingoen no ising ko fitoka ako. 醫生給我照胃鏡。
 dingwa    電話。[日本語借詞]Iraay ko dingwa iso to nani Dipongay. 你有來自日本的電話。同 tingwa。
 dipang    獵人在陷阱前設置的障礙物。O rengos ko hadipang ita. 我們用草在陷阱前設置障礙物。參見 midipang。
 dipangan(dipang)    獵人在陷阱前設置障礙物的地方。Dipangan niyam to tarod ko talakal.我們用雜草在陷阱前做障礙物。同pidipangan。
@@ -300,7 +299,7 @@ demaken(demak)    做事，進行某一活動或行為。Demaken nangra ko tadam
 demec    剎住，止住，制止住。Midemec to paliding. 剎車。參見 midemec。
 demecen(demec)    把(車)剎住，停住。Demecen ko tosiya iso ! 把你的車剎住(剎住你的車)！
 demedemetan(demet)    [疊 2]叢林，灌木林裡、草叢。Tahasifed ko wa'a no siri i demedemetan. 羊角被灌木叢絆住了。Iraay ko 'a'adopen i demedmetan. 叢林裡有野獸。Madmet ko omah. 田裡蔓草叢生。
-demi'    廚房。Malaﬁ i demi'. 在廚房吃晚餐。同 kofaw、seﬁ'。
+demi'    廚房。Malafi i demi'. 在廚房吃晚餐。同 kofaw、sefi'。
 demos    沾滿(油泥、血跡等)。同 demes。參見 mademos。
 denga    傳染，感染。Midenga ko hatiniay a adada. 這種病會傳染。參見 madenga。
 denget    阻礙，阻撓，阻止。Midenget ko tao to sakatayniaw ako. 別人阻止我來這裡。同 conged、dingit、milalang. 參見midenget。
@@ -340,7 +339,7 @@ dokdok    溜走，悄悄地做事。Dokdok saan cangra a minokay. 他們要偷�
 dokdoken(dokdok)    要偷偷地。Dokdoken niyam cingra a miraod. 我們悄悄地走近他。
 dokdoksa(dokdok)    悄悄地，偷偷地，秘密地(做)。Dokdoksa a lomowad. 偷偷起床。Dokdoksa cingra cilosa' to piharatengan ningra to wina. 她因為思念自己的母親而偷偷地流淚。
 dongec    藤心。Pacamolen to dongec ko 'okak no diyong. 排骨加藤心。Dongi 阿美族傳說中的生命女神、女性名字。
-dongodongossa(dongos)    [疊 2]逐個地查看，巡視。Tado dongodongossa koya saﬁtay. 那些士兵突然一個個跑去查看。
+dongodongossa(dongos)    [疊 2]逐個地查看，巡視。Tado dongodongossa koya safitay. 那些士兵突然一個個跑去查看。
 dongos    查巡，巡視。Midongos to lotok. 巡山。參見 midongos。
 dongosen(dongos)    把某目標查看，巡視。Dongosen niyam ko mitakaway to kilang a tamdaw. 我們去查巡那偷砍木頭的人。
 dopiya    犁鏡。Ma'eloc to ko dopiya. 犁鏡被磨平了。

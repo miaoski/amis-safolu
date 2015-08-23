@@ -1,4 +1,3 @@
-
 m    阿美語輔音之一。屬雙唇鼻音，音值為[m]。m 作詞尾時有長音化現像。
 m^ecel    直，正直。同 mo^ecel。
 m^ecelay(m^ecel)    ①  直了，正直的。②  直的，正直的。同 mo^ecelay。
@@ -12,7 +11,7 @@ ma'a'aray('a'ar)    ①  逆風而行了。②  指逆風而行的(人)。
 ma'a'owang('a'owang)    海膽被捕捉。
 ma'a'owangay('a'owang)    ①  海膽被捕捉了。②  指捕捉的海膽。
 ma'a'owi(a'owi)    翹起來，傾斜。Ano kareteng ko aikor no paliding, ma'a'owi ko paliding. 牛車後面太重，翹起來了。
-ma'a^efid(^efid)    [疊 2]一根煙捲輪流吸。Ma'a^eﬁd kami to tamako. 我們互相輪流吸香煙。
+ma'a^efid(^efid)    [疊 2]一根煙捲輪流吸。Ma'a^efid kami to tamako. 我們互相輪流吸香煙。
 ma'a^efiday(^efid)    [疊 2]①  一根煙捲輪流吸著。②  指輪流吸一根煙捲的(人)。
 ma'aca('aca)    被收買，被購買。Ma'aca ko nananomen iso a ^epah. 你要喝的酒會買來的。
 ma'acaay('aca)    ①  被收買了，被購買了。②  指被買來的(物品)。Ma'acaay ko cokap niwina. 母親的鞋買來了。
@@ -41,7 +40,7 @@ ma'afangay('afang)    ①  被攙扶著，被扶持著。②  指被攙扶的(�
 ma'afas('afas)    被搶劫，被掠奪。Ma'afas no tao ko 'alangad ni Taroh. Taroh 的飯糰被別人搶走。
 ma'afasay('afas)    ①  被搶劫了，被掠奪了。②  指被搶奪的(東西)。Ma'afasay ningra ko kowang ako. 我的槍被他搶了。
 ma'afilid('afilid)    被擁抱，被懷抱。
-ma'afiliday('afilid)    ①  被擁抱著，被懷抱著。②  指擁抱或懷抱的(對像)。Ma'aﬁliday ni wina ko wawa. 孩子被他母親抱著。
+ma'afiliday('afilid)    ①  被擁抱著，被懷抱著。②  指擁抱或懷抱的(對像)。Ma'afiliday ni wina ko wawa. 孩子被他母親抱著。
 ma'afo('afo)    被燒成炭灰，燃燼。
 ma'afoay('afo)    ①  被燒成灰了，燃燼了。②  指被燒成灰的(東西)。
 ma'afofo('afofo)    被抱在懷裡，懷抱。
@@ -117,7 +116,7 @@ ma'aresak('aresak)    乾無黏性。Ma' aresak ko misaholo' an ningra. 她煮�
 ma'aresakay('aresak)    ①  水分不足了，半生不熟了。②  指水分不足的、半生不熟的(東西)。Ma'aresakay ko amoto. 水泥水分不夠了。
 ma'aretic('aretic)    尖高音。Tada ma' aretic ko radiw ningra. 她唱歌的音調。
 ma'ari('ari)    被打碎，破碎，破裂。Ma'ari to ko koppo. 杯子破了。
-ma'ariay('ari)    ①  被打碎了，破碎了，破裂了。②  指破碎、破裂的(東西)。Ma'ariay ko dodoh to maﬁkoday no waco. 竹筒被狗絆倒而破裂了。
+ma'ariay('ari)    ①  被打碎了，破碎了，破裂了。②  指破碎、破裂的(東西)。Ma'ariay ko dodoh to mafikoday no waco. 竹筒被狗絆倒而破裂了。
 ma 'arokakot( 'arokakot)    捲縮著身體。Ma'arokakot kora tamdaw to si^naw. 那個人因寒冷而捲縮著身體。
 ma'asic('asic)    不育，不孕。
 ma'asicay('asic)    ①  不育，不孕。②  指不育者，患不孕症的人。
@@ -337,7 +336,7 @@ ma^efaw(^efaw)    (工程)被承包，承攬。
 ma^efaway(^efaw)    ①  (工程)被承包了，承攬了。②  指被承包或承攬的(工程等)。
 ma^efer(^efer)    飛行，飛翔。Ma^efer ko 'ayam. 鳥飛。
 ma^eferay(^efer)    ①  在飛行著，飛翔著。②  指飛行或飛翔的(對像)。Ma^eferay a 'ayam. 在飛的鳥。Ma^eferay i kilakilangan ko lawal. 飛鼠在森林裡飛行著。
-ma^efid(^efid)    嗜煙，煙癮大，煙癮發作。Ma^eﬁd cingra. 他嗜煙。
+ma^efid(^efid)    嗜煙，煙癮大，煙癮發作。Ma^efid cingra. 他嗜煙。
 ma^efiday(^efid)    ①  嗜煙了，煙癮發作了。②  指嗜煙者，煙癮大的人。
 ma^efo(^efo)    犯罪，有過失。
 ma^efoay(^efo)    ①  犯罪了，有過失了。②  指犯罪者。
@@ -429,17 +428,17 @@ macacacawi(cawi)    互相替換，交替。Macacacawi a midimata'. 換肩挑(�
 macacada(cada)    [疊 2]彼此互相承接，雙方接來接去。Macacada to mali. 互相傳球。
 macacadaay(cada)    [疊 2]①  彼此互相承接，雙方在傳接。②  指彼此互相承接、傳遞的(人)。Macacadaay cangra to mali.他們正在傳球。
 macacadacada(cada)    [疊 2]大家彼此互相承接、傳遞。Macacadacada to takid. 輪流地傳遞酒杯。
-macacawi(cawi)    互相應答、回應。Macacawi a mikimad ko i seﬁ'ay a malitengay. 在集會所的老人們互相應答。
+macacawi(cawi)    互相應答、回應。Macacawi a mikimad ko i sefi'ay a malitengay. 在集會所的老人們互相應答。
 macacadacadaay(cada)    [疊 2]①  大家彼此在互相承接、傳遞了。②  指彼此互相承接、傳遞的人群。Macacadacadaay a romadiw ko 'alomanay a tamdaw. 很多人在彼此應和地唱著歌。
-macacafi'(cafi')    [疊 2]彼此互相超越對方，競賽，比賽。Macacaﬁ' cangra tatosa a comikay. 他們兩人要比賽跑步。
-macacafi'ay(cafi')    [疊 2]①  彼此在互相超越對方，在競賽、比賽。②  指競賽者，比賽者。Macacaﬁ'ay ko kasaniyaroyaro' a mipa'iwas to tamina. 各個村子在進行划船比賽。
+macacafi'(cafi')    [疊 2]彼此互相超越對方，競賽，比賽。Macacafi' cangra tatosa a comikay. 他們兩人要比賽跑步。
+macacafi'ay(cafi')    [疊 2]①  彼此在互相超越對方，在競賽、比賽。②  指競賽者，比賽者。Macacafi'ay ko kasaniyaroyaro' a mipa'iwas to tamina. 各個村子在進行划船比賽。
 macacak(cacak)    煮熟，蒸熟。Macacak ko hemay han?糯米飯煮熟了嗎？
 macacakay(cacak)    ①  煮熟了，蒸熟了。②  指煮熟的食物。Macacakay ko titi. 肉煮熟了。
 macacako(cako)    [疊 2]彼此回答、呼應。Macacako a romadiw. 對歌。
 macacakoay(cako)    [疊 2]①  彼此在回答、呼應。②  指彼此互相回答、呼應的(對像)。
 macacalicaliw(caliw)    [疊 2]大家彼此互借，交替輪流。Macacalicaliw ko Tafalong ato Fata'an to waco a mi'adop. 狩獵時，太巴塱和馬太鞍兩個部落互相借用獵犬。
 macacalicaliway(caliw)    [疊 2]大家彼此在互借，交替輪流。Macacalicaliway to kolong a mikangkang. 彼此互借水牛犁地。Macacalicaliway koya kaying a mitifek. 姑娘們彼此輪流舂米。
-macacaliw(caliw)    [疊 2]彼此互借，互換，交換。Macacaliw kami ato ﬁyaw to kolong a mikangkang. 我們和鄰居互借水牛耕地。Macacaliw kita to tayal. 我們彼此交換工作。
+macacaliw(caliw)    [疊 2]彼此互借，互換，交換。Macacaliw kami ato fiyaw to kolong a mikangkang. 我們和鄰居互借水牛耕地。Macacaliw kita to tayal. 我們彼此交換工作。
 macacaliway(caliw)    [疊 2]①  彼此互借、互換了。②  指互借、互換的(對像)。
 macacamol(camol)    [疊 2]彼此交錯、混雜、摻雜。Macacamol ko wawa a maro' i seraseraan. 孩子彼此混雜地坐在地上。
 macacamolay(camol)    [疊 2]①  彼此交錯、混雜、摻雜了。②  指彼此交錯、混雜的(對像)。Macacamolay ko nga'ayay ato tatiihay, awaayto ko pinang. 好壞摻雜，不易辨認。
@@ -491,8 +490,8 @@ macaecakay(caecak)    。同①  在燒烤。②  指燒烤的(對像) macaeca'a
 macaengaw(caengaw)    抬起頭，昂首(望)。
 macaengaway(caengaw)    ①  抬起頭來，昂首(望)著。②  指昂首者。
 macafer(cafer)    中途停留，逗留。macaferay(cafer) ①  中途停留下來，逗留著。②  指逗留訪問的(對像)。
-macafi'(cafi')    (比賽中)被超過。Macaﬁ' to ningra kako. 我被他趕過去了。
-macafi'ay(cafi')    ①  (比賽中)被超越了。②  指被超越、趕過去的(對像)。Macaﬁ'ay ako cingra a midangoy. 游泳時他被我超越過去了。
+macafi'(cafi')    (比賽中)被超過。Macafi' to ningra kako. 我被他趕過去了。
+macafi'ay(cafi')    ①  (比賽中)被超越了。②  指被超越、趕過去的(對像)。Macafi'ay ako cingra a midangoy. 游泳時他被我超越過去了。
 macahak(cahak)    擴大，拓寬。Macahak ko lalan no niyaro' niyam. 我們村的道路要拓寬。同 macahal。
 macahakay(cahak)    ①  擴大了，拓寬了。②  指擴大、拓寬的。Macahakay ko 'anip. 植秧擴大了。Macahakay a lalan. 拓寬的路。同 macahalay。
 macahal(cahal)    擴大，拓寬。同 macahak。
@@ -622,7 +621,7 @@ macelalay(celal)    ①  爆發了，爆裂了，崩裂了。②  指爆發、�
 macelcel(celcel)    (通過縫隙)鑽進去，嵌進去，插進去。
 macelcelay(celcel)    ①  (通過縫隙)鑽進去了、嵌進去了、插進去了。②  指被鑽透、嵌進、插進的(對像)。
 maceled(celed)    被捆成捆兒，捆起來。Maceled ko 'asisiw. 稻草捆起來。Maceled ko eli'.茅草要被捆起來。
-maceleday(celed)    ①  被捆成捆兒了，捆起來了。②  指捆起來的(東西)。Maceleday ako ko panay. 稻子被我捆好了。Maceleday a ﬁtonay. 捆成捆的刺竹。
+maceleday(celed)    ①  被捆成捆兒了，捆起來了。②  指捆起來的(東西)。Maceleday ako ko panay. 稻子被我捆好了。Maceleday a fitonay. 捆成捆的刺竹。
 macelem(celem)    潛水，下落，沈沒。Macelem ko cidal i ka'etip a tokos. 太陽沈沒西山。macelem ko 'iso i liyal. 鯨魚潛入海裡。
 macelemay(celem)    潛水了，下落了，沈沒了。Macelemay ko fulad i nananoman , sato^mansa to ko dadaya. 月亮沈入水面，夜色越來越濃了。
 maceli'(celi')    大聲叫喊，吆喝。
@@ -720,7 +719,7 @@ maciriday(cirid)    ①  產生分歧、岔道了，偏離正道了。。同② 
 maciriw(ciriw)    (車)打斜，偏斜，車子打滑。Maciriw to ko paliding iso . 你的車打斜了。Maciririw ko tosya i ciso'daay a lalan. 車子在雪地因路面滑而打轉。
 maciriway(ciriw)    ①  (車)處於失控打斜、歪斜的狀態。②  指失控打斜的(車輛等)。Maciriway kora tosiya. 那車輛汽車失控打斜了。
 maciyan(ciyan)    被炒、煎熟。Maciyan ko dateng han?菜炒熟了嗎？
-maciyanay(ciyan)    ①  被炒熟、煎熟。②  指炒熟、煎熟的(菜餚)。Maciyanay ko teﬁ'. 扁研炒熟了。
+maciyanay(ciyan)    ①  被炒熟、煎熟。②  指炒熟、煎熟的(菜餚)。Maciyanay ko tefi'. 扁研炒熟了。
 maciyas(ciyas)    洪水洩瀉狀。
 maciyasay(ciyas)    水洩瀉下來。
 macekil(cekil)    感到激動，被觸動。Macekil no sowal ni Kasang cekadsa ko foloco' ako.我被 Kasang 的話觸動而驚醒。
@@ -738,13 +737,13 @@ maco'iyal(co'iyal)    蹬腿死了，蹬腿倒斃。Maco'iyal a mapatay kora mar
 maco'iyalay(co'iyal)    ①  蹬腿死了，伸腿死了。②  指蹬腿死亡者。
 maco^ekoy(co^ekoy)    垂頭喪氣，低著頭很頹唐。Maco^ekoy kami a maro' itira. 我們垂頭喪氣地坐在那裡。
 maco^ekoyay(co^ekoy)    ①  垂頭喪氣了，低著頭很頹唐的樣子。②  指垂頭喪氣者。Maco^ekoyay ko ma^epinay a tamdaw. 被指控的人泄氣了。
-micikcik(cikcik)    切塊，切片，切碎。Micikcik ci kaka to sakalaﬁ a futing. 哥哥在切晚餐要煮的魚。
+micikcik(cikcik)    切塊，切片，切碎。Micikcik ci kaka to sakalafi a futing. 哥哥在切晚餐要煮的魚。
 macelik(celik)    爆裂，破裂，爆開。Macelik ko taiya no tosiya ako. 我的車子爆胎。同mafetas。
 micolal(colal)    要突然出現。Micolal ko kakahong a ma'efer. 飛魚突然飛出來。
 micoled(coled)    放入口袋，塞進袋裏。Micoled to sata'ta i 'alofo no kafer. 把鑰鎖塞進褲袋。
 micolipes(colipes)    口含著水或酒噴灑出去。Micolipes ko faki to 'epah mipaini to to'as. 舅舅口含著酒噴灑來祭祖。
 micolok(colok)    一個接一個搬運。Micolok ko kapah amiolong to datong. 年青人一個接一個的搬運大樹幹。
-micona(cona)    阻撓，妨礙。Micona to rakat no ﬁnawlan kora tamdaw. 那個人阻撓村民行進的路。
+micona(cona)    阻撓，妨礙。Micona to rakat no finawlan kora tamdaw. 那個人阻撓村民行進的路。
 micoracor(coracor)    催討，催促。同 micoscos. Micoracor to maenmangay tayra i pitilidan. 催促小孩去上學。
 micoray(coray)    推土，推平。Micoray kako tora 'aporaway a sera. 我去推平那一堆泥土。
 micoriya'(coriya')    浪費。Micoriya' to payso kora wawa.那小孩浪費金錢。
@@ -767,7 +766,7 @@ macoenek(coenek)    插入，嵌入。
 macoenekay(coenek)    ①  插入了，嵌入了。②  指被插入、嵌入的(東西)。
 macofel(cofel)    (刀)入鞘，插入刀鞘。
 macofelay(cofel)    ①  (刀)入鞘了，插入刀鞘了。②  指被插入刀鞘的(刀劍等)。
-macokacok(cokacok)    登山，上山坡。Tanotangicsa ci Taﬁti a macokacok. 大衛一直哭著登上山。
+macokacok(cokacok)    登山，上山坡。Tanotangicsa ci Tafiti a macokacok. 大衛一直哭著登上山。
 macokacokay(cokacok)    ①  登山了，上山坡了。②  指登山者，登山的人。Macokacokay kako to sa'akawangay a tokos. 我登上了最高峰。
 macokana(cokana)    噘屁股。同 macokikang。
 macokanaay(cokana)    ①  蹶起屁股。②  指蹶屁股者。同macokikangay。Macokanaay ko wawa.孩子蹶著屁股。
@@ -858,7 +857,7 @@ madawa(dawa)    被看守、看護、監護。Madawa no Tafalong kamo. 你們會
 madawaay(dawa)    ①  被看守起來、看護起來。②  指被看守、看護的(對像)。Madawdaw(dawdaw) 部落名稱，今台灣台東縣成功鎮三民里，舊稱麻荖漏。
 madayaday(dayaday)    舌頭下垂申展。同 madatadat。
 madayadayay(dayaday)    ①  舌頭下垂申展著。②  指舌頭下垂的(對像)。同 madatadatay。
-madefit(defit)    發怒，生氣，慪氣。Madeﬁt cangra a minokay. 他們生氣地回去了。
+madefit(defit)    發怒，生氣，慪氣。Madefit cangra a minokay. 他們生氣地回去了。
 madefitay(defit)    ①  發怒了，生氣了，慪氣了。②  指發怒、生氣、慪氣的(人)。
 madefong(defong)    水過河，浸水。
 madefongay(defong)    ①  水過河了，浸水了。②  指 水者。
@@ -928,7 +927,7 @@ maelam(elam)    驕傲，高傲，志高氣昂。
 maelamay(elam)    ①  驕傲，高傲，志高氣昂的樣子。② 驕傲的，高傲的，志高氣昂的。
 maeneng(eneng)    被看見。Ira maeneng ningra i kafkang no ^to ko mitilidan a paya.他看見桌子上有寫了字的牌子。
 maenengay(eneng)    。①  被看見了。②  指被看見的(對像) Maenengay niyam kora 'ayam. 我們看見那隻鳥了。
-maepin(epin)    被告發、控告。Maepin no ﬁyaw ako kako. 我會被鄰居告發。
+maepin(epin)    被告發、控告。Maepin no fiyaw ako kako. 我會被鄰居告發。
 maepinay(epin)    ①  被告發了、控告了。②  指被告發、控告的(對像)。Maepinay koya mangilosay a tamdaw. 那壞蛋被控告了。O cima ko maepinay iso saw?你在控告誰呢？
 mafa'etic(fa'etic)    ①  被甩出去了，甩遠了。②  指被甩出去的(東西)。Mafa'eticay ko 'aliwal ako. 我的釣魚竿甩出去了。
 mafa'etic(fa'etic)    被甩出去，甩遠。
@@ -976,7 +975,7 @@ mafakciway(fakciw)    ①  被丈量了、測量了。②  指被丈量的(對�
 mafalah(falah)    被扔掉，丟棄，拋棄。Ana, mafalah no fafahi kako ! 天啊，我要被太太所遺棄呀！
 mafalahay(falah)    ①  被扔掉了，丟棄了，拋棄了。②  指被扔掉、拋棄的(東西)。Mafalahay ko lakaw itira. 垃圾扔在那裡了。
 mafali(fali)    刮風，吹風。Mafali anocila. 明天會刮風。
-mafaliay(fali)    ①  刮風了。②  指刮風的天氣。Mafaliay ilaﬁi , sakifetolsa ko alafoh i sasingaran. 夜裡刮風了，窗口上塵土厚厚地。Mafaliay a romi'ad. 刮風的天氣。
+mafaliay(fali)    ①  刮風了。②  指刮風的天氣。Mafaliay ilafii , sakifetolsa ko alafoh i sasingaran. 夜裡刮風了，窗口上塵土厚厚地。Mafaliay a romi'ad. 刮風的天氣。
 mafalic(falic)    被換，改變，更換。Mafalic to ko lomaloma' a mamin. 家家戶戶都變樣。Mafalic ko romi'ad. 天氣要變。
 mafalicay(falic)    ①  被換了，改變了，更換了。②  指被更換的(對像)。Mafalicay ko faloco'.變心。Mafalicay ko tayal ako. 我的工作調換了。
 mafaliyos(faliyos)    刮颱風。Mafaliyos anini. 今天颱風。
@@ -1033,8 +1032,8 @@ mafedok(fedok)    空虛，空心，糠心兒。同 mafedoh。
 mafedokay(fedok)    ①  空虛了，空心了，糠心兒了。②  指空心的、糠心的(東西)。Mafedokay ko saytaw. 蘿蔔空心了。
 mafekad(fekad)    被驚動、驚醒。Ano mafekad ko fafoy, samaanen niyam saw? 野豬要是受到驚動，我們怎麼辦呢？
 mafekaday(fekad)    ①  被驚動了，驚醒了。②  指被驚動的(對像)。Mafekaday no mi'adopay ko kalalayan a malonem. 公鹿被獵人驚動了。
-mafeker(feker)    抽筋。Mafeker ko wa'ay. 腳抽筋。同maﬁcekot。
-mafekeray(feker)    。同①  抽筋了。②  指抽筋的(對像) maﬁcekotay。
+mafeker(feker)    抽筋。Mafeker ko wa'ay. 腳抽筋。同maficekot。
+mafekeray(feker)    。同①  抽筋了。②  指抽筋的(對像) maficekotay。
 mafekot(fekot)    彎曲，彎下來，收縮。Mafekot ko tireng niwama a mitolon. 爸爸彎下身體祈禱。
 mafekotay(fekot)    ①  彎曲著，彎下來了，收縮起來。② 指彎曲的、收縮的(對像)。Mafekotay ko sakecoh nora kolong. 那隻牛的蹄腳向上彎曲著。
 mafenges(fenges)    被狠揍、狠打。
@@ -1043,12 +1042,12 @@ maferet(feret)    被甩出去，被刮走。Ano mafaliyos ,maferet no fali ko k
 maferetay(feret)    ①  被甩出去了，刮走了。②  指被風甩出去、刮走的(東西)。
 maferfer(ferfer)    被分解，破碎。Maferfer ko so^eda.冰雪化解。Maferfer no fali ko fadahong. 屋頂被風弄破了。
 maferferay(ferfer)    ①  被分解了，破碎了。②  指被分解、破碎的(東西)。Maferferay ko so^eda i sera. 地上冰雪正在化解了。
-mafetas(fetas)    爆裂，爆炸。Mafetas ko ciyofo. 輪胎爆裂。Mafetas ko koﬁng. 熱水瓶爆裂了。
+mafetas(fetas)    爆裂，爆炸。Mafetas ko ciyofo. 輪胎爆裂。Mafetas ko kofing. 熱水瓶爆裂了。
 mafetasay(fetas)    ①  爆裂了，爆炸了。②  指爆裂、爆炸的(東西)。
 mafetir(fetir)    (樂器)被彈拔，反彈。
 mafetiray(fetir)    ①  (樂器)被彈撥起來，反彈起來。Mamaanay ko kamay nomiso ,mafetiray no aol. 你的手傷那裡來的，被竹子彈傷的。②  指被彈撥的(樂器等)。
-maficekot(ficekot)    抽筋。Maﬁcekot ko wa'ay nora comikayay. 那位賽跑選手的腳要抽筋。同 mafekot。
-maficekotay(ficekot)    抽筋了，正抽筋了。Maﬁcekotay ko wa'ay ako. 我的腳抽筋了。
+maficekot(ficekot)    抽筋。Maficekot ko wa'ay nora comikayay. 那位賽跑選手的腳要抽筋。同 mafekot。
+maficekotay(ficekot)    抽筋了，正抽筋了。Maficekotay ko wa'ay ako. 我的腳抽筋了。
 maficfic(ficfic)    被拉扯、扯動。
 maficficay(ficfic)    ①  被拉扯著，拉動著。②  指被拉扯的(對像)。
 mafidfid(fidfid)    井然有序，排列或堆積有規律。
@@ -1061,32 +1060,32 @@ mafikod(fikod)    被絆住了，絆倒。
 mafikoday(fikod)    ①  被絆住了，絆倒了。②  指被絆倒的(對像)。
 mafila'(fila')    摘取蔞葉。
 mafila'ay(fila')    ①  摘取蔞葉了。②  指被摘取下來的(蔞葉)。
-mafilo(filo)    勝任，能做到。Maﬁlo niyam ko salifet. 我們能通過考試。Maﬁlo koni a demak haw? 這件事能勝任吧？
-mafiloay(filo)    ①  能勝任了，能做到了。②  指能勝任、超過的(對像)。Maﬁloay ako ko si^enaw. 我戰勝了寒冷。Maﬁloay niyam cangra a milood i Cepo'. 大港口事件打仗時我們打敗了他們。
-mafinor(finor)    被攪混，弄混。同 maﬁyor。Maﬁnor koni a nanom. 這個水被攪混。
-mafinoray(finor)    ①  被攪混了，渾濁。②  指被攪混的(水等)。Maﬁnoray ko nemnem. 泉水渾濁。
-mafirang(firang)    生氣，發怒，發脾氣。Maﬁrang ciwama i takowanan. 父親對我發脾氣。同 maketer、mapoi'、ma^inget。
-mafirangay(firang)    ①  生氣了，發怒了，發脾氣了。。同②  指生氣、發怒的(對像) maketeray。Maﬁrangay ko fafahi. 老婆在發脾氣了。
+mafilo(filo)    勝任，能做到。Mafilo niyam ko salifet. 我們能通過考試。Mafilo koni a demak haw? 這件事能勝任吧？
+mafiloay(filo)    ①  能勝任了，能做到了。②  指能勝任、超過的(對像)。Mafiloay ako ko si^enaw. 我戰勝了寒冷。Mafiloay niyam cangra a milood i Cepo'. 大港口事件打仗時我們打敗了他們。
+mafinor(finor)    被攪混，弄混。同 mafiyor。Mafinor koni a nanom. 這個水被攪混。
+mafinoray(finor)    ①  被攪混了，渾濁。②  指被攪混的(水等)。Mafinoray ko nemnem. 泉水渾濁。
+mafirang(firang)    生氣，發怒，發脾氣。Mafirang ciwama i takowanan. 父親對我發脾氣。同 maketer、mapoi'、ma^inget。
+mafirangay(firang)    ①  生氣了，發怒了，發脾氣了。。同②  指生氣、發怒的(對像) maketeray。Mafirangay ko fafahi. 老婆在發脾氣了。
 mafitangal(fitangal)    瓜被摘取下來。
 mafitangal    砍頭。
 mafitangalay(fitangal)    ①  瓜被摘取下來了。②  指摘下來的瓜。
 mafitangalay    被砍頭、被砍頭的或指砍頭者。
 mafitay(fitay)    被篩，被篩選。同 masiwasiw。
-mafitayay(fitay)    ①  被篩了，被篩選了。②  指被篩的(東西)。Maﬁtayay a lamlo. 被篩好的小米。
-mafitlak(fitlak)    剖開，綻開。Maﬁtlak ko hana. 花蕾綻放。
-mafitlakay(fitlak)    ①  剖開了，綻開了。②  指剖開、綻開的(對像)。Maﬁtlakay ko ﬁta'ol. 蛋裂開了。
+mafitayay(fitay)    ①  被篩了，被篩選了。②  指被篩的(東西)。Mafitayay a lamlo. 被篩好的小米。
+mafitlak(fitlak)    剖開，綻開。Mafitlak ko hana. 花蕾綻放。
+mafitlakay(fitlak)    ①  剖開了，綻開了。②  指剖開、綻開的(對像)。Mafitlakay ko fita'ol. 蛋裂開了。
 mafitowak(fitowak)    裂開，破裂。
 mafitowakay(fitowak)    ①  裂開了，破裂了。②  指裂開、破裂的(東西)。
-mafitero(fitero)    肚子發脹。Maﬁtero kako. 我肚子發脹。
+mafitero(fitero)    肚子發脹。Mafitero kako. 我肚子發脹。
 mafiteroay(fitero)    ①  肚子在發脹。②  指腹脹者。
 mafiwfiw(fiwfiw)    被風吹動，吹拂。
-mafiwfiway(fiwfiw)    被風吹動起來，吹拂著。Maﬁwﬁway no fali ko fayfay. 旗幟迎風飄揚。
+mafiwfiway(fiwfiw)    被風吹動起來，吹拂著。Mafiwfiway no fali ko fayfay. 旗幟迎風飄揚。
 mafiyac(fiyac)    呈現彎曲狀，舒展，伸展。
 mafiyacay(fiyac)    ①  舒展著，伸展著。②  指呈舒展、伸展狀的(對像)。
-mafiyal(fiyal)    發麻，麻木了。Maﬁyal to ko kamay.手發麻了。
-mafiyalay(fiyal)    ①  發麻了，麻木了。②  指發麻的、麻木的(對像)。Maﬁyalay ko kamay ako a namikarkar to sera. 掘土之後我的手麻木了。
+mafiyal(fiyal)    發麻，麻木了。Mafiyal to ko kamay.手發麻了。
+mafiyalay(fiyal)    ①  發麻了，麻木了。②  指發麻的、麻木的(對像)。Mafiyalay ko kamay ako a namikarkar to sera. 掘土之後我的手麻木了。
 mafiyok(fiyok)    被大風刮跑。◎被風捲跑。
-mafiyokay(fiyok)    ①  被大風刮跑了。②  指被刮跑的(東西)。Maﬁyokay no fali ko kafong ako. 我的帽子被大風刮跑了。
+mafiyokay(fiyok)    ①  被大風刮跑了。②  指被刮跑的(東西)。Mafiyokay no fali ko kafong ako. 我的帽子被大風刮跑了。
 mafekac(fekac)    跑，跑步。同 comikay。
 mafekacay(fekac)    ①  跑著，跑起來了。②  指跑步者。同comikayay。
 mafelih(felih)    被犁耕，翻耕，翻倒。
@@ -1101,7 +1100,7 @@ mafelot(felot)    被拽下來，拉下來。Mafelot no
 nanom cingra tayra i 'angongolay a    nanom. 他被水拽到深水處。
 mafelotay(felot)    ①  被拽下來了，拉下來了。②  指被拽下來的(對像)。
 mafo'ot(fo'ot)    被挽留，留住。或指綁住。Mafo'ot ko fokes. 頭髮綁好了。
-mafo'otay(fo'ot)    ①  被挽留了，留住了。②  指被挽留的(對像)。Mafo'otay ko lafang a milaﬁn. 客人留下來過夜了。
+mafo'otay(fo'ot)    ①  被挽留了，留住了。②  指被挽留的(對像)。Mafo'otay ko lafang a milafin. 客人留下來過夜了。
 mafodad(fodad)    生眼翳，視力模糊。Mafodad ko mata ni ina. 媽媽的視力模糊。同mapodad。
 mafodaday(fodad)    ①  生眼翳了，看不清楚了，視力模糊。②  指視力模糊者。
 mafodih(fodih)    眼瞎，盲目。同 mapohaw。或指不識字。
@@ -1139,7 +1138,7 @@ maforikat(forikat)    被撐開，被支撐。
 maforikatay(forikat)    ①  被撐開了，被支撐了。②  指被撐開的(對像)。
 mafotek(fotek)    閉上眼睛，合眼。Mafotek ko mata.閉上眼睛。
 mafotekay(fotek)    ①  閉上眼睛了，合眼。②  指閉眼、合眼的(對像)。Mafotekay ko mata no lokedaw a maro' itira. 豹子閉著眼睛坐在那裡。
-mafuti'(futi')    睡覺。Icowa a mafuti' kiso saw?你在哪裡睡覺呢？ Halaﬁnay to ko dadaya , mafuti' to kita. 時間很晚了，我們睡覺吧。
+mafuti'(futi')    睡覺。Icowa a mafuti' kiso saw?你在哪裡睡覺呢？ Halafinay to ko dadaya , mafuti' to kita. 時間很晚了，我們睡覺吧。
 mafuti'ay(futi')    ①  睡覺了。②  指睡眠者。Mafuti'ay ho ci wama , aka kacaciyaw ko namo !父親還在睡覺，請你們不要講話！
 mafotik(fotik)    被祈求、祈盼。
 mafotikay(fotik)    ①  被祈求了，被祈盼了。②  指被祈求、祈盼的(對像)。
@@ -1189,7 +1188,7 @@ mahafelay(hafel)    ①  (豬食)被煮熟了，熬熟了。②  指煮熟的飼
 mahafhaf(hafhaf)    (蒸氣等)被吸納，吸進去。
 mahafhafay(hafhaf)    ①  (蒸氣等)被吸納了，吸進去了。②  指被吸納、吸進的(蒸氣)。Mahafhafay ningra ko kakaenen. 食物的氣味被他吸納了。
 mahafikod(fikod)    被撞倒、碰倒，跌倒。同 mahafkod。
-mahafikoday(fikod)    ①  被撞倒、碰倒了，跌倒了。②  指被撞、碰倒的(對像)。同 mahaﬁkoday。
+mahafikoday(fikod)    ①  被撞倒、碰倒了，跌倒了。②  指被撞、碰倒的(對像)。同 mahafikoday。
 mahahinam(hinam)    [疊 2]彼此互為情侶。Mahahinam cangra tatosa. 他們兩人談戀愛。
 mahahinamay(hinam)    [疊 2]①  彼此互為情侶了，彼此相愛了。②  指互為情侶的(對像)。Mahahinamay kako atora kaying. 和那位小姐相愛了。
 mahahinta(hinta)    [疊 2]彼此互相約定，相約，相邀。Mahahinta cangra to cilacila a mi'adop. 他們天天相約去狩獵。
@@ -1351,7 +1350,7 @@ mahodoc(hodoc)    被抽取，抽簽。Mahodoc ko ritos. 抽簽。
 mahodocay(hodoc)    ①  被抽取出來了。②  指被抽取的(東西)。Mahodocay ako ko funus. 刀被我抽出來了。
 mahofoc(hofoc)    分娩，生育。Mahofoc ko fafahi ningra to fa'inayan a wawa. 他妻子生個男孩子。同 masofoc、masofocay。
 mahofocay(hofoc)    ①  分娩了，生育了。②  指分娩的產婦。Tahira to i sakasiwa a fulad ,mahofocay ci kaka to wawa. 到第九個月，姊姊生孩子。
-mahofohofoc(hofoc)    [疊 2]好不容易分娩、生育。Mahofohofoc ko fafahi , o ﬁta'ol ko wawa ningra? 妻子好不容易分娩，他生下的孩子卻是蛋。(傳說故事)。
+mahofohofoc(hofoc)    [疊 2]好不容易分娩、生育。Mahofohofoc ko fafahi , o fita'ol ko wawa ningra? 妻子好不容易分娩，他生下的孩子卻是蛋。(傳說故事)。
 mahokap(hokap)    用手摸著找東西、被抓住。Mahokap ni Kacaw ko toda i sinasinaan. 卡兆先生在泥沼裏摸著捉到一條鰻魚。
 mahokapay(hokap)    ①  被抓住了，逮捕了。②  指被抓住、逮捕的(對像)。
 mahokhok(hokhok)    被埋伏偷襲。Mahokhok niyam ko mitakaway. 小偷被我們埋伏偷襲。
@@ -1402,8 +1401,8 @@ maiyofay(iyof)    ①  被風吹掉了，刮走了。②  指被風吹走的(東
 maka    前綴。主要表示：①  擁、具有許多。如 makahafay 豐收；makaheci 結果累累。②  有某種突出相貌或生理特點。如 makafongoh. 長大頭兒，有大腦袋；makatoros 長大膝蓋。
 maka'ingol('ingol)    嗓音低沈渾厚，指少年處於發育期。同 makalong、makareng。
 maka'ingolay('ingol)    ①  嗓音低沈渾厚了，少年正處在發育期。②  指嗓音低沈的(少年等)。同makalongay。Maka'ingolay ko ngiha ka^emangay. 那位少年說話聲音低沈渾厚的。
-makacafi'(cafi')    有把握贏，能打敗(對方)。Makacaﬁ' kamo tamiyanan. 你們會打敗我們。
-makacafi'ay(cafi')    ①  有把握贏了，能打敗了。②  指贏者，勝者。Makacaﬁ'ay kami to lifet.我們比賽贏了。
+makacafi'(cafi')    有把握贏，能打敗(對方)。Makacafi' kamo tamiyanan. 你們會打敗我們。
+makacafi'ay(cafi')    ①  有把握贏了，能打敗了。②  指贏者，勝者。Makacafi'ay kami to lifet.我們比賽贏了。
 makacalay(calay)    巫術術語，意謂：能在蜘蛛網上暢行無阻。比喻一切順利，一帆風順。
 makacep(kacep)    被接住、抓住。同 capet。Makacep to ko mali. 球被接住了。
 makacepay(kacep)    ①  被接住了、抓住了。②  指被接住的(東西)。同 makacapetay。
@@ -1418,7 +1417,7 @@ makaenay(kaen)    。①  被吃了。②  指被吃的(對像) Makaenay koya pa
 makafanoh(fanoh)    長許多毛，渾身長毛，毛茸茸。
 makafanohay(fanoh)    ①  長許多毛了，渾身長毛了。②  指長許多毛的(對像)。Makafanohay koni a lotong. 這隻猴毛長得特別多。Makafanohay a wawa. 毛孩。
 makafit(kafit)    鈎住，牽引。
-makafitay(kafit)    ①  鈎住了，牽引了。②  指被鈎住的(對像)。Makaﬁtay no 'alal ko riko' iso. 你的衣服被樹枝鈎住了。
+makafitay(kafit)    ①  鈎住了，牽引了。②  指被鈎住的(對像)。Makafitay no 'alal ko riko' iso. 你的衣服被樹枝鈎住了。
 makafol(kafol)    花鹿。同 ngafol。
 makafongoh(fongoh)    長大腦袋，長得頭部特別大。Makafongoh kora tamdaw. 那個人長大頭兒。
 makafongohay(fongoh)    ①  長大腦袋了，長大頭了。②  指長大頭的(對像)。Makafongohay ko futing ako. 我的魚頭特別。Makafongohay a wawa. 大頭兒。
@@ -1429,7 +1428,7 @@ makahakahay(kahakah)    ①  性急起來，急躁起來。②  指性急的人�
 makaheci(heci)    長許多果實，結果累累。Makaheci ko 'icep namo. 你們的檳榔樹很會結果。
 makaheciay(heci)    ①  長許多果實了，結果累累。②  指結果累累的(對像)。
 makahefi(kahefi)    懸吊著上下搖蕩。
-makahefiay(kahefi)    ①  懸吊著上下搖蕩起來。②  指懸吊起來上下搖蕩的(東西)。Makaheﬁay ko kacanoyan. 鞦韆在上下搖蕩著。Makaheﬁay a kacanoyan. 蕩悠悠的鞦韆。
+makahefiay(kahefi)    ①  懸吊著上下搖蕩起來。②  指懸吊起來上下搖蕩的(東西)。Makahefiay ko kacanoyan. 鞦韆在上下搖蕩著。Makahefiay a kacanoyan. 蕩悠悠的鞦韆。
 makakerekerem(kerem)    [疊 2]天色漸漸昏暗，夜暮低垂。Makakerekerem ko romi'ad. 天漸漸暗下來。
 makakerekeremay(kerem)    [疊]①  天色漸漸暗下來了，夜暮低垂了。②  指漸漸昏暗的(天氣)。
 makahi(kahi)    同意，願意。Makahi kami. 我們表示同意。Ano makahi ko wama ato wina, raramodsa to kamo. 如父母同意，你們就結為夫妻吧。
@@ -1446,8 +1445,8 @@ makaka(kaka)    成上級、長輩，位居上級、長輩。不同 malikaka 指
 makakaay(kaka)    ①  晉升上級、長輩了。②  處於上級、長輩的(對像)。Mimaan han no makakaay a kapot ko pakarongay i ,lahecien no pakarongay. 上級的人對少年級說 " 去做什麼 "，少年級就要做什麼。
 makakafikafit    [疊 2]大家彼此互相連絡、關聯。
 makakafikafitay(kafit)    [疊 2]①  大家彼此間互相連絡了。② 指彼此相互連絡的(成員)。
-makakafit(kafit)    [疊 2]彼此連絡，連在一起。Makakaﬁt kita a ci Yis. 我們和耶穌心連心。
-makakafitay(kafit)    [疊 2]①  彼此連絡了，連在一起了。②  指彼此被相連的(對像)。Makakaﬁtay ko kasapokopokoh. 每個關節相連在一起了。
+makakafit(kafit)    [疊 2]彼此連絡，連在一起。Makakafit kita a ci Yis. 我們和耶穌心連心。
+makakafitay(kafit)    [疊 2]①  彼此連絡了，連在一起了。②  指彼此被相連的(對像)。Makakafitay ko kasapokopokoh. 每個關節相連在一起了。
 makakaketon(keton)    [疊 2]彼此決斷、決定。Makakaketon to sowal. 彼此商定。
 makakaketonay(keton)    ①  彼此決定、決斷了。②  指彼此決定、決斷的(成員)。
 makakalat(kalat)    [疊 2]彼此互相咬。同 malakalat。
@@ -1482,7 +1481,7 @@ makakiwaci(kakiwaci)    呈十字形交叉狀。
 makakiwaciay(kakiwaci)    ①  呈十字形交叉狀了。②  指呈十字形交叉狀的(東西)。
 makakiwalet(kiwalet)    [疊 2]互相糾結、交錯。Makakiwalet ko fokes iso. 你的頭髮糾結在一起。
 makakiwaletay(kiwalet)    [疊 2]①  互相糾結、交錯在一起來。。②  指互相糾結、交錯的(東西) 
-makakofit(kofit)    [疊 2]彼此扣緊，彼此一致。Makakoﬁt ko faloco' nangra. 他們的思想彼此一致。
+makakofit(kofit)    [疊 2]彼此扣緊，彼此一致。Makakofit ko faloco' nangra. 他們的思想彼此一致。
 makakofitay(kofit)    [疊 2]①  彼此扣緊了，彼此一致了。②  指彼此扣緊的、彼此一致的(對像)。
 makakomod(komod)    [疊 2]彼此合作、協調。Makakomod kita a dademak. 我們彼此協作。
 makakomoday(komod)    [疊 2]①  彼此合作、協調了。②  指彼此合作的(對像)。
@@ -1624,7 +1623,7 @@ makeceday(keced)    ①  消腫了，消退了，萎縮了。②  指消腫、�
 makedec(kedec)    弄緊密，捆緊密，扣緊。Makedec to ko mifalodan ako. 我捆的(東西)很緊了。
 makedecay(kedec)    ①  弄緊密了，捆緊密了，扣緊了。。Ora a ②  指被弄緊、捆緊的(東西) celed makedecay cowa kaliposak. 那束(東西)捆緊了，不會散開的。
 makefing(kefing)    患痳疹、紅斑。
-makefingay(kefing)    ①  患痳疹了。②  指痳疹患者。Makeﬁngay ci Tipos. Tipos 患痳疹了。
+makefingay(kefing)    ①  患痳疹了。②  指痳疹患者。Makefingay ci Tipos. Tipos 患痳疹了。
 makelikeling(keling)    [疊 2]鈴鐺等物叮叮響了。
 makelikelingay(keling)    [疊 2]①  鈴鐺等物叮叮地響起來了。。Makelikelingay ②  指叮噹響的(響器) ko takingkingan. 鈴鐘響起來了。
 makelkel(kelkel)    發抖，抖索，顫抖。Makelkel no si^enaw ko wawa. 孩子被凍得發抖。
@@ -1781,8 +1780,8 @@ makoecay(koec)    ①  在咳嗽了。②  指咳嗽的人。Makoecay kora malit
 makofakof(kofakof)    茂盛，繁茂。Makofakof ko rengos.青草茂盛。
 makofakofay(kofakof)    ①  茂盛了，繁茂了。②  指茂盛的、繁茂的(植物)。Maeneng nangra koya makofakofay a kangdaway a rengos.那茂盛的綠油油的青草被他們看見了。
 makofati'ian(fati'ian)    分佈兩側、兩邊。
-makofet(kofet)    臉上有皺紋。同 makoﬁd。 Makofet ko laway ni mamu. 祖母的臉上有皺紋。
-makofetay(kofet)    ①  臉上有皺紋了。②  臉上有皺紋的(人)。同 makoﬁday。
+makofet(kofet)    臉上有皺紋。同 makofid。 Makofet ko laway ni mamu. 祖母的臉上有皺紋。
+makofetay(kofet)    ①  臉上有皺紋了。②  臉上有皺紋的(人)。同 makofiday。
 makofit(kofit)    (紐扣)被扣緊，一致起來。
 makofitay(kofit)    ①  (紐扣)扣緊了，一致起來了。② 指扣緊紐扣的(衣裳)。
 makofoh    花鹿。
@@ -1798,7 +1797,7 @@ makolas(kolas)    間苗被除草。
 makolasay(kolas)    ①  間苗被除草了。②  指間苗被除草的(莊稼)。
 makolawac(lawac)    分佈兩邊，在兩邊。 Makolawac no 'alo. 河的兩岸。
 makolawacay(lawac)    ①  分佈兩邊了，在兩邊了。②  指在兩邊的。
-makolepet(kolepet)    長腳癬，因梅雨天腳趾糜爛、長雨蟲。Tada halaﬁnay ko ka'orad , makolepet ko saliki'eki' no o'o ako. 雨季太長了，我的小腳趾要生雨蟲了。
+makolepet(kolepet)    長腳癬，因梅雨天腳趾糜爛、長雨蟲。Tada halafinay ko ka'orad , makolepet ko saliki'eki' no o'o ako. 雨季太長了，我的小腳趾要生雨蟲了。
 makolepetay(kolepet)    ①  長腳癬了，因梅雨天腳趾糜爛了或長著雨蟲了。②  指長腳癬或雨蟲的(對像)。
 makoli'ong    小鹿。同 makoliyong。
 makoliyol(koliyol)    繞行，繞彎，拐彎抹角。
@@ -1824,11 +1823,11 @@ makonoay(kono)    ①  呈弓背彎腰的狀態，俯下身來。② 指俯身�
 makonoc(konoc)    被拔光羽毛，(鳥類)換毛，脫毛。同makonac。
 makonocay(konoc)    ①  羽毛被拔光了，光禿禿的。②  指被拔光羽毛的、光禿禿的(對像，如禽獸)。同 makonacay。
 makopec(kopec)    乾癟，收縮。Makopec to ko tiyad ,'iw'iwsa ko cahiw. 肚子癟了，餓得咕咕叫喚。
-makopecay(kopec)    ①  乾癟了，收縮了。②  指乾癟的、收縮的(東西)。Makopecay ko teﬁ' ,caay kanga'ay a kaenen. 扁豆乾癟了，不好吃。
-makorac(korac)    乾淨，潔掙，純潔。Makorac ko sasiﬁn. 毛巾乾淨。Makorac ko faloco'. 心地純潔。
+makopecay(kopec)    ①  乾癟了，收縮了。②  指乾癟的、收縮的(東西)。Makopecay ko tefi' ,caay kanga'ay a kaenen. 扁豆乾癟了，不好吃。
+makorac(korac)    乾淨，潔掙，純潔。Makorac ko sasifin. 毛巾乾淨。Makorac ko faloco'. 心地純潔。
 makoracay(korac)    ①  乾淨了，潔淨了，純潔了。②  乾淨的、潔淨的、純潔的。Makoracay kona mifaca'an ita a riko'. 我們洗的衣服很乾淨了。Makoracay ko faloco' no wawa. 孩子的心靈純潔。Makoracay a paputal. 潔淨的環境。
 makorafit(korafit)    被鈎破，刮破。
-makorafitay(korafit)    。①  被刮破了。②  指被刮破的(對像) Makoraﬁtay no kadamat ko kayam ningra. 他的手被樹枝鈎破了。
+makorafitay(korafit)    。①  被刮破了。②  指被刮破的(對像) Makorafitay no kadamat ko kayam ningra. 他的手被樹枝鈎破了。
 makorah(korah)    發黃，呈黃色。Makorah to ko papah no kilang. 樹葉發黃了。
 makorahay(korah)    ①  發黃了，呈黃色的。②  指發黃的、黃色的(東西)。Makorahay ko riko' ako. 我的衣服是黃色的。
 makorahos(korahos)    被抓傷。Makorahos no posi kako. 我被貓抓傷。同 makorahot。
@@ -1884,7 +1883,7 @@ makerihay(kerih)    ①  全部出動了，傾巢而出了。②  指全部出�
 makeris(keris)    被刮破，被摩擦。Makeris no ceka ko pising ningra. 他的臉被刺刮破。
 makerisay(keris)    ①  被刮破了，被摩擦了。②  指被刮破的、摩擦的、撞擊的(對像)。Makerisay no tosiya ako ko tosiya ningra. 他的汽車被我的汽車撞了。
 makero(kero)    雀躍，手舞足蹈，跳舞。Makero ko kapah. 小伙子跳舞。
-makeroay(kero)    ①  手舞足蹈了，在跳舞。②  指舞蹈者。Makeroay ko tamdaw i paputal.人們在院外跳舞了。Makeroay a ﬁnacadan. 善舞的民族。
+makeroay(kero)    ①  手舞足蹈了，在跳舞。②  指舞蹈者。Makeroay ko tamdaw i paputal.人們在院外跳舞了。Makeroay a finacadan. 善舞的民族。
 makeros(keros)    喉嚨疼痛。
 makerosay(keros)    喉嚨疼痛起來。Makeroay kako ,paisingen a mipaiyo. 我喉嚨疼起來了，一定請醫生開藥方。
 maketed(keted)    (皮)被切割，切下來。
@@ -1898,7 +1897,7 @@ mala'a'adopen('adop)    [疊 2]變成野獸、獵物。
 mala'a'adopenay('adop)    [疊 2]①  變成野獸、獵物了。。②  指變成野獸、獵物的(對像) Mala'a'adopenay niyam ko fafoy, siri ato tomay. 野豬、山羊和熊成了我們的獵物了。
 mala'afas    互相搶奪、搶劫。Mala'afas to mali.(雙方)互相搶球。
 mala'afa'afas('afas)    [疊 2](群體性的)互相搶奪、搶劫。同 mala'afas'afas。
-mala'afa'afasay('afas)    [疊 2]①  (群體性的)在互相搶奪了。②  指互相搶奪的(群體性對像)。同 mala'afas'afasay。Mala'afa'afasay ko suﬁtay to kowang. 士兵們在互相搶槍。
+mala'afa'afasay('afas)    [疊 2]①  (群體性的)在互相搶奪了。②  指互相搶奪的(群體性對像)。同 mala'afas'afasay。Mala'afa'afasay ko sufitay to kowang. 士兵們在互相搶槍。
 mala'afang('afang)    互相挽臂，交臂並肩。
 mala'afangay('afang)    ①  互相挽臂著，交臂並肩了。②  指互相挽臂的(人)。
 mala'afas('afas)    互相搶奪、搶劫。Mala'afas to mali.(雙方)搶球。
@@ -1918,7 +1917,7 @@ mala'axenanay('axenan)    ①  變成凳子了，當成凳子了。②  指當�
 mala'ayam('ayam)    變成鳥。
 mala'ayamay('ayam)    ①  變成鳥了。Mala'ayamay koya 
 matokaay a tamdaw ko pakimad no    faki. 伯伯講人變鳥的故事，他說那個懶人變成鳥了。
-mala'ayaw('ayaw)    領頭，當先鋒。Mala'ayaw kiso a mikerid tona suﬁtay , tala'ayaw a milood. 你要做先鋒率領這些兵，向前戰鬥。
+mala'ayaw('ayaw)    領頭，當先鋒。Mala'ayaw kiso a mikerid tona sufitay , tala'ayaw a milood. 你要做先鋒率領這些兵，向前戰鬥。
 mala'ayaway('ayaw)    ①  領頭了，當先鋒了。②  指領頭的、當先鋒的(對像)。Mala'ayaway cingra a milaliw. 他帶頭逃跑了。
 mala'ecaan(la'ecaan)    患不得之症，久病不癒。同malacaan。Mala'ecaan ci Nakaw. 娜高小姐得了不治之症。
 mala'ecaanay(la'ecaan)    ①  得了不治之症了。②  指久治不癒的(疾病)。Mala'ecaanay ko adada ni wama. 父親的病不好治了。
@@ -1965,16 +1964,16 @@ maladesay(lades)    ①  被感染了，腫起來了。②  指被感染的(對�
 malafafa(fafa)    互相揹著。Malafafa kora tatosaay a romakat. 那兩個人互相揹著走。
 malafafaay(fafa)    ①  互相揹著。②  指互相揹著的(對像)。Malafafaay kami a midangoy tala'amis. 我們互相揹著游到北方了。
 malafaian(fai)    彼此是祖母與孫女的關係。
-malafao(fao)    演變成蟲子，孕育成蟲。Malafao to ko ﬁta'ol. 卵孵育成蟲了。
+malafao(fao)    演變成蟲子，孕育成蟲。Malafao to ko fita'ol. 卵孵育成蟲了。
 malafaoay(fao)    ①  演變成蟲子了。②  指孵育成蟲的(對像)，也比喻人口極少的小戶人家。Malafaoay a loma'. 小戶人家。
 malafel(lafel)    溜掉，流走。Malafel ko siri. 羊跑掉了。
 malafelay(lafel)    ①  溜掉了，流走了。②  指溜掉的、流走的(對像)。
-malafi(lafi)    用晚餐，吃晚飯。^Enem ko toki malaﬁ kita. 六點鐘我們用晚餐。
-malafiay(lafi)    ①  在用晚餐了，在吃晚飯。②  指用晚餐的(對像)。Malaﬁay ko paro no loma' niyam. 我們全家人在用晚餐。
+malafi(lafi)    用晚餐，吃晚飯。^Enem ko toki malafi kita. 六點鐘我們用晚餐。
+malafiay(lafi)    ①  在用晚餐了，在吃晚飯。②  指用晚餐的(對像)。Malafiay ko paro no loma' niyam. 我們全家人在用晚餐。
 malafin(lafin)    過夜，露宿。
-malafinay(lafin)    ①  在過夜、露宿了。②  指過夜、露宿者。Malaﬁnay ko mi'adopay a tamdaw i lalotokan. 獵人在山林裡過夜了。
-malafiyaw(fiyaw)    互為鄰居，相鄰而居。Malaﬁyaw kita.我們相鄰而居。作鄰居。
-malafiyaway(fiyaw)    ①  互為鄰居了。②  互為鄰居的(人家)。Malaﬁyaway kita. 我們彼此是鄰居了。③  第三人稱(複數的、兩戶以上的鄰居)。
+malafinay(lafin)    ①  在過夜、露宿了。②  指過夜、露宿者。Malafinay ko mi'adopay a tamdaw i lalotokan. 獵人在山林裡過夜了。
+malafiyaw(fiyaw)    互為鄰居，相鄰而居。Malafiyaw kita.我們相鄰而居。作鄰居。
+malafiyaway(fiyaw)    ①  互為鄰居了。②  互為鄰居的(人家)。Malafiyaway kita. 我們彼此是鄰居了。③  第三人稱(複數的、兩戶以上的鄰居)。
 malafo'is(fo'is)    變成星星。Oya 'adingo no kaka tayra i kakarayan a malafo'is. 哥哥的魂靈升天變成星辰。
 malafo'isay(fo'is)    ①  變成星星了。②  指變成星星的(對像)。Malafo'isay ci Onak a ci Mayaw. Onak 和 Mayaw 演變為星星了。Malafo'isay a malikakaay. 變成星星的兄弟倆兒。
 malafo(lafo)    遭到報應，被殃及。Malafo ko loma' ningra. 他的家遭到報應。被詛咒的。
@@ -1997,8 +1996,8 @@ malaheci(heci)    結果實，有成果，有成績。Malaheci to ko dademak. �
 malaheciay(heci)    ①  結果實了，有成果了，有成績了。②  指被完成的、有結果的(事情等)。Malaheciay ako ko mipatolonan ningra. 他的委託的事情我完成了。Malaheciay ko kiradom a mitinooy.布織完了。
 malahedaw(lahedaw)    消失不見，不存在，逝去。Malahedaw ko 'orip no malitengay. 老人的生命要完結了。Malahedaw to ko raraw. 過失消除了。
 malahedaway(lahedaw)    ①  消失不見了，不存在了，逝去了。②  指消失的、逝去的(對像)。Malahedaway ko fafahi ira. 他的妻子失蹤了。Malahedaway ko payso ako.我的錢不翼而飛了。
-malahitay(hitay)    成為士兵，當兵。Malahitay kako to tosa a mihecaan. 我要當兩年兵。同malasuﬁtay。
-malahitayay(hitay)    ①  成為士兵了，當兵了。②  指當兵者。同 malasuﬁtayay。
+malahitay(hitay)    成為士兵，當兵。Malahitay kako to tosa a mihecaan. 我要當兩年兵。同malasufitay。
+malahitayay(hitay)    ①  成為士兵了，當兵了。②  指當兵者。同 malasufitayay。
 malahok(lahok)    用午餐，吃午飯。Malahok to kita. 我們吃午飯吧。
 malahokay(lahok)    ①  吃什飯了，用午餐了。②  指吃午飯的(人)。Talaen ho! malahokay ko wama ako. 請稍等，我父親正在用午餐。Papina ko malahokay a lafang?用午餐的客人有幾位？
 malahol(lahol)    被蟲蛀，被腐蝕。
@@ -2049,7 +2048,7 @@ malala'(lala')    來月經。同 mafolad。
 malala'ay(lala')    。①  來月經了。②  指來月經的(女性) 同 mafoladay。
 malalad(lalad)    被蔓莖爬上去，攀援。
 malaladay(lalad)    ①  被爬上去了，攀援上去了。②  指被爬上、攀援而上的(對像)。Malaladay no tamorak ko kilang. 南瓜蔓枝攀援上樹了。
-malalakaw(lalakaw)    (房子)被籌建起來。Malalakaw no ﬁnawlan ko loma'. 房子被鄉親籌建起來。
+malalakaw(lalakaw)    (房子)被籌建起來。Malalakaw no finawlan ko loma'. 房子被鄉親籌建起來。
 malalakaway(lalakaw)    ①  (房子)被籌建起來了。②  指被籌建的(房子)。Mmalalakaway cangra to sapisaloma'. 他們正籌建房屋。
 malalamo(lamo)    (動物)互相交配。
 malalamoay(lamo)    ①  (動物)在交配。②  指交配的(動物)。
@@ -2096,7 +2095,7 @@ malalikilikiday(likid)    [疊 2]①  大家彼此手拉手了，攜手共舞了
 malalikit(likit)    表演大型團結舞。
 malalikitay(likit)    ①  在表演大型團結舞了。②  指表演團結舞的人。
 malalilid(lilid)    兩人共同抬、扛東西。Malalilid kita a mi'orong toni a kilang. 我們一起扛這根木頭。
-malaliliday(lilid)    ①  共同抬著、扛著。②  共同抬、扛東西的(人)。Malaliliday ko ﬁnawlan to fokeloh. 鄉親在抬著石頭。
+malaliliday(lilid)    ①  共同抬著、扛著。②  共同抬、扛東西的(人)。Malaliliday ko finawlan to fokeloh. 鄉親在抬著石頭。
 malalimek(limek)    [疊 2]輪流躲藏，捉迷藏。
 malalimekay(limek)    [疊 2]①  在捉迷藏。②  指捉迷藏的(人)。Malalimekay ko wawa i kakilangan. 孩子在樹林裡捉迷藏。
 malalimelimek(limek)    [疊 2]大家輪流躲藏、捉迷藏。
@@ -2156,7 +2155,7 @@ malantoay(lanto)    ①  被燒盡了，燒焦了，碳化了。② 指燒焦的
 ko naikoran no malantoay a sera ato    fokeloh i cowacowa. 火堆燃燒完的遺跡的土地和石頭到處是紅通通的。同malangtoay。
 malaoc(laoc)    被聚集，看守，集會。Malaoc ko loma' namo. 你們的房子要被人們圍住。
 malaocay(laoc)    ①  被聚集起來，看守，集會了。②  指被聚集的、被聚眾圍住的(對像)。
-malaola(laola)    歡慶，歡樂，遊戲。Masaromi'ad a malaola ko ﬁnawlan a ma^emin to pilisinan. 鄉親們在豐年節這一天整天地歡樂。
+malaola(laola)    歡慶，歡樂，遊戲。Masaromi'ad a malaola ko finawlan a ma^emin to pilisinan. 鄉親們在豐年節這一天整天地歡樂。
 malaolaay(laola)    ①  在歡慶了，歡樂起來了。②  指歡樂的(對像)。Malaolaay a tamdaw. 歡樂的人，開玩笑的人。
 malaop(laop)    被圍困。Malaop ko 'ada. 敵人被圍困。
 malaopay(laop)    ①  被圍困起來了。②  指被圍困的(對像)。Malaopay ko 'a'adopen. 野獸被圍困起來了。
@@ -2220,7 +2219,7 @@ malatamdaway(tamdaw)    ①  變成人了，化生為人了，孵化出來了。
 malatapang(tapang)    成為官吏、領導者，擔任官吏，領導者。指首長。
 malatapangay(tapang)    ①  成為官吏、領導者了。②  指擔任官吏、領導者的(人)。Malatapangay no niyaro' ci Mayaw. Mayaw 是部落領導者。O cima ko malatapangay no loma' namo? 你們家的家長是誰？
 malatatihi(tihi)    [疊 2]成為同事、伙伴。
-malatatihiay(tihi)    [疊 2]①  是同事、伙伴關係了。②  指有同事、伙伴關係的(人)。Malatatihiay ako cingra i kalasuﬁtayan. 他是我當兵時候的伙伴。
+malatatihiay(tihi)    [疊 2]①  是同事、伙伴關係了。②  指有同事、伙伴關係的(人)。Malatatihiay ako cingra i kalasufitayan. 他是我當兵時候的伙伴。
 malatato'asan(to'as)    [疊 2]①  成為祖先、始祖了。②  指成為祖先、始祖的人，開基者。
 malatato'asan(to'as)    [疊 2]成為祖先、始祖。Malatato'asan niyam ci Malataw.Malataw 是我們的始祖先人。
 malatato'elep(tato'elep)    變成海螺、奉蛤了，化生為海螺、奉蛤。
@@ -2255,8 +2254,8 @@ malaymay(laymay)    迎風招展，嘩啦啦地飄揚貌。
 malaymayay(laymay)    ①  迎風招展起來，嘩啦啦地飄揚起來。②  指迎風招展的(旗幟)。Malaymayay ko hata. 旗幟在迎風招展。Malaymayay cingra a somowal.他說話嘩啦啦地。Malaysiya 馬來西亞國，馬來西亞人。[英語借詞]。
 malecad(lecad)    相同，類似，一樣。Malecad ko takola' ato kaka'eka' han? 青蛙和癩蛤蟆一樣嗎？同 mahecad。
 malecaday(lecad)    ①  相同了，類似了，一樣了。②  指相同、類似的(對像)。Malecaday ko harateng ita. 我們的意見相同了。Malecaday ko riko' namo. 你們穿的相同了。同 mahecaday。
-malecafi'(cafi')    蜂涌而上，大伙兒衝上去。Malecaﬁ' ko suﬁtay. 士兵要衝上去。
-malecafi'ay(cafi')    ①  蜂涌而上去了，大伙兒衝上去了。。Malecaﬁ'ay ②  指蜂涌而上的(對像) cangra a tala'ayaw. 他們向前衝了。
+malecafi'(cafi')    蜂涌而上，大伙兒衝上去。Malecafi' ko sufitay. 士兵要衝上去。
+malecafi'ay(cafi')    ①  蜂涌而上去了，大伙兒衝上去了。。Malecafi'ay ②  指蜂涌而上的(對像) cangra a tala'ayaw. 他們向前衝了。
 maleceng(leceng)    被修整，修剪。
 malecengay(leceng)    ①  被修整了，修剪了。②  指被修剪的(對像)。Malecengay ko ca'ang. 枝杈修剪了。
 maleda'(leda')    睡沈了，熟睡貌。Maleda' ko futi' no wawa. 孩子沈入夢鄉。
@@ -2294,7 +2293,7 @@ malenoay(leno)    ①  水位上漲了，漲潮了。②  指水位上漲、漲�
 malepel(lepel)    被追捕，被抓住。
 malepelay(lepel)    ①  被追捕了，被抓住了。②  指被追捕的(對像)。Malepelay ko mangcel.山羌被追捕了。Malepelay a koko'.被抓住的雞。
 malepet(lepet)    被捕捉，被抓住。同 marepet。
-malepetay(lepet)    ①  被捕捉了，被抓住了。②  指被捕捉、被抓住的(對像)。Malepetay ko milaliway a suﬁtay. 逃兵被逮住了。
+malepetay(lepet)    ①  被捕捉了，被抓住了。②  指被捕捉、被抓住的(對像)。Malepetay ko milaliway a sufitay. 逃兵被逮住了。
 malepon(lepon)    滿足，滿額，足夠，數量夠了。Malepon to ko tayniay a tamdaw. 來的人數量足夠了。
 maleponay(lepon)    ①  滿足了，滿額了，足夠了，數量給夠了。②  指滿額的、足夠的(東西)。Maleponay ko harateng no tapang. 領導的想法得到滿足了。Maleponay ko tadah a mipatikol. 債務都還清了。
 malesa'(lesa')    漏水，漏雨，(汁兒)流淌出來。Malesa' ko pa^etang iso. 你的桶會漏水。
@@ -2392,7 +2391,7 @@ malimek(limek)    被藏匿，躲藏。
 malimekay(limek)    ①  被藏匿起來，躲藏起來。②  指被藏匿的(對像)。Malimekay nangra ko kincac. 他們躲警察。
 malimfo(limfo)    蓮霧果被摘取。
 malimfoay(limfo)    ①  蓮霧果被摘取下來了。②  指被摘取下來的(蓮霧果)。Malimpo 部落名稱。今台灣台東縣長濱鄉寧埔地區。
-malinah(linah)    移動，遷移，搬家。Malinah kami anocila. 我們明天搬家。Malinah ko ﬁnawlan itira. 鄉親遷移到那裡。
+malinah(linah)    移動，遷移，搬家。Malinah kami anocila. 我們明天搬家。Malinah ko finawlan itira. 鄉親遷移到那裡。
 malinahay(linah)    ①  移動了，遷移了，搬家了。Malinahay cingra. 他搬家了。Malinahay koya wawa a mipakaen to kulong. 那個小孩移到別處放牛了。② 指移動的、遷移的(對像)。Malinahay a kanatal. 漂移之島。
 malingad(lingad)    出發，啟程，動身，上班，上學。Malingad kami tayra i katayalan. 我們去工廠上班。
 malingaday(lingad)    ①  出發了，啟程了，動身了，上班了，上學了。Malingaday ko wawa a tayra i pitilidan. 孩子上學去了。②  指出發者、啟程者，也指上班的工人、耕田的農民。
@@ -2493,10 +2492,10 @@ malofawa(fowa)    腫，浮腫，臃腫。Malofawa ko laway.臉腫。Malofawa ko
 malofawaay(fowa)    ①  腫起來，浮腫起來。②  指腫起來的、浮腫的(對像，如手)。Malofawaay ko kayam ningra ,makalatay no facacenal. 他的手被蜜蜂咬，腫起來了。
 malofayas(lofayas)    (木桶)散箍，散架。Malofayas koni a paetang. 這隻桶會散箍的。
 malofayasay(lofayas)    ①  (木桶)散箍了，散架了。②  指散箍、散架的(桶具等)。Malofayasay ko pipacpacan niyam. 我們的打殼桶散箍了。
-malofic(lofic)    果實累累，果實被撿回。Maloﬁc ko heci no facidol anini a mihecaan. 今年麵包樹果實很多。
-maloficay(lofic)    ①  結果累累了，果實被撿回了。②  指果實多的(作物)。Maloﬁcay ko heci no kamoraw. 柚子果實很多了。
-malofis(lofis)    (東西)掉落、脫落。Maloﬁs to ko sakoﬁt no riko' iso. 你衣服的扣子要掉了。
-malofisay(lofis)    ①  (東西)掉落了，脫落了。②  指掉落、脫落的(扣子、瓜蒂等)。Maloﬁsay ko kowa'. 木瓜蒂脫落了。
+malofic(lofic)    果實累累，果實被撿回。Malofic ko heci no facidol anini a mihecaan. 今年麵包樹果實很多。
+maloficay(lofic)    ①  結果累累了，果實被撿回了。②  指果實多的(作物)。Maloficay ko heci no kamoraw. 柚子果實很多了。
+malofis(lofis)    (東西)掉落、脫落。Malofis to ko sakofit no riko' iso. 你衣服的扣子要掉了。
+malofisay(lofis)    ①  (東西)掉落了，脫落了。②  指掉落、脫落的(扣子、瓜蒂等)。Malofisay ko kowa'. 木瓜蒂脫落了。
 malofot(lofot)    被砍掉，一刀砍斷。Malofot ko ca'ang no kilang. 樹枝被砍掉。同matepoc。
 malofotay(lofot)    ①  被砍掉了，一刀砍斷了。②  指被砍斷的(樹木等)。Malofotay ko 'aol.竹 子砍斷了。Malofotay a kilang. 被砍斷的樹木。
 malohak(lohak)    (土質)稀鬆、鬆軟。Malohak ko sera. 土質鬆軟。
@@ -2729,7 +2728,7 @@ mana'on(na'on)    謹慎，慎重。
 mana'onay(na'on)    ①  謹慎，慎重。②  指謹慎者。Mana'onay cingra a matayal. 他做事很謹慎的。
 manacnac(nacnac)    被舔，被舔食。Manacnac to no waco ko toron. 糯米糕會被狗舔食的。
 manacnacay(nacnac)    ①  被舔著，被舔食了。②  指被舔的(東西)。Manacnacay no wawa ko tarodo' no kayam ningra. 小孩在舔自己的手指頭。
-manafoy(nafoy)    爬行，匍匐。Ma^edeng to a manafoy ko wawa ako. 我的孩子差不多會爬行。samolomolosa ko suﬁtay a manafoy. 士兵們在滾動著爬行。
+manafoy(nafoy)    爬行，匍匐。Ma^edeng to a manafoy ko wawa ako. 我的孩子差不多會爬行。samolomolosa ko sufitay a manafoy. 士兵們在滾動著爬行。
 manafoyay(nafoy)    ①  爬行著，匍匐著前進。②  指爬行者，匍匐者。Manafoyay cangra a tala'ayaw. 他們匍匐向前。
 manahay(nahay)    被陪同，陪伴，隨同活動。
 manahayay(nahay)    ①  被陪同著，陪伴著，隨同活動。② 指被陪同、陪伴的(對像)。
@@ -2770,7 +2769,7 @@ manayatay(nayat)    ①  延長了，延伸出來了。②  指延長、延伸�
 maneker(neker)    往下摁壓，被下壓。
 manekeray(neker)    ①  被摁壓下去，被壓下去。②  指被摁壓下去的(東西)。Manekeray no fakeloh ko kayam ako. 我的手被石頭壓下。
 manengel(nengel)    被浸泡，沈浸。Manengel ko felac. 米要泡起來。
-manengelay(nengel)    ①  被浸泡起來，沈浸著。②  指被浸泡的、沈浸的(對像，如衣物等)。Manengelay ko fafaca'en iso a riko' i ﬁntang. 你要洗的衣服泡在臉盆裡了。
+manengelay(nengel)    ①  被浸泡起來，沈浸著。②  指被浸泡的、沈浸的(對像，如衣物等)。Manengelay ko fafaca'en iso a riko' i fintang. 你要洗的衣服泡在臉盆裡了。
 manengneng(nengneng)    被看見，看見。同 ma^eneng。
 manengnengay(nengneng)    ①  被看見了，看見了。②  被看見的(對像)。Manengnengay ako ko kero iso. 我看見你跳舞。同 maenengay。
 manga'ay(nga'ay)    (表示同意、認可)好，可以。Manga'ay kako a tayra haw? 我可以去了吧？
@@ -2800,7 +2799,7 @@ mangangiciw(ngiciw)    [疊 2](檳榔果)兩人彼此掰半兒、掰成另一塊
 mangangiciway(ngiciw)    [疊 2]①  (檳榔果)兩人彼此掰半兒了。Mangangiciway kami to 'icep.我們輪流掰檳榔果了。②  指掰半兒的(雙方成員)。
 mangangoto(ngoto)    [疊 2](毛利人相見禮儀)彼此碰鼻子。
 mangangotoay(ngoto)    [疊 2]①  兩人彼此在碰鼻子了。②  指互相碰鼻子的(人)。
-mangar    大苧麻，四脈苧麻。同 laﬁwﬁway。
+mangar    大苧麻，四脈苧麻。同 lafiwfiway。
 mangarngar(ngarngar)    鋤草皮，啃草皮。Mangarngar ci wama i omah a matayal. 父親在田間辛勤地鋤耕。
 mangarngaray(ngarngar)    ①  在鋤草皮，在啃草皮了。②  指鋤耕或啃草皮的(對像)。
 mangarohngoh(ngarohngoh)    聲音低沈，低嗓音，變聲兒。同mangalohngoh。
@@ -2826,7 +2825,7 @@ mangayaw(ngayaw)    出征，討伐。
 mangayaway(ngayaw)    ①  出征了，討伐了。②  指出征者，討伐者。Mangayaway cangra toya niyaro'. 他們征討那個部落了。
 mangcel    山羌。同 mancel。Mangcelan 部落名稱。今台灣台東縣玉里鎮松浦村。
 mangelo'(ngelo')    ①  脫臼。②  疲憊不堪，精疲力盡。Mangelo' ko faloco' ako. 我心累極了。Mangelo' ko mama a matayal.爸爸忙得疲憊不堪。
-mangelo'ay(ngelo')    ①  脫臼了。②  累得站不起來了，疲憊不堪了。③  指脫臼或勞累不堪的(對像)。Mangelo'ay ko o'o ako, caka ﬁlo a tomireng. 我的腳脫臼了，無法站立。Mangelo'ay ci kaka a maomah.哥哥工作累壞了。
+mangelo'ay(ngelo')    ①  脫臼了。②  累得站不起來了，疲憊不堪了。③  指脫臼或勞累不堪的(對像)。Mangelo'ay ko o'o ako, caka filo a tomireng. 我的腳脫臼了，無法站立。Mangelo'ay ci kaka a maomah.哥哥工作累壞了。
 mangeref(ngeref)    倒塌，坍塌。Mangata to mangeref ko loma'. 房子快倒塌了。
 mangerefay(ngeref)    ①  倒塌了，坍塌了。②  指倒塌的(東西)。
 mangernger(ngernger)    被震動，搖動。Mangernger no romakatay a tosiya ko kayakay. 橋被行駛的車子所震動。
@@ -2869,7 +2868,7 @@ mangodangoday(ngodangod)    ①  (牙齒、柱子等)活動了，鬆動了。②
 mangodo(ngodo)    害羞，不好意思，禮讓。Mangodo kona wawa. 這個孩子會害羞的。Mangodo to a somowal. 不好意思說了。
 mangodoay(ngodo)    ①  害羞了，不好意思了，禮讓了。② 指害羞的(人)。Mangodoay cingra to nikaciraraw ningra. 他正為自己的過失而慚愧。
 mangodoen(ngodo)    感到害羞、慚愧。Mangodoen kora kaying , pasikiw sa a mineneng tora kapah. 姑娘感到不好意思，斜視著那位小伙子。
-mangodongodoen(ngodo)    [疊 2]感到十分害羞，羞愧不已。Mararaway kako , mangodongodoen to ﬁnaolan. 我犯了錯誤，愧對家鄉父老。
+mangodongodoen(ngodo)    [疊 2]感到十分害羞，羞愧不已。Mararaway kako , mangodongodoen to finaolan. 我犯了錯誤，愧對家鄉父老。
 mangohah(ngohah)    (指情侶)愛上，受戀，愛慕。Mangohah to ako tora kaying. 我愛上那位小姐。
 mangohahay(ngohah)    ①  (指情侶)愛上了，愛戀了，愛慕了。②  指被愛慕的(情侶)。Inaaw ,
 anini iraay ko makapahay a kaying    mangohahay takowanan. 媽媽，今天有個漂亮的小姐，愛上我了。
@@ -2925,7 +2924,7 @@ maokos(okos)    炫耀，誇耀，自誇。Maokos kora wawa. 那小孩喜歡自�
 maokosay(okos)    ①  炫耀了，誇耀起來了。②  指炫耀、誇耀的(對像)。Maokosay a kapah. 喜歡自吹自擂的年青人。同pasenengay。
 maolah(olah)    喜歡，喜愛。Maolah kako cingraan.我喜歡他。Maolah ko wawa a misalama. 孩子愛玩。
 maolahay(olah)    ①  喜歡了，喜愛了。Maolahay cingra to posi. 他喜歡貓了。②  指喜歡或喜愛某人某物的人。Maolahay to waco a wawa. 愛狗的小孩。
-maolahen(olah)    感到喜歡，由衷地喜歡。Maolahen ko safa toya posi , 'a'aﬁlid han ningra.弟弟因為從心裡喜那隻貓，就經常抱著牠。
+maolahen(olah)    感到喜歡，由衷地喜歡。Maolahen ko safa toya posi , 'a'afilid han ningra.弟弟因為從心裡喜那隻貓，就經常抱著牠。
 maolatek(olatek)    做事過份，超過限度。Maolatek ko piseti' ningra to wawa. 他打孩子打得過份了。
 maolatekay(olatek)    ①  做事過份了，超過限度了。②  指超過限度的(行為)。
 maoli(oli)    被打發、差遣。同 maito。
@@ -2967,13 +2966,13 @@ mapa'acofel('acofel)    被灌煙，輸送煙霧。Mapa'acofel to ko kamaro'an n
 mapa'acofelay('acofel)    ①  被灌煙了，輸送煙霧了。②  指被灌煙的(對像，目標)。
 mapa'ading('ading)    被保護、監護或袒護。Mapa'ading no 
 tamdamdaw ko maamaan a nga'ayay    a 'a'adopen. 各種好的動物得到人類的保護。
-mapa'adingay('ading)    ①  被保護、監護或袒護了。②  指被保護、監護或袒護的(對像)。Mapa'adingay no seﬁ' ko malitengay ato wawa. 老人和孩子被部落會所保護起來了。
+mapa'adingay('ading)    ①  被保護、監護或袒護了。②  指被保護、監護或袒護的(對像)。Mapa'adingay no sefi' ko malitengay ato wawa. 老人和孩子被部落會所保護起來了。
 mapa'adop('adop)    被獵捕、獵獲。Mapa'adop ko lokedaw. 豹子被獵捕。
 mapa'adopay('adop)    ①  被獵捕、獵獲了。②  指獵捕、獵獲的(動物)。Mapa'adopay nangra ko fafoy. 野豬被他們捕獲了。
 mapa'alay('alay)    被挎上，被挎在肩上。Mapa'alay no kapah no makapahay a dofot. 美麗的情人袋讓小伙子挎起來。
 mapa'alayay('alay)    ①  被挎起來了，被挎在肩上了。② 指被挎起來的(對像，如番刀等)。Mapa'alayay niyam ko funus. 番刀我們挎起來了。
 mapa'aliwac('aliwac)    被放假，準許放假。Mapa'aliwac to ko mitiliday anini. 學生今天放假。
-mapa'aliwacay('aliwac)    ①  被放假了，準許放假了。②  指獲準放假的(對像)。Toya paﬁlongan 
+mapa'aliwacay('aliwac)    ①  被放假了，準許放假了。②  指獲準放假的(對像)。Toya pafilongan 
 mapa'aliwacay ko matayalay a    ma^emin. 春節那天，工人都放假了。
 mapa'alofo('alofo)    送酬金，送紅包，行賄。
 mapa'alofoay('alofo)    ①  送酬金了，送紅包了，行賄了。② 指送酬金或紅包的(對像)，行賄者。Mapa'alofoay a tamdaw. 行賄者，送紅包的人。
@@ -2998,7 +2997,7 @@ mapa'is'isay('is'is)    ①  被剃掉鬍子了。②  指被剃掉鬍子的(對
 mapa'iwas('iwas)    被劃行，被搖槳行船。
 mapa'iwasay('iwas)    被划行，被搖槳行船。Mapa'iwasay niyam ko tamina. 船被我們划行了。
 mapa'odax('odax)    得到人家贈送的糖，被放糖。
-mapa'odaxay('odax)    ①  得到送給的糖了，被放糖了。。②  得到糖或被放糖的(對像) Mapa'odaxay no wina ko safa. 弟弟得到母親送的糖了。Mapa'odaxay ko kaﬁ ako. 我的咖啡放糖了。
+mapa'odaxay('odax)    ①  得到送給的糖了，被放糖了。。②  得到糖或被放糖的(對像) Mapa'odaxay no wina ko safa. 弟弟得到母親送的糖了。Mapa'odaxay ko kafi ako. 我的咖啡放糖了。
 mapa'orip('orip)    被救活，得救。Mapa'orip ko siri. 山羊會得救的。
 mapa'oripay('orip)    ①  被救活了，得救了。②  指救活的(對像)。Mapa'oripay no maomahay koya ma'okotay a 'oner. 凍僵的蛇被農夫救活了。
 mapa'orong('orong)    被人扛在肩上、被付予責任。Mapa'orong kako tora pawti. 我扛那麻袋了。Mapa'orong to demak no niyaro'. 被付予部落的工作。
@@ -3021,7 +3020,7 @@ mapaaro'(aro')    允許他人坐或住，(房子)被租賃。
 mapaaro'ay(aro')    ①  被租賃了，出租了。②  指被租賃、出租的(房子等)。Mapaaro'ay ako ko tao toni a loma' ako. 我這間房屋出租給別人了。
 mapaaw(paaw)    感到迷惑不解，感到費解。
 mapaaway(paaw)    ①  感到迷惑不解了，令人費解了。。②  指感到迷惑、費解的(對像) Mapaaway kako to kaira ningra. 我對他的到來百思不得其解。
-mapaca'edong(ca'edong)    被套上，被穿上。Mapaca'edong kako to riko' no suﬁtay. 我會穿上軍裝的。
+mapaca'edong(ca'edong)    被套上，被穿上。Mapaca'edong kako to riko' no sufitay. 我會穿上軍裝的。
 mapaca'edongay(ca'edong)    ①  被套上了，被穿上了。②  指被套上或穿上的(對像)。Mapaca'edongay to ako ko kolong to talo'odan. 牛被我套上牛軛了。
 mapacacorok(corok)    [疊 2]被派去輪流、輪班(做)。Mapacacorok kami a mihimaw to kamatangan. 我們要受命輪班去守衛開墾的荒地。
 mapacacorokay(corok)    [疊 2]①  被派去輪流、輪班(做) 了。②  指派去輪流、輪班的(對像)。Mapacacorokay ko wawa a romadiw.孩子被叫去輪流唱歌了。
@@ -3044,7 +3043,7 @@ mapacamolay(camol)    ①  被摻上了，被加上某物了。②  指被允許
 mapacaracor(caracor)    被逼迫，被催促。同 mapacorcor。Mapacaracor kami a minokay. 我們被迫回去。
 mapacarcar(carcar)    得到歇息、暫停的機會，被允許歇息、暫停。Mapacarcar kako a maro' itini. 我被允許坐在這裡。
 mapacarcaray(carcar)    ①  得到歇息、暫停的機會了，被允許歇息、暫停了。②  指得到允許歇息、暫停的(對像)。Mapacarcaray ni wama ako kako a mafuti'. 我得到我父親的許可睡覺歇息了。
-mapace'er(ce'er)    被插上或埋上竹尖。Mapace'er ko ﬁtonay i taliyok no niyaro'. 刺竹插在村子的四周。
+mapace'er(ce'er)    被插上或埋上竹尖。Mapace'er ko fitonay i taliyok no niyaro'. 刺竹插在村子的四周。
 mapace'eray(ce'er)    ①  被插上或埋上竹尖了。②  指被插上的(竹子等)。
 mapacedeng(cedeng)    被放慢速度，減慢。Mapacedeng ko koliciw ako. 我的腳踏車要放慢速度。
 mapacedengay(cedeng)    ①  被放慢速度了，減慢了。②  指被減慢速度的(對像，如車輛)。Mapacedengay ko cinamalay a micomod i siyataw. 火車減慢速度進火車站了。
@@ -3080,12 +3079,12 @@ mapaconek(conek)    被插入。
 mapaconekay(conek)    被插入了。或被插入的(東西)。
 mapaconekay(conek)    ①  (土)被牲口拱起來了。②  指被拱
 mapaconged(conged)    被封鎖，被阻擋。Mapaconged ko lalan. 道路被封鎖。同 mapadenget。
-mapacongeday(conged)    (被封鎖了，被阻擋了。(指被封鎖或阻擋的(對像)。Mapacongeday noya suﬁtay ko pinokayan niyam. 我們回去的地點被那些士兵封鎖了。同mapadengetay。
-mapacoracoray(caracor)    (被逼迫了，被催促了。②  指被逼迫或被催促的(對像)。Mapacoracoray ko ﬁnawlan a misakuli. 鄉親被迫去當搬運工了。
+mapacongeday(conged)    (被封鎖了，被阻擋了。(指被封鎖或阻擋的(對像)。Mapacongeday noya sufitay ko pinokayan niyam. 我們回去的地點被那些士兵封鎖了。同mapadengetay。
+mapacoracoray(caracor)    (被逼迫了，被催促了。②  指被逼迫或被催促的(對像)。Mapacoracoray ko finawlan a misakuli. 鄉親被迫去當搬運工了。
 mapacepac(pacepac)    (穀物)被摔打脫粒。
 mapacepacay(pacepac)    ①  (榖物)被甩打脫粒了。②  指被甩打脫粒的(榖物)。Mapacepacay niyam koya miritritan namo a ^emi.你們割好的麥子被我們碾好脫粒了。
 mapadac(padac)    被削皮，被去掉表皮。同 mapodac。
 mapadacay(padac)    ①  被削皮了，被去掉表皮了。②  指被削皮的(東西)。Mapadacay ko fadic no pinko. 蘋果皮被削乾淨了。
 mapadang(padang)    被幫助，被幫忙。
-mapadangay(padang)    ①  被幫助了，被幫忙了。②  指接受幫助、協助的(對像)。Mapadangay no ﬁyaw kami a misaloma'. 我們在鄰居協助之下蓋房子。
+mapadangay(padang)    ①  被幫助了，被幫忙了。②  指接受幫助、協助的(對像)。Mapadangay no fiyaw kami a misaloma'. 我們在鄰居協助之下蓋房子。
 mapadawdaw(dawdaw)    (燈具)被點燃，被點亮。

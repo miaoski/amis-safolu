@@ -1,4 +1,3 @@
-
 s    阿美語的輔音之一，音值[S]，屬舌葉清擦音。s 在 i 母音之前齶化 , 讀舌面前清擦音[s-]。在詞終位置時略有長音化。
 sa    前加成分。主要表示：①  創造、製造。如 saloma' 蓋房子，sakikay 製造機器；②  種植、栽培。如 sadateng 種菜，sacapox 育苗；③  屠宰、宰殺。如 safafoy 殺豬；沝 烹飪、炊事。如saranam 做早飯；沀 參與群體性的宗教或祭祀活動。如 salisin 祈禱、祭祀，sakeristo 參加基督教；泞 刻意謀求、促成、致使。如 safaloco' 研究，sadadahal 拓寬，safangcal 淨化心靈。
 sa    前加成分。主要表示：①  工具。如sarosaros 鋸子，sasenat 耙子；②  專用物品。sapaloma 種子，sapahika 祭祀用品；③  專用場所。如 sailoh 焚獵場。safariw 開墾出來的山地。
@@ -29,8 +28,8 @@ sa'adipel('adipel)    築籬笆。參見 misa'adipel。
 sa'adipelen('adipel)    把…築籬笆、築籬笆吧。Sa'adipelen ako ko sadatengan. 我把菜園圍上籬笆。
 sa'adiyam('adiyam)    種生薑、小辣椒。參見 misa'adiyam。
 sa'adiyamen('adiyam)    把…種生薑、小辣椒吧。Hamaan a sa'adiyamen, ca to kanga'ay a paliwalen ! 種生薑做什麼用，不要賣出去！
-sa'afinong('afinong)    種椰子。參見 misa'aﬁnong。
-sa'afinongen('afinong)    把…種椰子、種椰子吧。Sa'aﬁnongen niyam i 'a'ayawan no loma'. 我們要在房子前面種上椰子樹。
+sa'afinong('afinong)    種椰子。參見 misa'afinong。
+sa'afinongen('afinong)    把…種椰子、種椰子吧。Sa'afinongen niyam i 'a'ayawan no loma'. 我們要在房子前面種上椰子樹。
 sa'afoyong('afoyong)    茸茸地一堆草。參見 masa'afoyong。
 sa'afesaw('afesaw)    加溫、加熱。參見 misa'afesaw。
 sa'afesawen('afesaw)    把…加溫、加熱、加溫吧。Sa'afesawen ko patafoan no kaka. 把哥哥的飯盒加熱一下。
@@ -41,14 +40,14 @@ sa'ako'akong('akong)    [疊 3]做成彎彎曲曲的樣子。參見masa'ako'akon
 sa'ako'akongsa('akong)    [疊 3]呈彎彎曲曲的樣態。Sa'ako'akongsa ko misowalan ira,mafokilay a tengilen ako. 他說的話拐彎抹角的，我一點也聽不明白。
 sa'akong('akong)    扭曲、弄彎。參見 misa'akong。
 sa'akongen('akong)    把…扭曲、弄彎。Sa'akongen kora marad a saseti'. 把那根鐵棍子弄彎。
-sa'alafin('alafin)    長久地堅持。參見 misa'alaﬁn。
-sa'alafinen('alafin)    把…做久、長久地堅持。Aka sa'alaﬁnen a caciyaw koya adadaay !不要同病人長時間的交談！
-sa'alafinsa('alafin)    呈長久的狀態、久久地。Sa'alaﬁnsa cingra a micomod i pongkang. 他紮進洞裏好久好久。
+sa'alafin('alafin)    長久地堅持。參見 misa'alafin。
+sa'alafinen('alafin)    把…做久、長久地堅持。Aka sa'alafinen a caciyaw koya adadaay !不要同病人長時間的交談！
+sa'alafinsa('alafin)    呈長久的狀態、久久地。Sa'alafinsa cingra a micomod i pongkang. 他紮進洞裏好久好久。
 sa'alangad('alangad)    做飯團。參見 misa'alangad。
 sa'alangaden('alangad)    把…做飯團、做飯團吧。Sa'alangaden 
 koni hemay hakakaenen ako i    pi'adopan ! 把這糌粑做成飯糰吧，做我打獵期間的食物。
 sa'alapit('alapit)    做筷子。參見 misa'alapit。
-sa'alapiten('alapit)    把…做筷子、做筷子吧。'Atekakay ko ﬁtonay nga'ay to a sa'alapiten. 刺竹硬、適合做筷子。
+sa'alapiten('alapit)    把…做筷子、做筷子吧。'Atekakay ko fitonay nga'ay to a sa'alapiten. 刺竹硬、適合做筷子。
 sa'alay('alay)    帶子、背帶。
 sa'alifet('alifet)    使勁、用力。參見 misa'alifet。
 sa'alifeten('alifet)    使勁、用力地把…做。Sa'alifeten ko pitekol to mali saan ko singsi a ko.老師對我說投球要用力。Sa'alifeten ko o'o ako a mimi'mi' ! 請用力地把我的腳捏一捏！
@@ -96,7 +95,7 @@ sa'apeladen('apelad)    把…做成塊塊的米糕、米糰。Sa'apeladen no ka
 sa'apeladhan('apelad)    特地把…做米糕、米糰。Tada nga'ayay kora felac, sa'apeladhan ako.那個米質量好極了，我就把它做米糕。
 sa'apengpengsa('apengpeng)    胖墩墩的樣子。Sa'apengpengsa to koni a wawa a maso^so. 那個孩子長得胖墩墩的。
 sa'aperad('aperad)    魚蝦密密層層地聚集著。參見masa'aperad。
-sa'aperadsa('aperad)    密密層層地聚集著。Sa'aperadsa ko fadadi'ol, ca to kaﬁlo a misa'osi. 蝌蚪密密麻麻的，數也數不清。
+sa'aperadsa('aperad)    密密層層地聚集著。Sa'aperadsa ko fadadi'ol, ca to kafilo a misa'osi. 蝌蚪密密麻麻的，數也數不清。
 sa'aporaw('aporaw)    弄成凸現的樣子。Sa'aporaw ko defak to mamowaday no konga. 壟畦被番薯拱得凸了出來。參見 misa'aporaw。
 sa'aporawen('aporaw)    把…凸現出來、堆成山形。Sa'aporawen ako ko kodasing a mitaring. 我把花生堆積如山。
 sa'aporawsa('aporaw)    呈凸現、山形的狀態。S'aporawsa to a mataring ko ekim i laloma'. 屋裏的金子堆得冒了尖兒。
@@ -137,8 +136,8 @@ saaporaporawsa(aporaw)    [疊 2]個個堆積成山形似的、尖尖的。Saapo
 saaporaw(aporaw)    堆積成山形。參見 misaaporaw。
 saaporawen(aporaw)    把…堆積成山形。Saaporawen ko fonak. 把砂子堆起來。
 sa'edef('edef)    門板、門扇；門閂。
-sa'efit('efit)    欺騙、欺詐。同 safana'。參見misa'eﬁt。
-sa'efiten('efit)    把…欺騙。Mana sa'eﬁten kako saw?為什麼欺騙我呢？同 safana'en。
+sa'efit('efit)    欺騙、欺詐。同 safana'。參見misa'efit。
+sa'efiten('efit)    把…欺騙。Mana sa'efiten kako saw?為什麼欺騙我呢？同 safana'en。
 sa'eked('eked)    另起爐竈、另立私黨。參見 misa'eked。
 sa'ekeden('eked)    把…另起爐竈、另立私黨。Sa'ekeden niyam ko parod. 我們決定另起爐灶。
 sa'elec('elec)    設陷阱、誘入陷阱。參見 misa'elec。
@@ -271,10 +270,10 @@ saasik(asik)    掃帚、掃把。
 saatef(atef)    設置圈套。參見 misaatef。
 saatefen(atef)    給…設圈套、設圈套吧。Saatefen a mi'adop. 設套打獵。
 saawaay(awa)    至少、最低限度。Ano saawaay 'i pafelien kako tolo a rimood. 至少必須給我 3 圓錢。
-saca    語氣助詞。似的、那樣似的；怎麼也、仍然是那樣子的。Hato mafana'ay saca koya kolong a mitengil to sowal ira.那頭牛好象聽懂他的話似的。Malaﬁ to awa saca a minokay. 吃晚飯了，還是沒有回來。
+saca    語氣助詞。似的、那樣似的；怎麼也、仍然是那樣子的。Hato mafana'ay saca koya kolong a mitengil to sowal ira.那頭牛好象聽懂他的話似的。Malafi to awa saca a minokay. 吃晚飯了，還是沒有回來。
 saca'of(ca'of)    應答、回響應答的工具。O no 'amis ko saca'of ako ciniraan. 我用阿美話應答他。
 sacacak(cacak)    烹飪、作炊。參見 misacacak。
-sacacaken(cacak)    把…烹飪、作炊、做飯吧。Miringaring to ko cidal, sacacaken ko salaﬁ. 太陽下山了，做晚飯吧！
+sacacaken(cacak)    把…烹飪、作炊、做飯吧。Miringaring to ko cidal, sacacaken ko salafi. 太陽下山了，做晚飯吧！
 sacaciyaw(ciyaw)    [疊 1]交談、商談。參見misacaciyaw。
 sacaciyawen(caciyaw)    [疊 1]使…交談、商談、交談吧！
 sacaciyawsa(caciyaw)    [疊 1]交談著、商談著、七嘴八舌地談起來。Sacaciyawsa canira i laloma'. 他們在屋裏七嘴八吞交談著。Sacaciyawsa kami tatosa malacafay a romakat. 我們兩人談著話一起走了。Cima ko i aotalay? sacaciyawsa mimaanay canira? 外面是誰呀？七嘴八舌的，他們上(是在)幹什麼的？
@@ -369,7 +368,7 @@ sadadingoan(dadingo)    把…做玻璃、眼鏡吧。
 sadadoy(dadoy)    稱重量的工具(如天平、稱子等)。
 sadaksa(sadak)    自然而然地出現著。Sadaksa ko sofor mikilim to kakaenen. 小松鼠出來覓食。
 sadak    出來、出去。同 hadak。參見 misadak。
-sadaken(sadak)    把…弄出來。Sadaken ko nanom i ﬁntang ! 把臉盆裏的水倒出去吧！
+sadaken(sadak)    把…弄出來。Sadaken ko nanom i fintang ! 把臉盆裏的水倒出去吧！
 sadama to palapalaan    [合成詞]生態保育。
 sadamdam(damdam)    種辣椒。參見 misadamdam。
 sadamdaman(damdam)    辣椒園。
@@ -445,11 +444,11 @@ saemelen(saemel)    把…弄涼爽。Tada faedet, saemelen i kalaeno no kilang 
 saeming(eming)    弄小、弄成一點點。同 saemang。參見misaeming。
 saemingen(eming)    把…弄小、弄成一點點。同 saemang。
 saemo(emo)    做年糕。參見 misaemo。
-saemoen(emo)    把…做年糕、做年糕吧。Mangata to ko paﬁlongan, saemoen no wina. 春節快到了，媽媽要做年糕。
+saemoen(emo)    把…做年糕、做年糕吧。Mangata to ko pafilongan, saemoen no wina. 春節快到了，媽媽要做年糕。
 saemoy(emoy)    種常春藤。參見 misaemoy。
 saemoyen(emoy)    把…種常春藤吧。Saemoyen ako sapifalod to maamaan. 我去採藤子做捆東西的繩子。
 saeneenengen(eneng)    [疊 2]把…仔細看、反復看。Saeneenengen ako kawra ca kafana' o maan koni sa. 我看了又看，可是不知道這是什麼。
-saeneenenghan(eneng)    [疊 2]特地把…仔細看、反復看。Saeneenenghan ira kora mi'orongay to kowang a soﬁtay. 他把那個扛槍的大兵仔細端詳。
+saeneenenghan(eneng)    [疊 2]特地把…仔細看、反復看。Saeneenenghan ira kora mi'orongay to kowang a sofitay. 他把那個扛槍的大兵仔細端詳。
 saeneenengsa(eneng)    [疊 2]往周圍觀看著，看來看去的樣子。O maan ko mienengan nona tamdaw hokini? saeneenengsa to i tatihitihi. 那個人到底在看什麼？往周圍看來看去的。
 saepah('epah)    釀酒。參見 misaepah。
 saepahen('epah)    把…釀酒、釀酒吧。Mangata to ko kiloma'an saepahen to ! 豐年節快到了，釀酒吧！
@@ -494,7 +493,7 @@ safaes(faes)    做小米糕。參見 misafaes。
 safaesen(faes)    把…做小米糕、做小米糕吧！
 safafa(fafa)    背帶、背嬰帶。
 safafafelin(fafelin)    [疊 1]翻來覆去、坐臥不安。參見misafafafelin。
-safafafelinsa(fafelin)    [疊 1]翻來覆去的樣子。Safafafelinsa kako ca kafuti' a masalaﬁi. 我整夜翻來覆去的，睡不著。
+safafafelinsa(fafelin)    [疊 1]翻來覆去的樣子。Safafafelinsa kako ca kafuti' a masalafii. 我整夜翻來覆去的，睡不著。
 safafahi(fafahi)    娶某人為妻。參見 misafafahi。
 safafahian(fafahi)    [疊 1]如同女人樣、忸怩作態。參見misafafahian。
 safafahien(fafahi)    把…娶為妻子。Ano safafahien kona makapahay a fafahiyan, tada nga'ay. 如果娶這個漂亮女人做妻子，就太好了。
@@ -518,7 +517,7 @@ safala'fasa(fala'fa)    呈溫熱的狀態、溫熱溫熱地。O karokrok ho kon
 safalat(falat)    南風。
 safalinono(falinono)    種糯米稻。參見 misafalinono。
 safalinonoen(falinono)    把…種糯米稻。Safalinonoen anini a mihecaan. 今年一定種糯米稻。
-safaliwfiw(faliwfiw)    種大苧麻。參見 misafaliwﬁw。
+safaliwfiw(faliwfiw)    種大苧麻。參見 misafaliwfiw。
 safalo(falo)    種水果。參見 misafalo。
 safaloan(falo)    果園。Hakowa ko kakahad na safaloan namo? 你們的果園有多大？
 safaloco'(faloco')    用心、深思熟慮。參見 misafaloco''。
@@ -579,54 +578,54 @@ safelifelinsa(felin)    [疊 2]翻來覆去的樣子。同safelifelihsa。
 safelih(felih)    翻動、翻來覆去。參見 misafelih。
 safelihen(felih)    把…翻動、翻來覆去。Safelihen ko sasing iso a mipateli i aetoan. 把你的相片翻過來放在桌子上。
 safelin(felin)    翻動、翻來覆去。同 safelih。
-safelinen(felin)    把…翻動、翻來覆去。Safelinen no soﬁtay kora tosiya i lalan. 士兵把汽車推翻在路上。同 safelih。
+safelinen(felin)    把…翻動、翻來覆去。Safelinen no sofitay kora tosiya i lalan. 士兵把汽車推翻在路上。同 safelih。
 saferaang    等得不耐煩、遷延。參見 masaferaang。
 safereng    動物群體湧出、移動。同 safeleng。參見 masafereng。
 safeso(feso)    燎泡、起泡。參見 masafeso。
 safet    鏈子。
-safi    刺、戳。參見 misaﬁ。
-safi'    用刺槍投射、刺殺。參見 misaﬁ'。
-safi'en(safi')    把…投射、刺殺。Saﬁ'en ko idoc. 把槍投射出去。
-safi'han(safi')    特地把…投射、刺殺。Saﬁ'han nora mi'adopay a tamdaw ko idoc, mapatay to kora tomay. 獵人把長槍一投射，熊被打死了。
-saficing(ficing)    做米升(量米器具)。參見 misaﬁcing。
-saficingen(ficing)    把…做米升、做米升吧。Saﬁcingen ako ko ﬁtonay a tenos. 我把刺竹節做米升。
-safidaol(fidaol)    種胡瓜、甜瓜。參見 misaﬁdaol。
-safidaolan(fidaol)    種植胡瓜、甜瓜的地方。Saﬁdaolan i sadatengan. 在菜園裡種甜瓜。
+safi    刺、戳。參見 misafi。
+safi'    用刺槍投射、刺殺。參見 misafi'。
+safi'en(safi')    把…投射、刺殺。Safi'en ko idoc. 把槍投射出去。
+safi'han(safi')    特地把…投射、刺殺。Safi'han nora mi'adopay a tamdaw ko idoc, mapatay to kora tomay. 獵人把長槍一投射，熊被打死了。
+saficing(ficing)    做米升(量米器具)。參見 misaficing。
+saficingen(ficing)    把…做米升、做米升吧。Saficingen ako ko fitonay a tenos. 我把刺竹節做米升。
+safidaol(fidaol)    種胡瓜、甜瓜。參見 misafidaol。
+safidaolan(fidaol)    種植胡瓜、甜瓜的地方。Safidaolan i sadatengan. 在菜園裡種甜瓜。
 safidaolen(fidaol)    把…種胡瓜、甜瓜、種胡瓜、甜瓜吧！
-safidengal(fidengal)    種杉木。參見 misaﬁdengal。
+safidengal(fidengal)    種杉木。參見 misafidengal。
 safidengalan(fidengal)    杉木園。
-safidengalen(fidengal)    把…種杉木、種杉木吧。Saﬁdengalen i tatokotokosan. 要在山上種杉木。
-safien(safi)    把…戳穿、刺殺。Saﬁen kora mancel a nipatay to kotang. 用標槍把鹿刺死。
-safiher(fiher)    造車輪。參見 misaﬁher。
-safiheren(fiher)    把…造車輪、造車輪吧。Saﬁheren ako koniya sapad. 我要把這塊木板車輪。
-safihekac(fihekac)    做陷阱(捕鳥器)。參見 misaﬁhekac。
-safihekacen(fihekac)    把…做陷阱、做陷阱吧。Saﬁhekacen ira kora 'aol. 他把那根竹子做成捕獵的陷阱。
+safidengalen(fidengal)    把…種杉木、種杉木吧。Safidengalen i tatokotokosan. 要在山上種杉木。
+safien(safi)    把…戳穿、刺殺。Safien kora mancel a nipatay to kotang. 用標槍把鹿刺死。
+safiher(fiher)    造車輪。參見 misafiher。
+safiheren(fiher)    把…造車輪、造車輪吧。Safiheren ako koniya sapad. 我要把這塊木板車輪。
+safihekac(fihekac)    做陷阱(捕鳥器)。參見 misafihekac。
+safihekacen(fihekac)    把…做陷阱、做陷阱吧。Safihekacen ira kora 'aol. 他把那根竹子做成捕獵的陷阱。
 safilong(filong)    大炮、炮彈。
-safilowa(filowa)    做籮筐。參見 misaﬁlowa。
-safilowaen(filowa)    把…做籮筐、做籮筐吧。Saﬁlowaen ko ta'angayay a ﬁlowa. 做個大籮筐吧！
-safinacadan(finacadan)    組成民族、種族。參見 misaﬁnacadan。
-safinacadanen(finacadan)    把…組成民族、種族。Saﬁnacadanen ko no 'Amis a tamdaw. 把 'Amis 人組成一個民族。
-safintang(fintang)    做臉盆。參見 misaﬁntang。
-safiro'oksa(firo'ok)    鼓著腮幫子的樣子。Saﬁro'oksa ko ﬁ'ik noya tapang a maketer. 大王氣得腮幫子鼓鼓的。
-safirofiro(firo)    [疊 2]不斷掙扎，趕緊做。參見misaﬁroﬁro。
+safilowa(filowa)    做籮筐。參見 misafilowa。
+safilowaen(filowa)    把…做籮筐、做籮筐吧。Safilowaen ko ta'angayay a filowa. 做個大籮筐吧！
+safinacadan(finacadan)    組成民族、種族。參見 misafinacadan。
+safinacadanen(finacadan)    把…組成民族、種族。Safinacadanen ko no 'Amis a tamdaw. 把 'Amis 人組成一個民族。
+safintang(fintang)    做臉盆。參見 misafintang。
+safiro'oksa(firo'ok)    鼓著腮幫子的樣子。Safiro'oksa ko fi'ik noya tapang a maketer. 大王氣得腮幫子鼓鼓的。
+safirofiro(firo)    [疊 2]不斷掙扎，趕緊做。參見misafirofiro。
 safirofiroen(firo)    [疊 2]掙扎一下吧。
-safirofirosa(firo)    [疊 2]不斷掙扎著，趕著做。Saﬁroﬁrosa sapilaliwaw ira. 他不斷掙扎著想逃跑。Saﬁroﬁrosa a milaheci to tayal. 趕著完工。
-safit    用布帶子背嬰兒。參見 masaﬁt。
-safita'o(fita'o)    造小池子。參見 misaﬁta 'o。
-safita'oen(fita'o)    把…造小池子、造小池子吧。Saﬁta'oen niyam hasapifanawan to kaysing. 我們造個小池子做洗碗的地方。
+safirofirosa(firo)    [疊 2]不斷掙扎著，趕著做。Safirofirosa sapilaliwaw ira. 他不斷掙扎著想逃跑。Safirofirosa a milaheci to tayal. 趕著完工。
+safit    用布帶子背嬰兒。參見 masafit。
+safita'o(fita'o)    造小池子。參見 misafita 'o。
+safita'oen(fita'o)    把…造小池子、造小池子吧。Safita'oen niyam hasapifanawan to kaysing. 我們造個小池子做洗碗的地方。
 safitangen(fintang)    把…做臉盆、做臉盆吧。
-safitay(fitay)    做篩子。參見 misaﬁtay。
+safitay(fitay)    做篩子。參見 misafitay。
 safitayen(fitay)    把…做篩子、做篩子吧！
-safiten(safit)    用帶子把…背起來。Saﬁten nikaka ko safa a nifafa. 姊姊用背帶把弟妹背著。
-safiting(fiting)    做耳環。參見 misaﬁting。
-safitingen(fiting)    把…做耳環、做耳環吧。Saﬁtingen koni a ekim ! 把這塊金子做耳環吧！
-safiwa'(fiwa')    種枇杷。參見 misaﬁwa'。
+safiten(safit)    用帶子把…背起來。Safiten nikaka ko safa a nifafa. 姊姊用背帶把弟妹背著。
+safiting(fiting)    做耳環。參見 misafiting。
+safitingen(fiting)    把…做耳環、做耳環吧。Safitingen koni a ekim ! 把這塊金子做耳環吧！
+safiwa'(fiwa')    種枇杷。參見 misafiwa'。
 safiwa'an(fiwa')    枇杷園。
-safiwa'en(fiwa')    把…種枇杷、種枇杷吧。Saﬁwa'en ira i safaloan. 他要在果園種枇杷。
+safiwa'en(fiwa')    把…種枇杷、種枇杷吧。Safiwa'en ira i safaloan. 他要在果園種枇杷。
 safocingkay(focingkay)    組成婦女會。參見 misafocingkay。[日語借詞]
 safocingkayen(focingkay)    把…組成婦女會、組織婦女會吧。Safocingkayen ko i niyaro'ay a fafahiyan. 要把村裡的婦女組成婦女會。
 safocol(focol)    做箭鞘。參見 misafocol。
-safocolen(focol)    把…做箭鞘、做箭鞘吧。Safocolen ko raﬁr no malonen. 把鹿皮做箭鞘。
+safocolen(focol)    把…做箭鞘、做箭鞘吧。Safocolen ko rafir no malonen. 把鹿皮做箭鞘。
 safodawan(fodawan)    做金器、銀器。參見 misafodawan。
 safodawanen(fodawan)    把…做金器、銀器。
 safofo(fofo)    做漁筌。參見 misafofo。
@@ -645,7 +644,7 @@ safoladan(folad)    在有月亮的晚上幹活。
 safolaen(fola)    把…愚弄。Aka safolaen ko tao ! 不要愚弄別人！
 safolafola(fola)    [疊 2]裝傻，不正經。參見misafolafola。
 safolafolaen(fola)    [疊 2]把…消極怠工。Safolafolaen ira ko sakaomah. 他對作農抱消極怠工的態度。
-safaliwfiwsa(faliwfiw)    風颯颯的聲音。Safaliwﬁwsa ka fali i dadaya. 昨夜風聲颯颯作響。
+safaliwfiwsa(faliwfiw)    風颯颯的聲音。Safaliwfiwsa ka fali i dadaya. 昨夜風聲颯颯作響。
 safolo'(folo')    種箭竹。參見 misafolo''。
 safolo'an(folo')    箭竹園。
 safolo'en(folo')    把…種箭竹，種箭竹吧！
@@ -676,9 +675,9 @@ sahakhak(hakhak)    做糯米糕。參見 misahakhak。
 sahakhaken(hakhak)    把…做糯米糕、做糯米糕吧。Sahakhaken ko koesanay ! 做甜的米糕吧！
 sahako(hako)    做盒子、箱子。參見 misahako。
 sahakoen(hako)    把…做盒子、箱子。Sahakoen ako kora sapad. 我要把那塊木板做箱子。
-sahalafin(lafin)    堅持、長久做下去。參見 misahalaﬁn。
-sahalafinen(lafin)    把…長久堅持。Sahalaﬁnen ako a comikay. 我要堅持長期跑步。
-sahalafinsa(lafin)    長久地、永久地(做)。Sahalaﬁnsa cinira a maro' itira. 他長久地坐在那裏。
+sahalafin(lafin)    堅持、長久做下去。參見 misahalafin。
+sahalafinen(lafin)    把…長久堅持。Sahalafinen ako a comikay. 我要堅持長期跑步。
+sahalafinsa(lafin)    長久地、永久地(做)。Sahalafinsa cinira a maro' itira. 他長久地坐在那裏。
 sahalaka(halaka)    設計、策劃、計劃。參見 misahalaka。
 sahalakaen(halaka)    把…設計、策劃。Sahalakaen niyam ko sakamaomahaw niyam! 我們把勞動計劃設計討論一下吧！
 sahalamhamsa(halamham)    快活地期盼著。Enengen sahalamhamsa cinira to sapikalicaw to tamina. 看他坐船的願望是那樣迫切。Sahalamhamsa kami tamowanan a militemoh. 我們很迫切而快活地歡迎你們。
@@ -733,7 +732,7 @@ sahinatalasa(hinatala)    處於著急的樣子。Sahinatalasa cinira a mitala. 
 sahinghing(hinghing)    製作喜宴菜肴。參見 misahinghing。
 sahinghingen(hinghing)    把…製作喜宴菜肴、做喜宴菜肴吧。Oni a titi futing ato dateng o maamaan, nga'ay to a sahinghingen. 這些肉、魚和菜等等，好做喜宴了。
 sahinom(hinom)    慰問、撫慰。參見 misahinom。
-sahinomen(hinom)    把…慰問、撫慰。Sahinomen ko soﬁtay. 慰問士兵。
+sahinomen(hinom)    把…慰問、撫慰。Sahinomen ko sofitay. 慰問士兵。
 saho    仍然、仍舊；剛才。Itini saho kako a misalama. 我還在這裏逗留玩耍。Ihoni saho ko singsi a minokay. 先生剛才回家。
 saholaymay(holaymay)    種植蓬萊米。參見 misaholaymay。
 saholaymayan(holaymay)    種蓬萊稻的田地。
@@ -885,8 +884,8 @@ sakacio'o(o'o)    有腳、長腳的原因。
 sakacio'oaw(o'o)    希望有腳、長腳。
 sakaci'odihang('odihang)    有回聲的原因。
 sakaci'odinagaw('odihang)    希望有回聲。
-sakaci'ofil('ofil)    結繭的原因。Mararid to kako a maomah oni to ko sakaci'oﬁl no kamay ako. 我經常勞動，因此手結繭。
-sakaci'ofilaw('ofil)    希望結繭。Sakaci'oﬁlaw no kamay no wawa ira. 希望他孩子的手結繭。
+sakaci'ofil('ofil)    結繭的原因。Mararid to kako a maomah oni to ko sakaci'ofil no kamay ako. 我經常勞動，因此手結繭。
+sakaci'ofilaw('ofil)    希望結繭。Sakaci'ofilaw no kamay no wawa ira. 希望他孩子的手結繭。
 sakaci'orip('orip)    有生命活力的原因。Iraay ko nanom,iraay ko lahod i saseraan, oya to ko sakaci'orip. 地上有水，有空氣，因此有生命了。
 sakaci'oripaw('orip)    希望有生命活力。Sakaci'oripaw niyam itini. 我們希望這裡有生命力。
 sakaci'orong('orong)    扛東西的工具、原因。O 'onoc ko sakaci'orong to maamaan. 扁擔是扛東西的用具。
@@ -894,7 +893,7 @@ sakaci'orongaw('orong)    希望扛東西。Sakaci'orongaw niyam toni a fokeloh.
 sakaci'osaw('osaw)    有剩餘的原因。
 sakaci'osawaw('osaw)    希望有剩餘。Sakaci'osawaw iso to payso han? 你希望有剩錢嗎？
 sakaciadada(adada)    有病的原因。Ca kanga'ay ko tireng ira, oni ko sakaciadada ira. 他體質差，因此生病。
-sakaciadadaaw(adada)    希望有病、患病。Matalaw kako kalasoﬁtayan salaw sakaciadadaaw ako.我害怕當兵，所以希望生病。
+sakaciadadaaw(adada)    希望有病、患病。Matalaw kako kalasofitayan salaw sakaciadadaaw ako.我害怕當兵，所以希望生病。
 sakacica'ay(kacica'ay)    種橡皮樹。參見 misakacica'ay。
 sakacica'ayan(kacica'ay)    橡皮樹園。
 sakacica'ayen(kacica'ay)    把…種橡皮樹、種橡皮樹吧。Dadahalay ko aikoran na tokos sakacica'ayen to ! 山後很寬大，種橡皮樹吧！
@@ -903,7 +902,7 @@ sakacica'edonganaw(ca'edongan)    希望有袖子、袖口。
 sakacicafa(cafay)    想有夥伴。
 sakacicafay(cafay)    所以有夥伴的緣故。Iraay ko lokedaw itira, oya ko sakacicafay namo a romakat. 那裡有豹子，因此走路要有伴兒。
 sakacicafayaw(cafay)    希望有伙伴。Sakacicafayaw niyam a misalama. 玩耍時，我們希望有伙伴。
-sakacicamol(camol)    攙雜、摻混某物的工具。O sato ko sakacicamol to koﬁ. 咖啡加糖。
+sakacicamol(camol)    攙雜、摻混某物的工具。O sato ko sakacicamol to kofi. 咖啡加糖。
 sakacicamolaw(camol)    希望摻混某物。Sakacicamolaw ira to 'odax. 他想加糖。
 sakacicanem(canem)    有煙霧的原因。
 sakacicanemaw(canem)    希望有煙霧。Sakacicanemaw no romi'ad. 希望天有煙霧。
@@ -1101,7 +1100,7 @@ sakacikaysingaw(kaysing)    希望有飯碗。
 sakacikeled(keled)    有褶線、褶子的原因。
 sakacikeledaw(keled)    希望有褶線、褶子。
 sakacikemi(kemi)    胸部疼痛的原因。O niseti'an no tao ko falohang ira, oya ko sakacikemi ira.他的胸部曾被別人打過，因此胸部疼痛。
-sakacikemiaw(kemi)    希望出現疼痛。Ca kakahi cinira a malasoﬁtay, salaw sakacikemiaw ira. 他不願意當兵，因此希望得肺炎(體檢不合格)。
+sakacikemiaw(kemi)    希望出現疼痛。Ca kakahi cinira a malasofitay, salaw sakacikemiaw ira. 他不願意當兵，因此希望得肺炎(體檢不合格)。
 sakacikihar(kihar)    牽連、牽扯其中的原因，有閒暇。
 sakacikiharaw(kihar)    希望牽連、牽扯其中，希望有閒暇。
 sakacikilac(kilac)    分配、分享東西的原因。Mi'adopay to inacila kita a maemin, oya ko sakacikilac ita to titi. 因為昨天我們都去打獵了，所以分享到肉食。
@@ -1114,7 +1113,7 @@ sakacikool(kool)    生膿腫、疙瘩的原因。Makalatay no likes ko kayam ak
 sakacikoolaw(kool)    希望聲膿腫、疙瘩。
 sakacikoreng(koreng)    有陶器、土鍋的原因。Nao sakacikoreng no Fata'an pakacowaay?好哇，馬大鞍社擁有陶器的原因是從哪里來的？
 sakacikorengaw(koreng)    希望有陶器、土鍋。
-sakacikoto(koto)    生頭蝨的原因。Halaﬁnay ca to kasasaw ko fokes ako, oni ko sakacikoto. 我的頭髮好久沒洗了，所以生頭蝨。
+sakacikoto(koto)    生頭蝨的原因。Halafinay ca to kasasaw ko fokes ako, oni ko sakacikoto. 我的頭髮好久沒洗了，所以生頭蝨。
 sakacikotoaw(koto)    希望生頭蝨。
 sakacikowa'(kowa')    出產木瓜、通草的原因。Mamatangay ko sera itini, oni ko sakacikowa'. 這裡土壤肥沃，因此出產木瓜。
 sakacikowa'aw(kowa')    希望有木瓜、通草。Sakacikowa'aw niyam to adihayay. 我們希望長許多木瓜。
@@ -1164,7 +1163,7 @@ sakacilo'od(lo'od)    所以生頸瘤的原因。Pinaay a mihecaan ko kolong ako
 sakacilo'odaw(lo'od)    希望有頸瘤。Sakacilo'odaw noni a tadakolongay. 希望這頭黃牛長頸瘤。
 sakaciloma'(loma')    所以有房子(家室)的原因。(分家獨立) 
 sakaciloma'aw(loma')    希望有房子(家室)，想成家。(分家獨立) 
-sakacilosa'(losa')    所以流淚、有淚水的原因。Cowa kaﬁlo a mipariri' ko tatoloay a wawa,maedeng samaanen no wina ira, oya ko sakacilosa' ira. 撫養不住三個孩子，他們的母親無可奈何，她因此而流淚。
+sakacilosa'(losa')    所以流淚、有淚水的原因。Cowa kafilo a mipariri' ko tatoloay a wawa,maedeng samaanen no wina ira, oya ko sakacilosa' ira. 撫養不住三個孩子，他們的母親無可奈何，她因此而流淚。
 sakacilosa'aw(losa')    想流淚。Ma'ilol to iloma'ay a tamdaw sa, sakacilosa'aw nora kaying. 一想起家裡人，那如娘就想流淚。
 sakacilosid(losid)    給衣服鑲嵌裝飾物的原因。
 sakacilosidaw(losid)    想鑲嵌裝飾物。
@@ -1212,7 +1211,7 @@ sakacipaketo(paketo)    穿褲子的原因。Ta'angayay to ko wawa ako, oni ko s
 sakacipaketoaw(paketo)    想穿褲子。Sakacipaketoaw no wawa ira. 他的孩子想穿褲子。
 sakacipangkiw(pangkiw)    有一半餘額的原因。Tada maraay koni lalan, oni ko sakacipangkiw no karomakatan niyam. 這條路太遙遠了，所以我們只走了一半的路程。
 sakacipangkiwaw(pangkiw)    希望有一半餘額。Sakacipangkiwaw niyam. 我們希望達到一半的餘額。
-sakacipaodo'(odo')    鑲有瑪瑙、珠寶的原因。Oni ko nipa'acaan ako i Nanﬁ a odo', oni ko sakacipaodo' ira. 這是我在南非買下的珠寶，因此鑲有瑪瑙。
+sakacipaodo'(odo')    鑲有瑪瑙、珠寶的原因。Oni ko nipa'acaan ako i Nanfi a odo', oni ko sakacipaodo' ira. 這是我在南非買下的珠寶，因此鑲有瑪瑙。
 sakacipaodo'aw(odo')    希望鑲有瑪瑙、珠寶。Sakacipaodo'aw ira to fati ako. 他想給我的戒指鑲上瑪瑙。
 sakacipapah(papah)    長葉子的原因。Tainiay ko lalood, oni ko sakacipapah no kilakilang. 春天來了，樹木因此長葉子。
 sakacipapahaw(papah)    希望有葉子。Sakacipapahaw no kilang ato rengos. 樹木和青草要長葉子。
@@ -1294,7 +1293,7 @@ sakacisera(sera)    有土地的原因。Kakita'an niyam cinira,ora to ko sakaci
 sakaciseraaw(sera)    希望有土地。Sakaciseraaw ako. 我希望擁有領土。
 sakacita'dip(ta'edip)    有夾層、加襖的原因。Oni riko' ko nisariko'an ako i tiposan, oni ko sakacita'edip. 這是我冬天穿的衣服，因此有夾層。
 sakacita'dipaw(ta'dip)    希望有夾層、加襖。Sienaway anini,sakacita'dipaw ako to riko'. 今天冷，我想穿夾層衣服。
-sakacita'i(ta'i)    生銹的原因。Halaﬁnay to ca karenac koni a pawtaw, oya to ko sakacita'i na pawtaw. 這把斧頭好久沒有磨厲，因此生銹了。
+sakacita'i(ta'i)    生銹的原因。Halafinay to ca karenac koni a pawtaw, oya to ko sakacita'i na pawtaw. 這把斧頭好久沒有磨厲，因此生銹了。
 sakacita'iaw(ta'i)    希望生銹。Sakacita'iaw no pawtaw ira. 希望他的斧頭生銹。
 sakacitadah(tadah)    欠債的原因。Nicaliwan ako to 'ofad a payso ira, oya ko sakacitadah ako. 我借貸他一萬元，所以我欠債了。
 sakacitadahaw(tadah)    希望欠債。Sakacitadahaw ira to payso iso. 他想向你借債。
@@ -1372,7 +1371,7 @@ sakadademakaw(demak)    [疊 2]希望做事、幹活。Sakadademakaw ako i katay
 sakadang(kadang)    做手鐲、鼻環。參見 misakadang。
 sakadangen(kadang)    把…做手鐲、鼻環、做手鐲、鼻環吧。Sakadangen ira kora marad. 他把這鐵條做鐲子。
 sakadefit(defit)    生氣、發怒的方式。
-sakadefitaw(defit)    想生氣、發怒。Sakadeﬁtaw no wama takowanan. 父親想對我發怒。
+sakadefitaw(defit)    想生氣、發怒。Sakadefitaw no wama takowanan. 父親想對我發怒。
 sakadot(kadot)    划船。參見 misakadot。
 sakadoten(kadot)    把…操槳劃行、用力划船吧。Sakadoten nora kapah ko tamina i fafanawan. 那個小伙子要在湖裡划船。
 sakaemohsa(kaemoh)    光溜溜地、滑溜溜地。Sakaemohsa ka makorahay a fanoh. 黃色的毛滑溜溜的。enengen ko miso ! ta'angyay ko pinko ako sakaemohsa awa ko 'engid.你看！我的蘋果很大，光溜溜的沒有蟲傷。
@@ -1476,11 +1475,11 @@ sakala'afa'afassa('afas)    [疊 2]處於彼此互相搶劫、掠奪的狀態。
 sakala'odot('odot)    打架的對手、原因。Oyaan ko sakala'odot naira a malikaka. 他們兄弟因此打架。
 sakalacafayaw(cafay)    希望結成夥伴、伴侶。Sakalacafayaw kami a tatosa. 我們兩人想結伴。
 sakalaeka'sa(kalaeka')    發抖打顫的樣子。Sakalaeka'sa ko wadis ako a mahoni. 我的牙齒得得地打顫。
-sakalafi(lafi)    晚餐的食品、用具。O faes ko sakalaﬁniyam. 我們晚餐吃糯米糕。
-sakalafiaw(lafi)    想吃晚飯。Macahiway ko tiyad ako,sakalaﬁaw ako. 我肚子餓，我想吃晚飯。
-sakalafien(lafi)    把…做晚餐、做晚餐吧。Maraod to ko kalaﬁan, sakalaﬁen to ! 晚餐時間到了，煮晚餐吧！
-sakalafin(lafin)    露宿、過夜的用具、原因。Oni tana ko sakalaﬁn ako i pi'adopan. 這條毛毯是我在獵場過夜的臥具。
-sakalafinaw(lafin)    想露宿、過夜。Sakalaﬁnaw naira itira to dadaya. 他們晚上想在那裡過夜。參見 sapilaﬁnaw。
+sakalafi(lafi)    晚餐的食品、用具。O faes ko sakalafiniyam. 我們晚餐吃糯米糕。
+sakalafiaw(lafi)    想吃晚飯。Macahiway ko tiyad ako,sakalafiaw ako. 我肚子餓，我想吃晚飯。
+sakalafien(lafi)    把…做晚餐、做晚餐吧。Maraod to ko kalafian, sakalafien to ! 晚餐時間到了，煮晚餐吧！
+sakalafin(lafin)    露宿、過夜的用具、原因。Oni tana ko sakalafin ako i pi'adopan. 這條毛毯是我在獵場過夜的臥具。
+sakalafinaw(lafin)    想露宿、過夜。Sakalafinaw naira itira to dadaya. 他們晚上想在那裡過夜。參見 sapilafinaw。
 sakalaheci(heci)    取得成績、成果的緣故。Sakalaheci 
 niyam o malacecay to ko faloco'    niyam. 我們之所以取得成績，是因為我們一條心。
 sakalaheciaw(heci)    希望取得成績、成果。Sakalaheciaw no mita a pasifana' to sowal no 'Amis.希望我們在阿美語教學上取得成績。
@@ -1623,7 +1622,7 @@ sakanirkirsa(kanirkir)    匆匆忙忙地。Sakanirkirsa kami a romakat. 我們�
 sakaniw(kaniw)    說謊、撒謊、開玩笑。參見 misakaniw。
 sakaniwen(kaniw)    對…說謊、開玩笑。Aka sakaniwen kako ! 不要對我撒謊！
 sakaniwhan(kaniw)    特地對…說謊、撒謊。
-sakaolah(olah)    所以喜歡、熱愛。Onian ko sakaolah no ﬁyaw takowanan. 因此鄰居喜歡我。
+sakaolah(olah)    所以喜歡、熱愛。Onian ko sakaolah no fiyaw takowanan. 因此鄰居喜歡我。
 sakaolahan(olah)    令人喜歡、喜愛的。Sakaolahan koni a posi. 這隻貓令人可愛。
 sakaomah(omah)    地裏的活兒，農活。Tada adihay ko sakaomah iso. 你的農活太多了。
 saka'oradananay('orad)    天好像要下雨的樣子。
@@ -1730,7 +1729,7 @@ sakasepatay(sepat)    ①  第四了、第四個了。Sakasepatay ko safa ako. �
 sakatadipi(tadipi)    所以靠攏在一起的緣故。Sakatadipi kako i tapangan no kilang, ta'angayay ko fali. 我之所以緊靠在樹幹上，是因為風太大了吹來很好。
 sakatadipiaw(tadipi)    希望靠攏在一起。Sakatadipiaw ako kisowanan. 我希望靠攏你。
 sakatadipisa(tadipi)    因此就自動地靠攏在一起。Ta'angayay ko fali, sakatadipisa kako i 'ongcoy.因為風大，所以我就不自覺地緊靠著大石頭。
-sakatahira(ira)    到達的原因、時間。O laﬁi to ko sakatahira ako i loma'. 我到家已經半夜了。
+sakatahira(ira)    到達的原因、時間。O lafii to ko sakatahira ako i loma'. 我到家已經半夜了。
 sakataheka(taheka)    進餐用膳的工具。Oni a sakatahka o kaysing 'alapit piar kapia o maamaan.這些餐具是碗筷、大小盤子等等。
 sakatahekaaw(taheka)    希望會宴進餐。Sakatahekaaw nora tamdaw a maemin. 那些人都想進膳。
 sakatalaeno(laeno)    到下面、下凡人間的緣故。Caay ko sakatalaeno a lalan konini. 這不是往下面走的路。
@@ -1881,7 +1880,7 @@ sakeliwen(keliw)    把苧麻剝取、剝苧麻吧。Sakeliwen ko tata'isen to r
 sakenaw(kenaw)    種蔥。參見 misakenaw。
 sakenawan(kenaw)    種蔥的園地。
 sakenawen(kenaw)    把…種上蔥、種蔥吧。
-sako    語氣助詞。表示委婉的推測、判斷等語氣。Pakakaay ko laola namo i paﬁlongan sako ! 春節期間你們非常愉快吧！ Awa ko sasingaran, to^manay ko laloma' sako ! 有窗戶，屋裏很暗吧！
+sako    語氣助詞。表示委婉的推測、判斷等語氣。Pakakaay ko laola namo i pafilongan sako ! 春節期間你們非常愉快吧！ Awa ko sasingaran, to^manay ko laloma' sako ! 有窗戶，屋裏很暗吧！
 sako'edaw(ko'edaw)    弄長、加長。同 sakakaya。參見misako'edaw。
 sako'edaway(ko'edaw)    ①  最長了。Sako'edaway ko kiping ira,tatiihay a enengen ! 他的上衣最長，很難看。②  最長的。Sako'edaway a lalan. 最長的道路。
 sako'edawen(ko'edaw)    把…弄長、加長。Oya samimingay a 
@@ -1910,7 +1909,7 @@ sakoekoecsa(koec)    [疊 2]有意識地咳嗽幾聲。Sakoekoecsa cingra a paki
 sakoengelay(koengel)    ①  最嫩綠了。Sakoengelay ko kilakilang to canglah. 夏天樹木最綠了。②  最嫩綠的。Sakoengelay a papah. 最綠的葉子。
 sakoengelsa(koengel)    嫩綠的樣子。Sakoengelsa ko dateng a lomahad. 們的青菜長得嫩綠了。
 sakofit(kofit)    扣緊的用具、紐扣。
-sakofiten(kofit)    把…搞得一致起來。Sakoﬁten ko nafaloco'an ita. 要把我們的想法一致起來。
+sakofiten(kofit)    把…搞得一致起來。Sakofiten ko nafaloco'an ita. 要把我們的想法一致起來。
 sakofithan(kofitr)    特地把…扣緊使之一致。
 sakofitsa(kofit)    扣得緊密一致的樣子。
 sakohaw(kohaw)    煮湯、做湯。參見 misakohaw。
@@ -1965,7 +1964,7 @@ sakongaen(konga)    把…種番薯、種番薯吧。Oni a konga tada koesanay, 
 sakongtoxsa(kongtox)    板著面孔地、神色冷冰冰地。Sakongtoxsa ko laway ningra pasilaeno a mi^neng. 臉色冷冰冰地向下看。
 sakonis(konis)    劃線做記號。參見 misakonis。
 sakonisen(konis)    把…劃線做記號。Sakonisen ira ko kamaro'an ira a eto. 他把坐的桌子劃線做記號。
-sakookoolsa(kool)    [疊 2]渾身起許多雞皮疙瘩的樣子。Sakookoolsa to ﬁcekot ko tireng ningra a maemin. 身上因為抽搐而起許多雞皮疙瘩。
+sakookoolsa(kool)    [疊 2]渾身起許多雞皮疙瘩的樣子。Sakookoolsa to ficekot ko tireng ningra a maemin. 身上因為抽搐而起許多雞皮疙瘩。
 sakopid(kopid)    編織藤籃。參見 misakopid。
 sakopiden(kopid)    把…編織藤籃、編織藤籃吧。Sakopiden ira kora 'oway. 她把那些藤子編簍筐。
 sakopol(kopol)    鳥的爪子。Sakor 部落名稱。今臺灣花蓮市國福地區。Sakor 部落名稱。今臺灣花蓮縣富里鄉富里村地區。
@@ -2005,12 +2004,12 @@ sakulien(kuli)    叫…做苦力、服勞役、做傭人。Sakulien cinira itin
 sala    [日語借詞]盤子、碟子。
 sala'edan(la'ed)    界限、界線。同 tolas。
 sala'sa'sa(sala'sa')    下雨聲、滴滴答答地。
-salafii(lafii)    趕夜工、熬夜。參見 misalaﬁi。
-salafiien(lafii)    把…趕夜工、熬夜做、趕夜工做吧。Salaﬁien ako a mitiri' idadaya. 我今夜決心通霄讀書。
-salafiisa(lafii)    整夜通宵地做。Salaﬁisa a makero ko kapah ato kaying i dadaya. 年輕人和小姐在夜裏通宵地歌舞。Salaﬁisa a mi^eneng cingra to cudad. 整夜地看書。
+salafii(lafii)    趕夜工、熬夜。參見 misalafii。
+salafiien(lafii)    把…趕夜工、熬夜做、趕夜工做吧。Salafiien ako a mitiri' idadaya. 我今夜決心通霄讀書。
+salafiisa(lafii)    整夜通宵地做。Salafiisa a makero ko kapah ato kaying i dadaya. 年輕人和小姐在夜裏通宵地歌舞。Salafiisa a mi^eneng cingra to cudad. 整夜地看書。
 salahekelsa(lahekel)    那麼快活、痛快、興奮。Salahekelsa 
 ko faloco' no wina a mieneng ta    wawa. 著那些孩子，母親心裏是那麼陶醉、興奮。
-salahok(lahok)    午餐、午飯的飯菜。O titi no kolong ato ﬁta'ol ato kolang ko salahok ita anini. 我們今天午餐是牛肉、蛋、白菜。
+salahok(lahok)    午餐、午飯的飯菜。O titi no kolong ato fita'ol ato kolang ko salahok ita anini. 我們今天午餐是牛肉、蛋、白菜。
 salakaka(kaka)    同胞、兄弟姐妹、手足之情。Salakaka kami a lalima. 我們五個人是同胞。同salikaka。
 salakec(lakec)    涉水的地方、渡口、碼頭。
 salakowit(lakowit)    橫越山嶺的小道、山徑。
@@ -2022,7 +2021,7 @@ salalan(lalan)    修整道路。參見 misalalan。
 salalanen(lalan)    把…修路、造路、修整道路吧。Salalanen ko iaikoray no tokos. 把山後的地方修出一條道路。
 salaloma'(loma')    把人處於管轄之下。參見 misalaloma'。
 salaloma'en(loma')    把…統治管轄起來。Itiya ho 
-salaloma'en no malitengay ko kapah i    saseﬁan. 以前，長輩把青年人在會所裡管起(在會所裡管理年輕人)。
+salaloma'en no malitengay ko kapah i    sasefian. 以前，長輩把青年人在會所裡管起(在會所裡管理年輕人)。
 salama    玩耍、娛樂、遊戲。同 halama。參見misalama。
 salamaen(salama)    把…遊戲、娛樂、請(他們)玩耍吧。Makapahay ko romi'ad anini,papisalamaen ko wawa niyam ! 今天天氣好，叫我們的娃娃玩吧！同halamaen。
 salamelo(lamelo)    種小米。參見 misalamelo。
@@ -2126,7 +2125,7 @@ salofalen(salofal)    把(楊柳樹)砍伐、砍楊柳樹吧。Salofalen kora ma
 salofen(salof)    把…糾正、矯正、修正。Salofen kona 'aol a misamo^cel. 把這根竹子矯正直了。Salofen ita ko mitilidan ita a kimad. 我們要修訂我們寫的故事。
 salofoc(lofoc)    做口袋。參見 misalofoc。
 salofocen(lofoc)    把…做口袋、做口袋吧。Salofocen koni a kiradom. 把這塊布做口袋。
-salofong(lofong)    做皮斗篷。Salofong kora raﬁr. 把那張皮革做斗篷。參見 misalofong。
+salofong(lofong)    做皮斗篷。Salofong kora rafir. 把那張皮革做斗篷。參見 misalofong。
 salofongen(lofong)    把…做皮斗篷、做皮斗篷吧！
 salokiyo(lokiyo)    種洋蔥。參見 misalokiyo。
 salokiyoen(lokiyo)    把…種洋蔥、種洋蔥吧！
@@ -2240,7 +2239,7 @@ samimingen(miming)    把…弄小。Samimingen ira ko honi.他把聲音弄小�
 samimingsa(miming)    那麼小、越來越小。Samimingsa to ko lkal ningra i kemod. 他在深處的叫聲越來越小了。
 samimit(mimit)    做割稻鐮。參見 misamimit。
 samimiten(mimit)    把…做割稻鐮、做割稻鐮吧！
-samintang(mintang)    做臉盆。同 ﬁntang。
+samintang(mintang)    做臉盆。同 fintang。
 samintangen(mintang)    把…做臉盆、做臉盆吧！
 samisi(misi)    還差那麼一點兒、不足；不夠完善、完美。參見 masamisi。
 samisimisisa(misi)    [疊 2]就差那麼一點兒。Samisimisisa kini saw. 就差那麼一點呢。Samisimisisa ko 'esol na pana', ca kapakarawis. 箭的速度稍差，一點兒夠不著目標。
@@ -2295,7 +2294,7 @@ sanawangawangsa(nanawang)    整天遊手好閒，遊蕩不做正事。Sanawanga
 sanawsaw    惶恐不安、坐立不安。Sanawsaw ko faloco'. 內心惶恐不安。
 sanawsawan(sanawsaw)    令人惶恐不安。Sanawsawan ko faloco' ako. 我內心惶恐不安。同kasanawsawan。
 sanawsaway(sanawsaw)    (人)。①  惶恐不安了。②  指惶恐不安的
-sanay(sa)    據說…似的。Mangata ko cidal,safa^edet sanay ko tireng. 一靠近太陽，據說身體像發燒似的。Minokayay to a malasoﬁtay ci Aki sanay. 據說Aki 已經退伍了。Makaratay no 'onel ci calaw sanay. 據說 calaw 被蛇咬。
+sanay(sa)    據說…似的。Mangata ko cidal,safa^edet sanay ko tireng. 一靠近太陽，據說身體像發燒似的。Minokayay to a malasofitay ci Aki sanay. 據說Aki 已經退伍了。Makaratay no 'onel ci calaw sanay. 據說 calaw 被蛇咬。
 sanay(sa)    這樣說的，這樣想，這樣認為。Sanay kiya. 據說如此。Sanay ko cima? 誰這樣說的？“Kataini ho !”sanay ci wama. 爸爸這樣說：“請你來一下！”Talariyal kita anini a mifuting sanay ko mako a harateng. 我這樣想，今天我們去海裏捕魚。Sanaysay 臺灣綠島、舊稱“火燒島”。
 sanaysay    麻竹。
 sanaysayen(sanaysay)    把麻竹砍伐。Sanaysayen iso haw ! 你去把麻竹砍東西下來嗎？
@@ -2337,9 +2336,9 @@ sangirawen(ngiraw)    把…贈送、饋贈。Sangirawen ko epah itawanan. 把�
 sangodongodo(ngodo)    [疊 2]假裝害羞、忸怩作態。參見misangodongodo。
 sangodongodoen(ngodo)    [疊 2]對…假裝害羞、忸怩作態。Mana sangodongodoen? 為什麼那麼羞羞答答的？
 sangodosa(ngodo)    害羞、靦腆的樣子，那麼害羞、靦腆。Sangodosa kora kaying micekel to fongoh ira. 那位小姐羞羞答答的低著頭。
-sangorefit(ngorefit)    作出努嘴、咧嘴的表情。參見misangoreﬁt。
+sangorefit(ngorefit)    作出努嘴、咧嘴的表情。參見misangorefit。
 sangorefiten(ngorefit)    把…努嘴、咧嘴、作出欲哭的表情。
-sangorefitsa(ngorefit)    努嘴、咧嘴的樣子。Sangoreﬁtsa ko ngoyos ira tatiihay a enengen. 他咧嘴的樣子，實在難看。
+sangorefitsa(ngorefit)    努嘴、咧嘴的樣子。Sangorefitsa ko ngoyos ira tatiihay a enengen. 他咧嘴的樣子，實在難看。
 sangorngor(ngorngor)    豬的嘴巴。
 sangosngos(ngosngos)    犁鏵、犁頭。同 ditaw。
 sangotefoh    憤怒、生氣的表情。參見masangotefoh。
@@ -2500,7 +2499,7 @@ sapelawen(sapelaw)    把…解脫、松脫。Sapelawen kora waco ! 把那隻狗
 sapelek(pelek)    眼皮。同 sapedek。
 sapenopeno(peno)    [疊 2]有意識地圈圈點點。參見misapenopeno。
 sapenopenoen(peno)    [疊 2]有意識地把…圈圈點點。Sapenopenoen no singsi ko nitilidan ira. 老師在他寫的書上圈圈點點的。
-sapenopenosa(peno)    [疊 2]圈圈點點的樣子。Sapenopenosa ko tilid nora ﬁta'ol. 蛋的紋路圈圈點點的。
+sapenopenosa(peno)    [疊 2]圈圈點點的樣子。Sapenopenosa ko tilid nora fita'ol. 蛋的紋路圈圈點點的。
 sapered    聚集、叢生。參見 masapered。
 saperoperok(perok)    [疊 2]有意識地蹦蹦跳跳。參見misaperoperok。
 saperoperoken(perok)    [疊 2]讓…蹦蹦跳跳、請蹦蹦跳跳吧。Saperoperoken ko wawa a misalama i papotal ! 叫小孩子在外面蹦跳著遊玩吧！
@@ -2516,8 +2515,8 @@ sapi'aca('aca)    購買東西憑藉的手段。Sapi'aca to tilid a payso. 買�
 sapi'acaaw('aca)    想購買、想買。sapi'acaaw kako to kafohongay. 我想買毛柿。
 sapi'acaw('acaw)    汲水、舀水的用具。Sapi'acaw a toto'.舀水的瓢。
 sapi'acawaw('acaw)    想汲水、舀水。Sapi'acawaw ako i ciwkeng to nanom. 我想在水缸裡舀水。
-sapi'ading('ading)    遮蓋、遮掩、擋住使用的器具。Sapi'ading to laway a sasiﬁn. 遮臉巾。Sapi'ading koni a patih. 這堵牆是遮擋用的。
-sapi'adingal('adingal)    洗頭髮使用的器具。sapi'adingal a ﬁntang. 洗頭髮用的臉盆。
+sapi'ading('ading)    遮蓋、遮掩、擋住使用的器具。Sapi'ading to laway a sasifin. 遮臉巾。Sapi'ading koni a patih. 這堵牆是遮擋用的。
+sapi'adingal('adingal)    洗頭髮使用的器具。sapi'adingal a fintang. 洗頭髮用的臉盆。
 sapi'adingalaw('adingal)    想洗頭髮。Sapi'adingalaw ni safa to fokes. 妹妹想洗頭髮。
 sapi'adingaw('ading)    想遮擋、遮掩，想遮擋。sapi'adingaw ako to cidal. 我想遮擋太陽。
 sapi'adipel('adipel)    圍籬笆使用的器物。Sapi'adipel a 'aol.圍籬笆用的竹子。
@@ -2530,8 +2529,8 @@ sapi'afalang('afalang)    ①  肩扛東西使用的工具。Sapi'afalang to lal
 sapi'afalangaw('afalang)    ①  想肩扛。Sapi'afalangaw ako to kilang a hasaloma'. 我想扛準備建房子的木頭。②  想攙扶。Sapi'afalangaw ira ci fakian. 她想攙扶老爺爺。同sapi'alafanaaw。
 sapi'afas('afas)    搶奪、掠奪東西使用的器具。Ora sapi'afas ira to maamaan. 那是他搶劫東西用的工具。
 sapi'afasaw('afas)    想搶奪、掠奪東西。Iraay ko sapi'afasaw iso, ca kanga'ay ! 你有搶劫的念頭，不好！
-sapi'afilid('afilid)    擁抱、懷抱使用的器具。Sapi'aﬁlid to wawa a tana. 懷抱孩子的毯子。
-sapi'afilidaw('afilid)    想擁抱、懷抱。sapi'aﬁlidaw ho ako kisowanan. 我想擁抱一下你。
+sapi'afilid('afilid)    擁抱、懷抱使用的器具。Sapi'afilid to wawa a tana. 懷抱孩子的毯子。
+sapi'afilidaw('afilid)    想擁抱、懷抱。sapi'afilidaw ho ako kisowanan. 我想擁抱一下你。
 sapi'afo('afo)    焚燒、燒燼使用的器物。Sapi'afo to kasoy a parod. 燒柴的灶。Sapi'afo to mapatayay. 焚尸用的焚化爐。
 sapi'afoaw('afo)    想焚燒，想把東西燒成灰燼。Sapi'afoaw ira toya tikami. 她想把那些信燒成灰。
 sapi'afofo('afofo)    懷抱(孩子)使用的器具。O maan ko sapi'afofo to wawa saw? 用什麼抱孩子呢？
@@ -2570,7 +2569,7 @@ sapi'araw('araw)    觀看、參觀使用的器具。O maan ko sapi'araw niyam t
 sapi'arawaw('araw)    想觀看、參觀。Sapi'arawaw ako to sasing iso makapahay haw ! 我想看你的照片，很漂亮吧！
 sapi'asip('asip)    朗讀、算數憑藉的用具。Oni a kikay sapi'asip to no 'Amis a sowal. 這機器是朗讀阿美語的用具。
 sapi'asipaw('asip)    想朗讀、算數。Sapi'asipaw ko wawa to tilid. 孩子想朗讀書。
-sapi'atal('atal)    裝東西使用的器具、盛器。O ﬁcing ko sapi'atal to felac. 用米升盛米。
+sapi'atal('atal)    裝東西使用的器具、盛器。O ficing ko sapi'atal to felac. 用米升盛米。
 sapi'atalaw('atal)    想裝東西。Sapi'atalaw no wawa to kodasing i 'alofo. 孩子想裝花生在口袋裡。
 sapi'atem('atem)    夾持東西使用的器具、夾子、鑷子。Sapi'atem to iyo. 挾藥片的夾子。
 sapi'atemaw('atem)    想夾持東西、想用鑷子夾東西。Sapi'atemaw ako to kalang. 我想挾螃蟹。
@@ -2592,8 +2591,8 @@ sapi'edong('edong)    套穿(衣服)使用的器具。sapi'edong to saripa'. 套
 sapi'edongaw('edong)    想套穿(衣服)。sapi'edongaw no safa to kahengangay a cokap. 妹妹想穿紅鞋。
 sapi'efaw('efaw)    包工、承包使用的器具。O maan ko sapi'efaw niyam to kamaomahan saw?我們用什麼承包農活呢？
 sapi'efawaw('efaw)    想包工，想承包。Sapi'efawaw ira tora katayalan. 他想承包那些工作。
-sapi'efid('efid)    吸半截煙使用的工具。Oni 'ongto ko sapi'eﬁd ira to tamako. 他用這把煙斗抽半截香煙。
-sapi'efidaw('efid)    想吸半截煙。Sapi'eﬁdaw nora malitengay to tamako. 那位老人想抽半袋煙。
+sapi'efid('efid)    吸半截煙使用的工具。Oni 'ongto ko sapi'efid ira to tamako. 他用這把煙斗抽半截香煙。
+sapi'efidaw('efid)    想吸半截煙。Sapi'efidaw nora malitengay to tamako. 那位老人想抽半袋煙。
 sapi'ekak('ekak)    詛咒憑藉的器具。
 sapi'ekakaw('ekak)    想詛咒他人。
 sapi'eloc('eloc)    磨損、損壞東西使用的器具。Sapi'eloc to fokeloh. 磨損石頭用的。
@@ -2725,10 +2724,10 @@ sapiadahaw(adah)    想治療、想治病。Sapiadahaw ni wama to adada ningra. 
 sapiadef(adef)    關閉窗戶的工具。同 sapi'edef。
 sapiadefaw(adef)    想關閉窗戶。Sapiadefaw to sasingaran.她想關窗。同 sapi'edefaw。
 sapiahowid(ahowid)    感謝、答謝使用的器物。
-sapiahowidaw(ahowid)    想感謝、答謝。Sapiahowidaw ako to ﬁyaw. 我希望感謝鄰居。
+sapiahowidaw(ahowid)    想感謝、答謝。Sapiahowidaw ako to fiyaw. 我希望感謝鄰居。
 sapiala(ala)    取物使用的工具、時間、娶親用的。Sapiala to maamaan ko kayam. 手乃取物所用。Sapiala to kadafo. 為娶女婿用的。
 sapialaaw(ala)    想拿、想拿東西。Sapialaaw no wawa to 'odax. 孩子想拿糖。
-sapialingato(alingato)    感謝使用的東西。Sapialingato to ﬁnaolan. 感謝鄉親用的(東西)。
+sapialingato(alingato)    感謝使用的東西。Sapialingato to finaolan. 感謝鄉親用的(東西)。
 sapialingatoaw(alingato)    想感謝、希望感謝。Sapialingatoaw ako caniraan. 我想答謝他們。
 sapiapek(apek)    敲打、拍擊的工具。O maan ko sapiapek iso? 你用什麼東西敲打？同sapipekpek。
 sapiapekaw(apek)    想敲打、拍擊。Sapiapekaw ira to fongoh ako. 他想敲打的頭。同sapipekpekaw。
@@ -2771,7 +2770,7 @@ sapicadokaw(cadok)    想鏟東西。Sapicadokaw ako to holo.我想盛飯。
 sapicafer(cafer)    中途停留、逗留、訪問使用的器物。O maan ko sapicafer iso to widang? 你憑借什麼訪問朋友？
 sapicaferaw(cafer)    想停留、逗留、訪問。Sapicaferaw niyam toya ciwidangan. 我們想停留在朋友那裡。
 sapicafi'(cafi')    超越、超過他人使用的器具。
-sapicafi'aw(cafi')    希望超越、超過。Sapicaﬁ'aw ira takowanan han? 他想超過我嗎？
+sapicafi'aw(cafi')    希望超越、超過。Sapicafi'aw ira takowanan han? 他想超過我嗎？
 sapicahefak(cahefak)    正面衝擊、搏擊使用的器具。O kanoos ko sapicahefak no lokedaw to tamdaw.豹子用爪子搏擊人類。
 sapicahefakaw(cahefak)    想正面衝擊、搏擊。Sapicahefakaw ko lokedaw tamiyanan. 豹子想衝擊我們。
 sapicahekit(cahekit)    驚擾、打擾他人使用的器具。
@@ -2857,7 +2856,7 @@ sapicena'aw(cena')    希望稍息、小憩。Sapicena'aw no wama ako itini. 我
 sapicengaw(cengaw)    睜開眼睛使用的器具。
 sapicengawaw(cengaw)    想睜開眼睛。Sapicengawaw no waco.狗想睜開一下眼睛。
 sapicengelaw(cengel)    想染發。Sapicengelaw ira to kiradom.他想染布。
-sapicepa'(cepa')    浸濕東西的用具。O ﬁntang ko sapicepa' ako to riko'. 我用臉盆浸濕衣服。
+sapicepa'(cepa')    浸濕東西的用具。O fintang ko sapicepa' ako to riko'. 我用臉盆浸濕衣服。
 sapicepa'aw(cepa')    想浸濕、浸泡。Sapicepa'aw no wina to nisariko'an niyam. 母親想浸泡我們穿過的衣服。
 sapicepet(cepet)    抓捕、逮捕的用具。Sapicepet to takora'. 抓青蛙用的。
 sapicepo'(cepo')    割取榕樹皮的工具。O po'ot ko sapicepo'. 割榕樹皮用小刀。
@@ -2869,8 +2868,8 @@ sapiceros(ceros)    烹飪、蒸煮使用的器具。O fokeloh ko sapiceros to f
 sapicerosaw(ceros)    想烹飪、蒸煮。Sapicerosaw nora tamdaw to konga. 那些人想煮蕃薯。
 sapicefang(cefang)    參加、加入團體憑藉的方式。
 sapicefangaw(cefang)    想參加、加入團體。Sapicefangaw cangra to kapot ita. 他們打算參加我們的團體。
-sapicefis(cefis)    用來順手捎帶東西的器具。O maan ko sapiceﬁs iso toya sasalamaan? 你使用什麼手段拿走那些玩具？
-sapicefisaw(cefis)    想順手捎帶。Sapiceﬁsaw no wawa to sasalamaan. 孩子想拿走玩具。
+sapicefis(cefis)    用來順手捎帶東西的器具。O maan ko sapicefis iso toya sasalamaan? 你使用什麼手段拿走那些玩具？
+sapicefisaw(cefis)    想順手捎帶。Sapicefisaw no wawa to sasalamaan. 孩子想拿走玩具。
 sapicefong(cefong)    用來投放東西的工具。Tingsi ko sapicefong to dateng i dangah. 用鍋鏟將菜放入炒菜鍋。
 sapicefongaw(cefong)    想投放東西。Sapicefongaw ako to fokeloh i lariyalan. 我想投放石頭到海裡去。
 sapicefos(cefos)    澆水的用具。Sapicefos to hana. 澆花工具。
@@ -2904,8 +2903,8 @@ sapicipat(cipat)    粘貼、附著東西使用的器物。O sakipat ko sapicipa
 sapicipataw(cipat)    想粘貼、附著。Sapicipataw kako to sasing ni ina itini. 我想在這裏貼媽媽的照片。
 sapiciped(ciped)    擦拭的用具。O sapiciped koni. 這是擦拭用的布。
 sapicipedaw(ceped)    想擦拭。
-sapicipoh(cipoh)    抹粉、化妝使用的器物。Oni ko sapicipoh no kaying. 這個是小姐化妝的用具。同 sapiﬁhon。
-sapicipohaw(cipoh)    想抹粉、化妝。Sapicipohaw ira to pising. 她想化妝。同 sapiﬁhonaw。
+sapicipoh(cipoh)    抹粉、化妝使用的器物。Oni ko sapicipoh no kaying. 這個是小姐化妝的用具。同 sapifihon。
+sapicipohaw(cipoh)    想抹粉、化妝。Sapicipohaw ira to pising. 她想化妝。同 sapifihonaw。
 sapicirid(cirid)    分流、分道岔使用的工具。同 sapi'iwi。
 sapiciridaw(cirid)    想分流、分道岔。同 sapi'iwiaw。
 sapicirit(cirit)    撕開、撕破東西使用的器具。O maan ko sapicirit to padakopak? 用什麼工具撕紙？
@@ -2985,7 +2984,7 @@ sapicorokaw(corok)    想輪流、輪番做事。Sapicorokaw naira a taira. 他�
 sapicowat(cowat)    用於擴展、拓展的工具。Lood ko sapicowat to kakowanen. 戰爭是擴張管轄地區的手段。
 sapicowataw(cowat)    想擴展、拓展。Sapicowataw no 'ada to saseraan. 敵方企圖擴張地盤。
 sapida'eci(da'eci)    採集箭筍使用的器具。Pitaw ko sapida'eci namo han? 你們採箭筍用鋤鋤頭嗎？同 dahci、dadohci。
-sapida'eciaw(da'eci)    想採集箭筍。Sapida'eciaw no ﬁnaolan anocila. 鄉親們打算明天採箭筍。
+sapida'eciaw(da'eci)    想採集箭筍。Sapida'eciaw no finaolan anocila. 鄉親們打算明天採箭筍。
 sapida'oc(da'oc)    堅持始終使用的器具。Sapida'oc to pasetokan. 堅持到終點的方式。
 sapida'ocaw(da'oc)    想堅持始終。Sapida'ocaw niyam to demak a matayal. 我們想把事情進行到底。
 sapidacong(dacong)    用於浸染、浸泡的器具。Sapidacong to 'alo. 趟水過河的方式。同 sapidefong。
@@ -3018,8 +3017,8 @@ sapidenga(denga)    傳染疾病使用的器物。Oni a 'edo ko sapidenga to ada
 sapidengaaw(denga)    想傳染疾病。Mana ira ko sapidengaaw iso to Aic itaowanan saw? 你為什麼有傳染愛滋病給別人的想法呢？
 sapidi'ec(di'ec)    用來積累、堆齊東西的器具。O sapidi'ec to tangpia koni. 這是累積銅鐵的器具。
 sapidi'ecaw(di'ec)    想積累、堆齊東西。Sapidi'ecaw ako to kasoy. 我想把柴火堆整齊。
-sapidi'i(di'i)    用來孵育、抱窩的器具。O sapidi'i to ﬁta'ol a kikay. 孵蛋機。
-sapidi'iaw(di'i)    想孵育、抱窩。Sapidi'iaw no tawinaan a koko' to ﬁta'ol. 母雞想孵蛋。
+sapidi'i(di'i)    用來孵育、抱窩的器具。O sapidi'i to fita'ol a kikay. 孵蛋機。
+sapidi'iaw(di'i)    想孵育、抱窩。Sapidi'iaw no tawinaan a koko' to fita'ol. 母雞想孵蛋。
 sapidimata'(dimata')    用來肩挑東西、擔擔子的工具。O 'onoc ko sapidimata' niyam. 扁擔是挑東西用具。
 sapidimata'aw(dimata')    想肩挑東西、想擔擔子。Sapidimata'aw ira toni 'inorong. 她挑這個擔子。
 sapidimel(dimel)    做圍子使用的器具。Sapidimel to capox a 'adipel. 圍護秧苗的籬笆。
@@ -3050,7 +3049,7 @@ sapidemat(demat)    用來刹車、刹住某器物的工具。Sapidemat to kolic
 sapidemataw(demat)    想刹車、想刹住。Sapidemataw no parakatay to paso. 司機想剎住公共汽車。同 sapidemecaw。
 sapidemec(demec)    刹車的用器。同 sapidemat。
 sapidemecaw(demec)    想刹車，想刹住。同 sapidemataw。
-sapido'ic(do'ic)    劈削樹木等使用的器具。O po'ot ko sapido'ic a ko to tolak no 'aﬁnong.我用小刀劈削椰子殼。
+sapido'ic(do'ic)    劈削樹木等使用的器具。O po'ot ko sapido'ic a ko to tolak no 'afinong.我用小刀劈削椰子殼。
 sapido'icaw(do'ic)    想劈削樹木等。Sapido'icaw to caleng kako. 我想劈樹杈。
 sapido'edo(do'edo)    用於遵循、順沿規則的器具。Sapido'edo a tilid. 供人描摹模仿的本子。
 sapido'edoaw(do'edo)    想遵循、順沿規則做。Sapido'edoaw niyam to rakat no malitengay. 我們想跟著長輩的腳步走。
@@ -3080,7 +3079,7 @@ sapifadahongaw(fadahong)    想做屋頂。Sapifadahongaw nimama.爸爸想做屋
 sapifadakas(fadakas)    砍斷、腰斬使用的工具。Awaay ko sapifadakas nangra to 'aol. 他們沒有砍竹子的器具。
 sapifadakasaw(fadakas)    想砍斷、腰斬。Sapifadakasaw niyam tora kilang. 我們想腰斬那棵樹。
 sapifadic(fadic)    用來剝掉外殼的器具。Oni a sapifadic to kilang. 這是剝樹皮的工具。
-sapifadicaw(fadic)    想剝掉外殼。Sapifadicaw ira to ﬁdengal. 他想剝杉樹皮。
+sapifadicaw(fadic)    想剝掉外殼。Sapifadicaw ira to fidengal. 他想剝杉樹皮。
 sapifadisaw(fadisaw)    燒開水使用的器具。O sapifadisaw konini a nanom.
 sapifadisawaw(fadisaw)    想燒開水。Sapifadisawaw kako to sakamino' nanom.
 sapifadiso'so'(fadiso'so')    摘葡萄使用的器具。Marohemay ko fadiso'so', sapifadiso'so' ako. 葡萄熟了，我想去摘葡萄。
@@ -3145,38 +3144,38 @@ sapifenges(fenges)    用來打擊、狠揍的器具。Sapifenges to waco. 打�
 sapifengesaw(fenges)    想打擊、狠揍。Sapifengesaw niyam toya 'ada. 我們想痛打那些敵人。
 sapiferet(feret)    扔掉、甩掉東西的用具。
 sapiferetaw(feret)    想扔掉、甩掉。
-sapiferfer(ferfer)    吹拂的用具。Sapiferfer to aﬁh. 吹拂糠皮的用具。
+sapiferfer(ferfer)    吹拂的用具。Sapiferfer to afih. 吹拂糠皮的用具。
 sapiferferaw(ferfer)    想吹拂、吹散某物。Sapiferferaw ako to tahefod i eto. 我想吹掉桌上的灰塵。
 sapifetik(fetik)    彈酒灑祭的用具。O tarodo' ko sapifetik niyam to epah. 我們用指頭彈灑酒水。同 sapifutik。
 sapifetikaw(fetik)    想彈酒灑祭。Sapifetikaw naira to kawas. 他們想灑祭神明。同sapifutikaw。
 sapifetir(fetir)    彈射用具。Sapifetir to pana'. 射箭用具。
 sapifetiraw(fetir)    想彈射。Sapifetiraw ako to pana'. 我想射箭。
-sapificfic(ficfic)    用來拉扯、牽動的器具。Kamay ko sapiﬁcﬁc no wawa to riko' ako. 孩子用手拉一下我的衣服。
-sapificficaw(ficfic)    想拉扯、牽動。Sapiﬁcﬁcaw ira takowanan. 他想拉一下我。
-sapifihekac(fihekac)    捕獵鳥獸的器具。Awa ko sapiﬁhekac ira to 'ayam. 他沒有捕鳥器。
-sapifihekacaw(fihekac)    想捕獵鳥獸。Sapiﬁhekacaw ako to facacili. 我想捕捉麻雀。
-sapifikaw(fikaw)    彎曲東西使用的器具。Sapiﬁkaw to 'iric. 扭曲鐵絲的工具。
-sapifikawaw(fikaw)    想彎曲、扭曲。Sapiﬁkawaw ira to marad. 他想扭曲鐵條。
+sapificfic(ficfic)    用來拉扯、牽動的器具。Kamay ko sapificfic no wawa to riko' ako. 孩子用手拉一下我的衣服。
+sapificficaw(ficfic)    想拉扯、牽動。Sapificficaw ira takowanan. 他想拉一下我。
+sapifihekac(fihekac)    捕獵鳥獸的器具。Awa ko sapifihekac ira to 'ayam. 他沒有捕鳥器。
+sapifihekacaw(fihekac)    想捕獵鳥獸。Sapifihekacaw ako to facacili. 我想捕捉麻雀。
+sapifikaw(fikaw)    彎曲東西使用的器具。Sapifikaw to 'iric. 扭曲鐵絲的工具。
+sapifikawaw(fikaw)    想彎曲、扭曲。Sapifikawaw ira to marad. 他想扭曲鐵條。
 sapifikfik(fikfik)    摔東西的用具。
 sapifikfikaw(fikfik)    想摔下來。
-sapifikod(fikod)    用來絆腳、絆倒的器具。Sapiﬁkod to tamdaw a towaso. 絆人的繩子。
-sapifikodaw(fikod)    想絆倒、弄倒他人。Sapiﬁkodaw iso ciniraan han? 你想絆倒他嗎？
+sapifikod(fikod)    用來絆腳、絆倒的器具。Sapifikod to tamdaw a towaso. 絆人的繩子。
+sapifikodaw(fikod)    想絆倒、弄倒他人。Sapifikodaw iso ciniraan han? 你想絆倒他嗎？
 sapifila'(fila')    摘蔞葉、檳榔葉使用的器具。
 sapifila'aw(fila')    想摘蔞葉、檳榔葉。
-sapifinor(finor)    攪混、攪動東西使用的器具。Sapiﬁnor to kohaw a kalingling. 攪湯的湯匙。
+sapifinor(finor)    攪混、攪動東西使用的器具。Sapifinor to kohaw a kalingling. 攪湯的湯匙。
 sapifinoraw(finor)    想攪渾、攪動。
-sapifitangal(fitangal)    摘瓜使用的器具。O maan ko sapiﬁtangal namo? 你們摘瓜用什麼工具。
-sapifitangalaw(fitangal)    想摘瓜。Sapiﬁtangalaw ako to kakaenen no wawa. 我想摘瓜給孩子吃。
-sapifitay(fitay)    篩穀子的用具。Oni sapiﬁtay a kikay.這是篩穀機。
-sapifitayaw(fitay)    想篩穀子。Sapiﬁtayaw to lamlo. 我想篩小米。
-sapifitelak(fitelak)    劈開、破開東西的用具。Sapiﬁtelak to tefos. 破甘蔗的工具。同 sapifotelak。
-sapifitelakaw(fitelak)    想劈開、破開東西。Sapiﬁtelakaw no wawa to padakopak a hana. 孩子想把紙花綻開。同 sapifotelakaw。
-sapifitowak(fitowak)    用來破開、破裂東西的器具。O po'ot ko sapiﬁtowak to sinar. 用刀破西瓜。
-sapifitowakaw(fitowak)    想破開、破開東西。Sapiﬁtowakaw no wina to 'aﬁnong. 母親想破椰子。
+sapifitangal(fitangal)    摘瓜使用的器具。O maan ko sapifitangal namo? 你們摘瓜用什麼工具。
+sapifitangalaw(fitangal)    想摘瓜。Sapifitangalaw ako to kakaenen no wawa. 我想摘瓜給孩子吃。
+sapifitay(fitay)    篩穀子的用具。Oni sapifitay a kikay.這是篩穀機。
+sapifitayaw(fitay)    想篩穀子。Sapifitayaw to lamlo. 我想篩小米。
+sapifitelak(fitelak)    劈開、破開東西的用具。Sapifitelak to tefos. 破甘蔗的工具。同 sapifotelak。
+sapifitelakaw(fitelak)    想劈開、破開東西。Sapifitelakaw no wawa to padakopak a hana. 孩子想把紙花綻開。同 sapifotelakaw。
+sapifitowak(fitowak)    用來破開、破裂東西的器具。O po'ot ko sapifitowak to sinar. 用刀破西瓜。
+sapifitowakaw(fitowak)    想破開、破開東西。Sapifitowakaw no wina to 'afinong. 母親想破椰子。
 sapifiwfiw(fiwfiw)    用於吹動、吹拂的工具。
 sapifiwfiwaw(fiwfiw)    想吹動、吹拂。
-sapifiyac(fiyac)    用來伸展、延展、延長的工具。Sapiﬁyac to walay. 延長線條的工具。
-sapifiyacaw(fiyac)    想延展、延長。Sapiﬁyacaw niyam tora lalan. 我們想延伸那條路。
+sapifiyac(fiyac)    用來伸展、延展、延長的工具。Sapifiyac to walay. 延長線條的工具。
+sapifiyacaw(fiyac)    想延展、延長。Sapifiyacaw niyam tora lalan. 我們想延伸那條路。
 sapifo'enot(fo'enot)    拔取某物的用具。Sapifo'enot to lamit.拔根的工具
 sapifo'enotaw(fo'enot)    想拔取某物。Sapifo'enotaw niyam to rengos anini. 我們今天想拔草。
 sapifo'ot(fo'ot)    用於挽留、留住某物的器具。Sapifo'ot to lafang. 挽留客人的方式。
@@ -3232,8 +3231,8 @@ sapihafalat(falat)    準備房子中樑使用的器具。Oni ko sapihafalat a k
 sapihafalataw(falat)    想做房子中樑。Sapihafalataw niyam.我們想成棟樑。
 sapihafay(hafay)    收割小米使用的器具。Sapihafay a kikay. 收割小米的機器。同 sapilamlo。
 sapihafayaw(hafay)    想收割小米。Sapihafayaw ita anini. 我們今天想收割小米。同 sapilamloaw。
-sapihafekod(fekod)    撞倒、碰倒東西的用具。Sapihafekod to tosiya a 'otoc. 撞倒汽車的木樁。同sapihaﬁkod。
-sapihafekodaw(fekod)    想撞倒、碰倒。Sapihafekodaw ira takowanan. 他想撞倒我。同sapihaﬁkodaw。
+sapihafekod(fekod)    撞倒、碰倒東西的用具。Sapihafekod to tosiya a 'otoc. 撞倒汽車的木樁。同sapihafikod。
+sapihafekodaw(fekod)    想撞倒、碰倒。Sapihafekodaw ira takowanan. 他想撞倒我。同sapihafikodaw。
 sapihafel(hafel)    用來煮飼料的器具。Sapihafel a dangah. 煮飼料的大圓鍋。
 sapihafelaw(hafel)    想煮飼料。Sapihafelaw ci wina to sapakaen to diyong. 媽媽想煮餵豬的飼料。
 sapihafhaf(hafhaf)    用於吮吸、吸入某物的器具。Oni ko sapihafhaf to sawarak. 這是吸毒的器具。
@@ -3372,7 +3371,7 @@ sapihitefoaw(tefo)    想跳落、想跳水。同 sapihatefoaw。
 sapihiteroc(teroc)    跳越、跨越某物使用的工具。Sapihiteroc to papadipangan. 跨過屏障的工具。
 sapihiterocaw(teroc)    想跳越、跨越過去。Sapihitrocaw tora kali. 我想跨過那條溝。
 sapihelip(helip)    吮吸、吸入使用的器具。Sapihelip to nanom. 吸水工具。
-sapihelipaw(helip)    想吮吸、吸入。Sapihelipaw no wawa to salang no 'aﬁnong. 小孩想吸椰汁。
+sapihelipaw(helip)    想吮吸、吸入。Sapihelipaw no wawa to salang no 'afinong. 小孩想吸椰汁。
 sapihelong(helong)    脫去、卸掉服裝使用的器具。Ira ko sapihelong iso toni kafong han? 你有解下這個帽子的工具嗎。
 sapihelongaw(helong)    想脫掉、卸掉服裝。Sapihelongaw ako to talo'odan no kolong. 我想解下牛軛。
 sapihodoc(hodoc)    抽出、拔出某物的工具。Sapihodoc to ritos. 抽籤的用具。
@@ -3393,14 +3392,14 @@ sapihomong(homong)    捕撈海參使用的器具。O maan ko sapihomong namo? �
 sapihomongaw(homong)    想捕撈海參。Sapihomongaw naira. 他們想捕撈海參。
 sapihongko(hongko)    開動打穀機、鼓風機使用的器具。Sapihongko to panay. 鼓風揚穀的工具。
 sapihongkoaw(hongko)    想開動打穀機、鼓風機。Awaay ko fali, sapihongkoaw ako to panay. 沒風了，我想用風櫃揚穀子。
-sapihopac(hopac)    搓擦的用具。Na, ini ko sasiﬁn sapihopac. 給你，毛巾在這裏，用來擦背的。
+sapihopac(hopac)    搓擦的用具。Na, ini ko sasifin sapihopac. 給你，毛巾在這裏，用來擦背的。
 sapihopacaw(hopac)    想搓擦東西。Sapihopacaw kako to kolol. 我想擦背。
 sapihoped(hoped)    收存、儲存、儲備使用的器具。Sapihoped to sapaloma no panay. 儲存稻種的工具。
 sapihopedaw(hoped)    想儲存、儲備。Sapihopedaw no safa to tangpia. 弟弟想存銅錢。
 sapihowad(howad)    捕捉鮑魚使用的工具。Sapihowad a fofo. 捕撈鮑魚的魚簍。
 sapihowadaw(howad)    想捕捉鮑魚。Sapihowadaw ako anocila. 我明天想去捕鮑魚。
 sapihepol(hepol)    摘取、摘除(手鐲)使用的工具、赦免的方式。Sapihepol to singsing. 卸下鈴鐺的工具。
-sapihepolaw(hepol)    想摘取、摘除，想赦免。Sapihepolaw ira to ekim a ﬁting. 她想摘下金耳環。
+sapihepolaw(hepol)    想摘取、摘除，想赦免。Sapihepolaw ira to ekim a fiting. 她想摘下金耳環。
 sapiikor(ikor)    辭行、告別的方式。Sapiikor to malitengay. 告別老人的儀式。
 sapiikoraw(ikor)    想辭行、告別。Sapiikoraw ira tamiyanan. 他想告別我們。
 sapiilang(ilang)    碾磨、碾穀子的工具。Sapiilang to panay. 碾稻穀的工具。
@@ -3429,14 +3428,14 @@ sapikadot(kadot)    划船、駛船的用具。Sapikadot a sa'iwas. 划船的櫓
 sapikadotaw(kadot)    想划船、駛船。Sapikadotaw ako toni a tamina. 我想駕駛這條船。
 sapikaered(kaered)    擰繩、絞繩的用具。Sapikaered a kikay. 做繩子的機器，絞繩機。
 sapikaeredaw(kaered)    想擰繩、絞繩。Sapikaeredaw ako hasakiting to efa. 我想絞繩子，準備牽馬用。
-sapikafi(kafi)    喝湯汁使用的器具。O kaliling ko sapikaﬁ. 喝湯用勺。同 sapikohaw。
+sapikafi(kafi)    喝湯汁使用的器具。O kaliling ko sapikafi. 喝湯用勺。同 sapikohaw。
 sapikafiaw(kafi)    想喝湯汁。同 sapikohawaw。
 sapikafit(kafit)    鉤掛、牽掛東西使用的器具。
 sapikafitaw(kafit)    想鉤掛、牽掛東西。
 sapikafos(kafos)    捕撈小蝦使用的器具。O cadiway ko sapikafos niyam. 我們的捕蝦工具是手網。
 sapikafosaw(kafos)    想捕撈小蝦。Sapikafosaw ako to cadiway. 我想用手網捕撈小蝦。
-sapikahfi(kahfi)    上下吊掛、吊蕩東西使用的器具。Sapikahﬁ a kaered. 吊蕩東西的繩子。
-sapikahfiaw(kahfi)    想吊掛、吊蕩東西。Sapikahﬁaw ira to cayna. 她想吊掛籃子。
+sapikahfi(kahfi)    上下吊掛、吊蕩東西使用的器具。Sapikahfi a kaered. 吊蕩東西的繩子。
+sapikahfiaw(kahfi)    想吊掛、吊蕩東西。Sapikahfiaw ira to cayna. 她想吊掛籃子。
 sapikahir(kahir)    耙東西使用的器具。Sapikahir to panay. 耙攏稻穀的工具。
 sapikahiraw(kahir)    想耙東西。Sapikahiraw ako to 'asisiw.我想耙攏稻草。
 sapikahot(kahot)    抓一把東西使用的器具。Itiya ho o kamay ko sapikahot niyam to hemay.古代，我們用手抓飯。
@@ -3475,14 +3474,14 @@ sapikaloc(kaloc)    用於強求、強索、強要某物的器具。O cayna ko s
 sapikalocaw(kaloc)    想強索、強要某物。Sapikalocaw ira to tamako ako. 他打算強要我的香煙。同sapingitangitaw。
 sapikalodi(kalodi)    捕捉泥鰍使用的器具。O rakar ko sapikalodi niyam. 我們用筌捕捉泥鰍。
 sapikalodiaw(kalodi)    想捕捉泥鰍。Sapikalodiaw ako i kakalian. 我想在水溝裡捉泥鰍。
-sapikalolo(kalolo)    女性洗頭髮使用的器具。Sapikalolo a sasiﬁn. 洗頭髮用的毛巾。
+sapikalolo(kalolo)    女性洗頭髮使用的器具。Sapikalolo a sasifin. 洗頭髮用的毛巾。
 sapikaloloaw(kalolo)    想洗頭髮。Sapikaloloaw ni Awa to fokes. Awa 想洗頭髮。
 sapikalona(kalona)    捉弄、調戲他人使用的器具。O maan 
 ko sapikalona noya posi toya 'edo    saw? 那隻貓用什麼方式捉弄老鼠呢？
 sapikalonaaw(kalona)    想捉弄、調戲他人。Sapikalonaaw no posi to 'edo. 貓想捉弄老鼠。
 sapikamay(kamay)    抓食、摶食使用的器具。Sapikamay to holo. 抓飯的工具。
 sapikamayaw(kamay)    想抓食、摶食。Sapikamayaw niyam to holo. 我們想抓飯吃。
-sapikamkam(kamkam)    挑剔、剔除東西使用的器具。Sapikamkam to aﬁh. 剔除粗糠的工具。
+sapikamkam(kamkam)    挑剔、剔除東西使用的器具。Sapikamkam to afih. 剔除粗糠的工具。
 sapikamkamaw(kamkam)    想挑剔、剔除東西。Sapikamkamaw ako to rengos i sadatengan. 我想把菜園裡的草剔掉。
 sapikangkang(kangkang)    犁耕的用具。Icowaay ko sapikangkang iso a kolong? 你犁地用的牛在哪裡呢？
 sapikangkangaw(kangkang)    想犁耕、犁地。Sapikangkangaw nora tamdaw to omah. 那個人想犁地。
@@ -3648,7 +3647,7 @@ sapikiyapoaw(kiyapo)    想掩蓋、覆蓋。Sapikiyapoaw no wina to tana no waw
 sapikiyarok(kiyarok)    約會、幽會使用的器具。
 sapikiyarokaw(kiyarok)    想約會、幽會。Sapikiyarokaw ira toya kaying. 他想約會那位小姐。
 sapikiyor(kiyor)    剔除、剜剔某物的用具。Sapikiyor to kaliwates. 剜除痔瘡的器具。
-sapikiyoraw(kiyor)    想剔除、剜剔某物。Sapikiyoraw ira to ﬁro'ok. 他想割除甲狀腺。
+sapikiyoraw(kiyor)    想剔除、剜剔某物。Sapikiyoraw ira to firo'ok. 他想割除甲狀腺。
 sapikelac(kelac)    砍削、削皮使用的工具。Sapikelac to talacay a po'ot. 削鳳梨的刀。
 sapikelacaw(kelac)    想砍削、削皮。Sapikelacaw ako to tefos sa pafeli kisowanan. 我想削甘蔗給你。
 sapikemo(kemo)    拳擊、打擊使用的工具。O sapikemo ni Taysen to tao. Taysen(泰森)拳擊他人使用的方式。
@@ -3661,8 +3660,8 @@ sapikodasing(kodasing)    收花生、摘花生使用的工具。Ira ko sapikoda
 sapikodasingaw(kodasing)    想收花生、摘花生。Sapikodasingaw niyam anini. 我們想今天收花生。
 sapikoeko(koeko)    跟蹤、追蹤的用具。同 sapitoor。
 sapikoekoaw(koeko)    想跟蹤、追蹤。同 sapitooraw。
-sapikofit(kofit)    扣緊(衣服)使用的器具。Sapikoﬁt to riko'. 扣緊衣服的(鈕扣)。
-sapikofitaw(kofit)    想扣緊。Sapikoﬁtaw ako to faloco' niyam. 我希望我們的心是一致的。
+sapikofit(kofit)    扣緊(衣服)使用的器具。Sapikofit to riko'. 扣緊衣服的(鈕扣)。
+sapikofitaw(kofit)    想扣緊。Sapikofitaw ako to faloco' niyam. 我希望我們的心是一致的。
 sapikohaw(kohaw)    喝湯使用的器物。Sapikohaw a kaysing. 喝湯的碗。
 sapikohawaw(kohaw)    想喝湯、喝汁。Sapikohawaw ako to no kacipa'ay. 我想喝薑湯。
 sapikohkoh(kohkoh)    除草、鏟草的用具。O pitaw ko sapikohkoh. 鋤頭是除草工具。
@@ -3690,8 +3689,8 @@ sapikoniyol(koniyol)    繞彎、拐彎使用的器具。同sapikoliyol。
 sapikoniyolaw(koniyol)    想繞彎、拐彎。同 sapikoliyolaw。
 sapikonoc(konoc)    拔羽毛的用具。同 sapikonac。
 sapikonocaw(konoc)    想拔羽毛。同 sapikonacaw。
-sapikorafit(korafit)    用來鈎掛、夠取東西的器具。Sapikoraﬁt to cayna. 夠取籃子的工具。
-sapikorafitaw(korafit)    想鈎掛、夠取東西。Sapikoraﬁtaw ira to fadiso'so'. 她想夠葡萄。
+sapikorafit(korafit)    用來鈎掛、夠取東西的器具。Sapikorafit to cayna. 夠取籃子的工具。
+sapikorafitaw(korafit)    想鈎掛、夠取東西。Sapikorafitaw ira to fadiso'so'. 她想夠葡萄。
 sapikoramet(koramet)    攫取、抓捕的用具。
 sapikorametaw(koramet)    想攫取、抓捕。
 sapikoraroh(koraroh)    張牙舞爪露出凶相憑藉的手段。
@@ -3753,16 +3752,16 @@ sapila'is(la'is)    投擲、抛擲的用具。O fokeloh ko sapila'is naira. 他
 sapila'isaw(la'is)    想投擲、抛擲。Sapila'isaw nora kapah to kotang. 小伙子想投擲矛槍。
 sapila'om(la'om)    浪費東西的手段。同 sapilaosed。
 sapila'omaw(la'om)    想浪費東西。同 sapilaosedaw。
-sapilacafi'(cafi')    競賽，比賽的用具。O maan ko sapilacaﬁ' namo kamianan? 你們用什麼跟我們競賽。
-sapilacafi'aw(cafi')    想比賽。Sapilacaﬁ'aw no wawa. 孩子想要比賽。
+sapilacafi'(cafi')    競賽，比賽的用具。O maan ko sapilacafi' namo kamianan? 你們用什麼跟我們競賽。
+sapilacafi'aw(cafi')    想比賽。Sapilacafi'aw no wawa. 孩子想要比賽。
 sapilada'(lada')    索要、討取東西的用具。O sapilada' ira to kakaenen. 這是他討取食品的器具。
 sapilada'aw(lada')    想索要、索取東西。Sapilada'aw ira to sapa'orip. 他打算討取救濟。
 sapiladac(ladac)    整平、弄平土地使用的器具。Sapiladac to lalan. 整平道路的工具。同sapiropay。
 sapiladacaw(ladac)    想整平、弄平。Sapiladacaw niyam to papotal. 我們想整平院外廣場。同sapiropayaw。
 sapilades(lades)    用於感染的器物。Sapilades to adada.傳染疾病的東西。
 sapiladesaw(lades)    想感染、傳染。Awaay ko sapiladesaw ako to adada itaowanan. 我沒有把疾病傳染別人的念頭。
-sapilafin(lafin)    過夜、露宿使用的器具。O fanta,sawfan, sasiﬁn o maamaan ko sapilaﬁn i pala. 蚊帳、被褥、毛巾等等物品是露宿野外必需的。
-sapilafinaw(lafin)    想過夜、露宿。Sapilaﬁnaw niyam toya tokos idadaya. 今晚我們想露宿那個山上。
+sapilafin(lafin)    過夜、露宿使用的器具。O fanta,sawfan, sasifin o maamaan ko sapilafin i pala. 蚊帳、被褥、毛巾等等物品是露宿野外必需的。
+sapilafinaw(lafin)    想過夜、露宿。Sapilafinaw niyam toya tokos idadaya. 今晚我們想露宿那個山上。
 sapilafo(lafo)    觸犯禁忌、招災惹禍的手段。Awaay ko sapilafo niyam. 我們沒有犯禁招災的東西。
 sapilafoaw(lafo)    想觸犯禁忌、招惹災禍。Sapilafoaw namo han? 你們想招惹災禍嗎？
 sapilafong(lafong)    掩蓋、掩埋、覆蓋使用的器具。O 'asisiw ko sapilafong to capox. 覆蓋稻秧用稻草。
@@ -3782,7 +3781,7 @@ sapilaklakaw(laklak)    想散亂、搞亂東西。Sapilaklakaw ira to tilid ako
 sapilakelaw(lakelaw)    夜間照光捕捉動物的用具。O tingci ko sapilakelaw to takora'ay idadaya. 晚上用手電筒照捕田雞。
 sapilakelawaw(lakelaw)    想用照光捕捉動物。Sapilakelawaw niyam to kowaw. 我們想照捕飛魚。
 sapilakowit(kowit)    翻山越嶺使用的器具。Sapilakowit a paliding. 過山車。
-sapilakowitaw(kowit)    想翻山越嶺、想翻過山嶺。Sapilakowitaw nora soﬁtay toni a tokos. 那些士兵想翻過這座山。
+sapilakowitaw(kowit)    想翻山越嶺、想翻過山嶺。Sapilakowitaw nora sofitay toni a tokos. 那些士兵想翻過這座山。
 sapilalad(lalad)    爬行、蔓延憑藉的工具。O o'o ko sapilalad no falalotongay han? 蜘蛛是用腳爬行嗎。
 sapilaladaw(lalad)    想爬行、蔓延。Sapilaladaw no 'oway tora 'adipel. 藤要爬上籬笆。
 sapilalakaw(lalakaw)    準備建造房子使用的器物。O kilang 
@@ -3792,12 +3791,12 @@ sapilalang(lalang)    用來阻止、阻攔的器具。Sapilalang to tosiya. 禁
 sapilalangaw(lalang)    想阻止、阻攔。Sapilalangaw no wama takowanan. 父親想阻攔我。
 sapilalat(lalat)    測量、丈量的用具。O laya' ko sapilalat niyam itiya ho. 從前我們用伸出手臂丈量長度。
 sapilalataw(lalat)    想測量、丈量。Sapilalataw ako toni a kilang. 我想丈量一下這根木頭。
-sapilali'op(lali'op)    洗臉、盥洗的用具。O ﬁntang ko sapilali'op. 洗臉用具是臉盆。
+sapilali'op(lali'op)    洗臉、盥洗的用具。O fintang ko sapilali'op. 洗臉用具是臉盆。
 sapilali'opaw(lali'op)    想洗臉、盥洗。Sapilali'opaw no wawa. 孩子想洗臉。
 sapilaliw(laliw)    逃走、逃離現場使用的器具。Sapilaliw niyam a paliding. 我們逃難的車子。
 sapilaliwaw(laliw)    想逃走、逃離。Sapilaliwaw koya rarohod a ma^efer. 那群大馬蜂飛起來想逃走。
 sapilalo(lalo)    浸水、浸泡東西的用具。Sapilalo to felac. 浸米的用具。
-sapilaloaw(lalo)    想浸水、浸泡。Sapilaloaw ako to kocosta i ﬁntang. 我想在臉盆裡泡襪子。lalo 浸泡。如米(乾的食物泡軟)。泡襪子應該用 sengel 或 lengel。
+sapilaloaw(lalo)    想浸水、浸泡。Sapilaloaw ako to kocosta i fintang. 我想在臉盆裡泡襪子。lalo 浸泡。如米(乾的食物泡軟)。泡襪子應該用 sengel 或 lengel。
 sapilamlo(lamlo)    收割小米的用具。Sapilamlo a mamiya.割小米的鐮刀。
 sapilamloaw(lamlo)    想收割小米。Sapilamloaw ira anini.他想今天割小米。
 sapilamo(lamo)    動物交配、配種使用的工具。Okang 'otoyan ko sapilamo. 公牛、公豬是配種用的。
@@ -3809,7 +3808,7 @@ sapilangtoaw(langto)    想焚燒、燃燒。Sapilangtoaw ira toni a loma' ako. 
 sapilanos(lanos)    加潤滑油使用的器具。Sapilanos to kikay. 給機器加油的器具。
 sapilanosaw(lanos)    想加潤滑油。Sapilanosaw niyam to koliciw. 我們想給自行車加潤滑油。
 sapilaoc(laoc)    召集會議憑藉的器物。Sapilaoc to kayki a paya. 召集開會的票。
-sapilaocaw(laoc)    想召集會議、想聚會。Sapilaocaw ako to ﬁnaolan a mikayki. 我想召集鄉親開會。
+sapilaocaw(laoc)    想召集會議、想聚會。Sapilaocaw ako to finaolan a mikayki. 我想召集鄉親開會。
 sapilaop(laop)    用於驅逐、趕走的器具。O waco ko sapilaop niyam to 'a'adopen. 我們用獵狗驅趕野獸。
 sapilaopaw(laop)    想驅逐、趕走。Sapilaopaw niyam caniraan. 我們想把他們驅趕出去。
 sapilaosed(laosed)    浪費、荒廢某物的手段。Adihay to ko sapilaosed ira to nanom. 他浪費水的途徑很多的。同 sapila'om。
@@ -3839,7 +3838,7 @@ sapiledefaw(ledef)    想關閉門戶。Sapiledefaw ira to sa'edef. 他想關門
 sapilefek(lefek)    破裂、龜裂東西使用的器具。Sapilefek to 'atomo. 弄破罐子的器具。lefek 弄倒。sapilefek 弄倒用具。Sapilefek to sa'edef. 弄倒門的用具。
 sapilefekaw(lefek)    想破裂、弄破東西。Sapilefekaw ako tora talid. 我想弄破那個瓶子。
 sapilefo(lefo)    與對方打架的手段。Sapilefo a saseti'.打架用的棍子。
-sapilefoaw(lefo)    想與對方打架。Sapilefoaw ira to ﬁyaw ira. 他想跟他的鄰居打架。
+sapilefoaw(lefo)    想與對方打架。Sapilefoaw ira to fiyaw ira. 他想跟他的鄰居打架。
 sapilefod(lefod)    猛追、加緊追趕使用的工具。Sapilefod to 'ada. 緊追敵人的用具。
 sapilefodaw(lefod)    想加緊追趕。Sapilefodaw niyam caniraan. 我們想加緊追趕他們。
 sapilefoh(lefoh)    放火焚燒使用的器具。O maan ko sapilefoh ira saw? 他用什麼自焚呢？
@@ -3861,7 +3860,7 @@ sapilepelaw(lepel)    想追捕、逮捕。Sapilepelaw no mi'adopay to tama'. �
 sapilesafon(lesafon)    搜集東西使用的器具。Sapilesafon to yopiaw. 集郵的用具。
 sapilesafonaw(lesafon)    想搜集東西。Sapilesafonaw kako to yopiaw. 我想集郵。
 sapiletek(letek)    砍伐的用具。Sapiletek ningra to kasoy koni a funus. 這把刀是砍柴工具。
-sapiletekaw(letek)    想砍伐樹木。Sapiletekaw ako to ﬁdengal a sapisaloma'. 我想砍建房子用的杉木。
+sapiletekaw(letek)    想砍伐樹木。Sapiletekaw ako to fidengal a sapisaloma'. 我想砍建房子用的杉木。
 sapiletep(letep)    做探子、偵察使用的器具。Sapiletep a hikoki. 偵察機。
 sapiletepaw(letep)    想做探子、想偵察。Sapiletepaw ira to kamaro'an no 'ada. 他想偵察敵人住地。
 sapiletoh(letoh)    嚎叫、怒吼使用的工具。O maan ko sapiletoh no layong saw? 獅子用什麼吼叫呢？
@@ -3952,13 +3951,12 @@ sapilipowakaw(powak)    想破開、劈開。Sapilipowakaw ako to kilang. 我想
 sapilirengos(rengos)    拔草的器具。Sapilirengos a kikay. 拔草機。
 sapilirengosaw(rengos)    想拔草。Sapilirengosaw niyam tora sadatengan. 我們想在那菜園裡拔草。
 sapilisa'ot(sa'ot)    召集開會、集會議事使用的器物。O maan ko sapilisa'ot namo saw? 你們用什麼方式召集開會呢？
-sapilisa'otaw(sa'ot)    想集會、聚會議事。Sapilisa'otaw niyam i seﬁ. 我們想在會所開會。
+sapilisa'otaw(sa'ot)    想集會、聚會議事。Sapilisa'otaw niyam i sefi. 我們想在會所開會。
 sapiliso'(liso')    探望、探訪他人使用的器具。Anohacowa ko sapiliso' iso toya singsi niyam? 你要什麼時候拜訪我們的老師呢？同 sapilisowa'。
 sapiliso'aw(liso')    想探望、探訪他人。Sapiliso'aw ningra to widang ningra. 他想探望朋友。同sapilisowa'aw。
 sapilisowa'(lisowa')    探望、探訪他人使用的器具。同sapiliso'。
 sapilisowa'aw(lisowa')    想探望、探訪。同 sapiliso'aw。
-sapilitangal(tangal)    獵頭、砍頭使用的器具。同
-sapilifongoh    
+sapilitangal(tangal)    獵頭、砍頭使用的器具。同 sapilifongoh    
 sapilitangalaw(tangal)    想獵頭、砍頭。同 sapifongohaw。
 sapilitemoh(litemoh)    迎接客人的方式、器具。Paso ko sapilitemoh niyam to lafang. 我們用巴士車迎接客人。
 sapilitemohaw(litemoh)    想迎接客人。Sapilitemohaw niyam toya naniraayay a widang. 我們想迎接來自遠方的朋友。
@@ -3987,7 +3985,7 @@ sapiliyawaw(liyaw)    想重復、反復做。Sapiliyawaw no wawa a nitilid. 小
 sapiliyoc(liyoc)    旋轉、轉動的用具。Sapiliyoc a kalileng. 轉動的輪子。
 sapiliyocaw(liyoc)    想旋轉、轉動。Sapiliyocaw ako to kalileng no koliciw. 我想旋轉自行車的輪子。
 sapiliyok(liyok)    巡視、巡邏使用的器具。Sapiliyok a tosiya. 巡邏車。
-sapiliyokaw(liyok)    想巡視、巡邏。Sapiliyokaw no soﬁtay to niyaro' niyam. 士兵想巡邏我們村子。
+sapiliyokaw(liyok)    想巡視、巡邏。Sapiliyokaw no sofitay to niyaro' niyam. 士兵想巡邏我們村子。
 sapilekal(lekal)    喊叫、叫嚷使用的器具。Sapilekal a ^epip. 警笛。
 sapilekalaw(lekal)    想喊叫、叫嚷。Sapilekalaw ira takowanan. 他想喊我。
 sapilocak(locak)    扒開東西的工具。Sapilocak to sera a pitaw. 扒土用的鋤頭。同 sapinocak。
@@ -4053,7 +4051,7 @@ sapimelmelaw(melmel)    想捏壓、按摩。Adadaay ko o'o ako,sapimelmelaw ako
 sapimeris(meris)    注視某物使用的器具。O dadingoan ko sapimeris ira takowanan. 他用眼鏡瞪我。
 sapimerisaw(meris)    想注視、凝視。Sapimerisaw ira takowanan. 他想注視我。
 sapimeroc(meroc)    用於吞噬的器具。O maan ko sapimeroc no 'oner? 蛇用什麼吞食？
-sapimerocaw(meroc)    想吞噬、想一口吞下去。Sapimerocaw koya 'oner to ﬁta'ol. 那條蛇想吞食蛋。
+sapimerocaw(meroc)    想吞噬、想一口吞下去。Sapimerocaw koya 'oner to fita'ol. 那條蛇想吞食蛋。
 sapimetmet(metmet)    把握、握住某物的用具。O kamay ko sapimetmet ako to kamay ira. 我用手握住他的手。
 sapimetmetaw(metmet)    想把握、握住東西。Sapimetmetaw no wawa tora lingko. 孩子想握住那顆蘋果。
 sapimi'mi'(mi'mi')    捏揉、按摩的用具、按摩器。Sapimi'mi' a kamay. 按摩用的手。
@@ -4090,7 +4088,7 @@ sapimowadaw(mowad)    想往外拱出來。Sapimowadaw no 'alem nani saseraan. �
 sapina'ang(na'ang)    收藏、藏匿東西使用的器具。Sapina'ang to kasoy. 貯存木柴器具(地方)。Sapina'ang to ekim. 貯藏金子的用具。
 sapina'angaw(na'ang)    想收藏、藏匿。Sapina'angaw niyam to kakaenen. 我們想貯備食品。
 sapina'on(na'on)    謹慎做事憑藉的手段。
-sapina'onaw(na'on)    想謹慎做事。Sapina'onaw niyam a dademak, kawra ca to kaﬁlo. 我們希望小心做事，可是做不到了。
+sapina'onaw(na'on)    想謹慎做事。Sapina'onaw niyam a dademak, kawra ca to kafilo. 我們希望小心做事，可是做不到了。
 sapinacnac(nacnac)    用來舔東西的器具、方式。Sapinacnac a sema. 舔東西的舌頭。
 sapinacnacaw(nacnac)    想舔東西。Sapinacnacaw no waco to 'irang i paenan. 狗想舔地板上的血。
 sapinahay(nahay)    陪同、陪伴、隨同的方式。O cima ko sapinahay namo takowanan? 你們中誰是安排陪同我做事的？
@@ -4117,12 +4115,12 @@ sapinecnec(necnec)    揉搓東西使用的器具。Ciwkin ko sapinecnec ako to 
 sapinecnecaw(necnec)    想揉搓東西。Sapinecnecaw no safa to kamay ira. 妹妹想揉搓自己的手。
 sapineker(neker)    用於摁壓、壓制的器具。Oni a dapiac ko sapineker i kafekang. 用這塊大石板壓在上面。
 sapinekeraw(neker)    想摁壓、想壓制。Sapinekeraw ako tora satahaf. 我想壓住那個蓋子。
-sapinengel(nengel)    浸泡、浸水使用的器具。Sapinengel to kocosta a ﬁntang. 泡襪子用的臉盆。
+sapinengel(nengel)    浸泡、浸水使用的器具。Sapinengel to kocosta a fintang. 泡襪子用的臉盆。
 sapinengelaw(nengel)    想浸泡、浸水。Sapinengelaw no wina to sasaepahen a holaymay. 母親想浸泡釀酒用的蓬萊米。
 sapinengneng(nengneng)    看、觀看憑藉的器具。同 sapieneng。
 sapinengnengaw(nengneng)    想看、想觀看。同 sapienengaw。
 sapinga'ay(nga'ay)    搞好關係、和睦共處的舉措。Iraay ko sapinga'ay niyam caniraan. 我們有跟他們和睦的舉措。
-sapinga'ayaw(nga'ay)    希望搞好關係。Sapinga'ayaw ako to ﬁaw ako. 我想和我的鄰居搞好關係。
+sapinga'ayaw(nga'ay)    希望搞好關係。Sapinga'ayaw ako to fiaw ako. 我想和我的鄰居搞好關係。
 sapingarngar(ngarngar)    啃吃草皮使用的器具。Sapingarngar to rengos a kikay. 除草機。
 sapingarngaraw(ngarngar)    想啃吃草皮。Sapingarngaraw no efa ako to rengos. 我的馬想吃草。
 sapingaroy(ngaroy)    托著下巴使用的器具。O fanangalan ko sapingaroy ira. 他用胳膞托住下巴。
@@ -4170,8 +4168,7 @@ sapingiyangi(ngiyangi)    搖動、搖撼某物的用具。Sapingiyangi to papah
 sapingiyangiaw(ngiyangi)    想搖動、搖撼。Sapingiyangiaw no tomay tora kilang. 熊想搖動那棵大樹。
 sapingodangod(ngodangod)    用於鬆動、搖動東西的器具。Sapingodangod to pacek. 鬆動釘子的工具。同 sapingohangoh、sapingolangod。
 sapingodangodaw(ngodangod)    想鬆動、搖動。Sapingodangodaw ira tora 'adipel. 他想鬆動那個籬笆。同sapingohangohaw、sapingolangodaw。
-sapingohah(ngohah)    約會、幽會的方式。O maan ko 
-sapingohah naira tatosa    
+sapingohah(ngohah)    約會、幽會的方式。O maan ko sapingohah naira tatosa    
 sapingohahaw(ngohah)    想約會、幽會。Sapingohahaw naira tatosa. 他們兩人想幽會。
 sapingohangoh(ngohangoh)    用於鬆動、搖動的工具。同sapingodangod、sapingolangod。
 sapingohangohaw(ngohangoh)    想鬆動、搖動。同 sapingodangodaw、sapingolangodaw。
@@ -4211,7 +4208,7 @@ sapinonoraw(nonor)    想及時供應對方所需。Sapinonoraw ira to 'a'acaen 
 sapinornor(nornor)    延期、延長時間的手段。Ira ko sapinornor no tawki to romi'ad. 老闆有延長時間的手段。
 sapinornoraw(nornor)    想延期，想延長時間。Sapinornoraw ako to pa'aliwacan ako. 我希望延長我的假期。
 sapiocor(ocor)    命令、派遣使用的器具 sapiocor。Sapiocor a tikami. 命令函。Sapiocor to tao a paya. 差遣他人的牌子。
-sapiocoraw(ocor)    想命令、派遣某人。Sapiocoraw ako tara soﬁtay a taira. 我想派遣那個士兵去。
+sapiocoraw(ocor)    想命令、派遣某人。Sapiocoraw ako tara sofitay a taira. 我想派遣那個士兵去。
 sapiofang(ofang)    打洞、鑽洞的用具。Sapiofang to moco'. 給牆打洞的工具。
 sapiofangaw(ofang)    想打動、鑽洞。Sapiofangaw ako i sasapadan. 我想在木板上打洞。
 sapiokos(okos)    誇耀、炫耀憑藉的手段。Sapiokos to ngangan. 炫耀名聲的手段。
@@ -4261,9 +4258,9 @@ sapipa'icepaw('icep)    想給檳榔、想放檳榔。Sapipa'icepaw ako tamoanan
 sapipa'is'is('is'is)    刮鬍子、剃頭的用具。Sapipa'is'is to ngisngis. 刮鬍子的工具。
 sapipa'is'isaw('is'is)    想刮鬍子、想剃頭。Sapipa'is'isaw ira to ngisngis. 他想刮鬍子。
 sapipa'odax('odax)    送糖、放糖的器具。Sapipa'odax a 'iros. 供放糖用的匙。
-sapipa'odaxaw('odax)    想送糖、想放糖。Sapipa'odaxaw ako i koﬁ. 我想在咖啡裡放糖。
+sapipa'odaxaw('odax)    想送糖、想放糖。Sapipa'odaxaw ako i kofi. 我想在咖啡裡放糖。
 sapipa'orip('orip)    救活、救命、拯救使用的器物。Sapipa'orip a riko'. 救生衣。
-sapipa'oripaw('orip)    想救活、救命、想拯救。Sapipa'oripaw kami to ﬁnacadan. 我們想拯救民族。
+sapipa'oripaw('orip)    想救活、救命、想拯救。Sapipa'oripaw kami to finacadan. 我們想拯救民族。
 sapipa'orong('orong)    搬運、運輸東西使用的器具。O 'onoc ko sapipa'orong niyam. 我們用扁擔扛東西。
 sapipa'orongaw('orong)    想搬運、運輸。Sapipa'orongaw niyam tatosa toni a kilang. 我們兩人想扛這根木頭。
 sapipa^efa(^efa)    送馬、養馬的用具。O no nima a sapipa^efa? 這是誰的養用具？
@@ -4289,7 +4286,7 @@ sapipaca'ofaw(ca'of)    想回答、答復問題。同 sapipacakoaw。
 sapipacacorok(corok)    叫他人輪流做事使用的器具。Sapipacacorok to tamdaw a fayfay. 供人輪流做事的旗號。
 sapipacacorokaw(corok)    想役使他人輪流做。Sapipacacorokaw ira kamianan salikaka a taira. 他想叫我們輪流去。
 sapipacafay(cafay)    陪同他人使用的器物，陪伴或幫忙他人憑藉的工具。Sapipacafay to tao. 幫助別人用的工具。
-sapipacafayaw(cafay)    想陪同、結伴。Sapipacafayaw kako ci Kacawan. 我想跟 Kacaw(卡兆)做伴兒。Sapipacafayaw ira to ﬁyaw a dademak. 他想幫鄰居做事。
+sapipacafayaw(cafay)    想陪同、結伴。Sapipacafayaw kako ci Kacawan. 我想跟 Kacaw(卡兆)做伴兒。Sapipacafayaw ira to fiyaw a dademak. 他想幫鄰居做事。
 sapipacafer(cafer)    停留、逗留憑藉的工具。Sapipacafer to lafang a paso. 供家人中間停留的汽車。
 sapipacaferaw(cafer)    想停留、逗留。Sapipacaferaw niyam i Takaw. 我們想在高雄逗留。
 sapipacahcah(cahcah)    讓人歇息、停留使用的工具。Sapipacahcah to koli. 通知役工歇息的用具。
@@ -4388,17 +4385,17 @@ sapipafeli(feli)    供給、送給使用的器具。Sapipafeli to simal. 供給
 sapipafeliaw(feli)    想供給、送給。Sapipafeliaw niyam to adihayay a epah. 我們想供給許多酒。
 sapipafetfet(fetfet)    用來加速跑、疾駛的器具。Pafelien kako to sapipafetfet no tosiya ! 送給我汽車加速器吧！
 sapipafetfetaw(fetfet)    想加速跑、想疾駛。Sapipafetfetaw ira to tosiya. 他想駕車賓士。
-sapipafidfid(fidfid)    用來把東西排列、羅列成行的器具。Sapipaﬁdﬁd to lalosidan. 把行李排列成行的用具。
-sapipafidfidaw(fidfid)    想把東西排列有序。Sapipaﬁdﬁdaw no wawa to ni'acaan a ingpic. 孩子想把買來的鉛筆排列起來。
-sapipafikaw(fikaw)    扭曲、彎曲東西使用的器具。Sapipaﬁkaw to rayac. 扭曲鐵絲的工具。
-sapipafikawaw(fikaw)    想扭曲、彎曲。Sapipaﬁkawaw ira to rayac. 他想扭彎鐵絲。
-sapipafilong(filong)    歡度春節使用的器物、食物。O epah titi pawa o maamaan ko sapipaﬁlong niyam. 酒、肉、鞭炮等等是我們歡度春節用的。
-sapipafiyac(fiyac)    用來伸展肢體活動的器具。Sapipaﬁyac to laya'. 伸展雙臂的器具。
-sapipafiyacaw(fiyac)    想伸展肢體。Sapipaﬁyacaw ako to fanangalan. 我想伸直胳膊。
+sapipafidfid(fidfid)    用來把東西排列、羅列成行的器具。Sapipafidfid to lalosidan. 把行李排列成行的用具。
+sapipafidfidaw(fidfid)    想把東西排列有序。Sapipafidfidaw no wawa to ni'acaan a ingpic. 孩子想把買來的鉛筆排列起來。
+sapipafikaw(fikaw)    扭曲、彎曲東西使用的器具。Sapipafikaw to rayac. 扭曲鐵絲的工具。
+sapipafikawaw(fikaw)    想扭曲、彎曲。Sapipafikawaw ira to rayac. 他想扭彎鐵絲。
+sapipafilong(filong)    歡度春節使用的器物、食物。O epah titi pawa o maamaan ko sapipafilong niyam. 酒、肉、鞭炮等等是我們歡度春節用的。
+sapipafiyac(fiyac)    用來伸展肢體活動的器具。Sapipafiyac to laya'. 伸展雙臂的器具。
+sapipafiyacaw(fiyac)    想伸展肢體。Sapipafiyacaw ako to fanangalan. 我想伸直胳膊。
 sapipafofo(fofo)    設置漁筌捕撈的器具。Sapipafofo to 'afar. 捕撈蝦的筌。
 sapipafofoaw(fofo)    想設置漁筌捕撈。Sapipafofoaw nora tamdaw to kalang. 那個人想用筌撈捕螃蟹。
 sapipafolaw(folaw)    驅逐、驅趕使用的器具。Sapipafolaw to iniyaro'ay a kowang. 迫遷村人用的槍。
-sapipafolawaw(folaw)    想驅逐、驅趕，想攆走。Sapipafolawaw nora saﬁtay to iniyaro'ay a tamdaw. 那些士兵想驅趕村裡的居民。
+sapipafolawaw(folaw)    想驅逐、驅趕，想攆走。Sapipafolawaw nora safitay to iniyaro'ay a tamdaw. 那些士兵想驅趕村裡的居民。
 sapipafololo'(fololo')    沖洗、沖刷的用具。Sapipafololo' to tosiya. 沖洗汽車的用具。
 sapipafololo'aw(fololo')    想沖洗、沖刷。Sapipafololo'aw ira tora kikay. 他想沖洗那架機器。
 sapipafoyfoy(foyfoy)    裝飾美化衣物使用的器具。O sapipafoyfoy ako to riko'. 是我裝飾衣服用的。
@@ -4409,7 +4406,7 @@ sapipahadoy(hadoy)    讓東西漂浮、漂泊使用的器具。Sapipahadoy a fa
 sapipahadoyaw(hadoy)    想讓東西漂浮、漂泊。Sapipahadoyaw ako toni a tamina i lariyalan. 我想讓這船漂泊海上。
 sapipahafay(hafay)    送小米或創造財富憑藉的手段。Mafana' to kako to sapipahafay. 我擅長發財之道。
 sapipahafayaw(hafay)    想送小米，想創造財富。Sapipahafayaw ira takowanan. 他想給我送小米(他想讓我發財)。
-sapipahofiaw(hofi)    想發獎、獎勵、獎賞某人。Sapipahoﬁaw no kakeridan tamianan.領導人想獎勵我們。
+sapipahofiaw(hofi)    想發獎、獎勵、獎賞某人。Sapipahofiaw no kakeridan tamianan.領導人想獎勵我們。
 sapipahakelong(hakelong)    隨同、跟隨、一起去使用的工具。Sapipahakelong caniraan. 讓他們隨同走的用具。
 sapipahakelongaw(hakelong)    想隨同、跟隨、想一起去。Sapipahakelongaw ako toya wawa a misalama. 我想讓那些孩子一起跟著去遊玩。
 sapipahalineknek(neknek)    澄清、沈澱東西使用的器具。Sapipahalineknek a kofoc. 沈澱東西用的瓶子。
@@ -4422,7 +4419,7 @@ sapipahecek(hecek)    樹立、豎立某物使用的器具。Sapipahecek to sato
 sapipahecekaw(hecek)    想樹立、豎立。Sapipahecekaw ako to pahataan a satoko. 我想豎立掛旗子的桅竿。
 sapipahemek(hemek)    讓人快樂、逗樂使用的器具。Oni a sasalamaan ko sapipahemek to wawa.這些玩具讓孩子們愉快。
 sapipahemekaw(hemek)    想讓人愉快、想逗樂。Sapipahemekaw niyam ciwamaan. 我們想讓父親快樂。
-sapipahofi(hofi)    發獎、獎勵使用的器物。Sapipahoﬁ a payso. 獎金。
+sapipahofi(hofi)    發獎、獎勵使用的器物。Sapipahofi a payso. 獎金。
 sapipaholol(holol)    招待、款待客人使用的器物。Sapipaholol to lafang. 款待客人用的。
 sapipahololaw(holol)    想招待、款待客人。Sapipahololaw no kakeridan kamianan. 領導人想款待我們。
 sapipahoni(honi)    敲響、弄響使用的器具。Sapipahoni to takongkongan. 打鼓的工具。
@@ -4462,8 +4459,8 @@ sapipakaetim(kaetim)    舉行婚禮使用的器具。Pinaay ko sapipakaetim nam
 sapipakaetimaw(kaetim)    想舉行婚禮。Sapipakaetimaw ira ci Lamloan. 他想和 Lomlo(拉姆)舉行婚禮。
 sapipakafana'(fana')    通告、告訴憑藉的工具。O laciw ko sapipakafana' to demak. 通過收音機告知消息。
 sapipakafana'aw(fana')    想通告、告訴他人。Sapipakafana'aw ako caniraan. 我想讓他們知道。
-sapipakafit(kafit)    鈎掛、鈎織的用具。Sapipakaﬁt a rinom. 鉤織用的針、鉤針。
-sapipakafitaw(kafit)    想鈎掛、鈎織。Sapipakaﬁtaw no kaka to tafokod. 姊姊想鉤織魚網。
+sapipakafit(kafit)    鈎掛、鈎織的用具。Sapipakafit a rinom. 鉤織用的針、鉤針。
+sapipakafitaw(kafit)    想鈎掛、鈎織。Sapipakafitaw no kaka to tafokod. 姊姊想鉤織魚網。
 sapipakafuti'(futi')    讓人睡覺、催眠使用的器具。Oni ko sapipakafuti' a iyo'. 這是催眠藥。
 sapipakafuti'aw(futi')    想讓睡覺、想催眠。Sapipakafuti'aw ni ina to safa ako. 媽媽想讓我弟妹睡覺。
 sapipakahecadaw(hecad)    想向某某看齊、想以某人做楷模。Sapipakahecadaw niyam ci Kolasan. 我們想向 Kolas(古拉斯)看齊。
@@ -4508,7 +4505,7 @@ sapipaketemaw(ketem)    想咬、想啃。Sapipaketemaw no waco kisowanan. 狗�
 sapipaketing(keting)    拴住、固定某物的用具。O maan ko sapipaketing iso to waco saw? 你用什麼拴狗？
 sapipaketingaw(keting)    想拴住、固定。Sapipaketingaw no wama to tadakolongay i papotal. 父親想把黃牛拴在院子裡。
 sapipakimad    演講用的器具。同 sapipapero。
-sapipakomod(komod)    統轄、率領大衆憑藉的手段。Sapipakomod to suﬁtay. 統領士兵的方式。
+sapipakomod(komod)    統轄、率領大衆憑藉的手段。Sapipakomod to sufitay. 統領士兵的方式。
 sapipakomodaw(komod)    想統轄、率領。Sapipakomodaw ira toya kowaping a milo'od to 'ada. 他想率領大軍打敵人。
 sapipakotay(kotay)    更換、替換、調換某物使用的器具。Nialaan ira ko sapipakotay. 他拿來了替換的東西。
 sapipakotayaw(kotay)    想更換、替換、調換。Sapipakotayaw cingra takowanan to dademaken. 他想換我工作。
@@ -4559,8 +4556,8 @@ sapipalayapaw(layap)    想遞交、遞接東西。Sapipalayapaw ako to mali ira
 sapipalefod(lefod)    比賽、趕上對手使用的器具。Awaay ko sapipalefod ako kisowanan. 我沒有追趕得上你的用具。
 sapipalefodaw(lefod)    想追趕上、想比賽。Sapipalefodaw ako tora kapah. 我想追上那個年輕人。
 sapipalemed(lemed)    夢占、夢卜的用具。Pakafana'en kako to sapipalemed ! 請教我夢卜的用具吧！
-sapipalemedaw(lemed)    想夢占、夢卜。Sapipalemedaw no malitengay i saseﬁan. 老人想在部落會所裡夢占。
-sapipalengel(lengel)    浸泡、浸濕使用的器具。Sapipalengel to riko' a ﬁntang. 泡衣服的臉盆。
+sapipalemedaw(lemed)    想夢占、夢卜。Sapipalemedaw no malitengay i sasefian. 老人想在部落會所裡夢占。
+sapipalengel(lengel)    浸泡、浸濕使用的器具。Sapipalengel to riko' a fintang. 泡衣服的臉盆。
 sapipalengelaw(lengel)    想浸泡、浸水、想浸濕。Sapipalengelaw ako to fafaca'en a 'alofo. 我想泡一泡要洗的袋子。
 sapipaliding(paliding)    車載、運載的用具。Sapipaliding to kasoy. 運載木柴的車子。
 sapipalidingaw(paliding)    想用車載、想運載。Sapipalidingaw ako to dateng a mi'aca. 我想用車載菜去買。
@@ -4622,8 +4619,8 @@ sapipangingoy(ngingoy)    給小孩洗澡使用的器物(水)。Fa'edetay to ko 
 sapipangingoyaw(ngingoy)    想給小孩洗澡。Sapipangingoyaw ni ina to wawa. 媽媽想給孩子洗澡。
 sapipanokay(nokay)    送回去、遣送回家使用的工具。O paso ko sapipanokay to mitiliday a tamdaw.用巴士送學員回家。
 sapipanokayaw(nokay)    想送回、想遣送回家。Sapipanokayaw ako to maadahay i loma' ira. 我想送病好的人回家。
-sapipaofin(ofin)    郵寄、寄信的用具。Iraay ko sapipaoﬁn iso a yopiaw han? 你有郵寄信件的郵票了嗎？
-sapipaofinaw(ofin)    想郵寄、想寄信。Sapipaoﬁnaw ako to tikami toya idipongay a widang. 我想給在在日本的朋友寄信。
+sapipaofin(ofin)    郵寄、寄信的用具。Iraay ko sapipaofin iso a yopiaw han? 你有郵寄信件的郵票了嗎？
+sapipaofinaw(ofin)    想郵寄、想寄信。Sapipaofinaw ako to tikami toya idipongay a widang. 我想給在在日本的朋友寄信。
 sapipaoray(oray)    給被褥、鋪被褥是用的器具。Sapipaoray a tana. 舖墊做襑子的毛毯。
 sapipaorayaw(oray)    想給被褥、想鋪被褥。Sienaway sapipaorayaw ako to wawa. 冷了，我想孩子舖被子。
 sapipawsa(pawsa)    送飯、送飯團、便當使用的器具。O moto ko sapipawsa niyam. 我們用摩托車送便當。
@@ -4651,7 +4648,7 @@ sapiparawis(rawis)    勾取東西的用具。Sapiparawis to cayna. 勾取籃子
 sapiparawisaw(rawis)    想勾取東西。Sapiparawisaw no wawa to lingko. 孩子想勾蘋果。
 sapiparayas(rayas)    鏟平、整平使用的工具。O kara ko sapiparayas to pananoman. 耙子是整平水田的農具。
 sapiparayasaw(rayas)    想鏟平、整平、想弄平坦。Sapiparayasaw niyam to pimalian. 我們想整平球場。
-sapiparayray(rayray)    整隊、列隊使用的器具。Sapiparayray to soﬁtay. 讓士兵整隊用的器具。
+sapiparayray(rayray)    整隊、列隊使用的器具。Sapiparayray to sofitay. 讓士兵整隊用的器具。
 sapiparayrayaw(rayray)    想整隊、列隊。Sapiparayrayaw niyam a romakat. 我們想列隊走。
 sapipariko'(riko')    送衣服、提供衣服使用的器具。如 oni a moto ko sapipariko' caniraan. 這輛摩托車是給他們送衣服的。
 sapipariko'aw(riko')    想送衣服穿、想提供衣服。Sapipariko'aw ako cikakaan. 我想給哥哥送衣服。
@@ -4781,7 +4778,7 @@ sapipatalaaw(tala)    希望等候或準備某事。Sapipatalaaw ako caniraan it
 sapipatalafekang(fekang)    送達上面使用的器具。同sapipatafekang。
 sapipatalafekangaw(fekang)    想送達上面。同 sapipatafekangaw。
 sapipatalahekal(hekal)    送到外面或送上岸使用的工具。O tamina ko sapipatalahekal caniraan. 用船送他們到陸地或岸上。
-sapipatalahekal(hekal)    坦露、披露事情憑藉的工具。O tiliﬁ
+sapipatalahekal(hekal)    坦露、披露事情憑藉的工具。O tilifi
 ko sapipatalahekal niyam to demak    ira. 通過電視披露他的行為。
 sapipatalahekalaw(hekal)    想送到外面或岸上。Sapipatalahekalaw niyam ciniraan. 我們想送他出外。
 sapipatalahekalaw(hekal)    想坦露、披露。Sapipatalahekalaw ako to niharatengan ako. 我想坦露我的心思。
@@ -4824,7 +4821,7 @@ sapipatayaw(patay)    想殺死、想處死。Ira to ko sapipatayaw ira to tamda
 sapipatedi(tedi)    直接照射使用的工具。O likat no dawdaw ko sapipatedi. 用燈光直射。
 sapipatediaw(tedi)    想直接照射。Sapipatediaw ako tora dihif to dawdaw. 我想用火把照射山洞。
 sapipatefo(tefo)    降落、跳落使用的器具。Sapipatefo a saong. 降落傘。
-sapipatefoaw(tefo)    想降落、想跳落。Sapipatefoaw nora soﬁtay tora tokos. 那個士兵想降落在那座山。
+sapipatefoaw(tefo)    想降落、想跳落。Sapipatefoaw nora sofitay tora tokos. 那個士兵想降落在那座山。
 sapipateka'(teka')    敲打、磕打使用的工具。Saseti' ko sapipateka' to fongoh ira. 用木棍敲打他的頭部。
 sapipateka'aw(teka')    想敲打，想磕打。Sapipateka'aw ako to pa'eno no heci. 我想敲打果核。
 sapipatelac(telac)    打偏、偏離目標憑藉的器具。Oni a pana' ko sapipatelac ira. 他用這把弓箭打偏了。
@@ -4925,7 +4922,7 @@ sapipedoxaw(pedox)    想捅破、打洞。Sapipedoxaw ako to salilit i sapad. �
 sapipekpek(pekpek)    毆打、打擊使用的器具。Oni saseti' ko sapipekpek to waco. 這根棍子是打狗用的。
 sapipekpekaw(pekpek)    想毆打、想狠揍。Sapipekpekaw ira to fongoh ako. 他想打我的腦袋。
 sapipela'(pela')    把東西劈成兩半、一分為二的用具。O cakelis ko sapipela' to kilang. 用斧頭把木頭劈成兩半。
-sapipela'aw(pela')    想把東西分成兩半。sapipela'aw nora kawas toya tokos, ca kaﬁlo ! 那個神想把山劈開，辦不到！
+sapipela'aw(pela')    想把東西分成兩半。sapipela'aw nora kawas toya tokos, ca kafilo ! 那個神想把山劈開，辦不到！
 sapipelaw(pelaw)    sapipelaw to pitaw. 鬆脫鋤頭用的。
 sapipelawaw(pelaw)    想分離、脫離某物。Sapipelawaw no wama tora pitaw. 父親想把那把鋤頭鬆脫下來。
 sapipeleng(peleng)    用來打碎、瓦解、毀壞東西的工具。O hikoki ko sapipeleng toya tosaay a matatingerohay a loma'. 用飛機破壞那兩幢高樓。
@@ -4933,7 +4930,7 @@ sapipelengaw(peleng)    想打碎、瓦解、毀壞。Sapipelengaw ningra to lom
 sapipeli(peli)    用來踩倒、踩踏的工具。O maan ko sapipeli iso to sacapoxan? 你用什麼工具踩踏秧田？
 sapipeliaw(peli)    想踩倒、踩踏。Sapipeliaw no kolong to rarengosan. 牛想踩踏草地。
 sapipeloc(peloc)    鬆動、鬆開(螺絲)的用具。Sapipeloc to kadang no kolong. 鬆開牛鼻環的用具。
-sapipelocaw(peloc)    想鬆動、鬆開東西。Sapipelocaw ira to ﬁting. 她想鬆開耳環。
+sapipelocaw(peloc)    想鬆動、鬆開東西。Sapipelocaw ira to fiting. 她想鬆開耳環。
 sapipelpel(pelpel)    打碎、破碎東西的用具。Sapipelpel to fokeloh a kikay. 碎石機器。
 sapipelpelaw(pelpel)    想打碎、破碎。Sapipelpelaw nora tamdaw to tefos. 那個人想壓碎甘蔗。
 sapipenay(penay)    撕破、撕壞衣服的工具。Oni ko sapipenay to kiradom. 用這個工具撕布。
@@ -5046,11 +5043,11 @@ sapiraso'(raso')    潑水、灑水實用的器具。同 sapirasi'。
 sapiraso'aw(raso')    想潑水、灑水。同 sapirasi'aw。
 sapiratoh(ratoh)    告狀、報告憑藉的手段。Sapiratoh a tikami. 告狀信、報告函。
 sapiratohaw(ratoh)    想告狀、報告。Sapiratohaw ako to kakeridan. 我想報告領導。
-sapirawis(rawis)    勾取東西使用的器具。Sapirawis to 'aﬁnong. 勾取椰子的用具。
+sapirawis(rawis)    勾取東西使用的器具。Sapirawis to 'afinong. 勾取椰子的用具。
 sapirawisaw(rawis)    想勾取某物。Sapirawisaw nora lotong to lopas. 那隻猴子想勾桃子。
 sapirayaray(rayaray)    排隊、列隊憑藉的器具。Sapirayaray a konis. 用於列隊的劃線。
 sapirayarayaw(rayaray)    想排隊、列隊、想羅列成行。Sapirayarayaw no kaemangay i piontokan. 青少年想在運動場排隊。
-sapirecep(recep)    浸濕、浸水使用的器具。Sapirecep to riko' a ﬁntang. 浸衣服的臉盆。
+sapirecep(recep)    浸濕、浸水使用的器具。Sapirecep to riko' a fintang. 浸衣服的臉盆。
 sapirecepaw(recep)    想把東西浸濕、浸泡。Cisinoetay to ko kaa' ako sapirecepaw ako to kaa'.我的背心有汗了，我想浸泡一下。
 sapirecrec(recrec)    箍某物使用的器具。O 'oway ko sapirecrec to paetang han? 箍桶用藤條嗎？
 sapirecrecaw(recrec)    想箍桶。Sapirecrecaw ci mama to toptop. 爸爸想箍水槽。
@@ -5073,7 +5070,7 @@ sapirenokaw(renok)    路過拜訪或暫停一下。
 sapirenokaw(renok)    想歸附、歸屬。Sapirenokaw iso to icowaan? pasowalen kako ! 你想歸屬哪裡？告訴我吧！
 sapirepat(repat)    損壞、破壞使用的工具。Sapirepat to koliciw. 破壞自行車用的。
 sapirepataw(repat)    想損壞、破壞。Sapirepataw ira to notao a paliding. 他想損壞人家的車子。
-sapirepel(repel)    追捕、逮捕使用的工具。Sapirepel to milaliway a soﬁtay. 逮捕逃兵用的。同sapirepet。
+sapirepel(repel)    追捕、逮捕使用的工具。Sapirepel to milaliway a sofitay. 逮捕逃兵用的。同sapirepet。
 sapirepelaw(repel)    想追捕、想逮捕。Sapirepelaw no kincac ciniraan. 警察想追捕他。同sapirepetaw。
 sapirepet(repet)    抓住、捕捉使用的器具。同 sapirepel。
 sapirepetaw(repet)    想抓住，想捕捉。同 sapirepelaw。
@@ -5213,7 +5210,7 @@ sapisa'onoc('onoc)    做扁擔使用的器具。Sapisa'onoc a 'aol. 做扁擔�
 sapisa'onocaw('onoc)    想做扁擔。Sapisa'onocaw ako to 'aol.我想做竹扁擔。
 sapisa'opo('opo)    聚集、集合使用的器具。同 sapisaopo。
 sapisa'opo('opo)    聚集、集合憑藉的用具。O lappa ko sapisa'opo niyam to kaemangay. 我們用廣播器召集青少年。
-sapisa'opoaw('opo)    想聚集、集合。Sapisa'opoaw niyam to soﬁtay a lalooden. 我們想召集要打仗的兵士。
+sapisa'opoaw('opo)    想聚集、集合。Sapisa'opoaw niyam to sofitay a lalooden. 我們想召集要打仗的兵士。
 sapisa'opoaw('opo)    想聚集、集合。同 sapisaopoaw。
 sapisa'orad('orad)    求雨、人工造雨使用的器具。Sapisa'orad a exiw. 祈求下雨用的香火。
 sapisa'oradaw('orad)    想求雨、想人工造雨。Sapisa'oradaw nikawasay itira. 巫師想在那裡求雨。
@@ -5344,7 +5341,7 @@ sapisafalakoaw(falako)    想製造皮革。Sapisafalakoaw ira to hacokap no waw
 sapisafana'(fana')    欺騙他人憑藉的工具。Sapisafana' ira a sasing. 他用來欺騙的相片。
 sapisafana'aw(fana')    想欺騙、矇騙他人。Sapisafana'aw ira to tao. 他想騙別人。
 sapisafanaw(fanaw)    挖池塘、人造湖使用的工具。Oni kikay ko sapisafanaw niyam. 我們挖池塘用這台機器。
-sapisafanawaw(fanaw)    想挖池塘、人造湖。Ca to ka'orad ko romi'ad, halaﬁnay to, sapisafanawaw niyam. 天不下雨好久了，我們想造個池塘。
+sapisafanawaw(fanaw)    想挖池塘、人造湖。Ca to ka'orad ko romi'ad, halafinay to, sapisafanawaw niyam. 天不下雨好久了，我們想造個池塘。
 sapisafang(safang)    捕撈魚蝦使用的器具(紗網)。Sapisafang to 'afar. 撈蝦的紗網。
 sapisafangad(fangad)    互助組合憑藉的條件。
 sapisafangadaw(fangad)    想組織互助組。
@@ -5366,22 +5363,22 @@ sapisafel(safel)    水煮使用的器具。同 sapitangtang。
 sapisafelaw(safel)    想水煮。同 sapitangtangaw。
 sapisafelin(felin)    翻身、翻覆憑藉的用具。Sapisafelin to sawfan. 翻被用的。Sapisafelin to paliding. 翻倒車子用的(器物)。
 sapisafelinaw(felin)    想翻身、翻覆。Sapisafelinaw no wina to safa i takar. 母親想給床上的弟弟翻身。
-sapisafi'(safi')    投射、投擲長槍憑藉的用具。Sapisaﬁ' a kotang. 投射用的矛槍。
-sapisafi'aw(safi')    想投射、投擲長槍。Sapisaﬁ'aw ako to 'idoc. 我想投射魚槍。
-sapisafihekac(fihekac)    做捕鳥器憑藉的器具。Sapisaﬁhekac to 'ayam. 捕鳥器。
-sapisafihekacaw(fihekac)    想做捕鳥器。Sapisaﬁhekacaw naira to 'ayam. 他們想捕鳥。
-sapisafinawlan(finawlan)    組織民族、族群憑藉的手段。Sapisaﬁnawlan to 'Amis. 組成阿美族的條件。
-sapisafinawlanaw(finawlan)    想組織民族、族群。Sapisaﬁnawlanaw naira to Katakalan. 他們想組成凱達格蘭族。
-sapisafita'o(fita'o)    造水池使用的器具。Sapisaﬁta'o a impi. 造水池用圓鍬。
-sapisafita'oaw(fita'o)    想造水池。Sapisaﬁta'oaw niyam to pidadangoyan. 我們想造游泳池。
-sapisafiting(fiting)    做耳環、耳飾使用的器具。Sapisaﬁting a 'oway. 編製耳飾用的藤子。
-sapisafitingaw(fiting)    想做耳環、耳飾。Sapisaﬁtingaw ira to ekim. 她想做金銀耳飾。
-sapisafiyok(fiyok)    刮大風、大風呼嘯而來的方式。Sapisaﬁyok no kawas. 神明刮大風用的(器物)。
-sapisafiyokaw(fiyok)    天要刮大風。Sapisaﬁyokaw no romi'ad. 天要刮大風的樣子。
+sapisafi'(safi')    投射、投擲長槍憑藉的用具。Sapisafi' a kotang. 投射用的矛槍。
+sapisafi'aw(safi')    想投射、投擲長槍。Sapisafi'aw ako to 'idoc. 我想投射魚槍。
+sapisafihekac(fihekac)    做捕鳥器憑藉的器具。Sapisafihekac to 'ayam. 捕鳥器。
+sapisafihekacaw(fihekac)    想做捕鳥器。Sapisafihekacaw naira to 'ayam. 他們想捕鳥。
+sapisafinawlan(finawlan)    組織民族、族群憑藉的手段。Sapisafinawlan to 'Amis. 組成阿美族的條件。
+sapisafinawlanaw(finawlan)    想組織民族、族群。Sapisafinawlanaw naira to Katakalan. 他們想組成凱達格蘭族。
+sapisafita'o(fita'o)    造水池使用的器具。Sapisafita'o a impi. 造水池用圓鍬。
+sapisafita'oaw(fita'o)    想造水池。Sapisafita'oaw niyam to pidadangoyan. 我們想造游泳池。
+sapisafiting(fiting)    做耳環、耳飾使用的器具。Sapisafiting a 'oway. 編製耳飾用的藤子。
+sapisafitingaw(fiting)    想做耳環、耳飾。Sapisafitingaw ira to ekim. 她想做金銀耳飾。
+sapisafiyok(fiyok)    刮大風、大風呼嘯而來的方式。Sapisafiyok no kawas. 神明刮大風用的(器物)。
+sapisafiyokaw(fiyok)    天要刮大風。Sapisafiyokaw no romi'ad. 天要刮大風的樣子。
 sapisafelac(felac)    舂穀子、舂米使用的器具。Tifekan ato 'asolo ko sapisafelac. 舂米工具用臼子和杵。
 sapisafelacaw(felac)    想舂穀子、想舂米。Sapisafelacaw naira to holaymay. 她們想舂蓬萊米。
 sapisafelaw(felaw)    出差、服役使用的器具。Sapisafelaw a tosiya. 出差用的汽車。
-sapisafelawaw(felaw)    想出差、服役。Sapisafelawaw ako to soﬁtay. 我想服兵役。
+sapisafelawaw(felaw)    想出差、服役。Sapisafelawaw ako to sofitay. 我想服兵役。
 sapisafodawan(fodawan)    煉製銅礦使用的器具。Sapisafodawan a parod. 煉銅爐。
 sapisafodawanaw(fodawan)    想煉製銅礦。Sapisafodawanaw naira hamaan? 他們想煉銅做什麼用途？
 sapisafodoy(fodoy)    編織毛線使用的器具。Sapisafodoy a rinom. 打毛線的針。
@@ -5404,10 +5401,10 @@ sapisahakeno(keno)    裝著不知道憑藉的方式。O maan ko sapisahakeno ak
 sapisahakenoaw(keno)    想假裝不知道。Sapisahakenoaw ako to fyaw ako. 我想對我的鄰居裝不知道。
 sapisahakhak(hakhak)    做糯米糕、年糕的使用的器具。Sapisahakhak a 'odax. 做糯米糕用的糖。
 sapisahakhakaw(hakhak)    想做糯米糕、年糕。Sapisahakhakaw naira toya kiloma'an. 他們想在收割節裡做糯米糕。
-sapisahalafin(lafin)    堅持、持久做事憑藉的手段。Sapisahalaﬁn to demak. 持久做事的方式。
-sapisahalafinaw(lafin)    想堅持、持久地做事。Sapisahalaﬁnaw ako a mitilid to no 'Amis a sowal. 我想堅持學習阿美族語言。Sapisahalaﬁnaw ako a mitilid to no 'Amis a sowal. 我想用久一點的時間學阿美語。
-sapisahalafin(halafin)    持久、做久、長久堅持憑藉的手段。Sapisahalaﬁn to demak. 使工作持久的方法。
-sapisahalafinaw(halafin)    想持久，想長久地堅持。Sapisahalaﬁnaw niyam a milood. 我們想打持久戰。
+sapisahalafin(lafin)    堅持、持久做事憑藉的手段。Sapisahalafin to demak. 持久做事的方式。
+sapisahalafinaw(lafin)    想堅持、持久地做事。Sapisahalafinaw ako a mitilid to no 'Amis a sowal. 我想堅持學習阿美族語言。Sapisahalafinaw ako a mitilid to no 'Amis a sowal. 我想用久一點的時間學阿美語。
+sapisahalafin(halafin)    持久、做久、長久堅持憑藉的手段。Sapisahalafin to demak. 使工作持久的方法。
+sapisahalafinaw(halafin)    想持久，想長久地堅持。Sapisahalafinaw niyam a milood. 我們想打持久戰。
 sapisahalaka(halaka)    事先制訂計劃使用的器具。Sapisahalaka a kikay. 事前備用的機器。
 sapisahalakaaw(halaka)    想制訂計劃、想事先安排。Sapisahalakaaw ako a taira. 我想按計劃去。
 sapisahalifet(lifet)    使勁、出力憑藉的手段。O maan ko sapisahalifet iso saw? 你用什麼發力呢？
@@ -5444,8 +5441,8 @@ sapisakakinih(kinih)    [疊 1]向一方傾斜使用的工具，偏袒憑藉的�
 sapisakakinihaw(kinih)    [疊 1]想傾斜、想偏袒。Sapisakakinihaw ako ciniraan. 我想偏袒他。
 sapisakakkak(kakkak)    嘎嘎叫喚使用的器具。O maan ko sapisakakkak no palang? 烏鴉用什麼嘎嘎叫呢？
 sapisakakkakaw(kakkak)    想嘎嘎叫喚。Sapisakakkakaw no palang i kakilangan. 烏鴉在樹上想嘎嘎叫。
-sapisakalafi(lafi)    煮晚飯、晚餐使用的器具。Sapisakalaﬁa felac ato dateng. 煮晚飯用的米和菜。
-sapisakalafiaw(lafi)    想煮晚飯、晚餐。Sapisakalaﬁaw ako.我想煮晚飯。
+sapisakalafi(lafi)    煮晚飯、晚餐使用的器具。Sapisakalafia felac ato dateng. 煮晚飯用的米和菜。
+sapisakalafiaw(lafi)    想煮晚飯、晚餐。Sapisakalafiaw ako.我想煮晚飯。
 sapisakalahok(lahok)    煮午飯、午餐使用的器具。Sapisakalahok a sioy. 煮午飯的鍋。
 sapisakalahokaw(lahok)    想煮午飯、午餐。Sapisakalahokaw no kaka ako. 我姊姊想做午飯。
 sapisakaliki(kaliki)    加快、加速使用的器具。Sapisakaliki a kikay. 加速器。
@@ -5462,7 +5459,7 @@ sapisakangkang(kangkang)    做木犁使用的器具。Sapisakangkang a kilang. 
 sapisakangkangaw(kangkang)    想做木犁。Sapisakangkangaw ira to sapikangkang. 他想做犁田用的犁。
 sapisakaniw(kaniw)    說謊、開玩笑使用的器具。sapisakaniw a sowal. 用來開玩笑的話。
 sapisakaniwaw(kaniw)    想說謊、想開玩笑。Sapisakaniwaw ira takowanan. 他想開我的玩笑。
-sapisakapah(kapah)    美化裝飾、搞漂亮使用的器具。Sapisakapah a ﬁhon. 裝飾用的化妝品。
+sapisakapah(kapah)    美化裝飾、搞漂亮使用的器具。Sapisakapah a fihon. 裝飾用的化妝品。
 sapisakapahaw(kapah)    想美化裝飾、想搞得漂亮。Sapisakapahaw no wina to wawa. 母親想把孩子打扮漂亮。
 sapisakapot(kapot)    組織團體使用的器具。Sapisakapot to kapah. 組織青年團體的方式。
 sapisakapotaw(kapot)    想組織團體。Sapisakapotaw ira to kaemangay. 他想組織青少年組織。
@@ -5514,8 +5511,8 @@ sapisakodayit(kodayit)    牢固、鞏固東西使用的器具。O maan ko sapis
 sapisakodayitaw(kodayit)    想牢固、鞏固東西、想搞結實。Sapisakodayitaw no malitengay to iniyaro'ay a tamdaw. 長輩想鞏固村裡人之間的關係。
 sapisakofaw(kofaw)    建造廚房使用的器具。Sapisakofaw a sapad. 蓋廚房用的木板。
 sapisakofawaw(kofaw)    想建造廚房。Sapisakofawaw iso han?pafelien ako kiso to kilang ! 你想建廚房嗎？我給你木料。
-sapisakofit(kofit)    釘紐扣使用的器具。Sapisakoﬁt a rinom. 釘鈕扣用的針。
-sapisakofitaw(kofit)    想釘紐扣。Sapisakoﬁtaw ni ina to riko' ako. 媽媽想給我的衣服釘鈕扣。
+sapisakofit(kofit)    釘紐扣使用的器具。Sapisakofit a rinom. 釘鈕扣用的針。
+sapisakofitaw(kofit)    想釘紐扣。Sapisakofitaw ni ina to riko' ako. 媽媽想給我的衣服釘鈕扣。
 sapisakohaw(kohaw)    做湯、煮湯使用的器具。Sapisakohaw a sioy. 煮湯用的鍋。
 sapisakohawaw(kohaw)    想做湯、煮湯。Sapisakohawaw ako to no futing. 我想煮魚湯。
 sapisakohecal(kohecal)    染白、漂白使用的器物。Sapisakohecal a 'apol. 刷白用的石灰。
@@ -5560,8 +5557,8 @@ sapisaksak(saksak)    鋪墊、鋪展使用的器具。Sapisaksak a falako. 鋪�
 sapisaksakaw(saksak)    想鋪墊、鋪展。Sienaway to miming ko romi'ad, sapisaksakaw ako to tana i takar. 天有點冷，我想在床上鋪毯子。
 sapisakuli(kuli)    做苦力、當搬運工使用的器具。O 'onoc ato kaered ko sapisakuli. 做苦力的用具就是扁擔和繩子。
 sapisakuliaw(kuli)    想做苦力、想做搬運工。Malolayay ko koli, sapisakuliaw ho kiso han? 苦力很累的，你還想當苦力嗎？
-sapisalafii(lafii)    熬夜、趕夜工使用的器具。Oni ko sapisalaﬁi niyam a tinghoy. 我們趕夜工使用的燈。
-sapisalafiiaw(lafii)    想熬夜、想趕夜工。Sapisalaﬁiaw ako a mitilid idadaya. 我今夜想熬夜苦讀。
+sapisalafii(lafii)    熬夜、趕夜工使用的器具。Oni ko sapisalafii niyam a tinghoy. 我們趕夜工使用的燈。
+sapisalafiiaw(lafii)    想熬夜、想趕夜工。Sapisalafiiaw ako a mitilid idadaya. 我今夜想熬夜苦讀。
 sapisalalad(lalad)    蔓延、延續某物使用的器具。Sapisalalad to moco'. 蔓延牆上用的。
 sapisalaladaw(lalad)    想蔓延、延續。Sapisalaladaw no tamorak i sadatengan. 南瓜要蔓延在菜園裡。
 sapisalalan(lalan)    修路、築路使用的器具。Sapisalalan a kikay. 鋪路機。Sapisalalan a paliding.修路用的車子。
@@ -5627,7 +5624,7 @@ sapisamedacaw(samedac)    想挑食、偏食。同 sapihamedac。
 sapisamiming(miming)    縮小、弄小使用的器具。同sapisamamang。
 sapisamimingaw(miming)    想縮小、弄小。
 sapisamoliked(moliked)    盤踞、隱藏使用的器具。Sapisamoliked to tireng. 隱身用的(器具)。
-sapisamolikedaw(moliked)    想盤踞，想隱藏。Sapisamolikedaw noya milaliway a soﬁtay toya tokos.那些逃兵想盤踞山頭。Sapisamolikedaw no 'oner itira ta rengorengosan. 蛇想隱藏在那片草地裡。
+sapisamolikedaw(moliked)    想盤踞，想隱藏。Sapisamolikedaw noya milaliway a sofitay toya tokos.那些逃兵想盤踞山頭。Sapisamolikedaw no 'oner itira ta rengorengosan. 蛇想隱藏在那片草地裡。
 sapisamoraw(moraw)    把東西堆成塔形使用的器具。O impi ko sapisamoraw to tafok. 用圓鍬堆積沙子成塔形。同 sapisa'aporaw。
 sapisamorawaw(moraw)    想把東西堆成塔形。Sapisamorawaw ira to 'asisiw. 他想把稻草堆成塔的形狀。同 sapisa'aporawaw。
 sapisamsam(samsam)    欺淩、欺負他人憑藉的器具。Sapisamsam ira to wawa. 他欺凌小孩使用的手段。
@@ -5640,9 +5637,8 @@ sapisangalof(ngalof)    做引水槽使用的器具。Sapisangalof a amoto ato f
 sapisangalofaw(ngalof)    想做引水槽。Sapisangalofaw niyam hapananoman to omah. 我們想做引水槽灌溉田地用。
 sapisangasif(ngasif)    燒水做飯使用的器具。Sapisangasif a sioy. 燒水做飯用的鍋。
 sapisangasifaw(ngasif)    想燒水做飯。Sapisangasifaw no wina.母親想燒水做飯。
-sapisangayangayan(ngayangayan)    做涼亭使用的器具。Sapisangayangayan a kilang. 搭建涼亭用的木頭。
-sapisangayangayanaw    
-(ngayangayan)    想做涼亭。Sapisangayangayanaw niyam to pipasela'an no tamdaw. 我們想建涼亭供人休息。
+sapisangayangayan(ngayangayan)    做涼亭使用的器具。Sapisangayangayan a kilang. 搭建涼亭用的木頭。 
+sapisangayangayanaw(ngayangayan)    想做涼亭。Sapisangayangayanaw niyam to pipasela'an no tamdaw. 我們想建涼亭供人休息。
 sapisangayaw(ngayaw)    征戰獵首使用的器具。Sapisangayaw a funus. 獵頭用的番刀。
 sapisangayawaw(ngayaw)    想征戰獵首。Sapisangayawaw niyam to fongoh no 'ada. 我們想獵敵人的頭。
 sapisani'ada(sani'ada)    憐憫、可憐他人憑藉的手段。Sapisani'ada to adadaay. 同情病人的方式。
@@ -5658,7 +5654,7 @@ sapisaolatekaw(olatek)    想隨便、隨意做。Sapisaolatekaw ako a mieneng. 
 sapisaomah(omah)    播種小米使用的器具。Sapisaomah to lamlo. 播種小米用的(工具)。
 sapisaomahaw(omah)    想播種小米。Sapisaomahaw naira to lamlo. 他們想播種小米。
 sapisa'or(sa'or)    ①  火煨東西使用的器具。Sapisaor to marad. 煨鐵條用的(器物)。②  做風箱的器具。
-sapisa'oraw(sa'or)    ①  想用火煨東西。Sapisao'raw ako to ﬁtonay hasafocol. 我想煨刺竹準備做弓用。②  想要做風箱的器具。
+sapisa'oraw(sa'or)    ①  想用火煨東西。Sapisao'raw ako to fitonay hasafocol. 我想煨刺竹準備做弓用。②  想要做風箱的器具。
 sapisapad(sapad)    做木板使用的器具。Sapisapad a sarosaros. 做木板用的鋸子。
 sapisapadaw(sapad)    想做木板。Sapisapadaw ako to sapisaloma'. 我想做蓋房子用的木板。
 sapisapadek(padek)    偏愛、偏袒某某使用的手段。Ca 
@@ -5781,7 +5777,7 @@ sapisatefonaw(tefon)    想挖井、想挖水塘。Sapisatefonaw ako sapananom t
 sapisatingalaw(tingalaw)    澄清液體使用的器具。Sapisatingalaw to nanom. 澄清飲水用的。
 sapisatingalawaw(tingalaw)    想澄清、想沈澱。Sapisatingalawaw ako to nananomen niyam. 我希望澄清我們的常飲水。
 sapisatisil(tisil)    排列、排成縱隊使用的器具。Sapisatisil to kaemangay. 排列青少年使用的。
-sapisatisilaw(tisil)    想排列、想排成縱隊。Sapisatisilaw no soﬁtay. 士兵想排隊。
+sapisatisilaw(tisil)    想排列、想排成縱隊。Sapisatisilaw no sofitay. 士兵想排隊。
 sapisateked(teked)    獨食、獨佔憑藉的手段。Sapisateked ira to kanga'ayan niyam. 他獨佔我們的好處而使用的手段。
 sapisatekedaw(teked)    想獨食、想獨佔。Sapisatekedaw ako to tayal a maemin. 我想全攬所有的工作。
 sapisateker(teker)    捕獸的器具。Oni a sapisateker niyam.這是我們捕獸用的(器物)。
@@ -5832,7 +5828,7 @@ sapiseday(seday)    滑行、蹭行使用的用、器具。Sapiseday a paliding.
 sapisedayaw(seday)    想滑行、蹭行。Sapisedayaw no wawa i sasoedaan. 孩子想在雪地裡滑行。
 sapisefeng(sefeng)    伏擊、打埋伏使用的器具。O kowang ko sapisefeng no mi'adopay a tamdaw.獵人伏擊用槍。
 sapisefengay(sefeng)    想伏擊、想打埋伏。Sapisefengay ako to fafoy. 我想伏擊野豬。
-sapisefsef(sefsef)    倒水、濾水使用的器具。Sapisefsef to nanom. 濾水用的(器具)。O ﬁntang ko sapisefsef to nanom. 用臉盆倒水。
+sapisefsef(sefsef)    倒水、濾水使用的器具。Sapisefsef to nanom. 濾水用的(器具)。O fintang ko sapisefsef to nanom. 用臉盆倒水。
 sapisefsefaw(sefsef)    想倒水、想濾水。Sapisefsefaw ira i papotal. 他想在院外倒水。
 sapisekay(sekay)    寄託東西使用的器具。Sapisekay a lofoc. 寄託東西用的袋子。sapisekay 想解脫(如心事)。
 sapisekayaw(sekay)    想寄託東西。Sapisekayaw ira to lalosidan. 他想寄託日用品。
@@ -5852,10 +5848,10 @@ sapisetok(setok)    停止、止步、刹車使用的器具。Sapisetok to tosiy
 sapisetokaw(setok)    想停止、止步、想刹車。Sapisetokaw no parakatay to tosiya. 駕駛員想剎車。
 sapisefet(sefet)    捆紮、結紮使用的器具。Sapisefet to tilid. 捆書用的(東西)。
 sapisefetaw(sefet)    想捆紮、結紮。Sapisefetaw ako to fokes no wawa. 我想紮好孩子的頭髮。
-sapisefi'(sefi' )    投擲使用的器具。Sapiseﬁ' a kotang.投槍。Sapiseﬁ' a fokeloh. 投擲用的石頭。
-sapisefi'aw(sefi')    想投擲。Sapiseﬁ'aw no kapah to kotang. 年輕人想投擲標槍。
-sapisefir(sefir)    甩出去、用力拉拽使用的手段。Pasifana'en ira ko wawa ira to sapiseﬁr to kotang. 他要對自己的孩子傳授擲標槍的技巧。
-sapisefiraw(sefir)    想甩出去、用力拉拽。Sapiseﬁraw cinira to fokeloh 他想丟石頭。
+sapisefi'(sefi' )    投擲使用的器具。Sapisefi' a kotang.投槍。Sapisefi' a fokeloh. 投擲用的石頭。
+sapisefi'aw(sefi')    想投擲。Sapisefi'aw no kapah to kotang. 年輕人想投擲標槍。
+sapisefir(sefir)    甩出去、用力拉拽使用的手段。Pasifana'en ira ko wawa ira to sapisefir to kotang. 他要對自己的孩子傳授擲標槍的技巧。
+sapisefiraw(sefir)    想甩出去、用力拉拽。Sapisefiraw cinira to fokeloh 他想丟石頭。
 sapisi'ayaw('ayaw)    (走)向前、往前使用的器具。O paya ko sapisi'ayaw a mitoro'. 指示前方用的是牌子。
 sapisi'ayawaw('ayaw)    想向前、想面向前方。Sapisi'ayawaw niyam a romakat. 我們想往前走。
 sapisi'eked('eked)    另建爐竈、另樹派別使用的手段。O maan ko sapisi'eked to parod? 用什麼另建爐灶呢？
@@ -5874,8 +5870,8 @@ sapisifat(sifat)    占卜、卜卦使用的器具。Sapisifat a facacili. 卜�
 sapisifataw(sifat)    想占卜、想卜卦。Sapisifataw ako samaan ko kawas ako? 我想占卜一下，我的命運會怎樣？
 sapisifed(sifed)    纏住、鉤住東西使用的器具。Sapisifed to ca'ang. 鉤掛樹杈用的。
 sapisifedaw(sifed)    想纏住、想鉤住。Sapisifedaw ira tora saseti'. 他想纏住那根木棍。
-sapisifin(sifin)    擦拭、洗臉使用的器具。Sapisiﬁn to laway. 洗臉用的。Sapisiﬁn a ﬁntang.洗臉盆。
-sapisifinaw(sifin)    想擦拭、想洗臉。Sapisiﬁnaw no wawa to laway. 孩子想洗臉。
+sapisifin(sifin)    擦拭、洗臉使用的器具。Sapisifin to laway. 洗臉用的。Sapisifin a fintang.洗臉盆。
+sapisifinaw(sifin)    想擦拭、想洗臉。Sapisifinaw no wawa to laway. 孩子想洗臉。
 sapisikal(sikal)    鋪展、攤開使用的器具。Sapisikal to takar. 鋪床用的。同 sapisilak。
 sapisikalaw(sikal)    想鋪展、想攤開。Sapisikalaw ira to fasolan. 她想鋪蓆子。同 sapisilakaw。
 sapisiked(siked)    獨自做事使用的器具。O maan ko sapisiked ira? 他自己做用什麼工具？
@@ -5996,7 +5992,7 @@ sapisoped(soped)    儲存、收集東西使用的器具。Sapisoped to riko' a 
 sapisopedaw(soped)    想儲存、儲備、想收集。Sapisopedaw ako to nananomen. 我想儲存飲水。
 sapisoperit(soperit)    揪住、抓住使用的器具。Sapisoperit to panay. 揪稻子用的。
 sapisoperitaw(soperit)    想揪住、抓住。Sapisoperitaw ira tora koko'. 他想抓住那頭雞。
-sapisopet(sopet)    集會、聚集使用的器具。Sapisopet to ﬁnaolan. 召集鄉親用的。
+sapisopet(sopet)    集會、聚集使用的器具。Sapisopet to finaolan. 召集鄉親用的。
 sapisopetaw(sopet)    想聚集、想集會。Sapisopetaw no malitengay kitaanan. 長老想召集我們開會。
 sapisopsop(sopsop)    拾掇、歸攏東西使用的器具。Sapisopsop to tafokod. 收拾魚網用的(器具)。
 sapisopsopaw(sopsop)    想拾掇、歸攏。Sapisopsopaw no kaka to laloma'. 姊姊想拾掇居室。
@@ -6025,7 +6021,7 @@ sapiseti'aw(seti')    想打、想打擊。Sapiseti'aw ira to tao.他想打擊�
 sapisetik(setik)    捕撈小魚的用具。Sapisetik to hicay a cadiway. 撈捕小魚的網。
 sapisetikaw(setik)    想捕撈小魚。Sapisetikaw no wawa to fanani'ol. 孩子想撈蝌蚪。
 sapita'elif(ta'elif)    用於翻越大山的工具。Sapifa'elif niyam to tokes a 'efa. 我們用來翻山的馬。
-sapitta'elifaw(ta'elif)    想翻越大山，想翻山越嶺。Sapita'elifaw nora soﬁtay toni a tokos.那些士兵想翻越這座山。
+sapitta'elifaw(ta'elif)    想翻越大山，想翻山越嶺。Sapita'elifaw nora sofitay toni a tokos.那些士兵想翻越這座山。
 sapita'emod(ta'emod)    吞噬、吞食東西使用的器具。Sapita'emod to kakaenen. 吞食食品用的(器物)。
 sapita'emodaw(ta'emod)    想吞噬、想吞食。Sapita'emodaw nora lotong to tosaay a lopas. 那隻猴子想一口吞下兩顆桃子。
 sapita'is(ta'is)    縫補衣服的用具。Sapita'is a mising.縫補衣服用的縫紉機。
@@ -6036,7 +6032,7 @@ sapita'owak(ta'owak)    一飲而盡、乾杯使用的器具。Ora wakong ko sap
 sapita'owakaw(ta'owak)    想一飲而盡，想乾杯。Sapita'owakaw niyam toni a lamlo a epah a maemin.我們都想喝完這杯小米酒。
 sapita'esel(ta'esel)    戳穿、刺透使用的器具。Oni a kotang 
 ko sapita'esel ako to fadahong no    tomay. 我用這把矛槍穿透狗熊的胸膛。
-sapita'eselaw(ta'esel)    想戳穿、刺透某物。Sapita'eselaw no soﬁtay to 'ada to kowang. 士兵想用刺刀刺死敵人。
+sapita'eselaw(ta'esel)    想戳穿、刺透某物。Sapita'eselaw no sofitay to 'ada to kowang. 士兵想用刺刀刺死敵人。
 sapita'ta'(ta'ta')    用力切割使用的器具。Sapita'ta' to komo. 切割橡皮膠用的(工具)。
 sapita'ta'aw(ta'ta')    想用力切割。Sapita'ta'aw no wama tona falako. 父親想切割這張皮革。
 sapita^elif(ta^elif)    越過、經過、翻越某地使用的器具。Sapita^elif to 'adipel. 越過籬笆用的(器具)。
@@ -6060,8 +6056,8 @@ sapitafak(tafak)    把煙絲裝入煙斗的用具。Sapitafak a ongto. 裝煙�
 sapitafakaw(tafak)    想把煙絲裝入煙斗。Sapitafakaw ako to ongto no widang. 我想給朋友的煙斗裝煙絲。
 sapitafal(tafal)    割破、割傷使用的器具。O po'ot ko sapitafal to tarodo' ako. 這把割傷我的手指。
 sapitafalaw(tafal)    想割破、割傷。Sapitafalaw ira to o'o nora tamdaw. 他想割傷那個人的腳。
-sapitafikod(fikod)    絆倒(人)使用的器具。Sapitaﬁkod a kaered. 絆繩。Sapitaﬁkod to 'a'adopen. 絆倒動物用的(工具)。同sapihaﬁkod。
-sapitafikodaw(fikod)    想絆倒、絆住。Sapitaﬁkodaw niyam toya fafoy. 我們想絆倒那頭野豬。
+sapitafikod(fikod)    絆倒(人)使用的器具。Sapitafikod a kaered. 絆繩。Sapitafikod to 'a'adopen. 絆倒動物用的(工具)。同sapihafikod。
+sapitafikodaw(fikod)    想絆倒、絆住。Sapitafikodaw niyam toya fafoy. 我們想絆倒那頭野豬。
 sapitafo(tafo)    包裝、包裹使用的器具。Sapitafo to 'odax. 包糖果用的。Sapitafo a padakopak. 包裝紙。
 sapitafoaw(tafo)    想包裝、包裹。Sapitafoaw ako tora tafo i patiayman. 我想在那個商店包裝我的便當。Sapitafoaw ko makeroay a kaying to sakakero a lalosidan. 跳舞的小姐想包裝舞具。
 sapitafokod(tafokod)    撒網捕撈、網撈使用的器具。Sapitafokod to futing ato 'afar. 撒網捕撈魚蝦的用具。
@@ -6173,7 +6169,7 @@ sapitatoy(tatoy)    提攜東西使用的器具。Sapitatoy to roto. 提網兜�
 sapitatoyaw(tatoy)    想用手提著、想提攜。Sapitatoyaw ako to sapirokrok a pitaw. 我想提著挖地用的鋤頭。
 sapitaw(pitaw)    做鋤頭。參見 misapitaw。
 sapitawal(tawal)    忘記、忘卻憑藉的手段。Sapitawal a iyo. 健忘藥。
-sapitawalaw(tawal)    想忘記、忘卻、想磨掉記憶。Sapitawalaw ako ciniraan kawra ca kaﬁlo. 我想忘掉她，可是做不到。
+sapitawalaw(tawal)    想忘記、忘卻、想磨掉記憶。Sapitawalaw ako ciniraan kawra ca kafilo. 我想忘掉她，可是做不到。
 sapitawen(pitaw)    把…做鋤頭、做鋤頭吧！ Sapitawen koni a marad. 把這塊鐵做鋤頭。
 sapitayal(tayal)    做事、工作使用的器具。Oni ko sapitayal ako. 這個是工作用的東西。
 sapitayalaw(tayal)    想做事、想工作。Sapitayalaw niyam to romi'ami'ad. 我們想天天忙碌工作。
@@ -6181,8 +6177,8 @@ sapitayong(tayong)    (節日期間)殺豬的用具。Sapitayong a funus. 殺豬
 sapitayongaw(tayong)    想殺豬、宰豬。Sapitayongaw naira tora masoesoay a fafoy. 他們想殺那頭肥豬。
 sapitedec(tedec)    鞭打、鞭策使用的器具。Sapitedec to tatiihay a tamdaw. 鞭打壞人用的(器物)。
 sapitedecaw(tedec)    想鞭打、鞭策。Sapitedecaw ako toya waco. 我想鞭打那隻狗。
-sapitefir(tefir)    抖動、彈跳東西使用的工具。Sapiteﬁr a kikay. 彈撥機。
-sapitefiraw(tefir)    想抖動、彈跳。Sapiteﬁraw ira to fokeloh. 他想彈出石頭出去。
+sapitefir(tefir)    抖動、彈跳東西使用的工具。Sapitefir a kikay. 彈撥機。
+sapitefiraw(tefir)    想抖動、彈跳。Sapitefiraw ira to fokeloh. 他想彈出石頭出去。
 sapitektek(tektek)    (編藤、竹器時用木製工具)敲擊打緊或打實使用的器具。Sapitektek to dita'. 拍打黏土用的(器具)。
 sapitektekaw(tektek)    (編藤、竹器時用木製工具)想敲擊打緊。Sapitektekaw ako tora fasolan. 我想拍打那張大藤蓆子。
 sapitelac(telac)    精碾穀子使用的器具。Sapitelac to felac. 碾精米用的(器具)。
@@ -6233,10 +6229,10 @@ sapitesi'(tesi')    噴灑、噴濺使用的器具。Sapitesi' to nanom. 噴水�
 sapitesi'aw(tesi')    想噴灑、想噴濺。sapitesi'aw ako to sarenaf to saedef. 我想給門板噴漆。
 sapitefad(tefad)    從高處取物的用具。O tokar ko sapitefad ako to lamlo. 我用梯子取下小米。
 sapitefadaw(tefad)    想從高處取物。Sapitefadaw ira to kingking i kafekang. 她想在上面取罐頭。
-sapitefi'(tefi')    摘扁豆使用的器具。O maan ko sapiteﬁ' ako saw? 我用什麼摘扁豆呢？
-sapitefi'aw(tefi')    想摘扁豆。Sapiteﬁ'aw to no safa i sadatengan. 妹妹想在菜園裡摘扁豆了。
-sapitefing(tefing)    觸動、接觸使用的器具。Sapiteﬁng to faloco'. 感動人心的手段。
-sapitefingaw(tefing)    想觸動、接觸。Sapiteﬁngaw ira to tayal iso. 他想接觸你的工作。
+sapitefi'(tefi')    摘扁豆使用的器具。O maan ko sapitefi' ako saw? 我用什麼摘扁豆呢？
+sapitefi'aw(tefi')    想摘扁豆。Sapitefi'aw to no safa i sadatengan. 妹妹想在菜園裡摘扁豆了。
+sapitefing(tefing)    觸動、接觸使用的器具。Sapitefing to faloco'. 感動人心的手段。
+sapitefingaw(tefing)    想觸動、接觸。Sapitefingaw ira to tayal iso. 他想接觸你的工作。
 sapitefo'(tefo')    採集竹筍使用的器具。O pitaw ko sapitefo' ako. 我用鋤頭挖筍。
 sapitefo'aw(tefo')    想採集竹筍、想挖竹筍。Sapitefo'aw ira papitangtangen kako to titi'. 他想挖筍叫我煮肉。
 sapitefoc(tefoc)    懲處、處罰他人使用的器具。O 
@@ -6337,8 +6333,8 @@ sapitodoh(todoh)    火燒、焚燒使用的器具。Sapitodoh to lakaw a parod.
 sapitodohaw(todoh)    想用火燒、想焚燒。Sapitodohaw no wawa to padakopak. 孩子想燒紙。
 sapitodong(todong)    仿造、模仿使用的器具。Sapitodong to sasing. 模仿照片用的(器具)。
 sapitodongaw(todong)    想仿造、想模仿。Sapitodongaw nora wawa takowanan. 那個孩子想模仿我。
-sapitofific(tofific)    拉扯、拉拽東西使用的器具。Sapitoﬁﬁc to riko'. 拉拽衣角用的(器物)。
-sapitofificaw(tofific)    想拉扯、拉拽。Sapitoﬁﬁcaw no wawa to talip ni wina ira. 孩子想拉扯她媽媽的裙子。
+sapitofific(tofific)    拉扯、拉拽東西使用的器具。Sapitofific to riko'. 拉拽衣角用的(器物)。
+sapitofificaw(tofific)    想拉扯、拉拽。Sapitofificaw no wawa to talip ni wina ira. 孩子想拉扯她媽媽的裙子。
 sapitoka'(toka')    支撐東西使用的器具、支架，架子。Sapitoka' to fadahong. 支撐屋頂用的(器具)。
 sapitoka'aw(toka')    想支撐、想架東西。Sapitoka'aw ako tora falat. 我想支撐那根橫樑。
 sapitokad(tokad)    剖腹開刀使用的器具、手術刀。Sapitokad to tiyad. 剖腹用的(器具)。
@@ -6411,21 +6407,21 @@ sapiteray(teray)    拉長、鬆弛使用的器具。
 sapiterayaw(teray)    想砍斷。同 sapitepocaw、sapiterawaw。
 sapiterayaw(teray)    想把東西拉長或鬆弛。
 sapiterek(terek)    存留、保留東西使用的器具。Sapiterek to holo. 留飯用的(器具)。
-sapiterekaw(terek)    想存留、保留、想留下東西。Sapiterekaw niyam to kakaenen sapafeli to ﬁyaw niyam. 我們打算留下糧食送給我們的鄰居。
+sapiterekaw(terek)    想存留、保留、想留下東西。Sapiterekaw niyam to kakaenen sapafeli to fiyaw niyam. 我們打算留下糧食送給我們的鄰居。
 sapiterik(terik)    彈射東西使用的器具。Sapiterik to pana'. 彈射箭矢的器具。
 sapiterikaw(terik)    想彈射出去。Sapiterikaw ira to tamdaw i kakarayan. 他想把人彈射太空。
 sapitesek(tesek)    刺透、戳穿東西使用的器具。Sapitesek a kotang. 穿刺用的矛槍。
 sapitesekaw(tesek)    想刺透，想戳穿。Sapitsekaw ira tora tomay. 他想刺那隻狗熊。
-sapiwa'(piwa')    種琵琶。同 saﬁwa'。
-sapiwa'an(piwa')    琵琶園。同 saﬁwa'an。
-sapiwa'ecik(wa'ecik)    淘汰、推開、抛棄某物使用的器具。Sapiwa'ecik to aﬁh. 去掉粗糠用的(器具)。
+sapiwa'(piwa')    種琵琶。同 safiwa'。
+sapiwa'an(piwa')    琵琶園。同 safiwa'an。
+sapiwa'ecik(wa'ecik)    淘汰、推開、抛棄某物使用的器具。Sapiwa'ecik to afih. 去掉粗糠用的(器具)。
 sapiwa'ecikaw(wa'ecik)    想淘汰、想推開、抛棄。Sapiwa'ecikaw ira kamiyanan han? 他想拋開我們嗎？
-sapiwa'en(piwa')    把…種琵琶、種琵琶吧。同 saﬁwa'en。
+sapiwa'en(piwa')    把…種琵琶、種琵琶吧。同 safiwa'en。
 sapiwa'il(wa'il)    套捕野獸使用的器具。Sapiwa'il to 'a'adopen. 套捕野獸用的(器具)。
 sapiwa'ilaw(wa'il)    想套捕野獸。Sapiwa'ilaw niyam to fafoy. 我們想套捕野豬。
 sapiwacay(wacay)    取證、拿出證據使用的器具。Sapiwacay a tikami. 作為證物的信件。
 sapiwacayaw(wacay)    想取證、想拿出證據。Sapiwacayaw no kingcac to maamaan. 警察想取證物。
-sapiwaday(waday)    勸架、排除矛盾糾紛憑藉的手段。Oni ko sapiwaday ako to ﬁaw. 這是我勸止鄰居吵架用的辦法。同 sapiwaray。
+sapiwaday(waday)    勸架、排除矛盾糾紛憑藉的手段。Oni ko sapiwaday ako to fiaw. 這是我勸止鄰居吵架用的辦法。同 sapiwaray。
 sapiwadayaw(waday)    想勸架、想排除矛盾糾紛。Sapiwadayaw ira kamianan a tatosa.他想勸止我們兩人之間的吵架。同sapiwarayaw。
 sapiwadwad(wadwad)    翻動、翻騰東西使用的器具。Sapiwadwad to lamlo. 翻動小米用的(器具)。Sapiwadwad to 'alili. 翻騰穀倉用的(器具)。
 sapiwadwadaw(wadwad)    想翻動、翻騰東西。Sapiwadwadaw ako to riko' i lipa. 我想翻騰箱裡的衣服。
@@ -6558,7 +6554,7 @@ sarien(sari)    把…刨光。Sarien koni sapad. 把這塊木板刨光。
 sarikec(rikec)    指規範人的行為的手段、法律、規則。Sarikec to demak. 有關工作的規則。
 sariko'(riko')    穿衣服。參見 misariko'。
 sariko'en(riko')    把(衣服)穿上。Si^naway to ko romi'ad, sariko'en ko kiftolay a riko' !天氣冷了，穿上厚一點的衣服吧！
-sariko'han(riko')    特地…穿上。Sariko'han kona kafang ako, si^naway ko laﬁi to dadaya. 就把我的大衣穿上吧，今天夜裏冷。
+sariko'han(riko')    特地…穿上。Sariko'han kona kafang ako, si^naway ko lafii to dadaya. 就把我的大衣穿上吧，今天夜裏冷。
 sarimadac(rimadac)    弄光滑、平滑。參見 misariadac。
 sarimadac(rimadac)    最光滑、最平滑。
 sarimadacay(rimadac)    ①  最光滑了、最平滑了。Sarimadacay kora dapiacay. 那塊石板最光滑了。② 最光滑的、最平滑的。Sarimadacay a dadingoan. 最光滑的玻璃。
@@ -6600,7 +6596,7 @@ sasacaciyawen(caciyaw)    ①  即將交談、商談。O sasacaciyawen niyam koy
 sasacapoxen(capox)    ①  要育秧、育苗。Alikien a taini,sasacapoxen ita ! 快來呀，我們就要插秧了！②  指要培育的(作物)。Sasacapoxen a panay. 要培育的稻秧。
 sasacemoden(cemod)    ①  要硬擠進去。Sasacemoden ako ko tosiya. 我就要擠進汽車。②  指要硬擠進去的(物件、地方)。Sasacemoden niyam a loma'. 我們就要擠進的房子。
 sasacikacikayen(cikay)    [疊 2]①  即將不停地跑步、跑動。Sasacikacikayen ira toya piontokan. 他即將在那運動場跑動。②  指要跑步、跑動的(物件)。Sasacikacikayen a piontokan. 要去跑步的運動場。
-sasacinawen(cinaw)    ①  要做漁筌。Sasacinawen no wama i seﬁ. 父親即將去會所做漁筌。②  指要做的漁筌。O sasacinawen ako. 我要做的漁筌。
+sasacinawen(cinaw)    ①  要做漁筌。Sasacinawen no wama i sefi. 父親即將去會所做漁筌。②  指要做的漁筌。O sasacinawen ako. 我要做的漁筌。
 sasadaksa(sadak)    [疊 1]老出去，經常出去。Oni a ciwciw sasadaksa i awtal, mamakaen no posi ko hatiniay. 那只小雞經常出去外面，這樣子會被貓吃掉的。
 sasadataen(data)    ①  要做四邊形。O sasadataen niyam ko sasingaran. 我們就要把窗戶做成四邊形。②  指要做四邊形的(器物)。Sasadataen a sapad. 即將做成四邊形的木板。
 sasademsemsa(sademsem)    [疊 1]表現得很得意、高興的樣子、美滋滋的。Sasademsemsa ko faloco' ningra a mahemek. 她高興得心裏美滋滋的。
@@ -6629,8 +6625,8 @@ sasafatien(fati)    ①  要戴戒子。Sasafatien no sayxo ko tadaekim. 工匠�
 sasafaya'en(safaya')    ①  要虐待、欺淩。Sasafaya'en kora pakoyocay. 那孤兒要受欺凌了。②  指要虐待、欺淩的(對像)。Sasafaya'en a wawa. 即將受欺凌的孩子。
 sasafelacen(felac)    ①  要舂米。O sasafelacen no kaka. 姊姊即將舂米。②  指要舂的(穀物)。Sasafelacen a panay. 要舂的稻穀。
 sasafelen(safel)    [疊 1]①  要蒸煮、烹飪。O sasafelen ko titi no siri. 羊肉即將蒸煮。②  指要蒸煮、烹飪的(東西)。Sasafelen a futing. 要蒸煮的魚。
-sasafi'en(safi')    [疊 1]①  要投射、刺射。O sasaﬁ'en ako ko mancel. 我要刺射麂子。②  指要投射、刺射的(對像)。Sasaﬁ'en a 'a'adopen. 即將被刺殺的野獸。
-sasafita'oen(fita'o)    ①  要建造池子。Sasaﬁta'oen niyam kora saseraan. 我們要把那塊土地挖成池子。②  指要建造池子的(地方)。Sasaﬁta'oen a omah. 即將被挖成池子的田地。
+sasafi'en(safi')    [疊 1]①  要投射、刺射。O sasafi'en ako ko mancel. 我要刺射麂子。②  指要投射、刺射的(對像)。Sasafi'en a 'a'adopen. 即將被刺殺的野獸。
+sasafita'oen(fita'o)    ①  要建造池子。Sasafita'oen niyam kora saseraan. 我們要把那塊土地挖成池子。②  指要建造池子的(地方)。Sasafita'oen a omah. 即將被挖成池子的田地。
 sasafodawanen(fodawan)    ①  要冶煉銅礦。Sasafodawanen naira.他們即將冶煉銅礦。②  指要煉製銅礦的(東西)。Sasafodawanen a fokeloh.即將被煉銅的礦石。
 sasafon(safon)    [疊 1]製造肥皂。參見 misasafon。
 sasafonen(safon)    [疊 1]把…製造肥皂、造肥皂吧。 O sasafonen niyam. 我們要造肥皂的。
@@ -6645,10 +6641,10 @@ sasakadangen(kadang)    ①  要做手鐲。O sasakadangen ako ko ekim. 金子�
 sasakafangen(kafang)    [疊 1]①  要做外衣。O sasakafangen koni kiradom. 這塊布要做外衣。②  指做的外衣。Sasakafangen a kiradom.要被做成大衣的布。
 sasakaheciden(kahecid)    ①  要加鹽弄鹹。Sasakaheciden to miming kora dateng. 那個菜即將加點鹽。②  指加鹽的(東西)。Sasakaheciden a kakaenen. 要加鹽的食品。
 sasakahengangen(kahengang)    ①  要染紅。Sasakahengangen ko tadasay. 頭巾要染紅的。②  指要染紅的(東西)。Sasakahengangen a kiradom.即將染成紅色的布。
-sasakalafien(lafi)    ①  要做晚餐。O sasakalaﬁen koni dateng. 這些蔬菜要做晚餐。②  指要做的晚餐。O titi ato futing ko sasakalaﬁen niyam. 我們要做的晚餐是肉和魚。
+sasakalafien(lafi)    ①  要做晚餐。O sasakalafien koni dateng. 這些蔬菜要做晚餐。②  指要做的晚餐。O titi ato futing ko sasakalafien niyam. 我們要做的晚餐是肉和魚。
 sasakalahoken(lahok)    ①  要做午餐。Sasakalahoken ko konga ato tali. 要把蕃薯和芋頭做成午餐。② 指要做的午餐。Sasakalahoken a ariray.要做午餐的玉米。
 sasakamiden(kamid)    ①  要縫補。Sasakamiden no wina ko riko' ako. 母親就要補我的衣服。② 指要縫補的(衣物)。Sasakamiden a kocosta. 要縫補的襪子。
-sasakangcomien(kangcomi)    ①  要做罐頭。O sasakangcomien kora teﬁ'. 那些碗豆要做罐頭。②  指要做的罐頭。Sasakangcomien a titi. 要做罐頭的肉。
+sasakangcomien(kangcomi)    ①  要做罐頭。O sasakangcomien kora tefi'. 那些碗豆要做罐頭。②  指要做的罐頭。Sasakangcomien a titi. 要做罐頭的肉。
 sasakaniwen(kaniw)    ①  要撒謊、開玩笑。Mana sasakaniwen kako? 為什麼對我撒謊。②  指要撒謊、開玩笑的(對像)。Sasakaniwen a tamdaw. 即將被人開玩笑的人。
 sasakola(sakola)    [疊 1]種櫻花。參見 misakola。
 sasakolaan(sakola)    [疊 1]櫻花園。Tada mimingay koni sasakolaan. 這個櫻花園太小了。
@@ -6673,7 +6669,7 @@ sasaodo'en(odo')    [疊 1]①  要冶煉瑪瑙。②  指要冶煉的瑪瑙。S
 sasapad(sapad)    [疊 1]做木板。參見 misapad。
 sasapadan(sapad)    [疊 1]木板上。Ira to ko pacek i sasapadan. 木板上有釘子。
 sasapaden(sapad)    [疊 1]把…做木板、做木板吧。Oni sasapaden ako. 這是我要做的板子。
-sasahapelawen(hapelaw)    [疊 1]①  要解脫、鬆手。Cowa ko sasahapelawen ako kiso anini. 我今天不會讓你跑掉的。②  要解脫、鬆手的(對像)。Sasahapelawen a soﬁtay. 即將逃脫的士兵。
+sasahapelawen(hapelaw)    [疊 1]①  要解脫、鬆手。Cowa ko sasahapelawen ako kiso anini. 我今天不會讓你跑掉的。②  要解脫、鬆手的(對像)。Sasahapelawen a sofitay. 即將逃脫的士兵。
 sasaraden(sarad)    [疊 1]①  要儲存、儲蓄。sasaraden 如 ~ ako ko kakaenen. 我就要儲備食品。②  指要儲存、儲蓄的(東西)。O sasaraden ita ko nanom. 我們要儲存的是水。
 sasaraxaren(raxar)    ①  要做魚簍。O sasaraxaren ako koni.這是我要做魚簍的。②  指要做的魚簍。Ira ko sasaraxaren han? 有魚簍嗎。
 sasari    鉋子。
@@ -6696,9 +6692,9 @@ sasedefen(sedef)    [疊 1]①  要堵住、堵塞(水壩)。Sasedefen niyam ko 
 sasedoken(sedok)    [疊 1]①  要穿行、挺進。O sasedoken koya lotok. 即將穿過那座山林。②  指要穿行、挺進的(物件)。Sasedoken a pi'adopan. 即將被穿行的獵場。
 sasefet(sefet)    [疊 1]打結兒、領帶。Sasefet to li'el. 領帶。
 sasefeten(sefet)    [疊 1]①  要打結、紮緊。O sasefeten koni kaered. 即將把這根繩子紮緊。② 指打結、紮緊的(物件)。Sasefeten a pawti. 即將紮緊的麻袋。
-sasefi(sefi)    建造集會所。參見 misaseﬁ。
-sasefien(sefi)    把…建造集會所、建造集會所吧。'Akawangay koni saseraan, nga'ay to a saseﬁen. 這個地方高，可以建會所。
-sasefiren(sefir)    [疊 1]①  要詐騙。O saseﬁren ira ko tao. 他即將詐騙別人。②  指要詐騙的。Saseﬁren a tamdaw. 即將被詐騙的人。
+sasefi(sefi)    建造集會所。參見 misasefi。
+sasefien(sefi)    把…建造集會所、建造集會所吧。'Akawangay koni saseraan, nga'ay to a sasefien. 這個地方高，可以建會所。
+sasefiren(sefir)    [疊 1]①  要詐騙。O sasefiren ira ko tao. 他即將詐騙別人。②  指要詐騙的。Sasefiren a tamdaw. 即將被詐騙的人。
 sasefsefen(sefsef)    [疊 1]①  要過濾、潑灑。Sasefsefen ira ko nanom i talid. 即將把瓶子裡的水過濾一下。②  指要過濾、潑灑的(東西)。Sasefsefen a nanom. 要被過濾的水。
 sasekayen(sekay)    [疊 1]①  要寄託。Oni a lalosidan ko sasekayen. 這件行李即將被寄託。。Sasekayen ②  指要寄託的(物件) a maamaan. 即將被寄託的東西。sasekayen 要解脫的。Sasekayen ko roray no faroco'. 要讓心中的苦悶得到解脫。
 sasekingen(seking)    [疊 1]①  要考試、考驗。O sasekingen ko ingkolis. 就要考英語。②  指要考試、考驗的(物件)。Sasekingen a tilidan. 即將被考試的書本。
@@ -6743,7 +6739,7 @@ sasi'si'sa(si'si')    打水仗、互相潑水。Sasi'si'sa ko kapah ato kaying.
 sasifaten(sifat)    [疊 1]①  要避邪。②  指要避邪的(物件)。
 sasifeden(sifed)    [疊 1]①  要纏住、鈎住。Sasifeden kora riko'. 要鉤住那件衣服。②  指要纏住、鈎住的(物件)。Sasifeden a maamaan. 即將被纏住的東西。
 sasifin(sifin)    [疊 1]手巾、洗臉巾；抹布。
-sasifinen(sifin)    [疊 1]①  要擦拭、要洗臉。Sasiﬁnen ko pising no wawa. 要把孩子的臉洗一下。②  指要擦拭的、要洗臉的(對像)。
+sasifinen(sifin)    [疊 1]①  要擦拭、要洗臉。Sasifinen ko pising no wawa. 要把孩子的臉洗一下。②  指要擦拭的、要洗臉的(對像)。
 sasifo'an(sifo')    [疊 1]中間，中央位置。同tatenokan。Itinien i sasifo'an ! 放在這中間吧！
 sasifod(sifod)    [疊 1]互相纏結、打結。同 fodfod。參見 misasifod。
 sasifoden(sifod)    把…互相纏結、打結。Aka sasifoden ko keliw. 不要把繩子纏結一起。
@@ -6883,7 +6879,7 @@ satakaren(takar)    把…編織連床、做連床吧。Samaanay ko satakaren is
 satakirikiri(takiri)    [疊 2]有意識地跌跌撞撞地走路。參見 misatakirikiri。
 satakirikirien(takiri)    [疊 2]假裝跌跌撞撞的樣子吧。Ca 
 kalasang cinira kawra satakirikirien ira    a romakat. 他沒喝醉，可是假裝跌跌撞撞地走路。
-satakirikirisa(takiri)    [疊 2]跌跌撞撞的樣子。Satakirikirisa koya kolong iso, ca pakaﬁlo a mikangkang. 你的牛跌跌撞撞的，不能勝任犁耕。
+satakirikirisa(takiri)    [疊 2]跌跌撞撞的樣子。Satakirikirisa koya kolong iso, ca pakafilo a mikangkang. 你的牛跌跌撞撞的，不能勝任犁耕。
 satakotakod(takod)    [疊 2]有意識地跳來跳去、跳躍著。參見 misatakotakod。
 satakotakoden(takod)    [疊 2]有意識地把…跳來越去的。Satakotakoden noya lotong ko lopas a miala. 那隻猴子有意識地跳越過去取桃子。
 satakotakodsa(takod)    [疊 2]呈跳躍、雀躍的樣子。Satakotakodsa ko waco a mi'aw'aw.狗跳躍著狂吠起來。
@@ -6942,7 +6938,7 @@ satari'edawsa(tari'edaw)    呈長條形狀的樣子。Satari'edawsa ko tadasay 
 satariwac(tariwac)    形成菱形的形狀。Satariwac sanay koya omah. 那塊地開闢成菱形似的。參見 masatariwac。
 satariwacen(tariwac)    把…做成菱形。Satariwacen ko sasingaran, nga'ayay a enengen ! 把窗口做成菱形的，好看！
 satariwacsa(tariwac)    呈菱形的樣子。Satariwacsa ko fasiyaw iso. 你的風箏是菱形的樣子。
-sataromiromisa(taromi)    [疊 2]隱隱約約、影影綽綽的樣子。Sataromiromisa to a ma'araw nangra koya soﬁtay. 那些士兵隱隱約約地被他們發現了。
+sataromiromisa(taromi)    [疊 2]隱隱約約、影影綽綽的樣子。Sataromiromisa to a ma'araw nangra koya sofitay. 那些士兵隱隱約約地被他們發現了。
 satata'ang(ta'ang)    [疊 1]加大、擴大、增大。參見misatata'ang。
 satata'angen(ta'ang)    [疊 1]把…加大、擴大、增大。Ssatata'angen ko loma'loma' namo. 把你們的房子蓋大一點。
 satatihi(tatihi)    傾向一邊、偏心。參見 misatatihi。
@@ -6962,9 +6958,9 @@ satawitawingsa(tawing)    [疊 2]處於搖動、擺動的狀態。Satawitawingsa
 satayhaw(tayhaw)    做竹筒。參見 misatayhaw。
 satayhawen(tayhaw)    把…做竹筒吧。Satayhawen koni 'aol,sapatelian to impic. 把這竹子做成竹筒，放鉛筆用。同 sadodohen。
 satedec(tedec)    鞭子(打人的工具)。
-satefitefir(tefir)    [疊 2]做出上下抖動彈跳的動作。參見 misateﬁteﬁr。
-satefitefiren(tefir)    [疊 2]有意識地把…上下抖動彈跳。Sateﬁteﬁren no sofor i ca'aca'angan no kilang. 小松鼠在樹枝間上下彈跳著。
-satefitefirsa(tefir)    [疊 2]呈抖動彈跳的樣子。Komaen to ko futing to sapariri, sateﬁteﬁrsa a dadmak ko pawpaw. 魚吃魚餌了，浮標就顫動起來。Satefo 古代部落名稱。今臺灣花蓮縣玉裏鎮下德武地區。
+satefitefir(tefir)    [疊 2]做出上下抖動彈跳的動作。參見 misatefitefir。
+satefitefiren(tefir)    [疊 2]有意識地把…上下抖動彈跳。Satefitefiren no sofor i ca'aca'angan no kilang. 小松鼠在樹枝間上下彈跳著。
+satefitefirsa(tefir)    [疊 2]呈抖動彈跳的樣子。Komaen to ko futing to sapariri, satefitefirsa a dadmak ko pawpaw. 魚吃魚餌了，浮標就顫動起來。Satefo 古代部落名稱。今臺灣花蓮縣玉裏鎮下德武地區。
 satefon(tefon)    挖井、鑿井。參見 misatefon。
 satefonen(tefon)    把…挖井、鑿井、挖井吧。Ira to ko nanom itini alatek, satefonen niyam itini ! 這裡可能有水，我們在這裡挖井吧！
 sateked(teked)    自己去承領。參見 misateked。
@@ -7017,7 +7013,7 @@ satiritiri'han(tiri')    [疊 2]特地把…仔細看。Satiritiri'han
 ningra i kamay koya makapahay a    toko. 他把美麗的田螺特地放在手裏反覆仔細地看。
 satisel(tisel)    排成縱隊。參見 misatisel。
 satiselen(tisel)    把…排成縱隊。Satiselen to ako kara mitiliday a tamdaw. 我把學員排成縱隊了。
-satiselsa(tisel)    呈縱隊的樣子。Satiselsa ko soﬁtay a romakat. 士兵排著縱隊走步。
+satiselsa(tisel)    呈縱隊的樣子。Satiselsa ko sofitay a romakat. 士兵排著縱隊走步。
 satiyotiyol(tiyol)    [疊 2]有意識地一再反覆做。參見misatiyotiyol。
 satiyotiyolen(tiyol)    [疊 2]有意識地把…一再地反覆做。Satiyotiyolen iso koni a mitilid ! 你把這些重新寫吧！
 satiyotiyolsa(tiyol)    [疊 2]在反覆地做著。Satiyotiyolsa canira a mikangkang tora omah. 他們一再地犁耕那塊田地。
@@ -7034,12 +7030,12 @@ sato^eman(to^eman)    把光線弄暗。參見 misato'eman。
 sato^emanen(to^eman)    把…弄暗、弄黑。Sato^manen ko laloma'. 把屋裏搞暗一點。
 sato^emansa(to^eman)    暗暗的，黑黑的。Sato^mansa ko kakarayan. 天空一片漆黑。
 satofang(tofang)    服役、出差、接受公務派遣。參見misatofang。satofang 使女、僕人。
-satofangen(tofang)    把…派遣服役、出差。Satofangen canira a mipalasoﬁtay. 把他們派遣去當兵。
-satofil(tofil)    編織草披(雨具)。參見 misatoﬁl。
-satofilen(tofil)    把…編織草披吧。Satoﬁlen kora eli'.把這些茅草編織草披。
+satofangen(tofang)    把…派遣服役、出差。Satofangen canira a mipalasofitay. 把他們派遣去當兵。
+satofil(tofil)    編織草披(雨具)。參見 misatofil。
+satofilen(tofil)    把…編織草披吧。Satofilen kora eli'.把這些茅草編織草披。
 satoka'(toka')    支撐的工具、支棍、支杠。
 satoked(toked)    做橫梁。參見 misatoked。
-satokeden(toked)    把…做橫梁吧。Satokeden ko ﬁdengal.把杉木做橫樑。
+satokeden(toked)    把…做橫梁吧。Satokeden ko fidengal.把杉木做橫樑。
 satokeden(toked)    戒食減輕體重吧。Tada masoesoay kiso, satokeden to miming ! 你太胖了，該減肥了！
 satoker(toker)    支撐，頂住。
 satoki(toki)    造鐘錶。參見 misatoki。
@@ -7069,7 +7065,7 @@ satoto'an(toto')    種植葫蘆的園地。
 satoto'en(toto')    ①  把…做葫蘆瓢吧。Oni ko satoto'en ira. 他做的葫蘆瓢是這個。②  把…種葫蘆吧。Satoto'en niyam itini ! 我們在這裡種葫蘆吧！
 satowitowic(towic)    [疊 2]搖動使樹梢上下彈動著。參見misatowitowic。
 satowitowicen(towic)    [疊 2]把…上下搖動、彈動。Satowitowicen ira ko teloc na kilang.他把樹梢上下搖動起來。
-satowitowishan(towis)    [疊 2]特地把…上下搖動、彈動起來。Satowitowishan ni Maawid koya teloc noya ﬁtonay, mirena' i sera a miﬁngaﬁng. 瑪阿威特特地把箭竹的竹梢搖動起來，幾乎勾著地面擺動。
+satowitowishan(towis)    [疊 2]特地把…上下搖動、彈動起來。Satowitowishan ni Maawid koya teloc noya fitonay, mirena' i sera a mifingafing. 瑪阿威特特地把箭竹的竹梢搖動起來，幾乎勾著地面擺動。
 satowitowissa(towis)    [疊 2]上下搖動、彈跳著。
 saw    疑問助詞。呢、嗎。Talacowa kiso saw? 你要到那裏去呢？ O maan ko nisowalan ni mama ako saw? 我父親說了什麼？
 sawa'a(wa'a)    做犄角。參見 misawa'a。
@@ -7133,7 +7129,7 @@ sedefen(sedef)    把…堵住。Sedefen ko pananoman a kali. 把灌水的溝堵
 sedi    微笑。參見 masedi。
 sedisa(sedi)    微笑著、微笑起來。Sedisa cingra takowanan a somowal. 他微笑著對我說。
 sedok    強行、挺進；鑽進草叢。參見misedok。
-sedoken(sedok)    把…強行、挺進，走進草叢中。Sedoken no soﬁtay a micemod i niyaro'. 軍隊強行進村。
+sedoken(sedok)    把…強行、挺進，走進草叢中。Sedoken no sofitay a micemod i niyaro'. 軍隊強行進村。
 sedoksa(sedok)    強行著、挺進著。Sedoksa canira a romakat i rarengosan. 他們挺進著行走在草地上。
 sefat    繯、繩套、扣圈。
 sefay    垂吊、懸掛。參見 masefay。
@@ -7145,9 +7141,9 @@ sefer    飛刀砍去。參見 misefer。
 seferen(sefer)    飛刀把…砍去。Seferen ira koya fongoh no lotong a misetek. 他一飛刀把猴子的頭剁下來。
 sefet    紮緊、捆緊、打領帶。參見 misefet。
 sefeten(sefet)    把…紮緊、捆緊、結紮。Sefeten ko lofoc iso ! 把你的口袋紮起來！
-sefi    ①  部落集會所。②  投擲。參見 miseﬁ。
-sefir    用詭計詐騙、使人上當。參見 miseﬁr。
-sefiren(sefir)    把…詐騙、矇騙。Seﬁren niyam kora lotong a misafana'. 我們用詭計欺騙那些猴子。
+sefi    ①  部落集會所。②  投擲。參見 misefi。
+sefir    用詭計詐騙、使人上當。參見 misefir。
+sefiren(sefir)    把…詐騙、矇騙。Sefiren niyam kora lotong a misafana'. 我們用詭計欺騙那些猴子。
 sefoy    散亂、亂糟糟。參見 masefoy。
 sefoysa(sefoy)    散亂、蓬亂的樣子。Sefoysa a ma'ofod ko fokes. 頭髮蓬亂地披散著。
 sefsef    倒水、潑水、過濾。同 seni'。參見misefsef。
@@ -7236,8 +7232,8 @@ sifaten(sifat)    把…占卜避邪。Sifaten no malitengay ko lalan, nga' caka
 sifed    纏住、鈎住、羈絆。參見 misifed。
 sifeden(sifed)    把…纏住、羈絆。Sifeden no 'oway ko kilang. 藤蔓把樹纏住了。
 sifin    [閩南語借詞]洗臉。
-sifinen(sifin)    把…擦拭。Siﬁnen koni a ^to ato 'axenan. 把桌子和椅子擦一擦。Ini ko tapodo, siﬁnen kora cohel iso ! 毛巾在這裏，你擦擦汗吧！
-sifinhan(sifin)    特地把…擦拭。Siﬁnhan no ina ko safa ako. 媽媽特地給我弟妹洗臉。
+sifinen(sifin)    把…擦拭。Sifinen koni a ^to ato 'axenan. 把桌子和椅子擦一擦。Ini ko tapodo, sifinen kora cohel iso ! 毛巾在這裏，你擦擦汗吧！
+sifinhan(sifin)    特地把…擦拭。Sifinhan no ina ko safa ako. 媽媽特地給我弟妹洗臉。
 sifo    政府。[日語借詞]O satakaraway a sifo ko mikowanay to kitakit. 中央政府治理全國事務。
 sifo'    中間、中央；內部。
 sifo'an(sifo')    中間、中央部位。I sifo'an no riyal.在海中央。
@@ -7275,11 +7271,11 @@ sikolsa(ikol)    情不自禁地往後看著。Sikolsa cinira sakatainiaw no wid
 sila'    ①  走調兒、不合諧。同 silaw。②  蒸飯時含水量過多。參見 masila'。
 silak    鋪展、墊上。同 selak。參見 misilak。
 silaken(silak)    把…鋪上、鋪墊。Silaken i kafekang noya mitoka'an a 'aol koya ^eli'. 把茅草鋪在架起來的竹子上。同 selaken。
-silakhan(silak)    特地把…鋪展。同 selakhan。Ano ira ko lafang a milaﬁn, silakhan ko fasolan i paenan. 有客人過夜的話，就在地板上鋪上涼席。
+silakhan(silak)    特地把…鋪展。同 selakhan。Ano ira ko lafang a milafin, silakhan ko fasolan i paenan. 有客人過夜的話，就在地板上鋪上涼席。
 silaw    走調兒、不合諧。同 sila'。參見masilaw。
 silay    走偏了、事與願違。參見 masilay。
 silok    滷汁。同 caok。
-silsil    ①  分成份、按級別或活動情況分配。同 sirsir、risris。 ②  撒放、散落。同yasyas，ﬁdﬁd。參見 misilsil。
+silsil    ①  分成份、按級別或活動情況分配。同 sirsir、risris。 ②  撒放、散落。同yasyas，fidfid。參見 misilsil。
 silsilen(silsil)    ①  把…分成份分發。Silsilen ko 'odax no wawa. 把孩子的糖果分成發。②  把…撒放、撒下。Silsilen ko koyasi i omah. 把肥料撒放地裡。同 yasyasen。
 silsilhan(silsil)    特地把…分配。Silsilhan ningra ko tayal niyam. 他分配給我們工作。
 simaan(maan)    馬虎、潦草、隨便。
@@ -7288,7 +7284,7 @@ simal    油、油脂；肥肉。Adihayay ko simal noni a titi. 這塊肉油多�
 simanta'(manta')    吃生的東西、生吃。Simanta' to kodasing. 吃生花生。
 simanta'sa(manta')    沒煮熟的樣子、生生的。Tatiih a simanta'sa a komaen to titi. 生生地吃肉不好。
 simaw    照顧、看護、守護。同 sinael。參見misimaw。
-simawen(simaw)    把…照顧、看護。Simawen no suﬁtay ko lawac no riyal. 士兵看護海防。同sinaelen。
+simawen(simaw)    把…照顧、看護。Simawen no sufitay ko lawac no riyal. 士兵看護海防。同sinaelen。
 simed    隱藏、藏匿、保守秘密。參見misimed。
 simeden(simed)    把…隱藏、藏匿。Simeden ko payso iso, ta caay katakaw. 把你的錢藏好，才不會被偷。
 simelang    難為情、羞恥。參見 masimelang。
@@ -7304,7 +7300,7 @@ sina'osalay    莧菜。
 sina'osalayen(sina'osalay)    把莧菜採摘吧。Sina'osalayen niyam,nga'ayay a kaenen ! 我們摘莧菜吧，好吃呢！
 sinael    照顧、看護。同 simaw。參見misinael。
 sinaelen(sinael)    把…照顧、看護。Nga'ay ko adadaay a sinaelen ! 把病人照顧好！
-sinafel(safel)    菜肴。O roni ko sinafel niyam a malaﬁ. 我們晚餐的菜肴是絲瓜。O maan sinafel komatiniay? 這是什麼菜。
+sinafel(safel)    菜肴。O roni ko sinafel niyam a malafi. 我們晚餐的菜肴是絲瓜。O maan sinafel komatiniay? 這是什麼菜。
 sinakan    油傘。
 sinang    刀刃、鋒刃、偏鋒。Sinang no tokos.山峰。Sinang no funus. 刀刃。
 sinanot    小心謹慎、做事井然有序。參見misinanot。
@@ -7398,7 +7394,7 @@ siyadaen(siyada)    用方布把(孩子)背著。Siyadaen no kaka kora safa. 姊
 siyafon    肥皂。[閩南語借詞]同 safon。
 siyakay    社會。[日語借詞]。O siyakay no tamdawdaw. 人類社會。
 siyakayfokoli    社會福利。[日語借詞]。O 
-siyakayfokoli a rekaec ko sapidipot to    ﬁnawlan. 社會福利是用來照顧人民的依據。
+siyakayfokoli a rekaec ko sapidipot to    finawlan. 社會福利是用來照顧人民的依據。
 siyam    月桃草編織的涼席。同 faho。
 siyampo    洗髮精。[英語借詞]。
 siyap    火舌瞬間燃燒。參見 masiyap。
@@ -7498,7 +7494,7 @@ sokoyen(sokoy)    把苦瓜採摘、摘苦瓜吧。Sokoyen niyam anini ! 我們�
 soksok    疏離、稀疏。參見 masoksok。
 solac    金瓦榕。
 solap    巡視、視察。參見 misolap。
-solapen(solap)    把…巡視、視察。Solapen to no saﬁtay ko niyaro'. 軍隊巡視村子了。
+solapen(solap)    把…巡視、視察。Solapen to no safitay ko niyaro'. 軍隊巡視村子了。
 solasol    自瀆、手淫。參見 masolasol。同sorasor。
 solaw    水果半生半熟。參見 masolaw。
 solda    霜、雪、冰雪。同 so^eda。

@@ -1,4 +1,3 @@
-
 e    阿美語元音之一，屬元音，音值為[∂]。一般出現詞中音節，不作詞尾；作詞首時產生弱化，發音短促，並出現輕微的喉塞化。如 'efa(馬)讀如 'fa ，enem(六)讀如 'nem。
 'eca    不，不是。一般與否定副詞一起使用，表示雙重否定。非…不可。Ca ka 'eca katayra kamo. 你們非去不可。Aka ka 'eca kasomowal to no 'Amis a sowal.一定要說阿美話。
 'ecak    煮熟，成熟。同 cacak。參見 ma'ecak。
@@ -57,7 +56,7 @@ e    阿美語元音之一，屬元音，音值為[∂]。一般出現詞中音�
 'efengen('efeng)    把…拋棄、遺棄、丟棄。'Efengen ko 'atang. 把木屑扔掉。
 'efengen('efeng)    把東西拋棄、丟掉。'Efengen ako i tafalahan ko lakaw. 我把垃圾拋在垃圾場。
 'efer('efer)    飛，飛翔，飛行。參見 ma'efer。
-'efi'('efi')    (因負荷過重)肩膀酸痛，酸軟。'Eﬁ' saan kora wawa a mifafa. 那孩子背孩子累了。參見 ma'eﬁ'。
+'efi'('efi')    (因負荷過重)肩膀酸痛，酸軟。'Efi' saan kora wawa a mifafa. 那孩子背孩子累了。參見 ma'efi'。
 'efid    抽半截的香煙。
 'efiden('efid)    把(香煙)抽半截。'Efiden to ako ko tamako. 我抽半截煙吧！
 'efo    點心，小吃。
@@ -96,7 +95,7 @@ eika    電影。[日語借詞]同 kacoto。
 'emamosa    眼珠，瞳孔。同 mamosa。
 'emamosa('mamosa)    瞳孔。Madocoh ko 'emamosa nora waco. 那隻狗的瞳孔出來了。同 'amamosa。
 'emangic('mangic)    懇求，哀求，苦苦要求。'Emangic kami to nananomen. 我們懇求著要水喝。
-'emangicay('mangic)    ①  懇求的，哀求的，苦苦要求人 ② 懇求者。'Emangicay ko ﬁnawlan to kakaenen. 人民苦求食物。
+'emangicay('mangic)    ①  懇求的，哀求的，苦苦要求人 ② 懇求者。'Emangicay ko finawlan to kakaenen. 人民苦求食物。
 'emec    夾住，剎住。同 'imec。
 'emec('mec)    用手掐、勒。'Emec han ako koya posi. 我把那隻貓勒死。同 'imec。參見mi'mec。
 'emecen('emec)    把…夾住、剎住。'Emecen ko li'el ira.把他的脖子夾住。同 'imecen。
@@ -109,11 +108,11 @@ eika    電影。[日語借詞]同 kacoto。
 'emet    憋氣，剎車。參見 mi'emet。
 'emeten('emet)    把…忍住、憋住、剎住。'Emeten ko paliding ! 把車剎住！
 'emi('emi)    麥子。[閩南語借詞]
-'emin('emin)    全部，所有，整個。'Emin saan ko ﬁnawlan a mililam to titi. 全村的人都領豬肉。參見 ma'min。
+'emin('emin)    全部，所有，整個。'Emin saan ko finawlan a mililam to titi. 全村的人都領豬肉。參見 ma'min。
 'eming    小，少，一丁點。'Ming ko fana' ako.我只知道一點。
 'eminhan('min)    就全部吧。'Eminhan ningra a komaen koya holo ato dateng. 他把飯、菜全部吃了。
 'emo    碎米糝。
-'emo    年糕。Misa'emo i paﬁlongan. 過年時做年糕。
+'emo    年糕。Misa'emo i pafilongan. 過年時做年糕。
 'emod    吞沒。參見 ma'emod。
 'emod    牛胯股上的爛瘡。
 'emoy    ①  常春藤 ②  天仙果。Mikasoy kami to 'emoy. 我們去砍常春藤。

@@ -1,4 +1,3 @@
-
 p    阿美語輔音之一。屬雙唇清塞音，不送氣，音值為 [ p ]。作詞尾時有輕微送氣。
 pa    前綴。是使役動詞的形態標誌。表示：①  促使，使之…。如 pasela' 休息。patalaw 恐嚇，威脅；②  給，給予。如 pangangan 取名，命名。pasowal 告訴。
 pa'a'am('a'am)    給米湯，用米湯漿衣服。
@@ -63,7 +62,7 @@ pa'alipay('alip)    ①  使之性交、做愛了。②  指同異性性交、�
 pa'alipen('alip)    讓…性交、做愛。
 pa'aliwac('aliwac)    給假日、放假、休假。Pa'aliwac ko pitilidan anocila. 學校明天放假。
 pa'aliwacan('aliwac)    假日、假期。
-pa'aliwacay('aliwac)    ①  給假了、放假了、休假了。Pa'aliwacay a maemin i paﬁlongan. 春節都放假。②  指放假者、休假者。
+pa'aliwacay('aliwac)    ①  給假了、放假了、休假了。Pa'aliwacay a maemin i pafilongan. 春節都放假。②  指放假者、休假者。
 pa'aliwacen('aliwac)    讓…放假、休假。Pa'aliwacen kamo anini. 今天給你們放假。
 pa'aliwatec('aliwatec)    使之交叉抱胳膊，使之扭股。Pa'aliwatec to kamay．交叉手臂。
 pa'aliwatecay('aliwatec)    ①  使之交叉、扭股了。②  指交叉者、扭股者。
@@ -164,7 +163,7 @@ pa'isal('isal)    使之分享、分配、把東西分出一部分給人家。
 pa'isalay('isal)    ①  使之分享、分配了。②  指把東西分出的人。
 pa'isalen('isal)    給…分享、分配。Pa'isalen ako ci kaka ako tora safangcalay a maamaan.我把最漂亮的東西分給哥哥。
 pa'isolan    屁股眼、肛門。
-pa'odax('odax)    給糖、放糖。Pa'odax to wawa. 給孩子糖果。Pa'odax to kaﬁ. 給咖啡放糖。
+pa'odax('odax)    給糖、放糖。Pa'odax to wawa. 給孩子糖果。Pa'odax to kafi. 給咖啡放糖。
 pa'odaxay('odax)    ①  給糖了、放糖了。②  指給糖、放糖的人。
 pa'odaxen('odax)    給…糖，給…放糖。Pa'odaxen ko hacol no kolong. 給牛奶放糖。
 pa'olaw('olaw)    用煙燻黑。
@@ -252,7 +251,7 @@ pacahiway(cahiw)    ①  使之挨餓了，讓(他)挨餓了。②  指讓他人
 pacahiwen(cahiw)    讓…挨餓。Caay ka pacahiwen ako komo! 我不會讓你們餓肚子吧！
 pacakat(cakat)    提高，提升，讓爬上去。Pacakat takowanan han? 讓我上去嗎？ Pacakat to 'aca. 提高價錢。
 pacakatay(cakat)    ①  提高了，提升了，讓爬上去了。Pacakatay ko wawa to hata. 孩子在升旗了。②  指提高者，提升者，讓爬上去的人。
-pacakaten(cakat)    把…提高、提升。Pacakaten no tawki cinira. 老闆要提拔他。Pacakaten kora lotong a mi'aﬁnong. 讓猴子爬上去摘椰子。
+pacakaten(cakat)    把…提高、提升。Pacakaten no tawki cinira. 老闆要提拔他。Pacakaten kora lotong a mi'afinong. 讓猴子爬上去摘椰子。
 pacakay(cakay)    讓購買，讓買東西。
 pacakayay(cakay)    ①  讓購買了，讓買了。②  指讓購買東西的人。
 pacakayen(cakay)    讓…購買，把…購買。
@@ -306,9 +305,7 @@ pacedo'en(cedo')    把…浸水、浸泡。Pacedo'en ko 'alapit i nanom. 把筷
 pacefa(cefa)    使之隨便、隨意、亂來。Pacefa cinira a misopa'. 他隨地吐痰。Pacefa to sowal. 亂說話。同 patedo、pateras。
 pacefaay(cefa)    ①  隨便、隨意(做)了。②  指隨便、隨意從事者。同 patedoay、paterasay。
 pacefaen(cefa)    把…隨便、隨意(做)。Pacefaen cinira a komaen to sapaiyo. 他亂吃藥。Aka pacefaen a misopa' ! 不要隨便吐痰！Aka pacefaen a pakotkot to demak no singsi. 不得隨意控告老師的行為。同patedoen、paterasen。pacefcef 灌注Pacefcef to 'epah. 灌酒喝。
-pacefahan(cefa)    特別隨便、隨意(做)，於是就隨便、隨意(做)。Pacefahan niya ﬁnawlan 
-a mipawsa to forayan ato falisan    
-a kakomaen koya misamaraday a    tamdaw. 村民於是隨便在來米飯和高粱飯給打鐵工人吃。同 patedohan、paterashan。
+pacefahan(cefa)    特別隨便、隨意(做)，於是就隨便、隨意(做)。Pacefahan niya finawlan a mipawsa to forayan ato falisan a kakomaen koya misamaraday a tamdaw. 村民於是隨便在來米飯和高粱飯給打鐵工人吃。同 patedohan、paterashan。
 pacefong(cefong)    使之投入、下海、下水。Makerahay to ko riyal, pacefong to kita. 海退潮了，我們下海吧。
 pacefongay(cefong)    ①  使之投入、下海、下水了。②  指投入者，下海者，下水者。
 pacefongen(cefong)    把…投入、下海、下水。Pacefongen niyam ko fokeloh i riyal. 我們把石頭投放海裏。
@@ -438,7 +435,7 @@ pacok    宰殺，刺殺，屠宰。參見 mipacok。
 pacokap(cokap)    給鞋，送鞋。
 pacokapay(cokap)    ①  給鞋了，送鞋了。②  指給鞋者，送鞋者。
 pacokapen(cokap)    把鞋送給，給…鞋穿。
-pacoken(pacok)    把…宰殺、屠宰。Pacoken koni a kolong sapalilam to ﬁnawlan niyam.把這頭牛宰殺分給我們鄉親。
+pacoken(pacok)    把…宰殺、屠宰。Pacoken koni a kolong sapalilam to finawlan niyam.把這頭牛宰殺分給我們鄉親。
 pacokor(cokor)    給拐杖。
 pacokoray(cokor)    ①  給拐杖了。②  給拐杖者。
 pacokoren(cokor)    把拐杖給某某，給…拐杖。
@@ -470,7 +467,7 @@ pacopaay(copa)    ①  使之靠近、挨近了。②  指促使靠近、挨近(
 pacopaen(copa)    把…靠近、挨近，讓…靠近、挨近。同paingiden、pangataen。
 pacoracor(coracor)    催逼，催促，徵召。Pacoracor to tamdaw. 催促人。
 pacoracoray(coracor)    ①  正在催逼、催促、徵召了。②  指催逼者，催促者，徵召者。
-pacoracoren(coracor)    把…催逼、催促、徵召。Pacoracoren no mikowanay kami a palasoﬁtay. 政府把我們召去當兵。
+pacoracoren(coracor)    把…催逼、催促、徵召。Pacoracoren no mikowanay kami a palasofitay. 政府把我們召去當兵。
 pacpac    拍打(稻子)，痛打。參見 mipacpac。(割稻時把稻穗打在木方臼上脫穀) 
 pacpacen(pacpac)    把…拍打、痛打。Pacpacen niyam ko panay anini. 今天我們打稻子。
 pada'eci(da'eci)    給竹箭筍，送竹箭筍。
@@ -504,7 +501,7 @@ padamsoen(damso)    給…提供所需，給…滿足。
 padang    幫忙，幫助。參見 mipadang。
 padangan(padang)    藤編的背藍。同 kakoyodan、takoyodan。
 padangen(padang)    把…幫忙、幫助。Padangen ako ci widang ako a misadateng. 我要幫忙我的朋友種菜。Padangen ho kako idang ! 幫我一下，朋友！
-padawdaw(dawdaw)    點燈，掌燈。Tahira i tenok no laﬁi, padawdaw ho ci wama ako a dademak. 到深更半夜，父親還在燈下工作。
+padawdaw(dawdaw)    點燈，掌燈。Tahira i tenok no lafii, padawdaw ho ci wama ako a dademak. 到深更半夜，父親還在燈下工作。
 padawdawan(dawdaw)    燈檯，燈具；煤油燈。
 padawdaway(dawdaw)    ①  點燈了，掌燈了。②  指點燈者，掌燈者。
 padawdawen(dawdaw)    把燈點上，給…點燈、掌燈。Padawdawen anohatini ! 現在點燈吧！ Padawdawen kako ! 給我點燈！
@@ -572,7 +569,7 @@ paedeng(edeng)    使之達到滿足，差不多，足夠。
 paedengan(edeng)    足夠的時間。Awaay ko pa'edengan a mitiri' to tilid. 沒有足夠的時間看書。Awa ko pa'edengan ira to 'ilol a 
 somowal toya ka itinian ho ni wina a    demak. 他念念不忘地說母親在這裏的事情。
 pa'edengay('edeng)    使之達到滿足了，差不多了，足夠了。
-pa'edengen('edeng)    (要求對方行為)差不多吧！足夠吧！把…做得差不多。Paedengen ko mikaenan iso a 'epah. 你喝的酒差不多了吧(可以了，別過分)！ Halaﬁnay to ko laﬁi, pa'edengen ko dawdaw ! 夜深了，可以熄燈了吧！
+pa'edengen('edeng)    (要求對方行為)差不多吧！足夠吧！把…做得差不多。Paedengen ko mikaenan iso a 'epah. 你喝的酒差不多了吧(可以了，別過分)！ Halafinay to ko lafii, pa'edengen ko dawdaw ! 夜深了，可以熄燈了吧！
 paefa('efa)    給馬，送馬。
 paefaan('efa)    馬圈，馬廄，飼養馬的地方。
 paefaay('efa)    ①  正在給馬、送馬了。②  指給馬者，送馬者。
@@ -612,7 +609,7 @@ pafafahi(fafahi)    讓娶妻子。
 pafafahiay(fafahi)    ①  讓娶妻子了。②  指給某某娶妻子的人。
 pafafahien(fafahi)    讓…娶妻子。
 pafafelin(felin)    [疊 1]讓…翻滾、翻身。
-pafafelin(felin)    [疊 1]使之翻滾、翻身。Oya ﬁta'ol honi pasitini a pafafelin, honi pasitira a pafafelin, cowa kasamaan cinira. 那個蛋，一會兒向這邊翻滾，一會兒向那邊翻滾，它沒事兒。
+pafafelin(felin)    [疊 1]使之翻滾、翻身。Oya fita'ol honi pasitini a pafafelin, honi pasitira a pafafelin, cowa kasamaan cinira. 那個蛋，一會兒向這邊翻滾，一會兒向那邊翻滾，它沒事兒。
 pafafelinay(felin)    [疊 1]①  使之翻滾、翻身了。②  指翻滾者，翻身者。
 pafahetek(fahetek)    設置弓箭機關。
 pafahetekay(fahetek)    ①  設置弓箭機關了。②  指設置弓箭機關的人。
@@ -666,27 +663,27 @@ pafetfetay(fetfet)    ①  使之飛跑了，疾駛了。②  指飛跑者，疾
 pafetfeten(fetfet)    讓…飛跑、疾駛。同 pafesfesen、paferferen。'Alomanay ko tamdaw, aka pafetfeten ko tosiya niyam. 這裏人多，我們的車不要加快跑。
 pafetfetsa(fetfet)    飛快地跑著，處於疾駛奔跑的狀態。Pafetfetsa kako milepel tora wawa. 我飛跑著追那個孩子。
 pafi'enot(fi'enot)    讓拔掉、拔取。
-pafi'enoten(fi'enot)    讓…拔掉、拔取。Paﬁ'enoten 'cora wawa to dateng. 讓那小孩拔菜。
+pafi'enoten(fi'enot)    讓…拔掉、拔取。Pafi'enoten 'cora wawa to dateng. 讓那小孩拔菜。
 paficekot(ficekot)    使之抽筋、痙攣。
 paficekotay(ficekot)    ①  使之抽筋、痙攣了。②  讓他人抽筋、痙攣的人。
 paficekoten(ficekot)    讓…抽筋、痙攣。
-pafidfid(fidfid)    把東西有秩序地擺在地上，排列。Paﬁdﬁd to tilid. 排列書籍。同 pasilsil。
+pafidfid(fidfid)    把東西有秩序地擺在地上，排列。Pafidfid to tilid. 排列書籍。同 pasilsil。
 pafidfiday(fidfid)    ①  有秩序地擺在地上了，排列了。②  指排列者。
-pafidfiden(fidfid)    把…有秩序地擺在地上、排列。Paﬁdﬁden noya malafaiay ko fokeloh.那祖孫兩人把石頭擺成行。Paﬁdﬁden canira a maro'. 讓他們按次序坐。
+pafidfiden(fidfid)    把…有秩序地擺在地上、排列。Pafidfiden noya malafaiay ko fokeloh.那祖孫兩人把石頭擺成行。Pafidfiden canira a maro'. 讓他們按次序坐。
 pafi'enotay(fi'enot)    ①  讓拔掉了，讓拔取了。②  指拔者，拔取者。
 pafikaw(fikaw)    使之彎曲，弄彎。
 pafikaway(fikaw)    ①  使之彎曲了，弄彎了。②  指把東西弄彎的人。
-pafikawen(fikaw)    把…弄彎。Paﬁkawen cinira to 'iric (eric) ako. 請他把我的鐵絲弄彎。Aka paﬁkawen ko cokor ira ! 不要弄彎他的拐杖。
-pafilong(filong)    過除夕、春節。(早期阿美族人的paﬁlong 指的是七、八月間的豐年祭)。
-pafilongan(filong)    春節日，除夕；元旦。Talacowa kamo a misalama to paﬁlongan saw? 春節你們到哪里玩耍？
+pafikawen(fikaw)    把…弄彎。Pafikawen cinira to 'iric (eric) ako. 請他把我的鐵絲弄彎。Aka pafikawen ko cokor ira ! 不要弄彎他的拐杖。
+pafilong(filong)    過除夕、春節。(早期阿美族人的pafilong 指的是七、八月間的豐年祭)。
+pafilongan(filong)    春節日，除夕；元旦。Talacowa kamo a misalama to pafilongan saw? 春節你們到哪里玩耍？
 pafilongay(filong)    ①  過除夕、春節、元旦了。②  過除夕、春節、元旦的人。
 pafilongen(filong)    歡度除夕、春節、元旦吧。
 pafiting(fiting)    給耳飾，掛耳飾。
 pafitingay(fiting)    ①  給耳飾了，掛耳飾了。②  指給耳飾的或掛耳飾的人。
-pafitingen(fiting)    給…耳飾、掛耳飾。Paﬁtingen kona kaying. 給這位小姐掛耳飾吧。
+pafitingen(fiting)    給…耳飾、掛耳飾。Pafitingen kona kaying. 給這位小姐掛耳飾吧。
 pafiyac(fiyac)    伸展、伸直四肢。
 pafiyacay(fiyac)    伸展、伸直四肢了。指伸展、伸直四肢的人。
-pafiyacen(fiyac)    讓…伸展、伸直四肢。Paﬁyacen ko adadaay to oo'. 叫病人伸展一下腿部。
+pafiyacen(fiyac)    讓…伸展、伸直四肢。Pafiyacen ko adadaay to oo'. 叫病人伸展一下腿部。
 pafocol(focol)    給箭鞘、箭筒，掛箭鞘、箭筒。
 pafocolan(focol)    給箭鞘、箭筒的地方，掛箭鞘、箭筒的地方。
 pafocolay(focol)    ①  給箭鞘、箭筒了。②  給箭鞘、箭筒的人，掛箭鞘、箭筒的人。
@@ -704,7 +701,7 @@ pafohafohay(fohafoh)    ①  使之驅趕、驅逐了。②  讓驅趕、驅逐�
 pafohafohen(fohafoh)    讓…驅趕、驅逐，把…驅趕、驅逐。同palohapohen。
 pafolaw(folaw)    驅逐，趕走。
 pafolaway(folaw)    ①  驅逐了，趕走了。②  指驅逐者，趕走者。
-pafolawen(folaw)    把…驅逐、趕走，讓…驅逐、趕走。Pafolawen koni a tatiihay a tamdaw ! 把這些壞蛋趕出去！ Pafolawen ko soﬁtay caniraan. 叫士兵驅逐他們。
+pafolawen(folaw)    把…驅逐、趕走，讓…驅逐、趕走。Pafolawen koni a tatiihay a tamdaw ! 把這些壞蛋趕出去！ Pafolawen ko sofitay caniraan. 叫士兵驅逐他們。
 pafololo'(fololo')    沖洗，沖涼。
 pafololo'ay(fololo')    ①  沖洗了，沖涼了。②  指沖洗者，沖涼者。
 pafololo'en(fololo')    讓…沖洗、沖涼。Pafololo'en ho kako to nanom. 給我沖一下水。
@@ -787,7 +784,7 @@ pahang    因受到打擊而耳鳴，嗡翁響。同paheng。
 pahangingit(hangingit)    使之逐漸地吃、一點一點地吃。
 pahangingitay(hangingit)    ①  使之逐漸地吃了，一點一點地吃了。②  指促使逐漸吃某物的人。
 pahangingiten(hangingit)    讓…逐漸地吃、一點一點地吃。
-pahanhan(hanhan)    使之歇息，休息，休假。Sakapito a romi'ad 'i pahanhan komiﬁliday. 第七天，學生要休息。Pahanhan ho kako.我要休息一下。
+pahanhan(hanhan)    使之歇息，休息，休假。Sakapito a romi'ad 'i pahanhan komifiliday. 第七天，學生要休息。Pahanhan ho kako.我要休息一下。
 pahanhanan(hanhan)    休息、休假的時間。
 pahanhanay(hanhan)    ①  使之歇息了，休息了，休假了。②  指休息者，休假者。
 pahanhanen(hanhan)    讓…休息、休假。Pahanhanen ko malitengay a maro'. 讓老人坐下來休息。
@@ -865,7 +862,7 @@ pahinokopay(hinokop)    ①  使之蜷曲、蜷伏、俯伏了。②  使之蜷�
 pahinokopen(hinokop)    讓…蜷曲、蜷伏、俯伏。
 pahofi(hofi)    發獎品，獎賞，獎勵。
 pahofiay(hofi)    ①  發獎品了，獎賞了，獎勵了。②  指獎賞者，獎勵者。
-pahofien(hofi)    給…發獎品，把…獎賞、獎勵。Pahoﬁen ira kako to tilid. 他給我獎勵書本。Pahoﬁen to no singsi koya pakakilimay to tilid a tamdaw. 老師嘉獎那些猜字猜到的人。
+pahofien(hofi)    給…發獎品，把…獎賞、獎勵。Pahofien ira kako to tilid. 他給我獎勵書本。Pahofien to no singsi koya pakakilimay to tilid a tamdaw. 老師嘉獎那些猜字猜到的人。
 pahofoc(hofoc)    催生，助產，接生。
 pahofocay(hofoc)    ①  催生了，助產了，接生了。②  指催生者，助產者，接生者。
 pahofocen(hofoc)    把…催生、助產、接生。
@@ -949,7 +946,7 @@ paiyo(iyo)    給藥，治療，醫治。
 paiyoay(iyo)    ①  給藥了，治療了，醫治了。②  指給藥的人，治療者，醫治者。
 paiyoen(iyo)    給…藥，把…治療、醫治。
 paka    前綴。主要表示：①  勝任，能夠，可以。如 paka'araw 能看見，看得見。pakatengil 能聽見，聽得見。paka'orong 能扛，扛得動；②  使之，致使。如 pakafana' 使之知道，告訴。pakafuti' 讓睡覺，叫(他)去睡覺。pakakomaen 讓吃，叫(他)去吃。pakaolah 獎賞，獎勵，嘉獎。
-paka    前綴。主要表示：①  經由、通過、達到等意義。如 pakatimol 經過南方。pakawali 經過東方。paka'ayaw 經過前面。pakatoros 達到膝蓋部位；②  通過或使用某種手段而達到。如pakapaliding 用車運。pakatamina 坐船來。pakayoﬁng 由郵差送來。Paka'ac 部落名稱。今臺灣花蓮縣長濱鄉南竹湖。同 pakara'ac。
+paka    前綴。主要表示：①  經由、通過、達到等意義。如 pakatimol 經過南方。pakawali 經過東方。paka'ayaw 經過前面。pakatoros 達到膝蓋部位；②  通過或使用某種手段而達到。如pakapaliding 用車運。pakatamina 坐船來。pakayofing 由郵差送來。Paka'ac 部落名稱。今臺灣花蓮縣長濱鄉南竹湖。同 pakara'ac。
 paka'aca('aca)    能夠購買，買得起。'Atekakay ko 'aca no riko', paka'aca kiso han? 衣服很貴，你買得起嗎？
 paka'acaay('aca)    ①  能夠購買了，買得起了。Paka'acaay cinira to loma'. 他有能力買房子了。②  指有能力購買的人。
 paka'acaen('aca)    能夠把…購買。Paka'acaen ira ko faelohay a tosiya. 他能夠把新車買下的。
@@ -1070,12 +1067,12 @@ pakafasoen(faso)    讓…乘坐汽車。
 pakafawa(fawa)    有能力抬起，能抬起，抬得動。Pakafawa ci Arik to hako. Arik 抬得動箱子。
 pakafawaay(fawa)    ①  有能力抬起了，能抬起了，抬得動了。②  指能夠擡得動東西的人。
 pakafawaen(fawa)    能夠把…抬起。Pakafawaen ira kono (koni)a hako. 他能把這箱子抬起來。
-pakafilo(filo)    有能力做，能勝任，做得來。Pakaﬁlo kako toni a demak. 我能勝任這項工作。Pakaﬁlo cinira a miletek tora kilang. 今天他能砍倒這棵樹。
-pakafiloay(filo)    ①  能勝任了，做得來了。②  指能勝任做好某項工作的(人)。Awa ko pakaﬁloay toni a fokeloh. 沒有人能舉起這塊石頭。
-pakafiloen(filo)    能把…勝任，能把…做好。Pakaﬁloen ako koya omah a mikangkang. 我能把那塊地犁耕的。
-pakafit(kafit)    使之掛上，鈎織，連接，聯絡。Pakaﬁt to sapariri'. 鈎魚餌。Pakaﬁt to tao. 去聯絡別人。
-pakafitay(kafit)    ①  使之掛上了，鈎織了，連接了，聯絡了。②  指使之掛上的人，鈎織者，連接者，聯絡者。Pakaﬁtay a tamdaw. 聯繫人，聯絡人。
-pakafiten(kafit)    讓…掛上、鈎織、連接、聯絡。Pakaﬁten ci kaka ako to salil. 讓我姐姐鈎織魚網。Pakaﬁten ni Ma'awid koya opih(羽毛) i ciko no oo' ira.Ma'awid(瑪阿威特)把羽毛掛在他的肘上、腳上。
+pakafilo(filo)    有能力做，能勝任，做得來。Pakafilo kako toni a demak. 我能勝任這項工作。Pakafilo cinira a miletek tora kilang. 今天他能砍倒這棵樹。
+pakafiloay(filo)    ①  能勝任了，做得來了。②  指能勝任做好某項工作的(人)。Awa ko pakafiloay toni a fokeloh. 沒有人能舉起這塊石頭。
+pakafiloen(filo)    能把…勝任，能把…做好。Pakafiloen ako koya omah a mikangkang. 我能把那塊地犁耕的。
+pakafit(kafit)    使之掛上，鈎織，連接，聯絡。Pakafit to sapariri'. 鈎魚餌。Pakafit to tao. 去聯絡別人。
+pakafitay(kafit)    ①  使之掛上了，鈎織了，連接了，聯絡了。②  指使之掛上的人，鈎織者，連接者，聯絡者。Pakafitay a tamdaw. 聯繫人，聯絡人。
+pakafiten(kafit)    讓…掛上、鈎織、連接、聯絡。Pakafiten ci kaka ako to salil. 讓我姐姐鈎織魚網。Pakafiten ni Ma'awid koya opih(羽毛) i ciko no oo' ira.Ma'awid(瑪阿威特)把羽毛掛在他的肘上、腳上。
 pakafolaw(folaw)    能夠使用戰爭手段驅逐、趕走對方。
 pakafolaway(folaw)    ①  能夠驅逐、趕走對方了。②  指有能力、有把握驅逐、趕走對方的人，擅長打仗的人。
 pakafolawen(folaw)    能夠把…驅逐、趕走。
@@ -1129,10 +1126,10 @@ pakaka'araway(ka 'araw)    [疊 1]①  使之互相見面、會面了。② 指�
 pakaka'arawen(ka'araw)    [疊 1]①  即將被看見，尚待看見。Pakaka'arawen kako to hatiniay atamina. 我即將看見這麼大的船。② 指即將看見的。Pakaka'arawen koya kaying ! 讓那兩位小姐互相見面吧！
 pakaka(kaka)    突出，特別，達到極點。Pakaka ko fa'edet no romi'ad anini. 今天天氣熱極了。Pakaka ko hemek niyam a maemin. 我們都非常高興。Pakaka ko 
 nga'ay no lengaw nona lamlo namo    kini ! 你們的小米長得非常好啊！
-pakakaay(kaka)    ①  突出了，特別了，達到極點了。Pakakaay ko lolay ni ina. 媽媽辛苦極了。Pakakaay ko eres no tamdamdaw i paﬁlongan. 春節時人人很講究打扮。Pakakaay ko soeso ira. 她胖極了。② 指非常者，突出者，特別者。
+pakakaay(kaka)    ①  突出了，特別了，達到極點了。Pakakaay ko lolay ni ina. 媽媽辛苦極了。Pakakaay ko eres no tamdamdaw i pafilongan. 春節時人人很講究打扮。Pakakaay ko soeso ira. 她胖極了。② 指非常者，突出者，特別者。
 pakakaen(kaka)    把…推舉為尊，把…特別誇獎、獎賞、獎勵。Aka pakakaen ko safa ako ! 不要特別誇獎我的弟妹！
 pakakaen(kaka)    。①  要誇獎。②  指要誇獎的(物件) 
-pakakafit(kafit)    [疊 1]使之彼此掛鈎、連接、聯絡。Pakakaﬁt to Tafalong ato Fata'an. 讓Tafalong(太巴壟)和 Fata'an (馬太安)互相聯絡。
+pakakafit(kafit)    [疊 1]使之彼此掛鈎、連接、聯絡。Pakakafit to Tafalong ato Fata'an. 讓Tafalong(太巴壟)和 Fata'an (馬太安)互相聯絡。
 pakakafitay(kafit)    [疊 1]①  使之彼此互相掛鈎、連接、聯絡了。②  指促使互相挂鈎、連接、聯絡的人。
 pakakafiten(kafit)    [疊 1]讓…彼此互相掛鈎、連接、聯絡。
 pakakapi(kapi)    [疊 1]使之互相搭配成對。
@@ -1166,16 +1163,14 @@ pakakomaen(kaen)    使之吃飯，讓人吃飯。
 pakakomaenay(kaen)    ①  使之吃飯了，讓人吃飯了。②  指讓人去吃飯的人。
 pakakomaenen(kaen)    讓…吃飯。Pakakomaenen cinira. 讓他自己吃。Pakakomaenen ni kaka ci safa to 'odax. 哥哥叫妹妹吃糖。
 pakakorkor(korkor)    能夠挖掘，能挖，挖得了。
-pakakorkoray(korkor)    ①  能夠挖掘了，能挖了，挖得了了。。Ira ko ②  指有能力挖掘的(人) 
-pakakorkoray a tamdaw oya(toya)    
-'ekim a cakelis ato ekim a kalatim    sanay. 據傳說有個人有把握挖出那把金斧子和金剪子。
+pakakorkoray(korkor)    ①  能夠挖掘了，能挖了，挖得了了。。Ira ko ②  指有能力挖掘的(人) pakakorkoray a tamdaw oya(toya) 'ekim a cakelis ato ekim a kalatim sanay. 據傳說有個人有把握挖出那把金斧子和金剪子。
 pakakorkoren(korkor)    能夠把…挖掘、挖出來。
 pakalaeno(laeno)    經過下面，放在下面，處於下面(最下面)。
 pakalaenoay(laeno)    ①  經過下面了，放在下面了，處於下面了。②  指經過或放在下面的(東西)。
 pakalaenoen(laeno)    使…經過下面，把…放在下面。
-pakalafi(lafi)    使之用晚餐，讓吃晚餐。Mitefad to taheka kora tamdaw, pakalaﬁ tora wawa. 他拿下食具叫孩子用晚餐。
+pakalafi(lafi)    使之用晚餐，讓吃晚餐。Mitefad to taheka kora tamdaw, pakalafi tora wawa. 他拿下食具叫孩子用晚餐。
 pakalafiay(lafi)    ①  使之用晚餐了，讓吃晚餐了。②  指讓他人用晚餐的人。
-pakalafien(lafi)    讓…用晚餐，請用晚餐。Pakalaﬁen ko lafang niyam ! 請我們的客人用晚餐！
+pakalafien(lafi)    讓…用晚餐，請用晚餐。Pakalafien ko lafang niyam ! 請我們的客人用晚餐！
 pakalahad(lahad)    能夠增長、成長。
 pakalahaday(lahad)    ①  能夠增長、成長了。Oni a lamlo pakalahaday a saholoen. 這種小米煮起來能夠多出來。②  指能夠增長、成長的(人)。
 pakalahaden(lahad)    能夠讓…增長、成長。
@@ -1424,9 +1419,9 @@ pakayakayay(kayakay)    ①  正在造橋、搭橋、鋪橋了。②  指造橋�
 pakayakayay(kayakay)    ①  正在做媒、調停了。②  媒人。
 pakayakayen(kayakay)    ①  給…造橋、搭橋、鋪橋。Pakayakayen ita koni a 'alo. 我們給這條河架橋。
 pakayakayen(kayakay)    給…做媒、調停。Pakayakayen ko kapah no niyaro' niyam ! 請給我們村的小夥子做媒吧！
-pakayofing(yofing)    通過郵件，郵寄。Pakayoﬁng to tilid.寄書。Pakayoﬁng to payso. 寄錢。
+pakayofing(yofing)    通過郵件，郵寄。Pakayofing to tilid.寄書。Pakayofing to payso. 寄錢。
 pakayofingay(yofing)    ①  通過郵件了，郵寄了。②  指郵寄者，寄信的人。
-pakayofingen(yofing)    給…郵寄，把…郵寄。Pakayoﬁngen kako to payso a pafeli. 給我郵寄錢。
+pakayofingen(yofing)    給…郵寄，把…郵寄。Pakayofingen kako to payso a pafeli. 給我郵寄錢。
 pakaysing(kaysing)    給碗，放碗。
 pakaysingan(kaysing)    放碗的地方，碗櫥，碗架。Misanga' to pakaysingan. 造碗架。
 pakaysingay(kaysing)    ①  正在給碗、放碗了。②  指給碗的人，放碗的人。
@@ -1441,7 +1436,7 @@ pakeh    腳踝、腳後跟。
 pakelang    會餐，會宴。同 pateloc、wangkang。
 pakelat    熬夜，通宵做。參見 mipakelat。
 pakelaten(pakelat)    讓…熬夜、通宵做。Pakelaten kamo a mitilid ! 你們一定要通宵讀書！
-pakelatsa(pakelat)    以通宵達旦的方式。Ano paﬁlongan toya dadaya, salaﬁisa a misalama,pakelatsa to laﬁi cowa kafuti'. 到春節那天晚上，我們一整夜地玩耍，通宵達旦不睡覺。
+pakelatsa(pakelat)    以通宵達旦的方式。Ano pafilongan toya dadaya, salafiisa a misalama,pakelatsa to lafii cowa kafuti'. 到春節那天晚上，我們一整夜地玩耍，通宵達旦不睡覺。
 pakemo(kemo)    直接投擲擊中目標，擊打。
 pakemoay(kemo)    ①  直接投擲擊中目標了。②  指直接擊中目標的(人)。
 pakemod(kemod)    放底層、深處，加餡。Pakemod to riko' i lipa. 放衣服在箱子底下。
@@ -1608,7 +1603,7 @@ pakpak    驅鳥器。
 pakpaken(pakpak)    拍擊驅鳥器把鳥驅趕。
 pakpaken(pakpak)    給…拍手、鼓掌，請拍手、鼓掌。
 pakto    內褲，襯褲。同 panco。
-pala    前綴。主要表示：①  使之變成、演變。如 palasoﬁtay 使之當兵，應徵入伍。palakawas 尊奉為神；②  使之互相從事。如 palahakelong 使之相隨而行。palalefod 使之相逐。
+pala    前綴。主要表示：①  使之變成、演變。如 palasofitay 使之當兵，應徵入伍。palakawas 尊奉為神；②  使之互相從事。如 palahakelong 使之相隨而行。palalefod 使之相逐。
 pala    曠野，環境，田野，區域，田地。Pala no Yincominco [合成詞]原住民族地區。O ano tato'asan ni aro'an no 'Amis a sera,o Pala no Yincominco hananay a pangangan. 阿美族自古居住的地區叫原住民族地區。
 pala'anin('anin)    使之扮演狗兒做遊戲。
 pala'aninay('anin)    ①  使之扮演狗兒做遊戲了。②  指促使做遊戲的人。
@@ -1666,9 +1661,9 @@ palafangen(lafang)    讓…做客、客訪，請來做客、客訪吧。Palafan
 palafel(lafel)    讓牲口放牧野外。Palafel to kolong i tokotokosan. 在山上放牧牛。
 palafelay(lafel)    ①  讓牲口放牧野外了。②  指野外放牧者。
 palafelen(lafel)    把…放牧野外。Palafelen koni a kolong. 把這些牛放生野外。
-palafi(lafi)    使之吃晚餐。Palaﬁ to lafang. 讓客人吃晚餐。
+palafi(lafi)    使之吃晚餐。Palafi to lafang. 讓客人吃晚餐。
 palafiay(lafi)    ①  使之吃晚餐了。②  指讓人吃晚餐的人。
-palafien(lafi)    讓…吃晚餐。Palaﬁen canira ! 讓他們吃晚餐吧！
+palafien(lafi)    讓…吃晚餐。Palafien canira ! 讓他們吃晚餐吧！
 palafo(lafo)    給人帶來禍祟、不幸，嫁禍於人，誣賴。Palafo ci Cinaw to tamdamdaw.Cinaw(吉瑙)嫁禍他人。
 palafoay(lafo)    ①  給人帶來禍祟、不幸了，嫁禍於人了，誣賴了。Palafoay cinira to tao.他給別人造成禍害了。②  指給人帶來禍祟、不幸的人，嫁禍於人者，誣賴者。
 palafoen(lafo)    給…帶來禍祟、不幸，把…誣賴。Palafoen ira a miliwal ko kiradom. 他賣假布料。Aka palafoen cinira. 不要誣賴他。
@@ -1703,7 +1698,7 @@ palakapingen(kaping)    讓…分手、離婚。Aka palakapingen kamo ! 不准�
 palakawakawas(kawas)    [疊 2]使之變得神神秘秘，故弄玄虛。
 palakawakawasay(kawas)    [疊 2]①  使之變得神神秘秘了，故弄玄虛了。②  指故弄玄虛的人。
 palakawakawasen(kawas)    [疊 2]讓…變得神神秘秘、故弄玄虛。Palakawakawasen ako ko mikasomowal. 我把事情說得神神秘秘。
-palakawas(kawas)    使之成為神，把某物尊為神，尊為圖騰。Palakawas to 'oner ko Paywan a ﬁnacadan.. 排灣族尊蛇為圖騰。
+palakawas(kawas)    使之成為神，把某物尊為神，尊為圖騰。Palakawas to 'oner ko Paywan a finacadan.. 排灣族尊蛇為圖騰。
 palakawasay(kawas)    ①  使之成為神了。②  指崇拜某物為神的人。
 palakawasen(kawas)    讓…成為神，把…崇拜為神。Palakawasen niyam ko cidal. 我們把太陽崇拜為神。
 palakawassa(kawas)    以推崇為神的方式，如同崇拜神明似的。Palakawassa ko tamdaw to 'oner.人們是那麼崇拜蛇。
@@ -2159,7 +2154,7 @@ paniis    鬢角，頰髯，耳朵裡的毛。
 panirnir(nirnir)    使之逐步實現願望、達到目標。同panirnir。
 panirniray(nirnir)    ①  使之逐步實現願望、達到目標了。② 指促使逐步實現願望、達到目標的人。同 panirniray。
 panirniren(nirnir)    讓…逐步實現願望、達到目標。同panirniren。Panirniren cinira a papitilid ! 幫助他慢慢學習實現願望。
-paniyaro'(aro')    建立部落、村落。paniyaro' ko ﬁnawlan. 族人在建立部落。
+paniyaro'(aro')    建立部落、村落。paniyaro' ko finawlan. 族人在建立部落。
 paniyaro'an(aro')    部落、村落所在地。paniyaro'an no cikatopay a ngasaw. cikatopay 氏族的部落
 paniyaro'ay(aro')    建立部落、村落了。指建立部落、村落的人。
 paniyaro'en(aro')    讓…建立部落、村落。
@@ -2177,10 +2172,10 @@ panonoray(nonor)    ①  使之逐步完成任務了。②  指促使完成任�
 panonoren(nonor)    讓…逐步完成任務、達到目標。同 panirniren。Panonoren cinira a papitilid. 要幫他慢慢學習達到目標。
 panta    淺，淺顯。同 pangta。
 pantaay(panta)    ①  淺了，淺顯了。Pantaay ko nanom itini. 這裏的水淺了。②  指淺的、淺顯的(東西、地方)。同 tangtaay (fangtaay)。
-paofin(ofin)    寄信，送信，投郵，投遞郵件。Paoﬁn to tikami．寄信。Paoﬁn to tingpa. 郵寄肉幹。
+paofin(ofin)    寄信，送信，投郵，投遞郵件。Paofin to tikami．寄信。Paofin to tingpa. 郵寄肉幹。
 paofinan(ofin)    郵局，郵政局。
 paofinay(ofin)    ①  寄信了，送信了，投寄郵件了。②  指寄信者，投郵者，郵遞員。
-paofinen(ofin)    把…郵寄、寄走，給…郵寄、寄信。Paoﬁnen koni a tikami ！把這封信投郵吧！ Paoﬁnen ako kiso to tilid anini. 我今天給你寄書。Paong'ong 部落名稱。今臺灣台東縣成功鎮豐田(叭嗡嗡)。同 Paongaong。Paong'ongan(ong'ong) 部落名稱。今臺灣台東縣成功鎮豐田(叭嗡嗡)。同 Paongaongan。
+paofinen(ofin)    把…郵寄、寄走，給…郵寄、寄信。Paofinen koni a tikami ！把這封信投郵吧！ Paofinen ako kiso to tilid anini. 我今天給你寄書。Paong'ong 部落名稱。今臺灣台東縣成功鎮豐田(叭嗡嗡)。同 Paongaong。Paong'ongan(ong'ong) 部落名稱。今臺灣台東縣成功鎮豐田(叭嗡嗡)。同 Paongaongan。
 paongang(ongong)    使之嗚嗚哭泣。
 paongongay(ongong)    ①  使之嗚嗚哭泣了。②  指促使他人嗚嗚哭泣的人。
 paongongen(ongong)    讓…嗚嗚哭泣。
@@ -2283,7 +2278,7 @@ papafatisen(fatis)    [疊 2]①  要分配、分享獵物。②  指要分配�
 papafayangen(fayang)    [疊 2]①  要掛帆桅。②  指要掛帆桅的(舟筏)。
 papafelien(feli)    [疊 2]①  要供給、給予。②  指要供給、給予的(物件、東西)。
 papafidfiden(fidfid)    [疊 1]①  要排列成行。②  指要排列成行的(物件)。
-papafikawen(fikaw)    [疊 2]①  要弄彎、彎曲。②  指要弄彎、彎曲的(物件)。Papaﬁkawen a 'iric. 要弄彎的鐵絲。Papaﬁkawen to 'eric a tamdaw. 要弄彎鐵絲的人。
+papafikawen(fikaw)    [疊 2]①  要弄彎、彎曲。②  指要弄彎、彎曲的(物件)。Papafikawen a 'iric. 要弄彎的鐵絲。Papafikawen to 'eric a tamdaw. 要弄彎鐵絲的人。
 papafilongen(filong)    [疊 2]①  要歡度春節。②  指要歡度春節的(物件)。
 papafiyacen(fiyac)    [疊 2]①  要伸展四肢。②  指要伸展四肢的(物件)。
 papafolawen(folaw)    [疊 2]①  要暴力驅逐遷徒。②  指要暴力驅逐的(物件)。
@@ -2316,7 +2311,7 @@ papakafiten(kafit)    [疊 2]①  要掛上、要鈎織。②  指要掛上的�
 papakahoten(kahot)    [疊 2]①  要抓一把東西給人家。②  指要抓一把東西給予的(物件)。
 papakalicen(kalic)    [疊 2]①  要讓乘坐。②  指要讓乘坐的(物件)。Papakalicen to tosiya a wawa. 要乘坐汽車的孩子。
 papakapi'en(kapi')    [疊 2]①  要增加、增添。②  指要增加、增添的(物件)。
-papakapien(kapi)    [疊 2]①  要配對成雙。②  指要配對成雙的(物件)。Papakapien a ﬁting. 要配對的耳環。
+papakapien(kapi)    [疊 2]①  要配對成雙。②  指要配對成雙的(物件)。Papakapien a fiting. 要配對的耳環。
 papakayakayen(kayakay)    [疊 2]①  要架橋。②  指要架橋。
 papakayakayen(kayakay)    [疊 2]①  做媒。②  做媒的(物件)。
 papakelaten(kelat)    [疊 2]①  要熬夜突擊。②  指要熬夜突擊的(事情)。
@@ -2432,7 +2427,7 @@ papapikaenen(kaen)    [疊 2]①  要讓去吃。②  指要受命去吃的(物�
 papapikarongen(karong)    [疊 2]①  要讓…去報信。②  指奉命去報信的(物件)。
 papapikasoyen(kasoy)    [疊 2]①  要讓…去砍柴。②  指受命砍柴的人。
 papapikilimen(kilim)    [疊 2]①  要讓…去尋找。②  指受命尋找某物的(物件)。Ci Kolas ko papapikilimen ako to siri. Kolas(古拉斯)受我的委派去找羊。
-papapilafinen(lafin)    [疊 2]①  要讓…過夜住宿。②  指受命過夜住宿的(物件)。O lafang ko papapilaﬁnen ira itini. 他要讓客人在這裏住宿。
+papapilafinen(lafin)    [疊 2]①  要讓…過夜住宿。②  指受命過夜住宿的(物件)。O lafang ko papapilafinen ira itini. 他要讓客人在這裏住宿。
 papapilaliwen(laliw)    [疊 2]①  要讓…逃走、放跑。。②  指奉命逃走、放跑的(物件) Papapilaliwen a tamdaw. 要放跑的人。
 papapilikodaen(likoda)    [疊 2]①  要讓…跳舞。②  指奉命跳舞的人。
 papapililiwen(liliw)    [疊 2]①  要讓…挨家挨戶訪問或傳達訊息。②  指要受命一戶一戶報信息的人。
@@ -2459,7 +2454,7 @@ papapisalamaen(salama)    [疊 2]①  要讓…去玩耍。②  指即將獲准�
 papapisanga'en(sanga')    [疊 2]①  要讓…製造。②  指奉命要製造某物的人。
 papapisatoronen(toron)    [疊 2]①  要讓…做糯米。②  指接受委託要做糯米的人。
 papapisawaden(sawad)    [疊 2]①  要讓…停止、放棄。②  指要勒令停止、放棄的(物件)。
-papapisifinen(sifin)    [疊 2]①  要讓…擦拭。②  指受命要擦拭某物的(物件)。Ora wawa ko papapisiﬁnen ira to dadingo. 他叫那些孩子要去擦拭玻璃。
+papapisifinen(sifin)    [疊 2]①  要讓…擦拭。②  指受命要擦拭某物的(物件)。Ora wawa ko papapisifinen ira to dadingo. 他叫那些孩子要去擦拭玻璃。
 papapita'elifen(ta'elif)    [疊 2]①  要讓…經過某處。②  指奉命要經過某處的(物件)。
 papapitefocen(tefoc)    [疊 2]①  要讓…去懲罰。②  指奉命要懲罰某人的(物件)。
 papapiteki'en(teki')    [疊 2]①  要讓…去敲擊、打擊石英石取火。②  指奉命要去敲擊、打擊的(物件)。
@@ -2546,8 +2541,8 @@ papatapatay(patay)    [疊 2]群體性地相互殘殺、屠殺。參見 mapapata
 papatapataysa(patay)    [疊]處於相互殘殺、屠殺的狀態，互相殘殺、屠殺起來。Papatapataysa canira a milood. 他們進行著相互殘殺的戰爭。
 papatarohen(taroh)    [疊 2]①  要讓…拖拉東西。②  指受命要拖拉東西的(物件)。
 papatawsien(tawsi)    [疊 2]①  要得到賜酒。②  指要得到賜酒的(物件)。
-papatawyoen(tawyo)papatawiwen    
-(tawiw)    [疊]①  要給醬油、放醬油。②  指要給醬油、放醬油的(東西、食品)。
+papatawyoen(tawyo)    [疊]①  要給醬油、放醬油。②  指要給醬油、放醬油的(東西、食品)。
+papatawiwen(tawiw)    [疊]①  要給醬油、放醬油。②  指要給醬油、放醬油的(東西、食品)。
 papatayen(patay)    [疊 2]①  要打死。②  指要打死的(物件)。O papatayen cinira. 他是即將處死的人。
 papatedien(tedi)    [疊 2]①  要照射、直射。②  指要照射的(物件)。
 papatefoen(tefo)    [疊 2]①  要降落、跳落。②  指要降落、跳落的(物件)。
@@ -2685,7 +2680,7 @@ papenenay(penen)    ①  給芒草了，放芒草了。②  指給芒草或放�
 papenenen(penen)    ①  要給芒草，要放芒草。②  指要給或要放的芒草。
 papeng    嘭嘭的響聲。
 papeng    木杵，打稻工具。
-papengpapengsa(papeng)    [疊 2]呈嘭嘭響的狀態，嘭嘭作響。Papengpapengsa ko tapelik masaromi'ad masalaﬁi a mahoni. 海浪整天整夜地嘭嘭作響。
+papengpapengsa(papeng)    [疊 2]呈嘭嘭響的狀態，嘭嘭作響。Papengpapengsa ko tapelik masaromi'ad masalafii a mahoni. 海浪整天整夜地嘭嘭作響。
 papeni'(peni')    壓扁，壓碎。
 papeni'ay(peni')    ①  壓扁了，壓碎了。②  指壓扁者，壓碎者。
 papeni'en(peni')    ①  要把…壓扁、壓碎。②  指要壓扁、壓碎的(物件、東西)。
@@ -2825,7 +2820,7 @@ papiko'ay(piko')    ①  使之交叉、轉彎了。②  指促使交叉、轉�
 papiko'en(piko')    ①  要把交叉、轉彎。②  指要交叉、轉彎的(物件、東西)。
 papilafin(lafin)    讓借宿過夜、允許借宿。
 papilafinay(lafin)    ①  讓借宿過夜了，允許借宿了。②  指允許借宿過夜的人。
-papilafinen(lafin)    讓…借宿過夜、允許…借宿。Papilaﬁnen kako i loma' iso anini ! 請允許我今天在你家過夜！
+papilafinen(lafin)    讓…借宿過夜、允許…借宿。Papilafinen kako i loma' iso anini ! 請允許我今天在你家過夜！
 papilaliw(laliw)    讓逃走、逃離、叫人逃走、逃離。Papilaliw caniraan itini. 讓他們逃離此地。
 papilaliway(laliw)    ①  讓逃走、逃離了、叫人逃走、逃離了。②  指讓人逃走、逃離的人。
 papilaliwen(laliw)    讓…逃走、逃離。Mana papilaliwen aca ako koya tatiihay a tamdaw? 我又怎能放走這些壞人呢？
@@ -2839,7 +2834,7 @@ papililiw(liliw)    叫人挨戶挨家傳信息。
 papililiway(liliw)    ①  讓傳遞消息了、叫人一家一家的傳信息了。②  指安排傳遞消息的人
 papililiwen(liliw)    把…派去傳信息。
 papilimek(limek)    讓躲藏、躲避。Tangsolsa papilimek cinira to wawa ira i rengorengosan.她馬上叫她的孩子躲在草叢裏。
-papilimekay(limek)    ①  讓躲藏、躲避了。Papilimekay kako toya ﬁnawlan no niyaro' niyam i tokos. 我叫鄉親在山上躲避了。②  指安排去躲藏、躲避的人。
+papilimekay(limek)    ①  讓躲藏、躲避了。Papilimekay kako toya finawlan no niyaro' niyam i tokos. 我叫鄉親在山上躲避了。②  指安排去躲藏、躲避的人。
 papilimeken(limek)    讓…躲藏、躲避，把…叫去躲藏、躲避。Papilimeken ira koya kapah 
 i aikor noya pikidihingan to fali a    loma'. 他把年輕人叫去隱蔽在擋風的房子後面。
 papilitod(litod)    讓摘取、摘收、叫人摘取、摘收。
@@ -2963,7 +2958,7 @@ papiresresay(resres)    ①  讓切絲兒了、叫人切絲兒了。②  指讓�
 papiresresen(resres)    讓…切絲兒、請人切絲兒。Papiresresen ni Hona ko fafahi ira to tamako. Hona (和納)叫他妻子切煙絲。
 papiritos(ritos)    讓抽籤、叫人抽籤。
 papiritosay(ritos)    ①  讓抽籤了、叫人抽籤了。②  指叫人去抽籤的人。
-papiritosen(ritos)    讓…抽籤、把…叫去抽籤。Papiritosen ira a maemin koya ﬁnawlan. 他把鄉親們都叫去抽籤。
+papiritosen(ritos)    讓…抽籤、把…叫去抽籤。Papiritosen ira a maemin koya finawlan. 他把鄉親們都叫去抽籤。
 papisa'opo('opo)    讓集合、召集、叫人集合、召集。
 papisa'opoay('opo)    ①  讓集合、召集了、叫人集合、召集了。②  指叫人去集合、召集的人。
 papisaafelawen(felaw)    讓…集體服勞役、把…集體派去服勞役。Papisaafelawen no Dipon ko 'Amis a misakoli. 日本人把阿美人集體派去做工。
@@ -3011,9 +3006,9 @@ papisawaden(sawad)    讓…放棄、停止、把…勒令放棄、停止。Aka 
 papisawidang(widang)    讓交朋友、允許結交朋友。
 papisawidangay(widang)    ①  讓交朋友了、允許結交朋友了。②  指允許他人結交朋友的人。
 papisawidangen(widang)    讓…交朋友、允許…結交朋友。
-papisifin(sifin)    讓擦拭、叫人擦拭。Papisiﬁn to sasingaran. 叫人去擦窗戶。
+papisifin(sifin)    讓擦拭、叫人擦拭。Papisifin to sasingaran. 叫人去擦窗戶。
 papisifinay(sifin)    ①  讓擦拭了、叫人擦拭了。②  指讓把東西擦拭的人。
-papisifinen(sifin)    讓…擦拭、請…擦拭。Papisiﬁnen cinira tona sasiﬁn. 讓他用這條毛巾擦(臉)。
+papisifinen(sifin)    讓…擦拭、請…擦拭。Papisifinen cinira tona sasifin. 讓他用這條毛巾擦(臉)。
 papising(pising)    使之見面、打個照面。Papising kita a tayra. 我們去照個面。
 papisingay(pising)    ①  使之見面了、打個照面了。②  指促使見面、打個照面的人。
 papisingen(pising)    讓…見面、打個照面。
@@ -3034,7 +3029,7 @@ papitaway(pitaw)    ①  給鋤頭了、用鋤頭挖地了、正在鋤耕了。�
 papitawen(pitaw)    用鋤頭把…挖、把…鋤耕。
 papitefoc(tefoc)    讓處罰、懲辦，叫人處罰、懲辦。Papitefoc toya mari'angay a tamdaw.叫人去懲辦那些壞蛋。
 papitefocay(tefoc)    ①  讓處罰、懲辦了、叫人處罰、懲辦了。②  指讓去處罰、懲辦的人。
-papitefocen(tefoc)    讓…處罰、懲辦、把…派去執行處罰、懲辦任務。Itiya ho ira ko mararaway no ﬁnawlan, papitefocen no tarokos. 以前，村民有人違法，請長老去處罰他們。
+papitefocen(tefoc)    讓…處罰、懲辦、把…派去執行處罰、懲辦任務。Itiya ho ira ko mararaway no finawlan, papitefocen no tarokos. 以前，村民有人違法，請長老去處罰他們。
 papitek(pitek)    使之折斷。
 papitekay(pitek)    ①  使之折斷了。②  指促使折斷某物的(人)。
 papiteken(pitek)    ①  讓…折斷、把…折斷。②  指即將折斷的(東西)。
@@ -3214,10 +3209,10 @@ pararoyaroyay(royaroy)    [疊 2]①  使之平衡、均衡了。②  指促使�
 pararoyaroyen(royaroy)    [疊 2]讓…保持平衡、均衡。
 paratoh(ratoh)    傳遞消息、告知、問候。“Nga'ay ho”han ci Nikar a paratoh. 代向尼卡勒問好。
 paratohay(ratoh)    ①  傳遞消息了、告知了、問候了。②  指傳遞消息的人、廣播者、問候者，播報員。
-paratohen(ratoh)    給…傳遞消息、把…告知、問候。Paratohen ko ﬁnawlan to kahemekan niyam. 把我們令人高興的消息告訴鄉親吧！ Paratohen kami to demak ira.告訴我們有關他的事情。
+paratohen(ratoh)    給…傳遞消息、把…告知、問候。Paratohen ko finawlan to kahemekan niyam. 把我們令人高興的消息告訴鄉親吧！ Paratohen kami to demak ira.告訴我們有關他的事情。
 parawis(rawis)    讓勾取、把東西勾取下來。
 parawisay(rawis)    ①  讓勾取了、把東西勾取下來了。②  指讓勾取東西的人、勾取者。
-parawisen(rawis)    給…勾取、把…勾取。Parawisen kako tora mica'itan i layal a sasiﬁn. 給我把晾在竹竿上的毛巾勾取下來。Parawisen ko cayna iso ! 把你的菜籃子勾取下來！
+parawisen(rawis)    給…勾取、把…勾取。Parawisen kako tora mica'itan i layal a sasifin. 給我把晾在竹竿上的毛巾勾取下來。Parawisen ko cayna iso ! 把你的菜籃子勾取下來！
 parawraw(rawraw)    使之困擾、煩惱、擾亂、騷擾。
 parawraway(rawraw)    ①  使之困擾、煩惱了、正在擾亂、騷擾了。②  指擾亂者、騷擾者。
 parawrawen(rawraw)    把…擾亂、騷擾。Parayapay 部落名稱。今臺灣台東縣關山鎮鹿野和平部落。
@@ -3498,7 +3493,7 @@ paseking(seking)    使之考試、考驗。
 pasekingan(seking)    考試、考驗的地方或時間。
 pasekingay(seking)    ①  使之考試、考驗了。②  指考試者、考驗者。
 pasekingen(seking)    讓…考試、考驗、把…考試、考驗。
-pasela'(sela')    休息、歇息。Taha tenok no laﬁi, nga' pasela' to canira a mafuti'. 忙到半夜，他們才睡覺休息了。同 pahanhan。
+pasela'(sela')    休息、歇息。Taha tenok no lafii, nga' pasela' to canira a mafuti'. 忙到半夜，他們才睡覺休息了。同 pahanhan。
 pasela'an(sela')    休息、歇息的地方或時間、休息室。同pahanhanan。
 pasela'ay(sela')    ①  休息、歇息了。Pasela'ay ci wama i laloma'. 父親正在屋裏休息。②  指休息者，歇息者。同 pahanhanay。
 pasela'en(sela')    讓…休息、歇息。Pasela'en ho kako !讓我再休息一下吧！同 pahanhanen。
@@ -3571,7 +3566,7 @@ pasifafa'eday(fafa'ed)    ①  向上了、朝向上面了。②  指朝向上�
 pasifafa'eden(fafa'ed)    把…朝向上面。
 pasifana'(fana')    面授知識、教學、傳授。
 pasifana'ay(fana')    ①  面授知識了、教學了、傳授了。② 指面授者、教學者、傳授者、導師、教練。
-pasifana'en(fana')    給…教學、傳授、把…教學、傳授。Pasifana'en na pakoyoc ko ﬁnawlan to sapilongoc to nanom. 孤兒給鄉親傳授求水的方法。
+pasifana'en(fana')    給…教學、傳授、把…教學、傳授。Pasifana'en na pakoyoc ko finawlan to sapilongoc to nanom. 孤兒給鄉親傳授求水的方法。
 pasifana'han(fana')    特地給…教學、傳授、特地把…教學、傳授。Pasifana'han ako ci nira to demak ako. 我特別把我的行為傳授給他。
 pasifekang(fekang)    向上、朝向上面。
 pasifekangay(fekang)    ①  向上了、朝向上面了。②  指朝向上面的(東西)。
@@ -3907,7 +3902,7 @@ patatiwiday(tiwid)    [疊 2]①  使之彼此失衡、偏頗了。② 指讓兩
 patatiwiden(tiwid)    [疊 2]讓…彼此失衡、偏頗。
 patatodong(todong)    [疊 2]使之相對、面對面、面對。Patatodong ci nira ta ofang no parod a mipihpih to fali. 他對著灶口扇風。
 patatodongay(todong)    [疊 2]①  使之相接著、面對面了、面對著。②  指讓兩者相接，安排適當的人，彼此相接著。
-patatodongen(todong)    [疊 2]①  讓…彼此相對。Patatodongen ci Kacaw a ci Totoy a maro'. 請 Kacaw(卡兆)和 Totoy (多堆)面對面坐著。②  安排適當。Patatodongen ko toki a mieneng to tiliﬁ. 看電視要把時間安排好。
+patatodongen(todong)    [疊 2]①  讓…彼此相對。Patatodongen ci Kacaw a ci Totoy a maro'. 請 Kacaw(卡兆)和 Totoy (多堆)面對面坐著。②  安排適當。Patatodongen ko toki a mieneng to tilifi. 看電視要把時間安排好。
 patatongod(tongod)    [疊 2]使之互相連接、連續。Patatongod to keliw. 讓線互相連接。同 patatores。
 patatongoday(tongod)    [疊 2]①  使之互相連接、連續了。②  指讓兩者互相連接、連續的人。同patatoresay。
 patatongoden(tongod)    [疊 2]把…彼此互相連接起來。Patatongoden koni ! 把這些連接起來吧！同 patatoresen。
@@ -3940,7 +3935,7 @@ patefo(tefo)    使之落下來、降落、著陸。Patefo ko hikoki itira. 飛�
 patefoan(tefo)    降落、著陸的地方。Patefoan no hikoki. 飛機場。
 patefoay(tefo)    ①  正在降落、著陸了。②  指降落者、著陸者。
 patefoc(tefoc)    處罰、懲辦、給予懲處。Ano ira ko 
-cima no pakarongay cowa kataira i    seﬁ, patefoc to koko 'anoca kasoy. 少年組中有誰沒有去部落會所，就罰他雞或者柴火。
+cima no pakarongay cowa kataira i    sefi, patefoc to koko 'anoca kasoy. 少年組中有誰沒有去部落會所，就罰他雞或者柴火。
 patefocay(tefoc)    ①  處罰了、懲辦了、給予懲處了。②  指處罰者、懲辦者。O cima ko patefocay takowanan? 誰處罰我？
 patefocen(tefoc)    給…處罰、懲辦、把…處罰、懲辦。Patefocen ko raraw namo. 要處罰你們的錯誤。
 patefoen(tefo)    讓…降落、著陸、把…降落、著陸。Patefoen ko 'ayam i tireng ira. 讓鳥兒降落在他身上。
@@ -4253,7 +4248,7 @@ pawli    香蕉。
 pawlian(pawli)    香蕉的種類、品種。
 pawpaw    漂浮、浮動、猶豫不定。參見mapawpaw。
 pawsa    送飯包吃、送便當。
-pawsaen(pawsa)    給…送飯包、便當吃、把…送去吃。Pawsaen no iloma'ay ko farokos i seﬁto hemay. 家裏人給在會所的耆老送飯包。Pawsaen ko sakaranam ako ! 請把我的早餐送來！
+pawsaen(pawsa)    給…送飯包、便當吃、把…送去吃。Pawsaen no iloma'ay ko farokos i sefito hemay. 家裏人給在會所的耆老送飯包。Pawsaen ko sakaranam ako ! 請把我的早餐送來！
 pawti    麻袋。[閩南語借詞]
 pawtien(pawti)    用麻袋把…裝入。Pawtien ako ko mipailangan a panay. 我把碾過的稻穀裝入麻袋。
 paxar    猴子的臀疣。
@@ -4272,7 +4267,7 @@ paylaw    剃頭、理髮。參見 mipaylaw。
 paylawen(paylaw)    給…剃頭、理髮。
 paypay    (掛在竹竿、繩子上)晾曬。參見mipaypay。
 paypay    拜拜，拜年；祭拜。[閩南語借詞]
-paypayen(paypay)    把…晾曬。Paypayen ko sasiﬁn itini tona layal. 把你的毛巾曬在這根竹竿上。
+paypayen(paypay)    把…晾曬。Paypayen ko sasifin itini tona layal. 把你的毛巾曬在這根竹竿上。
 paypayen(paypay)    給…拜年、祭拜。
 paysin    禁忌、忌諱。
 paysinen(paysin)    把…禁忌、忌諱、請恪守禁忌。
@@ -4365,7 +4360,7 @@ peno'en(peno')    給…種牛痘。
 penot    用手指撮東西，抓一把(如糖、鹽等)。參見 mipenot。
 penoten(penot)    把…撮一點。
 perar    倒塌、坍塌。參見 maperar。
-peraw    麻疹。同 keﬁng。
+peraw    麻疹。同 kefing。
 perec    噗哧一聲被擠壓出來。參見 miperec。
 perecen(perec)    把…擠壓出來。
 perek    跳舞時跺腳。用來形容傾盆大雨。同perok。參見 maperek。
@@ -4563,13 +4558,12 @@ piadah(adah)    ①  去治病、去治療。②  治療的、治病的。
 piadahan(adah)    治病、治療的地點(時間)。
 piadef(adef)    ①  請關閉、關閉吧。Piadef to sasingaran ! 請關窗戶。②  關閉的。同pi'edef。
 piadefan(adef)    關閉的地點、時間。同 pi'edefan。
-piafelifelinan(felin)    [疊 1]翻來覆去的地方、時間。
-pisafelifelinan    
+piafelifelinan(felin)    [疊 1]翻來覆去的地方、時間。 pisafelifelinan    
 piala(ala)    ①  去拿、拿吧。Piala to tilid ! 去拿書！②  拿的。
 pialaan(ala)    拿東西的地點、時間。O inacila ko pialaan to paya. 拿票的時間是明天。
 piapek(apek)    ①  去敲打、打擊。②  敲打的、打擊的。
 piapekan(apek)    敲打、打擊的地點、時間。
-piaray(aray)    ①  去感謝、道謝。Piaray to ﬁnawlan niyam ! 去感謝我們的鄉親！②  感謝的、道謝的。
+piaray(aray)    ①  去感謝、道謝。Piaray to finawlan niyam ! 去感謝我們的鄉親！②  感謝的、道謝的。
 piarayan(aray)    感謝、道謝的地點、時間。
 piarenganget(arenganget)    ①  去卷頭髮、請卷頭髮。②  卷頭髮的。
 piarengangetan(arenganget)    卷頭髮的地點、時間。
@@ -4656,7 +4650,7 @@ piceleman(celem)    潛水、沈落海面的地點、時間。Piceleman no cidal
 piceli'(celi')    。②  大聲喊的、①  大聲喊、批評(他) 批評的。
 piceli'an(celi')    大聲喊叫、批評的地點、時間。
 picelol(celol)    ①  請接班、換班。②  接班的、換班的。
-picelolan(celol)    接班、換班的地點、時間。O laﬁi ko picelolan niyam. 我們在半夜換班。
+picelolan(celol)    接班、換班的地點、時間。O lafii ko picelolan niyam. 我們在半夜換班。
 picemek(cemek)    ①  鑽進去、請鑽入水裏去。②  鑽進去的、潛入水裏的。
 picemekan(cemek)    鑽進去的地點、時間。
 picemod(cemod)    ①  進去、請進去。Picemod i laloma' !請進屋！②  進去的。
@@ -5016,7 +5010,7 @@ piharatengan(harateng)    思考、思索的地點、時間。
 pihariko'(riko')    ①  請準備做衣服的材料吧。②  準備做衣服的。
 pihariko'an(riko')    準備做衣服的地方、時間。
 pihatatanam(tanam)    [疊 2]①  去練習、見習吧。Pihatatanam toni a radiw ! 請練習唱歌吧！②  練習的、見習的。O pihatatanam aca ako a misasayxo. 我只是為了見習做師傅。
-pihatatanaman(tanam)    [疊 2]練習、見習的地方、時間、教材、範本。Oni a loma' ko pihatatanaman to radiw. 這是練歌房。Pihatatanaman to tilid no 'Amis a codad. 阿美族文字的教材。Halaﬁn 
+pihatatanaman(tanam)    [疊 2]練習、見習的地方、時間、教材、範本。Oni a loma' ko pihatatanaman to radiw. 這是練歌房。Pihatatanaman to tilid no 'Amis a codad. 阿美族文字的教材。Halafin 
 to ko romi'ad to pihatatanaman ako a    ma'efer. 我練習飛行的日子很長了。
 pihatefo(tefo)    ①  請往下跳、跳下去吧。②  往下跳的、跳下去的。同 pihitefo。
 pihatefoan(tefo)    往下跳的地點、時間。同 pihitefoan。
@@ -5262,7 +5256,7 @@ pikilang(kilang)    ①  去砍樹吧。②  砍樹的。
 pikilangan(kilang)    砍樹的地點、時間、伐木場。
 pikilidong(lidong)    ①  請遮蔽、遮擋。②  遮蔽的、遮擋的。pikilidong i kilang. 在樹下乘涼。
 pikilidongan(lidong)    遮蔽、遮擋風雨的地方、時間。pikilidongan to 'orad. 躲雨的地方。
-pikilim(kilim)    ①  請尋找、去找吧。Pikilim to ﬁtangal kakaenan(kakaenen)no mita ! 去找瓜果我們充饑吧！②  尋找的。
+pikilim(kilim)    ①  請尋找、去找吧。Pikilim to fitangal kakaenan(kakaenen)no mita ! 去找瓜果我們充饑吧！②  尋找的。
 pikiliman(kilim)    尋找東西的地點、時間。Lima a toki ko pikiliman ako ciniraan. 我找他找了五個鐘頭。
 pikilohofan    隱蔽彎腰、躲藏的地方。
 pikilomot(lomot)    ①  包圍、圍剿敵人。②  包圍的、圍剿的。
@@ -5483,8 +5477,7 @@ pilingangan(ngangan)    ①  把(他)取消名聲、名次吧。②  取消名�
 pilinganganan(ngangan)    取消名聲、名次的地點、時間。
 pilingato(ngato)    ①  請繼續未完成的工作吧。②  繼續未完成工作的。
 pilingatoan(ngato)    繼續工作、開始工作的地點、時間。
-pilingking(lingking)    ①  請摘龍眼吧。②  摘龍眼的。
-pikingking    
+pilingking(lingking)    ①  請摘龍眼吧。②  摘龍眼的。 pikingking    
 pilingkingan(lingking)    摘龍眼的地點、時間。
 pilingkiw(lingkiw)    ①  請摘辣椒吧。②  摘辣椒的。
 pilingkiwan(lingkiw)    摘辣椒的地方、時間。
@@ -5862,7 +5855,7 @@ pipafidfid(fidfid)    ①  把東西有次序地排列起來吧。 ②  有次�
 pipafidfidan(fidfid)    把東西有次序排列起來的地點、時間。同 pipasilsilan。
 pipafikaw(fikaw)    ①  請弄彎曲。②  弄彎的。
 pipafikawan(fikaw)    弄彎曲東西的地方、時間。
-pipafilong(filong)    ①  歡度春節。②  歡度春節的。參見paﬁlong。
+pipafilong(filong)    ①  歡度春節。②  歡度春節的。參見pafilong。
 pipafilongan(filong)    歡度春節的地點、時間。
 pipafiyac(fiyac)    ①  請伸展四肢。②  伸展四肢的。
 pipafiyacan(fiyac)    伸展四肢的地方、時間。
@@ -6408,7 +6401,7 @@ pipaypay(paypay)    ①  請晾曬、②  晾曬的。
 pipaypayan(paypay)    晾曬的地方、時間。
 pipeci'(peci')    ①  請掰開、劈開、掰開、劈開吧。②  掰開的、劈開的。
 pipeci'an(peci')    掰開、劈開東西的地方、時間。
-pipeco'(peco')    ①  請摘取、摘除吧、去摘取、摘除吧。Aka pipeco' to sakoﬁt ! 不要摘紐扣！②  摘取的、摘除的。
+pipeco'(peco')    ①  請摘取、摘除吧、去摘取、摘除吧。Aka pipeco' to sakofit ! 不要摘紐扣！②  摘取的、摘除的。
 pipeco'an(peco')    摘取、摘除的地方、時間。
 pipecod(pecod)    ①  請擠壓、擠兌、去擠壓、擠兌吧。② 擠壓的、擠兌的。
 pipecodan(pecod)    擠壓、擠兌的地方、時間。
@@ -6799,7 +6792,7 @@ pisakakinihan(kinih)    偏袒、袒護他人的地方、時間。
 pisakakkak(kakkak)    ①  請發出嘎嘎叫的聲音。②  嘎嘎叫喚的。
 pisakakkakan(kakkak)    發出嘎嘎叫聲的地方、時間。
 pisakalafi(lafi)    ①  請做晚飯吧。②  做晚飯的。
-pisakalafian(lafi)    做晚飯的地方、時間。Pisakalaﬁan ko cidal. 傍晚。
+pisakalafian(lafi)    做晚飯的地方、時間。Pisakalafian ko cidal. 傍晚。
 pisakalahok(lahok)    ①  請做午飯吧。②  做午飯的。
 pisakalahokan(lahok)    做午飯的地方、時間。
 pisakaliki(kaliki)    ①  請加快、加速吧。②  加快、加速的。
@@ -7089,7 +7082,7 @@ pitawen(pitaw)    使用鋤頭把…挖掘、耕耘。Awaay ko sapikangkang a ki
 pitawhan(pitaw)    特地用鋤頭把…挖掘耕耘。Ca kanga'ay a kangkangen kona 'apilis,pitawhan ita nga'ay to. 這個山坡不好犁，我們特地使用鋤頭挖好了。
 pitaying(taying)    ①  請宰豬會宴吧。②  宰豬會宴的。
 pitayingan(taying)    宰豬會宴的地方、時間。
-pitefing(tefing)    ①  去觸摸、碰觸吧。Aka piteﬁng to dingki ! 切勿觸電！②  觸摸的、碰觸的。
+pitefing(tefing)    ①  去觸摸、碰觸吧。Aka pitefing to dingki ! 切勿觸電！②  觸摸的、碰觸的。
 pitefingan(tefing)    觸摸、碰觸的地方、時間。
 pitek    折、折斷。參見 mipitek。
 piteka(teka)    ①  請著手開始吧。②  著手開始的。
@@ -7214,8 +7207,8 @@ piwilet(wilet)    ①  請擰緊吧。②  擰緊的。
 piwiletan(wilet)    擰東西的地方、時間。
 piwitawit(witawit)    ①  請手提、提起來吧。②  提攜的。
 piwitawitan(witawit)    手提東西的地方、時間。
-piwpiw    (風聲)颼颼地。同 ﬁwﬁw。參見mapiwpiw。
-piwpiwsa(piwpiw)    颼颼地響著。同 ﬁwﬁwsa。Matengil 
+piwpiw    (風聲)颼颼地。同 fiwfiw。參見mapiwpiw。
+piwpiwsa(piwpiw)    颼颼地響著。同 fiwfiwsa。Matengil 
 noya malonem ko honi no pana'    piwpiwsa a ma'efer. 鹿聽見箭的聲音颼颼地飛過來。
 piya'    張開。Piya' saan ko oo' nira a maro'。他張開雙腿坐下。
 piya'    ①  蚶，蛤。②  彎度較小的牛角。
@@ -7348,7 +7341,7 @@ potot    帶蓋的竹筒、竹盒。
 powak    犁開、破開。參見 mipowak。powaksa ko nanom a masadak. 水像爆開流出來。
 powaken(powak)    把…犁開、破開。'anga'ayay a powaken koni a 'apilis. 這山坡鬆軟肥沃，容易犁耕。
 powapo'    涮洗。參見 mipowapo'。
-powapo'en(powapo')    把…涮洗。Powapo'en ko ﬁntang ! 把臉盆涮洗一下！ Powapo'en ho itira i nananoman ! 在水裏涮一涮！
+powapo'en(powapo')    把…涮洗。Powapo'en ko fintang ! 把臉盆涮洗一下！ Powapo'en ho itira i nananoman ! 在水裏涮一涮！
 powar    沸騰、水滾開。參見 mapowar。
 powarpowarsa(powar)    [疊]水噴湧沸騰著。Powarpowarsa ko nemnem。泉水噴湧著。
 powarsa(powar)    噴湧著、沸騰著。Caho ka'angongol ko mikorkoran ira, powarsa ko kietecay a nanom. 他挖掘得還不深，清水就一下噴湧出來。

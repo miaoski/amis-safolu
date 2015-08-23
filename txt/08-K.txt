@@ -1,9 +1,7 @@
-
 k    阿美語輔音之一。屬舌面後清塞音，不送氣，音值為[k]。k 出現詞尾位置時，有輕微送氣，讀如[kh]
 ka    (前綴)。表示所處方向、方位。ka'etip 西方。kawali 東方。kafafaw 上游。
 ka    (前綴)。附加在動詞詞根的前面。主要表示：①  促使，命令，請求。Kafuti' ! 睡吧！ Kakomaen to 'epah ! 請吃酒！②  所從事行為的狀況、方式，動機、程度等。Nga'ayay ko karomakat ako. 我走路走得好好的。③  只好、只能這樣做的行為。O kamaro' aca no malitengay i fokeloh. 老人只好坐在石頭上。沝 剛剛經歷的行為。Kaherekho ningra isawni. 他剛剛完成。沀 否定式、禁止式。Cowa katayra. 不去。Aka kafuti' itini ! 不要在這裡睡覺！ Aka kakomaen to 'epah ! 不要喝酒！
 ka    (前綴)。附加在形容詞詞根的前面。主要表示：①  名物化。kata'angay 大的(程度、規模)。②  否定式。cowa kanga'ay. 不好。
-ka    
 ka    (指示代詞)koya 的簡縮形態。O cima ka tamdaw? 那人是誰？kaka 的簡稱。
 ka'adepetan('adepet)    吝嗇的，小氣的。Awaay ko ka'adepetan niyam. 我們並不吝嗇。
 ka'akawang('akawang)    往上長，長高的勢頭，只長高。O ka'akawang aca no 'icep, cowa kata'angay ko heci nira. 檳榔只長高，果子不大。
@@ -64,7 +62,7 @@ ka'oningan('oning)    污垢、骯髒之處。I lalielan ko ka'oningan no riko'.
 ka'oradan('orad)    下雨的時間或地方。Cilinay kita to ka'oradan a romi'ad. 下雨天我們打傘。
 ka'oripan('orip)    ①  生命繁衍的地方，生活的地方。② 生命所依賴的，生計。Ka'oripan ko omah. 田地是生存所靠。
 ka'osian('osi)    令人討厭的、嫌惡的。Ka'osian ko demak noni a tamdaw. 此人的行為令人嫌惡。
-ka'owangan('owang)    犬吠的時間或地方。O laﬁi ko ka'owangan no waco. 深夜狗在狂叫。
+ka'owangan('owang)    犬吠的時間或地方。O lafii ko ka'owangan no waco. 深夜狗在狂叫。
 ka'eped    溫柔，輕柔。Ka'eped a tengilen ko sowal ningra. 他說話聽起來很溫柔。
 ka'epeday(ka'eped)    ①  溫柔，輕柔。②  溫柔的，輕柔的。Ka'epeday ko kamaro'an ako. 我的座位很軟。
 ka'epian('epi)    偏癱，癱瘓的時間或部位。O kamay ko ka'epian ningra. 他的手癱瘓。
@@ -91,11 +89,11 @@ kaacekan(acek)    ①  令人厭惡、討厭的。②  指祭祀儀式上的不�
 kaadah(adah)    ①  治癒的，治好的。②  請治癒。Kaadah ho no doka' ako ! 我的傷口剛治好！
 kaalaan(ala)    被拿走的，被取走的。Matalaw kako to kaalaan no tao ko 'onoc no niyah.我怕自己的扁擔被人家取走。
 kaamoto(amoto)    鋪上水泥的。O kaamoto ho isawni.剛剛鋪上水泥的。
-kaang'ang(ang'ang)    ①  舉行慶典的。②  (表促使、命令)請舉行慶典活動！ Kaang'ang to kalaheci no seﬁ. 集會所完工了請舉行慶典活動。
+kaang'ang(ang'ang)    ①  舉行慶典的。②  (表促使、命令)請舉行慶典活動！ Kaang'ang to kalaheci no sefi. 集會所完工了請舉行慶典活動。
 kaapac(apac)    ①  睡懶覺的，晚起床的。②  (表促使、命令)晚起床吧！ Aka kaapac anini !今天不要睡懶覺！
 kaca'angan(ca'ang)    (樹木)長杈、分杈的地方。Maraodto ko kaca'angan no kilang. 樹木長枝的時期到了到。
 kaca'ngaw(ca'ngaw)    ①  抬頭看望的。②  (表促使、命令)請抬起頭來看！ Kaca'ngaw ko fongoh a minengneng to ma'feray a 'ayam. 抬起頭看看鳥在飛翔。
-kacacafi'(cafi')    [疊 2]①  競賽、賽跑的。②  (表促使、命令)。同 malalifet。Kacacaﬁ' a comikay !(你們)去比賽跑步吧！
+kacacafi'(cafi')    [疊 2]①  競賽、賽跑的。②  (表促使、命令)。同 malalifet。Kacacafi' a comikay !(你們)去比賽跑步吧！
 kacacakan(cacak)    [疊 2]煮飯的地方或時間。Icowa ko kacacakan namo saw? 你們煮飯菜的地方在哪裡呢？
 kacacako(cako)    [疊 2]①  互相回答的，彼此提問、請教的。②  (表促使、命令)請彼此問答(問題)。 Sanga'ayen ko kacacako namo. 希望你們會有很好的對話。
 kacacaliw(caliw)    [疊 2]①  互借互換的。②  (表促使、命令)請彼此互借互換！ O 
@@ -160,7 +158,7 @@ kacica'dong(ca'dong)    ①  穿、戴某衣物的。②  (表促使、命令)�
 kacicafay(cafay)    ①  有伙伴的，結伴的。②  (表促使、命令)請帶伙伴。Kacicafay a talalotok ta manga'ay a masasidipot. 要結伴上山才可互相照顧。
 kacicamol(camol)    ①  摻進去的，混雜進去的。②  (表促使、命令)請摻進去。Kacicamol to tafok i amoto. 請在水泥裡摻沙子。
 kacicaneman(canem)    有霧的、煙霧繚繞的時間或地方。Kacicaneman a romi'ad talatokos kita a micomoli. 在有霧之時我們上山撿蝸牛。
-kacicangaw(cangaw)    ①  戴項鏈的。②  (表促使、命令)戴上項鏈吧。Kacicangaw to ﬁdoso'! 請戴上瑪瑙項鏈吧！
+kacicangaw(cangaw)    ①  戴項鏈的。②  (表促使、命令)戴上項鏈吧。Kacicangaw to fidoso'! 請戴上瑪瑙項鏈吧！
 kacicedi(cedi)    ①  有力量的，有力的，有勁兒。②  (表促使、命令)要有力量，必須加強力量！ Kacicedi' a matayal. 用力工作。同 kaci'icel.
 kacicicic(cicic)    ①  有泥鰍的，攜帶泥鰍的。②  (表促使、命令)請攜帶泥鰍！同 kalodi。Minokay kamo i kacicicic. 回來時攜帶泥鰍的。參見 cococ.
 kacicidalan(cidal)    出太陽的天氣，晴天。Mipawali to panay i kacicidalan. 晴天時曬谷子。
@@ -194,7 +192,7 @@ kacifangta(fangta)    ①  掛蚊帳的。②  (表促使、命令)請掛上蚊�
 kacifanohan(fanoh)    長毛、帶毛的地方。Kacifanohan ko kakili'an. 液下是長毛的地方。
 kacifati(fati)    ①  戴戒指的。②  (表促使、命令)請戴上戒指！ Kacifati a makero. 跳舞要帶戒子。
 kacifatian(fati)    肌肉發達的地方。Icowaay ko kacifatian iso? 你肌肉發達的地方在那裡？
-kacifiting(fiting)    ①  戴耳環。②  (表促使、命令)請戴耳環！ Kaciﬁting a romadiw. 唱歌須帶耳環。
+kacifiting(fiting)    ①  戴耳環。②  (表促使、命令)請戴耳環！ Kacifiting a romadiw. 唱歌須帶耳環。
 kacifoday(foday)    ①  戴毛線編織的頭飾的。②  (表促使、命令)請戴上毛線頭飾。Kacifoday to kasi'nawan. 冬天穿毛衣。
 kacifohid(fohid)    ①  攜帶檳榔乾。②  (表促使、命令)請帶上有斑點紋飾的。Kacifohid a tayni.來這裡要帶檳榔乾。
 kacifrangan(cifrang)    大熱天，愛出汗的季節。Ma'osi kako to kaciferangan. 我討厭大熱天。同kaciherangan。
@@ -343,8 +341,7 @@ kadodong    竹杓，竹製湯勺。O kadodong ko 'iros niyam. 我們用竹匙�
 kadofah    豐收，豐盛。Kadofah ko pinaloma ita anini a mihecaan. 今年我們的作物豐收。
 kadofahay(kadofah)    ①  豐收，豐盛。②  豐收的，豐盛的。Kadofahay kop 'orip nangra. 他們很富有。
 kadoka'an(doka')    受傷、生瘡、長癤子的地方。Icowaay ko kadoka'an iso? 你何處受傷？
-kadopoh(dopoh)    ①  勤奮的，努力的。②  (表促使、命令)必須勤奮、努力。Kadopoh a matayal ! 一定要努力地工作！同
-ka'inanen    
+kadopoh(dopoh)    ①  勤奮的，努力的。②  (表促使、命令)必須勤奮、努力。Kadopoh a matayal ! 一定要努力地工作！同 ka'inanen    
 kadot    划船，操槳。同 'iwas。參見 mikadot。Ci'icel ko kapah a mikadot. 年輕人划船很有力。
 kadotakit    蘆竹。O kadotakit ko hecek niyam.我們的柱子是蘆竹。
 kadoten(kadot)    操槳把船划動。Kadoten ako ko tamina a mi'iwas. 我操槳把船劃動。
@@ -358,7 +355,7 @@ kaenih    便急。Kaenih kako. 我想拉屎。同alenih。
 kaenihay(kaenih)    ①  便急的。②  指便急的者。Kaenihay kona wawa. 孩子想拉屎。
 kaeped    柔軟，溫柔。Kaeped ko kamaro'an iso. 你的座位很柔軟。Kaeped ko sowal noni a kaying a tengilen. 這位小姐說話溫柔動聽。同 ka'eped。
 kaepeday(kaeped)    ①  柔軟，溫柔。②  指柔軟的、溫柔的。Kaepeday a kamaro'an. 柔軟的座位。kaepeday a sera. 鬆軟的土地。
-kaeperay    西紅柿。Molengaw ko kaeperay i omah niyam. 我門園地生長西紅柿。同 kanaﬁtay。
+kaeperay    西紅柿。Molengaw ko kaeperay i omah niyam. 我門園地生長西紅柿。同 kanafitay。
 kafafalic(falic)    [疊 2]①  互換的，互調的。②  (表促使、命令)請互換、互調。Kafafalic to kamaro'an. 交換座位。
 kafafang(kafang)    [疊 2]外套，大衣。同 kafang、kayto。Ci riko' kako to kafafang i kasi'nawan. 冬天我穿大衣。
 kafafaw(fafaw)    ①  上游。I kafafaw no 'alo ko loma'.我的家在河的上游。②  上級，前輩。 O kafafaw a kapot. (年齡組織的)上級組織，領導階級。
@@ -402,14 +399,14 @@ kafesa'    ①  口味淡，沒味道。②  索然無味。Kafesa' kona dateng.
 kafesa'ay(kafesa')    ①  口味淡，索然無味。②  指沒味道的(東西)。Kafesa'ay ko kohaw no futing. 魚湯很淡。同 afesa'ay、kafelaway。
 kafeso    空心，空虛，中空。Awaay ko maolahay to kafeso sanay a 'orip. 無人喜愛空虛的人生。
 kafesoay(kafeso)    ①  空心的，空虛的，中空的。②  指空心、中空的(東西)。Kafesoay a knaw. 洋蔥(即空心蔥)。Maolah kako to kafesoay a dateng. 我愛吃洋蔥。
-kaficekotan(ficekot)    抽筋的時間或地方。O papacem ko kaﬁcekotan ako. 早晨是我抽筋的時間。Kafid 海神，海龍王。也指神話傳說中的最高神祇之一，即天神。
-kafilfil(filfil)    ①  嘴唇突出。②  形容嘴巴厲害，多嘴。Cicimil cingra to kaﬁlﬁl. 她有外號叫多嘴。
-kafirangan(firang)    令人生氣的。O kaﬁrangan a tamdaw cingra. 他是令人生氣的人。
-kafiranghan(firang)    不動就罵，開口就罵。Kaﬁranghan no fafahi ningra cingra. 他妻子開口就罵他。
-kafit    鉤住，連接。參見 mikaﬁt。
-kafitan(kafit)    鉤住、連接(某物)的時間或地方。同pikaﬁtan。
-kafiten(kafit)    把(某物)掛住、連接。Kaﬁten ko kamay ako. 拉住我的手。Kaﬁten ko cayna i kafekang. 把菜籃子掛在上面。同 ca'it。
-kafiyalan(fiyal)    感到麻木的。Halaﬁn ko katomireng ako i kaﬁyalan saan ko saripa' ako.我站久時我的腳會麻麻。同 Kasapalan。
+kaficekotan(ficekot)    抽筋的時間或地方。O papacem ko kaficekotan ako. 早晨是我抽筋的時間。Kafid 海神，海龍王。也指神話傳說中的最高神祇之一，即天神。
+kafilfil(filfil)    ①  嘴唇突出。②  形容嘴巴厲害，多嘴。Cicimil cingra to kafilfil. 她有外號叫多嘴。
+kafirangan(firang)    令人生氣的。O kafirangan a tamdaw cingra. 他是令人生氣的人。
+kafiranghan(firang)    不動就罵，開口就罵。Kafiranghan no fafahi ningra cingra. 他妻子開口就罵他。
+kafit    鉤住，連接。參見 mikafit。
+kafitan(kafit)    鉤住、連接(某物)的時間或地方。同pikafitan。
+kafiten(kafit)    把(某物)掛住、連接。Kafiten ko kamay ako. 拉住我的手。Kafiten ko cayna i kafekang. 把菜籃子掛在上面。同 ca'it。
+kafiyalan(fiyal)    感到麻木的。Halafin ko katomireng ako i kafiyalan saan ko saripa' ako.我站久時我的腳會麻麻。同 Kasapalan。
 kafodadan(fodad)    犯白內障的地方或時間。Hacowa a mihecaan ko kafodadan iso? 你那一年生白內障？
 kafodo'an(fodo')    ①  北極星出現的夜晚。②  梅雨季節，雨季。Maraodayto ko kafodo'an a fulad.梅雨季節到了。
 kafohatan(fohat)    打開、揭開的地方，開口處。Cima 
@@ -445,8 +442,8 @@ kaheciday(kahecid)    。Kaheciday ①  鹹。②  指鹹的(食物) ko riyal. �
 kahedongay    燻蚊草。Malengaw ko kahedongay i pala. 燻蚊草長在荒地。同 papa'ongay。
 kahecid    鹹，有鹹味。Tada kahecid ko siraw iso. 你的腌肉太鹹。
 kahefeday(kahefed)    ①  柔軟，綿軟。②  指柔軟的，綿軟的(棉、毛織品)。Kahefeday kona riko'.這件毛衣很綿軟。
-kahefi    懸掛起來搖動，吊蕩。參見 mikaheﬁ。Kaheﬁ saan ko lotong i kakilangan.猴子在樹上懸掛起來搖動。
-kahefien(kahefi)    把某物吊蕩起來。參見 ca'it。Kaheﬁen ningra ko 'iros i cadada. 她把湯匙吊蕩在置物架上。
+kahefi    懸掛起來搖動，吊蕩。參見 mikahefi。Kahefi saan ko lotong i kakilangan.猴子在樹上懸掛起來搖動。
+kahefien(kahefi)    把某物吊蕩起來。參見 ca'it。Kahefien ningra ko 'iros i cadada. 她把湯匙吊蕩在置物架上。
 kahi    同意，願意。參見 mikahi。Kahi kiso a mikapot i takowan saw? 你真的可以跟我一起去嗎？
 kahiceraan(hicera)    到達的目的地，定居點。I Falangaw ko kahiceraan ita. 馬蘭是我們的定居點。
 kahien(kahi)    (對某事)表示同意、答應。Kahien to ita maknaay saw? 我們答應下來怎麼樣呢？
@@ -468,7 +465,7 @@ kahengangay(kahengang)    ① 紅，紅了。② 指紅的、紅色的。Kahenga
 kaho    請暫停，暫且不…。Kaho pidemak to dademaken ! 請暫時放下手中工作！
 kahofocan(hofoc)    誕生的時間或地點。O kahofocan ako 
 i saka pito a fulad no saka pito ko    safaw a romi'ad. 7 月 17 日是我的生日。Icowaay ko kahofocan iso a niyaro'? 你的誕生地在何處？
-kahomawad(hawad)    ①  起來的，起座的，離席的。②  (表促使、命令)。Kahomawad kamo !halaﬁnto ko romi'ad. 請你們動身吧！時間很久了。 同 kalomowad。
+kahomawad(hawad)    ①  起來的，起座的，離席的。②  (表促使、命令)。Kahomawad kamo !halafinto ko romi'ad. 請你們動身吧！時間很久了。 同 kalomowad。
 kahomawadan(hawad)    起來、動身的時間或地方。Kahomawadan imatini. 現在是出發的時間。同 kalomowadan。
 kahong    肩胛骨；古時打穀用具。Adada ko kahong ningra. 他痛在肩胛骨。
 kahonian(honi)    發出嚮聲、共鳴的地方或時間。Kahonian no 'ayam. 鳥叫的地方。
@@ -480,7 +477,7 @@ kaheped    (棉毛等)柔軟，綿軟。Kaheped kona sawfan. 這棉被很柔軟�
 kaheteng    糞臭味，臭屁味。Kaheteng ko ^etot ningra. 他的屁難聞，很臭。同aheteng。
 kahetengay(kaheteng)    ①  有糞臭味，有臭屁味。②  指有臭屁味的(東西)。Kahetengay ko sanek nona wawa. 這孩子糞臭味。
 kaikor(ikor)    後面。Mitoor ko waco i kaikor ako.狗在我後面跟著我。同 aikor。
-kaililan(ilil)    令人怨恨的。Omaan ko kaililan iso i cangraan? 你對他們有什麼怨恨呢？參見 katliian、kaﬁdangan。
+kaililan(ilil)    令人怨恨的。Omaan ko kaililan iso i cangraan? 你對他們有什麼怨恨呢？參見 katliian、kafidangan。
 kaimahan(imah)    所仰慕的，所崇仰的(偶像)。Kaimahan ako koya ci Hani hananay a tamdaw. 我很景仰約翰這個人。
 kaino'an(ino')    洗澡的地方或時間。I 'alo ko kaino'an no ka^emangay. 河溪是孩子洗澡的地方。
 kaipaputal(putal)    ①  在屋外的，在庭院的。②  (表促使、命令)請在屋外。Kaipaputal a micefos to hana ! 請在屋外澆花！
@@ -489,7 +486,7 @@ kairaan(ira)    來的、出現的時間或地方。Anini a dadaya ko kairaan ni
 kaisya    會社，公司。[日語借詞]Icowaay a kaisya ko katayalan iso? 你在那家公司上班。
 kaitiraan(tira)    所在地。Icowaay ko kaitiraan no fafahi iso? 你妻子的所在地在何處？
 kaka    指同輩的年長者，哥哥、姊姊，兄長。Sasepat ko kaka ako to fafahiyan. 我有四個姐姐。
-kaka'araw('araw)    [疊 2]相見，相遇。Halaﬁnto a caay kaka'araw kita. 我們已經好久沒相見了。同 masaso'alaw。參見makaka'araw。
+kaka'araw('araw)    [疊 2]相見，相遇。Halafinto a caay kaka'araw kita. 我們已經好久沒相見了。同 masaso'alaw。參見makaka'araw。
 kaka'eka    [疊 2]癩蛤蟆。同 takodicay。
 kaka'ereden(ka'ered)    [疊 2]要捻繩子，要捻的繩子。O saycaro ko kaka'ereden. 要用芎麻捻成繩子。
 kakaaw(kaka)    哥哥呀，姊姊呀。Kakaaw mimaan kiso? 姊姊呀，你做什麼呢？Kakacawan [疊 2]部落名稱，今台灣台東縣長濱鄉地區。
@@ -498,17 +495,17 @@ kakacawen(kacaw)    [疊 2]要守衛、戒備，要守衛、警戒的(對像)。
 kakacepen(kacep)    [疊 2]要接住，要接住的(東西)。O lingka ko kakacepen no mako a misamokong. 我工作是負責接住紅磚。
 kakadafoen(kadafo)    [疊 2]即將入贅、出嫁，即將入贅、出嫁的(人，即未來的女婿、媳婦)。O kakadafoen niyam koya kapah. 那年輕人將成為我們的女婿。
 kakadaten(kadat)    [疊 2]要梳理，要梳理的(頭髮)。Kaherek a maino' o kakadaten ko fokes nona wawa. 這孩子剛洗過澡他的頭髮要梳理。同 kakalesen。
-kakaditsa(kadit)    [疊 2]髒兮兮的，那麼髒。Kakaditsa cingra , sainanenghan no wina ningra a misiﬁn. 他老是那麼髒兮兮的，他母親就用心地(給他)擦乾淨。
+kakaditsa(kadit)    [疊 2]髒兮兮的，那麼髒。Kakaditsa cingra , sainanenghan no wina ningra a misifin. 他老是那麼髒兮兮的，他母親就用心地(給他)擦乾淨。
 kakadkaden(kadkad)    [疊 2]要揭發、探查，要揭發、探查的(對像)。Caay ko samadahay konini a demak , o kakadkaden a miharateng. 這件事並非小事，須深入探究。
 kakadoten(kadot)    [疊 2]要操櫓劃槳，要操櫓劃槳的(船)。Tahacahcah ko tamina niyam o kakadoten. 我們的船觸礁了須劃槳。
 kakaen(kaen)    [疊 2]常吃，老吃。Kakaen saan caayka tayal. 好吃懶做。
-kakaenen(kaen)    [疊 2]要吃，要吃的(食物)。O kakaenen ako koni a toron. 這塊糯米糕是我的食品。O maan ko kakaenen no suﬁtay a milood? 士兵打仗時要吃什麼？
+kakaenen(kaen)    [疊 2]要吃，要吃的(食物)。O kakaenen ako koni a toron. 這塊糯米糕是我的食品。O maan ko kakaenen no sufitay a milood? 士兵打仗時要吃什麼？
 kakafana'(fana')    [疊 2]相識，彼此認識。參見makakafana'。Caay ka kakafana' kami.我們沒什麼深交。
-kakafit(kafit)    [疊 2]彼此邨住，相連，相牽。參見makakaﬁt。Malcad ko harateng niyam a tatosa , matiya o kakaﬁt sanay ko faloco'. 我們意念相同，宛如心相連。
+kakafit(kafit)    [疊 2]彼此邨住，相連，相牽。參見makakafit。Malcad ko harateng niyam a tatosa , matiya o kakafit sanay ko faloco'. 我們意念相同，宛如心相連。
 kakafiten(kafit)    [疊 2]要互相邨住、相連、相牽，要相互邨住、相連、相牽的(對像)。
 kakahad    [疊 2]寬闊，廣闊。同 dadahal。Kakahad ko omah nangra. 他們的田地很寬闊。
 kakahaday(kakahad)    [疊 2]①  寬闊，廣闊。②  寬闊的，廣闊的。同 dadahaday。Kakahaday ko sera niyam. 我們的土地廣闊。
-kakahfien(kahfi)    [疊 2]要懸掛起來吊蕩，要懸掛起來吊蕩的(東西)。Kakahﬁen kora tafoan. 把便當懸掛起來。
+kakahfien(kahfi)    [疊 2]要懸掛起來吊蕩，要懸掛起來吊蕩的(東西)。Kakahfien kora tafoan. 把便當懸掛起來。
 kakahien(kahi)    [疊 2]要答應、同意，要答應、同意的(對像)。Saliyawliyaw saan cingra a milicay kakahien cingra. 他一次又一次的詢問答應他吧。
 kakahong(kahong)    [疊 2]飛魚。同 kowaw。O kakahong ko sapalifon no Fotod to matayalay nangra. 蘭嶼人以飛魚做為工人的工價。
 kakahoten(kahot)    [疊 2]要抓一把，要抓一把的(東西)。Ma'minayto no tao ko lalilamen ,o maanho ko kakahoten iso? 別人都領好了，你還指望能領什麼？
@@ -556,7 +553,7 @@ kakawikawit(kawit)    [疊 2]彼此互相來住，，相互牽連交織。參見
 kakawit(kawit)    [疊 2]互相交織。參見 makakawit。
 kakawit(kawit)    [疊 2]小鐮刀，割稻工具。同kamit。Hawikidento ko kakawit a malingad. 上工時請帶小鐮刀。
 kakawiten(kawit)    [疊 2]要編織、勾織，要編織、勾織的。Adihay ko kakawiten a salil nangra. 他們要勾編很多網。
-kakaya'    長，漫長。同 ki'edaway、ko'edaway、raraya'ay。Kakaya' ko laﬁi. 夜真漫長。
+kakaya'    長，漫長。同 ki'edaway、ko'edaway、raraya'ay。Kakaya' ko lafii. 夜真漫長。
 kakayas    (指建築物等)殘破的骨架手。Aka telien i kakayas ko dateng. 別把菜放置在殘破的骨架上。
 kakayaten(kayat)    [疊 2]要牽手，要牽手的(對像)。O kaying ko kakayaten noya kapah. 那些小伙子要跟姑娘手拉手。
 kakecoen(keco)    [疊 2]要擠佔、侵佔，要擠佔、侵佔的(對像)。O pi'adopan no tao ko kakecoen ningra. 他要擠佔別人的獵場。
@@ -660,7 +657,7 @@ kakeleng(keleng)    [疊 2]雷電。Macekok ko wawa to kakeleng. 孩子被雷電
 kakelengan(keleng)    打雷的日子，雷雨交加的季節。Maraodayto ko kakelengan a fulad. 雷雨交加的季節到了。同 kakereng。
 kakeli    竹編高架涼蓆。同 sa'sa。Patelien ko kakeli i kalaeno no kilang. 把竹編涼蓆放在樹下。
 kakeli'en(keli')    [疊 2]要掉落，要掉落的(金屬製品)。Awaay ko kakeli'en a fudawan i loma' niyam. 我家沒有要掉落的銅器。
-kakelisen(kelis)    [疊 2]要刮平，要刮平的(東西)。O kakelisen ko paro no ﬁcing to felac.把斗裡的米刮平。
+kakelisen(kelis)    [疊 2]要刮平，要刮平的(東西)。O kakelisen ko paro no ficing to felac.把斗裡的米刮平。
 kakeloten(kelot)    [疊 2]要挖掘，要挖掘的(對像)。Kakeloten a ci^ci'. 要挖的小溝。
 kakloy    毛毛蟲。Adihay ko kakloy noni a kilang. 這棵樹的毛毛蟲很多。
 kakemoen(kemo)    [疊 2]要拳打，要拳打的(對像)。Ci Kokoy ko kakemoen ako. 我要拳打的人是古桂。
@@ -670,10 +667,10 @@ kako'ekoen(ko'eko')    [疊 2]要驅趕，驅逐；要驅趕、驅逐的(對像)
 kakocakocen(kocakoc)    [疊 2]要攀登上去，要攀爬上去的。同 kakockocen。Onini a 'icep ko kakocakocen. 要攀登這棵檳榔。參見kakalicen。
 kakockocen(kockoc)    [疊]要爬上去，要攀援而上；要爬上去的，要攀援而上的。同kakocakocen。Kakockocen a lotok. 要攀援而上的山。
 kakoec(koec)    [疊 2]①  咳嗽的。②  (表促使、命令)請咳嗽。參見 faha。Ano masied kiso i kakoec. 你若被噎住時請咳一下。
-kakoecsa(koec)    [疊 2]不停地咳嗽著。Mangalef to ko adada no wama ako, kakoecsa to laﬁi. 我父親的病更加嚴重了，半夜裡不停地咳嗽著。
+kakoecsa(koec)    [疊 2]不停地咳嗽著。Mangalef to ko adada no wama ako, kakoecsa to lafii. 我父親的病更加嚴重了，半夜裡不停地咳嗽著。
 kakoeko'en(koeko')    [疊 2]要追趕、追逐，要追趕、追逐的(對像)。O kakoeko'en niyam ko 'ada. 我們要去追趕敵人。
-kakofiten(kofit)    [疊 2]要扣緊，要扣緊的(鈕扣等)。Ano parakat to tosiya o kakoﬁten ko taca^layan. 開車時要繫上安全帶。
-kakohawen(kohaw)    [疊 2]要煮湯，要煮的湯。O kakohawen ko kaﬁ no kalang. 要煮螃蟹的湯。
+kakofiten(kofit)    [疊 2]要扣緊，要扣緊的(鈕扣等)。Ano parakat to tosiya o kakofiten ko taca^layan. 開車時要繫上安全帶。
+kakohawen(kohaw)    [疊 2]要煮湯，要煮的湯。O kakohawen ko kafi no kalang. 要煮螃蟹的湯。
 kakohkoh(kohkoh)    [疊 2]眼鏡蛇。同 kakohkohay。O kakohkoh konini. 這是眼鏡蛇。
 kakohkohan(kohkoh)    [疊 2]鋤草的地方。O kakohkohan no ka^emangay itini. 這是孩子們鋤草的地方。
 kakohkohay(kohkoh)    [疊 2]眼鏡蛇。同 kakohkoh。Ma'araw niyam i 'alo ko kakohkohay.我們在河邊看見眼鏡蛇。
@@ -702,7 +699,7 @@ kakonkonan(konkon)    [疊 2]跌落、掉落的時間或地方。Itini ko kakonk
 kakonoen(kono)    [疊 2]即將俯身、彎腰，即將俯身、彎腰的(對像)。Pa'ner ko loma' niyam o kakonoen a micomod. 我家很矮須彎腰進入。
 kakopa    牛車，古時的木輪車。同 kakipa。Kakopa ko sapicolo' niyam to tefus.我們用牛車搬運乾蔗。
 kakopidan(kopid)    [疊 2]在籐籃裡。Patelien ko futing i kakopidan a palilam. 把魚放置在籐籃裡分配。
-kakorafiten(korafit)    [疊 2]要勾住、掛住，要勾住、掛住的(對像)。Kakoraﬁten a masay. 要抓住的野藤。
+kakorafiten(korafit)    [疊 2]要勾住、掛住，要勾住、掛住的(對像)。Kakorafiten a masay. 要抓住的野藤。
 kakorahoten(korahot)    [疊 2]要用爪抓傷、抓捕，要攫取、抓捕的(對像)。O kakorahoten no waco. 狗抓捕的東西。
 kakorameten(koramet)    [疊 2]要攫取，要用手等攫取的(對像)。O kakorameten no posi ko futing. 貓用爪抓魚。
 kakorarohen(koraroh)    [疊 2](用動物)要撲抓，要撲抓的(對像)。Kakorarohen no tomay ko koyo. 熊撲抓狐貍。
@@ -731,7 +728,7 @@ kakowiten(kowit)    [疊 2]自己要抬、扛在肩上，要抬、扛在肩上�
 kakoy    抬舉，抬起來。參見 mikakoy。
 kakoyan(kakoy)    抬舉、高舉東西的地方。Kakoyan nangra ko tamina. 他們將船抬起。同pikakoyan。
 kakoyen(kakoy)    把某物高舉、抬舉起來。Kareteng koni a fokeloh a kakoyen. 這塊石頭抬起來很重。Aka kakoyen ko cokoi ako ! 不要抬我的桌子！
-kakoyodan(koyod)    [疊 2]背簍，背袋。同 takoyodan。Paroen i kakoyodan ko teﬁ'. 把豆莢放置在背袋裡。
+kakoyodan(koyod)    [疊 2]背簍，背袋。同 takoyodan。Paroen i kakoyodan ko tefi'. 把豆莢放置在背袋裡。
 kakoyoden(koyod)    [疊 2]要揹，要馱；要揹的，要馱的。Oni ko kakoyoden no 'efa a 'emi. 這是馬要馱麥子。
 kakoyol    形容眾多、聚成一堆、簇擁。Kakoyol no riyal. 浪濤洶湧。
 kakerahan(kerah)    退潮的時候、涸乾的地方或時間、水弄乾的地方或時間。O kakerahan no riyal imatini. 現在正是退潮的時候。
@@ -753,7 +750,7 @@ kaketemen(ketem)    [疊 2]要用嘴啃、咬，要啃、咬的(對像)。Kakete
 kaketeran(keter)    [疊 2]令人生氣、氣憤的。O nika pila'om ningra ko kaketeran ako. 我對他那麼奢侈而氣憤。
 kakteren(keter)    [疊]要譴責、責備，要譴責、責備的(對像)。Kaketeren ningra kako. 他要責備我。
 kaketilen(ketil)    [疊 2]要用指甲掐，要掐的，要擰。Kaketilen ningra ko wawa. 他用指甲掐小孩。
-kaketingen(keting)    [疊 2]要固定、拴住、掛住，要固定、拴住、掛住的(東西)。Kaketingen i cafeng a sasing. 要掛在牆上的相片。同 kakaﬁten.
+kaketingen(keting)    [疊 2]要固定、拴住、掛住，要固定、拴住、掛住的(東西)。Kaketingen i cafeng a sasing. 要掛在牆上的相片。同 kakafiten.
 kaketiw    黃蜂。同 kakitiw、kafet、facacinal、'acacinal。 參見 faralohod。Ira ko kaketiw i fadahong no padiyongan. 在豬寮頂有黃蜂。
 kaktol    臭蟲。Ci kaktol kona sikal. 這草席有臭蟲。同 fangaw。
 kaketonen(keton)    [疊 2]要切斷，要切斷的(東西)。O kaketonen ako kona 'awol. 我要切斷這根竹子。
@@ -761,12 +758,12 @@ kaketosen(ketos)    [疊 2]要摘取、收成，要摘取、收成的(穀物)。
 kala    (前綴)。主要表示：①  被變成…，被當做…，當做…用。如 kalacokap 當鞋子穿；kalasakaen 當菜餚吃；kalakolong 被當牛使喚；kalafafahi 被娶來做妻子。②  某種重複的習慣。如 kalacohel 常出汗，愛出汗；kalacaciyaw 愛嘮叨，愛說話。
 kala    (連接詞)。一般放在句首，表示動作行為的並列與連續。Kala ladiw han nangra ko nikaromakat. 他們在行走過程中一邊唱歌。
 kala    愚蠢，做傻事。同 fola。Aka kala ko miso a harateng. 你不要有愚蠢的想法。
-kala'alipan('alip)    性交、做愛的時間或地方。O laﬁi ko kala'alipan. 半夜作愛。
+kala'alipan('alip)    性交、做愛的時間或地方。O lafii ko kala'alipan. 半夜作愛。
 kala'eto('eto)    當桌子用。Kala'eto han niyam koni a fokeloh. 這塊石頭權當我們的桌子。
 kala'etoen('eto)    把某物當桌子用。Nga'ay a kala'etoen kona padiyacay a fokeloh. 這塊石板可以把它當桌子用。
 kala'ka'    喧鬧聲，吱吱喳喳的。Kala'ka' saan ko rakat no paliding. 牛車吱吱喳喳的響。
 kala'onoc('onoc)    當扁擔用，當做扁擔。Kala'onoc han niyam ko kilang. 我們以木頭當扁擔。
-kala'onocen('onoc)    把某物當做扁擔用。Nga'ayay a kala'onocen ko tapang no ﬁtonay. 刺竹的桿兒適宜做扁擔用。kala…an (前後綴)。主要表示：①  場所。如kalali'acaan 做買賣的地方，市場；kalatatayalan 農場，工作場所。②  某種演變行為的結果。如 kalatatawalan 被人所遺忘(事情)。③  某種演變行為的對像。如 kalasasti'an 成了挨打的對像；kalatatalawan 成了膽小鬼。
+kala'onocen('onoc)    把某物當做扁擔用。Nga'ayay a kala'onocen ko tapang no fitonay. 刺竹的桿兒適宜做扁擔用。kala…an (前後綴)。主要表示：①  場所。如kalali'acaan 做買賣的地方，市場；kalatatayalan 農場，工作場所。②  某種演變行為的結果。如 kalatatawalan 被人所遺忘(事情)。③  某種演變行為的對像。如 kalasasti'an 成了挨打的對像；kalatatalawan 成了膽小鬼。
 kalacafay(cafay)    ①  結伴的，一起走的。②  (表促使、命令)請結伴而行，請一起走。
 kalacafayan(cafay)    結伴而行的時間或地方。Kalacafayan niyam ci Tamod a talalotok inacila. 昨天我們和達摩先生結伴上山。
 kalacaypan(caypan)    ①  當裁判的。②  (表促使、命令) 請當裁判。Kalacaypan niyam kiso a mimali. 你來作我們打球的裁判。
@@ -782,11 +779,11 @@ kalafafahien(fafahi)    把某人當妻子，娶某人為妻。Kalafafahien ni R
 kalafafahihan(fafahi)    於是把某人娶為妻子。Nanitiya 
 to kalafafahihan to ningra koya    maponengay. 從此，他就把那位寡婦當做自己的妻子了。
 kalafaw(lafaw)    田鼠，野鼠。同 malafaw。Matalakal no faki ako ko kalafaw. 我舅舅捉到田鼠。
-kalafi(lafi)    ①  吃晚飯的。②  (表促使、命令)請吃晚飯。Kalaﬁ i loma' niyam. 請在我家吃飯。
-kalafian(lafi)    晚餐時間或地點，傍晚。Ma'oraday i kalaﬁan. 傍晚下雨了。
+kalafi(lafi)    ①  吃晚飯的。②  (表促使、命令)請吃晚飯。Kalafi i loma' niyam. 請在我家吃飯。
+kalafian(lafi)    晚餐時間或地點，傍晚。Ma'oraday i kalafian. 傍晚下雨了。
 kalafiting(fiting)    當耳環戴，當做耳環。
-kalafitingen(fiting)    把某物當耳環戴、做耳環用。Kalaﬁtingen no kaying ko 'ekim. 小姐帶金耳環。
-kalafitinghan(fiting)    就把某物當耳環戴。Kalaﬁtinghan ningra ko 'adicaw. 她把大理石當耳環。
+kalafitingen(fiting)    把某物當耳環戴、做耳環用。Kalafitingen no kaying ko 'ekim. 小姐帶金耳環。
+kalafitinghan(fiting)    就把某物當耳環戴。Kalafitinghan ningra ko 'adicaw. 她把大理石當耳環。
 kalah    急，急忙，急迫。同 foraw、tamol。參見 makalah、caloh、safor。Kalah saan cingra a minokay. 他急忙的回家。
 kalaha'ay(laha')    ①  棕櫚樹。②  傳說中海魔鬼、妖怪。Iraay ko kalaha'ay saan ko kitoh no mato'asay. 耆老們的傳說中聽說有妖怪。
 kalahecian(heci)    事情有結果、工作完成的時間。Ano hacowa ko kalahecian no pitilid iso?你何時會完成學業？
@@ -794,7 +791,7 @@ kalahedawan(lahedaw)    消失、結束的時間或季節。Maraodto ko kalaheda
 kalahekelan(lahekel)    令人愉快、興奮的。Kalahekelan a romi'ad. 愉快的日子。 Adihay ko kalahekelan iso a mitilid. 學習有許多樂趣。
 kalahok(lahok)    ①  吃午飯的，用午餐的。②  (表促使、命令)請吃午飯，請用什餐！
 kalahokan(lahok)    午餐時間或地方。Kalahokan tayra i 'alo a maino'. 中午時候，去河裡洗澡。
-kalahongtian(hongti)    做皇帝、國王的日子，登基加冕的日子。Manga'ay ko 'orip no ﬁnawlan to kalahongtian ni Kolas. 古拉斯作王時人民生活安定。
+kalahongtian(hongti)    做皇帝、國王的日子，登基加冕的日子。Manga'ay ko 'orip no finawlan to kalahongtian ni Kolas. 古拉斯作王時人民生活安定。
 kalakafong(kafong)    當帽子戴。同 kalatamohong、kalatoper。
 kalakafongen(kafong)    把某物當帽子戴。Kalakafongen ako ko toto' a misafang. 捉魚苗時我以瓢當帽子。
 kalakal    心急，性急。同 makahkah。Kalakal ko pinangan ningra. 他的個性很急。
@@ -844,11 +841,11 @@ kalangaay    一種吮吸魚類的昆蟲。
 kalangan(kalang)    螃蟹的種類。O maan a kalangan konini? 這是何種螃蟹？
 kalangangan(ngangan)    邊界，疆界，界線。Hapinangen ko kalangangan. 要看清界線。同katatolasan。
 kalangen(kalang)    把螃蟹捉住，捉螃蟹吧。Kalangen niyam itira. 我們在那裡捉螃蟹吧。Kao ta'angayay ko kalangen ! 要捉大螃蟹！
-kalangkang    叮叮噹噹嚮。Kalangkang saan ko ﬁting no kolong. 牛環叮叮噹噹嚮。
+kalangkang    叮叮噹噹嚮。Kalangkang saan ko fiting no kolong. 牛環叮叮噹噹嚮。
 kalapid    蝙蝠，也指旱傘、洋傘。Ma'orad ko romi'ad tatoyen ko kalapid. 天雨帶傘吧。同 linay,cacelaken。
 kalapiyat    閃電。Matalaw ko wawa to kalapiyat.孩子怕閃電。
 kalaradiw(radiw)    會唱歌，擅長唱歌。Kalaradiw kako.我很會唱歌。
-kalaradiway(radiw)    ①  會唱歌的，擅長唱歌的。②  指歌手。O kalaradiway koni a kaying. 這位小姐是歌手。O kalaradiway a ﬁnacadan ko 'Amis. 阿美族是很會唱歌的民族。
+kalaradiway(radiw)    ①  會唱歌的，擅長唱歌的。②  指歌手。O kalaradiway koni a kaying. 這位小姐是歌手。O kalaradiway a finacadan ko 'Amis. 阿美族是很會唱歌的民族。
 kalas    指八十歲以上的長老，耆老。Kalas no niyaro'. 部落長老，部落裡的古稀老人、智叟。
 kalasikaen(kaen)    當做小菜吃。Kalasikaen han ko kenaw. 蔥當做小菜吃。
 kalasikaenen(kaen)    把某食品當小吃，當配菜。Kalasikaenen ko caypo. 把蘿蔔當小菜吃。
@@ -877,11 +874,11 @@ kalasingsiw(singsiw)    ①  當運動員選手的。②  (表促使、命令)�
 kalasiwala(siwala)    生性健忘、容易遺物的。Kalasiwala ko mato'asay. 老人很健忘。
 kalasiwalaay(siwala)    ①  生性健忘、容易遺失東西。②  指健忘、容易遺失東西的人。Kalasiwalaay kako. 我很健忘。
 kalasol(lasol)    ①  先行的，先走的。②  (表促使、命令)請先走一步。Kalasol a tahira kiso. 你要先到達。
-kalasufitayan(sufitay)    當兵、應征入伍的時間或地方。Malatatihi ako cingra i kalasuﬁtayan.服兵役期間他是我的伙伴。
+kalasufitayan(sufitay)    當兵、應征入伍的時間或地方。Malatatihi ako cingra i kalasufitayan.服兵役期間他是我的伙伴。
 kalat    ①辛辣，火辣辣。②咬，中傷，傷害。參見 mikalat。Tada mikalat ko sowal iso. 你的話很傷人。
 kalata'angan(ta'ang)    令人驕傲的。Kalata'angan ako ko wawa ako. 我的孩子是我的驕傲。同kalita'angan。
 kalatafalahan(falah)    變成倒垃圾的地方。Kalatafalahan kona caki. 把畚箕當倒垃圾的地方。
-kalatafalahanhan(falah)    於是把某處變成倒垃圾的地方。Anolatek kalatafalahanhan no tao ko fawahan no loma' ningra. 於是別人把他的家門口有時候當成倒垃圾的地方。Awaay ko losay a mapaloma itini saka kalatafalahan no ﬁnawlan kona lefong.這洞穴沒種什麼所以族人就以此為倒垃圾的地方。
+kalatafalahanhan(falah)    於是把某處變成倒垃圾的地方。Anolatek kalatafalahanhan no tao ko fawahan no loma' ningra. 於是別人把他的家門口有時候當成倒垃圾的地方。Awaay ko losay a mapaloma itini saka kalatafalahan no finawlan kona lefong.這洞穴沒種什麼所以族人就以此為倒垃圾的地方。
 kalatalaw(talaw)    習性膽怯、膽小。Kalatalaw kako to dadaya. 我在夜裡較膽小。同 kakoki'。
 kalatalaway(talaw)    ①  習性膽怯、膽小。②  指膽小的人，膽小鬼。Kalatalaway to waco. 怕狗。
 kalatamako(tamako)    愛抽煙，嗜煙。Kalatamako ko fai ako. 我阿姨嗜煙。
@@ -906,10 +903,10 @@ kalawal    高蹺。
 kalawama(wama)    彼此之間有父子(女)關係、做為父親。Kalawamaen nangra kako. 他們認我為父。Tada fangcal ko kalawama ningra. 他為人父做的很成功。
 kalawamaay(wama)    ①  疼愛父親的。②  指疼愛父親的的(人)。Kalawamaay cangra a tatosa.他們二人是父子關係。Kalawamaay kona wawa. 他是很疼愛父親的 小孩。
 kalawla(lawla)    ①  歡樂的，歡慶的。②  (表促使、命令)狂歡吧，一起歡唱慶祝吧。
-kalawlaan(lawla)    歡慶、歡樂的時間或地方。O kalawlaan no ﬁnawlan itini. 這裡是居民歡樂的場所。
+kalawlaan(lawla)    歡慶、歡樂的時間或地方。O kalawlaan no finawlan itini. 這裡是居民歡樂的場所。
 kalaya    妖魔，鬼神。
 kalecadan(lecad)    相同、相似、一樣的地方，參加同一活動的時間或地方。Kalecadan niyam a harateng konini. 這是我們共同的想法。
-kaleda'an(leda')    睡熟的時間。O laﬁi ko kaleda'an. 半夜是睡熟的時間。
+kaleda'an(leda')    睡熟的時間。O lafii ko kaleda'an. 半夜是睡熟的時間。
 kalelaw(kalel)    朋友啊。Kalelaw pasla'en ho itini. 朋友啊，這裡休息一會兒。
 kalenengan(leneng)    沈沒、沈落的時間或地方。I riyalay ko kalenengan no tamina nangra. 他們的船隻在海中沉沒。
 kaleng    (聲音)低沉，深沉。參見 makaleng。Makaleng ko ngiha no wawa ako. 我孩子的聲音很低沉。
@@ -936,7 +933,7 @@ kalikidhan(likid)    就把某物沖走。同 likidhan、sukid。Kalikidhan no n
 kalikien(kaliki)    (要求對方)加快速度。Kalikien a romakat ! 快走！ Kalikien a somowal !快點說！
 kalikelon    走下去。參見 ka^epod. Kalikelon tona lalan. 從這條路下去。
 kalilafangan(lafang)    客廳，客房。Pahanhan kami i kalilafangan. 我們在客聽休息。
-kalileng(lileng)    輪子，車輪。同 takilid、rifar、saripa'、ﬁher。Mafetas ko kalileng no koliciw ningra. 她腳踏車的車輪爆開。
+kalileng(lileng)    輪子，車輪。同 takilid、rifar、saripa'、fiher。Mafetas ko kalileng no koliciw ningra. 她腳踏車的車輪爆開。
 kaliling    匙，湯匙。Sawsawen ko kaliling. 去洗湯匙。同 'iros。
 kalim    (吃酸的東西)牙酸。參見 makalim。同 karim。
 kalim    期待，期盼，迫不及待地等。參見 mikalim。Makalim kako to sakatayniaw no tapang. 我期待官員的到來。
@@ -950,9 +947,9 @@ kalimkim(kalim)    [疊 2]牙酸，倒牙。Kalimkim ko wadis ako a komaen to 'a
 kalimkimay(kalim)    [疊 2]①  牙酸，倒牙。②  指牙酸的(人)。Kalimkimay ko wadis ako. 我牙酸。同 makalimay。
 kalimoco'(moco')    角落，房子一角。Ira ko kadamat i kalimoco'. 牆角有蜘蛛網。同kalico'co'、tadimocok。
 kalimsa(kalim)    期盼著，祈盼著。Kalimsa cingra to sakatayraaw i Padaka. 他多麼期盼著去美國。Kalingko 地名。今台灣花蓮市。[日語借詞]
-kalingsesan(lingses)    令人厭惡的、惡心的(事情)。Kalingsesan ko nitayalan ningra. 她所做的事令人厭惡。同 ﬁdang、kasimelangan。
+kalingsesan(lingses)    令人厭惡的、惡心的(事情)。Kalingsesan ko nitayalan ningra. 她所做的事令人厭惡。同 fidang、kasimelangan。
 kaliniknik(niknik)    沈澱下去的(東西)。同 hineknek、palineknek。
-kaliomahan(omah)    農忙季節，農忙時期；也指春天，春耕季節。O kaliomahan to no ﬁnawlan anini. 現在正是農忙時期。
+kaliomahan(omah)    農忙季節，農忙時期；也指春天，春耕季節。O kaliomahan to no finawlan anini. 現在正是農忙時期。
 kalipahak(lipahak)    ①  快樂的，歡樂的。②  (表促使、命令)歡樂吧，讓我們快樂起來吧。
 kalipahakan(lipahak)    令人快樂的。Tada kalipahakan no laloma'an ko kapinokay iso. 你回來家人都很高興。O kalipahakan a romi'ad ko kailisinan. 豐年祭是充滿喜悅歡樂的日子。
 kalipidaan(pida)    領薪、發餉的時間或地方。同pilipidaan。O kalipidaan ano dadaya.今晚領薪。
@@ -992,7 +989,7 @@ kalodakay(lodak)    ①  植物的汁液、漿乳。②  一種草木植物，�
 kalodi    占魚，泥鰍。Adihay i facal ko kalodi.水田裡有許多泥鰍。
 kalodi'an(lodi')    彩霞繽紛的時候。Kalodi'an a dadaya.彩霞繽紛的夜晚。
 kalodisan(lodis)    海上風浪澎湃的時候。Ta'angay ko fali kalodisan no riyal. 有強風時海上風浪澎湃的時候。
-kalofinawlan(finawlan)    所有的鄉民、鄉親。Nga'ayho ko namo kaloﬁnaolan. 各位鄉親你們好。
+kalofinawlan(finawlan)    所有的鄉民、鄉親。Nga'ayho ko namo kalofinaolan. 各位鄉親你們好。
 kaloh    滑石。Matiyac kako i kaloh. 我在滑石上滑倒。
 kalokanatal(kanatal)    所有的島嶼，各個島嶼；也指各地區。Makdal ko kalokanatal no Afrika. 非洲各地發生乾旱。
 kalokelonan(lokelon)    下坡路。同 karo'roan。I kalokelonan a sapiko pahanhan kita. 我們在下坡轉角處休息。
@@ -1039,7 +1036,7 @@ kamet    量詞。表計量單位：一把。Cecay kamet a felac. 一把米。
 kameten(kamet)    把某物握住、抓住 。Maliklon kiso i 'apilis kameten ko masay. 在往下坡險路要抓住野藤。
 kami    (第一人稱代名詞，複數，基本格、主格形態)我們。O malawidangay kami.我們是朋友。
 kamicay    衣服破爛，衣衫襤褸。Makamicay ko riko' ako. 我的衣服破爛。同 kamid。參見 makamicay。
-kamid    布，碎布。參見 makamid。O kamid ko sapisiﬁn. 要用碎布擦拭。
+kamid    布，碎布。參見 makamid。O kamid ko sapisifin. 要用碎布擦拭。
 kamikamid(kamid)    [疊 2]破破爛爛，衣衫襤褸。Maponi'to koya kamikamid. 那些破布爛了。參見 makamikamid。
 kaminaw    一種蔓生植物，莖葉可做豬食。Faliwen ko kaminaw. 把蔓生植物砍掉。同 kalimnaw。
 kamino'an(ino')    洗澡時間或地方。Tlien i kamino'an ko safon. 把香皂放置在浴室。同pililocan。
@@ -1053,7 +1050,7 @@ kamococay    一種青蛙的名稱。Aka piala to kamococay. 不要撿不可食�
 kamodo'    月桂灰木。
 kamodoc(modoc)    (東西抓在手中)滑溜。
 kamodocay(modoc)    ①  滑溜出來了。②  指滑溜出來的(東西)。同 peluc。
-kamok    科目，項目，節目。[日語借詞]O maan ko kamok no tiliﬁ anini? 今天的電視有什麼節目？
+kamok    科目，項目，節目。[日語借詞]O maan ko kamok no tilifi anini? 今天的電視有什麼節目？
 kamoko'    短，短暫。同 amoko'、mamoko'、aporo'。Kamoko' ko sowal no faki.叔叔講的話很短。
 kamoko'ay(kamoko')    ①  短了，短暫。②  短的，短暫的。Kamoko'ay ko riko' iso. 你的衣服短了。Kamoko'ay ko pitilid ningra. 他上學不久。
 kamoli'an(moli')    嬰兒吐奶、溢奶的時間。同 oli'。
@@ -1102,7 +1099,7 @@ kangdaway(kangdaw)    ①  綠了，呈綠色。②  綠的，綠色的。Kangda
 kangerefan(ngeref)    (房子)倒塌的時間或地方。O kalahokan ko kangerefan no talo'an.工寮在中午倒塌。
 kangic    龍，海龍。Caayho ka paka'araw kami to kangic. 我們都未曾見過海龍。
 kangici'an(ngici')    (杯子)有缺口的地方。Caay ka hapinang ko kangici'an nona sioy. 這鍋的缺口看不出來。
-kangkang    木犁。同 taﬁ。'Orongen ko kangkang.去扛木犁。
+kangkang    木犁。同 tafi。'Orongen ko kangkang.去扛木犁。
 kangkangen(kangkang)    把土地犁耕。Kangkangen to ko omah ako. 把我的田地犁了。Adihayay ko fokeloh na omah , caka nga'ay a kangkangen. 這塊地石頭多，不好犁。
 kangkofo    護士。[日語借詞]O kangkofo ko paino'ay i takowanan. 護士幫我洗澡
 kanglo'an(nglo')    ①  腳脫臼的部位或時間。②  因勞累而得病的。O pi'aorong to datung ko kanglo'an. 因扛巨木勞累而得病的。
@@ -1137,7 +1134,7 @@ kantoken(kantok)    對某某實施監督。同 kangtoken。Kantoken no singsi k
 kaolah    獎品、喜愛。O maan ko kaolah ningra saw? 他得到什麼獎勵呢？Kaolah to wawa iso ! 要喜歡你的孩子！
 kaolahan(kaolah)    所喜歡的，愛好。Kaolahan niyam a kapah. 令我們喜歡的青年。Oya 
 mi'adopay a tamdaw mafana' to    kaolahan noya lotong. 那些獵人知道猴子的愛好。O maan a soyko ko kaolahan iso a komaen? 你愛吃什麼水果？
-kaomahen(omah)    把地開墾、拓墾、耕墾。Halaﬁn to a kaomahen kona omah. 這塊地開墾好長時間了。Kaomahen ko sakaomah ako. 把我要耕墾的地代為耕作吧。
+kaomahen(omah)    把地開墾、拓墾、耕墾。Halafin to a kaomahen kona omah. 這塊地開墾好長時間了。Kaomahen ko sakaomah ako. 把我要耕墾的地代為耕作吧。
 kaonaonan(onaon)    流水綬慢的時間或地方。Macokacok itini saka o kaonaonan no nanom itini.這裡有上坡流水就緩慢下來。
 kaonohan(onoh)    (動物)脫毛季節。Kacanglahan ko kaonohan no 'a'adopen. 夏天是野獸脫毛的季節。
 kaopoh(opoh)    ①  趕快的，勤勞的。②  (表促使、命令)請趕快點！ Kaopoh a matayal. 要勤快的工作。
@@ -1155,7 +1152,7 @@ kapaawan(paaw)    令人迷惑不解的。Kapaawan ako ko harateng iso. 我對�
 kapacefong(cefong)    ①  參加的，加入的。②  (表促使、命令)請參加，請加入。Kapacefong ho ako anini a mihecaan a mitilid. 我是今年剛參加學習的。
 kapadesan(pades)    令人煩惱、痛苦的。Malitemoh ako ko kapadesan a mihecaan. 我遇到痛苦的一年。
 kapaen(kapa)    把某物觸摸。Kapaen ningra ko fongoh ako. 他摸了摸我的頭。Kapaen koni a tana , tada makapahay! 摸摸這條毛毯，太漂亮了！
-kapafilong(filong)    過春節的(情況)。Tada nga'ayay ko kapaﬁlong niyam. 我們的春節過得好極了。
+kapafilong(filong)    過春節的(情況)。Tada nga'ayay ko kapafilong niyam. 我們的春節過得好極了。
 kapah    小伙子，年輕人，青年。'Alomanay ko kapah no niyaro' niyam. 我們村裡的小伙子多。
 kapahan(kapa)    特地去把某物觸摸。Kapahan ako koya kiradom , saka'pedsa adaemoh. 我特地去摸那塊布，軟綿綿的，手感很柔和。
 kapakapahan(kapa)    [疊 2]特地把某物摸了又摸。Kapakapahan no mitiliday ko wikol no ^co. 學生們特地把象的尾巴摸了又摸。
@@ -1228,7 +1225,7 @@ kara'eka'ay(kara'eka')    ①  (牛車)發出吱吱嘎嘎聲。②  發出吱吱
 kara'epah('epah)    愛喝酒。同 hali'epah。Caay ka nga'ay a kara'epah ko tamdaw. 人不可酗酒。
 kara'epahay('epah)    ①  愛喝酒。②  嗜酒者，酒鬼。Kara'epahay a fafahiyan. 女酒鬼 .
 kara'idi('idi)    為人吝嗇，小氣。Caayka nga'ay a kara'idi ko tamdaw. 人不可太小氣。
-kara'idiay('idi)    ①  為人吝嗇、小氣。②  指文嗇鬼、小氣鬼。同 karapodohay。Kara'idiay to ﬁyaw. 對鄰居很小氣。
+kara'idiay('idi)    ①  為人吝嗇、小氣。②  指文嗇鬼、小氣鬼。同 karapodohay。Kara'idiay to fiyaw. 對鄰居很小氣。
 kara'ilol('ilol)    特別想念、懷念。同 karaoron。Kara'ilol kami to iloma'ay. 我們特別想念家裡人。
 kara'ilolay('ilol)    ①  特別想念、懷念，愛想念。②  指愛想念、經常想念的(人，指主事者)。Kara'ilolay to iloma'ay a tamdaw. 愛想家人的人。
 kara'isal    分一些給他人。同 kapapecih。
@@ -1246,14 +1243,14 @@ karaen(kara)    把田地耙了。Karaen anocila koya pananoman a omah. 明天�
 karafanoh(fanoh)    長許多毛，毛茸茸。Karafanoh ko waco ako. 我的狗毛茸茸的。
 karafanohay(fanoh)    ①  長許多毛，毛茸茸。②  指長許多毛的。Karafanohay ko lotung. 猴子長很多毛。Karafanohay a waco. 長毛狗，毛犬。
 karafas(rafas)    (茅莖編織的)遮陽披子，遮陽面具。Hawikiden ko karafas a matayal. 帶遮陽具工作。
-karafi'ik(fi'ik)    腮幫子突出，大臉頰。Karaﬁ'ik ko mamo ako. 我奶奶是大臉頰。
-karafi'ikay(fi'ik)    ①  腮幫子突出，大臉頰。②  指大臉頰的人。Karaﬁ'ikay ko singsi niyam. 我們的老師是大臉頰的人。
-karafirang(firang)    愛生氣，愛發脾氣。Caay karaﬁrang ko mato'asay. 老人不愛發脾氣。同 karaketer、karapo'i、karainget、karacihi。
+karafi'ik(fi'ik)    腮幫子突出，大臉頰。Karafi'ik ko mamo ako. 我奶奶是大臉頰。
+karafi'ikay(fi'ik)    ①  腮幫子突出，大臉頰。②  指大臉頰的人。Karafi'ikay ko singsi niyam. 我們的老師是大臉頰的人。
+karafirang(firang)    愛生氣，愛發脾氣。Caay karafirang ko mato'asay. 老人不愛發脾氣。同 karaketer、karapo'i、karainget、karacihi。
 karafirangay(firang)    ①  愛生氣，愛發脾氣。②  指愛生氣的人。同 karaketeray、karapo'iay。
-karafiyal(fiyal)    容易疲勞，疲勞不堪。Karaﬁyal kiso hani ! 瞧你疲勞不堪的樣子啊！
+karafiyal(fiyal)    容易疲勞，疲勞不堪。Karafiyal kiso hani ! 瞧你疲勞不堪的樣子啊！
 karafiyalay(fiyal)    ①  容易疲勞，疲勞不堪。②  指容易疲勞的人。
 karafokeloh(fokeloh)    到處是石頭，石頭累累。Karafokeloh ko omah namo. 你們的田地很多石頭。
-karafokelohay(fokeloh)    ①  到處是石頭，石頭累累。②  指石頭多的地方。Karafokelohay a sera ko kaolahan no 'aﬁnong a malengaw. 椰子樹喜歡在多石之地生長。
+karafokelohay(fokeloh)    ①  到處是石頭，石頭累累。②  指石頭多的地方。Karafokelohay a sera ko kaolahan no 'afinong a malengaw. 椰子樹喜歡在多石之地生長。
 karafolang(folang)    泡沬多。Karafolang koni a safon. 這個肥皂泡沬豐富。
 karafolangay(folang)    ①  泡沬多。②  指泡沬多的東西。Karafolangay ko ngoyos iso a pakimad. 你演講時嘴角有多泡沫
 karafos    石榴。同 kiyafes、kidafes。O no Poson a karafos konini. 這是台東產的石榴。
@@ -1270,8 +1267,8 @@ karahekeren(raheker)    使之滿意、高興。
 karahrahan(rahrah)    (指莊稼、果樹)成熟季節。Karahrahan no panay. 水稻成熟期。
 karakimad(kimad)    擅長講述、講演、講故事。
 karakimaday(kimad)    ①  擅長講述、講演、講故事。②  指擅長講述、能說會道的人。Karakimaday a tamdaw cingra. 他是個能說會道之人。
-karaketer(keter)    愛生氣，愛發脾氣。Karaketer ko singsi niyam. 我們老師愛生氣。同 karaﬁrang、karapo'i、karacihi、karainget。
-karaketeray(keter)    ①  愛生氣，愛發脾氣。②  指愛生氣的人。同 karaﬁrangay、karapo'iay。
+karaketer(keter)    愛生氣，愛發脾氣。Karaketer ko singsi niyam. 我們老師愛生氣。同 karafirang、karapo'i、karacihi、karainget。
+karaketeray(keter)    ①  愛生氣，愛發脾氣。②  指愛生氣的人。同 karafirangay、karapo'iay。
 karalato'(lato')    容易斷裂、經常斷裂、容易發脾氣。Karalato' ko walay no linom. 針線易斷。
 karalato'ay(lato')    ①  容易斷裂，經常斷裂。②  指容易斷裂，經常斷裂的(繩索等)。③脾氣不好的人。
 karalawla(lawla)    天性幽默，愛開玩笑。Karalawla ko kaka ako. 我哥哥喜歡開玩笑。
@@ -1290,8 +1287,8 @@ karapanay(panay)    稗子，稻子。同 salipanay。
 karapaska(paska)    天性鬱鬱寡歡，悶悶不樂。Masa'opo kami caayka karapaska cingra. 我們開會時他沒悶悶不樂。
 karapaskaay(paska)    ①  鬱鬱寡歡，不快活。②  指郁郁寡歡的人。Karapaskaay ko faloco' noya mato'asay. 那位老人內心一直很憂郁。
 karapela'an(pela')    分開兩半兒的。Karapela'an kona mahod. 這蒸籠分開兩半兒。
-karapo'i(po'i)    愛生氣、發怒。同 karaﬁrang、karaketer。
-karapo'iay(po'i)    ①  愛生氣、發怒。②  指容易發脾氣的人。Karapo'iay ci ina ni Arik.艾莉克小姐的母親容易發脾氣。同karaﬁrangay、karaketeray。
+karapo'i(po'i)    愛生氣、發怒。同 karafirang、karaketer。
+karapo'iay(po'i)    ①  愛生氣、發怒。②  指容易發脾氣的人。Karapo'iay ci ina ni Arik.艾莉克小姐的母親容易發脾氣。同karafirangay、karaketeray。
 karapodoh(podoh)    天性嫉妒、天性吝嗇、小氣。Tadacay karapodoh ko tawki. 老闆很吝嗇。同kara'idi、kara'adepec、karalopet。
 karapodohay(podoh)    ①  天性吝嗇、小氣。②  指天性文嗇的人，小氣鬼。同 kara'idiay。
 karapokoh(pokoh)    (竹子等)長的節過多、太密。Karapokoh ko tefos. 甘蔗節太多。
@@ -1324,12 +1321,12 @@ karasino'et(sino'et)    愛出汗，經常流汗。Karasino'et kako a dademak. �
 karasino'etay(sino'et)    ①  愛出汗，經常出汗。②  指愛出汗的人。Karasino'etay kako a matayal. 我工作常出汗。
 karasiwala(siwala)    愛搞混，健忘。Karasiwala cingra to tatayalen. 她經常容易弄混工作。
 karasiwalaay(siwala)    ①  愛搞混，健忘。②  指容易弄混的人。Caay ko karasiwalaay a tamdaw cingra. 他不是健忘的人。
-karaskas    風吹動聲，颯颯而嚮。Karaskas ko ﬁyok no fali. 風吹動聲。
+karaskas    風吹動聲，颯颯而嚮。Karaskas ko fiyok no fali. 風吹動聲。
 karasmasan(rasmas)    下毛毛雨的季節或地方。同marasmasan。Karasmasan a papacem. 下毛毛雨的早晨。
 karasepen(sepen)    愛輕視他人、不尊重他人。Aka karasepen to tao. 不要輕視別人。
 karat    巖石凹凸不平，崎嶇不平。Awaay ko pipalomaan to nika karat no omah.因地巖石凹凸不平而無法種植。參見makarat。同 karatkat。
 karatalaw(talaw)    天生膽小，經常感到恐懼、害怕。No mamangan ningra a karatalaw. 他從小就膽小。
-karatalaway(talaw)    ①  天生膽小，經常感到恐懼、害怕。② 指有恐懼症的人。Karatalaway to ﬁtili' ko wawa. 孩子怕雷電。
+karatalaway(talaw)    ①  天生膽小，經常感到恐懼、害怕。② 指有恐懼症的人。Karatalaway to fitili' ko wawa. 孩子怕雷電。
 karatamako(tamako)    愛吸煙，嗜煙。
 karatamakoay(tamako)    ①  愛吸湮，嗜煙。②  指嗜煙成癮的人。Karatamakoay ko mi'adopay. 打獵的人愛吸煙。
 karatar(ratar)    ①  趕早的，一大清早做的。②  (表促使、命令)請趕早，乘早(做)吧。Karatar a lomowad ! 請早早起床！同pacerem。
@@ -1365,19 +1362,18 @@ karifateng(fateng)    蛛蜘網。同 karifolalotong。Matahpo no karifateng ko 
 karih    耙攏(穀物等)。同 kahir、kayir。參見mikarih。
 karihakedan(rihaked)    所信賴、依靠的。Karihakedan no tamdawdaw ci wama ako. 我爸爸是人們所依賴的支柱。Awaay aca ko karihakedan niyam i cingraan. 我們對他再也沒有任何信心了。
 karihen(karih)    把(穀物等)耙攏，收拾在一起。Karihen ko panay. 把稻子耙攏在一起。同 kahiren。
-karihic    魚籃子、魚簍。Paroen i karihic ko kalang. 把螃蟹裝入魚籃裡。同karimo、cekopid、raka、talaﬁnan。
+karihic    魚籃子、魚簍。Paroen i karihic ko kalang. 把螃蟹裝入魚籃裡。同karimo、cekopid、raka、talafinan。
 karihkih    沙沙的嚮聲。Karihkih sa ko ^edo i loma. 家裏的老鼠沙沙作嚮。同karihrih。
 karihrih    沙沙的嚮聲。Karihrih saan ko fali. 風沙沙的嚮。同 karihkih。
 karimoc    魚籃子。Hawikiden ko karimoc a mitoko. 撿田螺要帶魚籃子。同karihic。
 karingkingay    龍眼樹，龍眼。Ci heci to ko karingkingay imatini. 現在正是龍眼結果的時期。同 kingking、lingking。
-karipa'an(ripa')    所踐蹈、被踩蹈的。Matalaw kami 
-karipa'an no tao ko mipalomaan    
+karipa'an(ripa')    所踐蹈、被踩蹈的。Matalaw kami karipa'an no tao ko mipalomaan    
 niyam    a dateng. 我們擔心我們種的菜讓別人踩了。
 kariwkiway    寄居蟹。Milsap ko kariwkiway i lawac no riyal. 寄居蟹在海岸邊出沒。
 karkar    挖、掘，挖掘。Karkar to tefon. 挖井。同 korkor。參見 mikarkar。
 karkaren(karkar)    把(土地)挖掘。Karkaren ko paranaan. 挖地基。同 korkoren。
 karo'    柚子樹，柚子；一說榕樹。Ma'osi kako a komaen to karo'. 我很不喜歡吃柚子。同 kamoraw、wirok、mami、ceroh。
-karofinawlan(finawl)    每個鄉民，所有的鄉民。Macahiw ko karoﬁnawlan. 全村民肌餓。
+karofinawlan(finawl)    每個鄉民，所有的鄉民。Macahiw ko karofinawlan. 全村民肌餓。
 karoheman(rohem)    (農作物，水果)成熟季節。Karoheman no kida. 釋迦成熟期。
 karokarothan(karot)    [疊 2]就不停地反復地把某物摟集起來。Karokarothan ningra a misa'opo ko lakaw. 他於是把垃圾摟成一堆。
 karomakat(rakat)    ①  走的，行走的。②  (表促使、命令)走吧。Falo a fulad ko karomakat.行程八個月。Nga'ay ko karomakat ningra a misalama. 他們玩耍時走的好好的。
@@ -1406,7 +1402,7 @@ kasadak(sadak)    ①  出來的，出現的。②  (表促使、命令)請出�
 kasadakan(sadak)    出來的時間或地方，如出口、太平門、來源等等。Icowa ko kasadakan? 出口在哪裡呢？
 kasafacal(facal)    每個隔間，田畦。Masongila' to ko kasafacal no omah. 水田的田畦都好了。參見 kasarawang、kasariwang。
 kasafalifalic(falic)    [疊 2]每一個變化周期，季節變化。Kasafalifalic no romi'ad. 氣候，氣象。
-kasafinacadan(finacad)    各個民族、族群、部族。Mido'do to sowal ko kasaﬁnacadan. 各民族都很順從。
+kasafinacadan(finacad)    各個民族、族群、部族。Mido'do to sowal ko kasafinacadan. 各民族都很順從。
 kasahefong(hefong)    呈低窪地形狀，凹下去。Parayasen ko kasahefong. 填平凹地。
 kasakapokapotsa(kapot)    [疊 2]以各個組織的形式(做)。Kasakapokapotsa a makero romadiw ko kapah. 年輕人以各自的班組形跳舞、唱歌。
 kasakapot(kapot)    [疊 2]每一個組織，任何一個組織、班、組。I kasakapot ningra ira ko cecay a kakridan. 每一個組織有一個領導者。Mas'opo ko 'Amis a fa'inayan a ma'min. 阿美族的所有男性成員集合了。同 kasaawid、kasaselal。
@@ -1421,7 +1417,7 @@ kasalaloma'an(loma')    [疊]各家族，各氏族。Pasadak ko kasalaloma'an to
 kasalomaloma'(loma')    [疊 2]每家每戶。Pasadak ko 
 kasalomaloma' to alatosa a polo' a    payso. 家家戶戶各拿出二十元錢。
 kasani'adaen(sani'ada)    請可憐、同情(別人)吧。Kasani'adaen koni a malitengay ! 同情一下這個老人吧！
-kasaniyaro'aro'(niyoro')    [疊 2]各個部落、村子。Maﬁyok no fali ko kasaniyaro'aro'. 整個部落都被風吹襲。
+kasaniyaro'aro'(niyoro')    [疊 2]各個部落、村子。Mafiyok no fali ko kasaniyaro'aro'. 整個部落都被風吹襲。
 kasaomah(omah)    ①  播種的。②  (表促使、命令)請播種吧。Kasaomah to lamlo. 播種小米吧。
 kasaomahan(omah)    播種小米的季節，播種祭。Kasaomahan to fadisan anini. 現在是種植高梁的時期。
 kasapaan(sapa)    所忌諱，所驚奇的。O maan ko kasapaan iso cingraan? 你到底忌諱他什麼？
@@ -1435,7 +1431,7 @@ kasarayray(rayray)    每一順序、次序，順序的承續轉接。Matatongot
 kasarekad(rekad)    每一小段落、單元、群體。Mahapinang ko kimad ningra i kasarekad. 他每一段都講的很清楚。
 kasarekarekad(rekad)    [疊 2]各個小段落、單元、群體。Caayka hapinang i kasarekarekad ko tilid ningra. 他每段落寫的不很明白。
 kasarocodan(rocod)    令人專注的、專心注意的。O maan ko kasarocodan iso anini? 你現在專注什麼(事情)？
-kasasiroma(roma)    各不相同的類別，每一不同種類。'Aloman ko kasasiroma no ﬁnacadan. 有許多各不相同的民族。
+kasasiroma(roma)    各不相同的類別，每一不同種類。'Aloman ko kasasiroma no finacadan. 有許多各不相同的民族。
 kasasiroma a ponka    [合成語]多元文化。Adihay ko kasasiroma no ponka i Taywan. 台灣是多元文化的國家。
 kasaselal(selal)    (指阿美族年齡組織中)每一同級組織，各種同級團體。Mahapinang ko kasaselal niyam. 我們階級分的很清楚。同 kasakapot。
 kasaso'araw('araw)    [疊 2]①  彼此見面的，相見的。② (表促使、命令)彼此見見面吧。Kasaso'araw kamo i pitilidan. 你們明天在學校相見吧 .
@@ -1459,7 +1455,7 @@ kasimelangan(simelang)    感到難為情的，令人可恥的。Caka samaan ko 
 kasina'ada(sina'ada)    因為可憐、同情的緣故。Kasina'ada ko namo to pakoyoc a tamdaw. 你們要同情貧窮人。
 kasina'adaan(sina'ada)    令人可憐、同情的。Kasina'adaan ko tangic noya ina. 那媽媽的苦情真另人同情。同 kasini'adaan。
 kasina'adaen(sina'ada)    請求對方可憐、同情。Kasina'adaen ho kami ! 可憐可憐我們吧！同kasini'adaen。
-kasini'ada(sini'ada)    出於同情的(緣故)。'Aﬁliden noya 
+kasini'ada(sini'ada)    出於同情的(緣故)。'Afiliden noya 
 matayalay a tamdaw koya ma'okotay    a totoy a mipanokay , o kasini'ada ningra toya totoy. 那農夫把凍僵的小狗抱回家，是因為同情那隻小狗緣故。同 kasini'ada。
 kasini'adaan(sini'ada)    令人同情、可憐的。Ay , kasini'adaan ko wawa ako. 我的孩子實在令人可憐。Kasini'adaan koya malitengay , ngalefsa ko adada ningra. 那老人很可憐，他的病越發嚴重了。同kasina'adaan。
 kasipiray    大花咸豐草。Molengaw ko kasipiray i omah ako. 我田裡長大花咸豐草。
@@ -1473,7 +1469,7 @@ kasomowal(sowal)    ①  說的，說話的。②  (表促使、命令) 請說�
 kasomowalan(sowal)    說話的時間或地方。Awaay ko kangaa'ayan a kasomowalan ako. 我沒有說話的時間。
 kasorikiran(sorikir)    接二連三發生的、連續發生的(事情)。
 kasowafan(sowaf)    打呵欠時間。Maraod ko dadaya o kasowafan ako. 到晚間正是我打呵欠時間。參見 masowaf。
-kasoy    木柴。Sapitangtang to sakalaﬁ a kasoy. 煮晚飯用的木柴。
+kasoy    木柴。Sapitangtang to sakalafi a kasoy. 煮晚飯用的木柴。
 kasoyan(kasoy)    木柴的種類。
 kasoyen(kasoy)    去砍柴吧。Kasoyen ita toya tokos. 我們在那座山砍柴吧。
 kaseta'an(seta')    昏倒、休克的時間或地方。O karoray 
@@ -1485,7 +1481,7 @@ kasetolan(setol)    碰撞、撞倒的時間或地方。O fakeloh ko kasetolan a
 kataan    便秘。Makataan kako. 我便秘。同masikata。
 katacomoli    蝸牛。(日語借詞)。Mipodpod to katacomoli. 去撿蝸牛。同 coli'。
 katadengal(tadengal)    天亮的，拂曉的。Katadengalho no romi'ad , lomowad to a ma'emin kami. 天剛亮的時候，我們都起來了。
-katafiwan(tafiw)    煙癮發作的時候。Mahiyan cingra to kataﬁwan. 他煙癮發作。
+katafiwan(tafiw)    煙癮發作的時候。Mahiyan cingra to katafiwan. 他煙癮發作。
 katahini(ini)    來到的，到達的。(表促使、命令) 請到這裡來。Katahiniho ako , cowa kafana' to no 'Amis a sowal. 我剛到這裡的時候，不會阿美語。
 katahinian(ini)    到達這裡的時間。O papacem ko katahinian nangra. 他們將在早晨到來。
 katahira(ira)    到那裡的。(表促使、命令)請到達那裡。Katahira ho no kaka isawni. 哥哥剛到那裡的。
@@ -1509,7 +1505,7 @@ katatiihan(tatiih)    令人為難的、難堪的。O maan ko katatiihan toni ! 
 katatingroh(tingroh)    [疊 2]處在頂峰、上層。Siwaay ko katatingroh nona loma'. 這家有九層。
 katatelekan(telek)    [疊 2]①  約定的時間或地方。②  彼此規定的協議、契約。Katatelekan ako cingraan. 我和他的協定。O katatelekan no koli ato tawki konini. 這是工人和老闆之間的契約。
 katatokoan(toko)    [疊 2]交匯處、匯合處。Katatokoan no 'alo. 河流匯合處。同 katatekoan。
-katatonekan(tonek)    [疊 2]互相約定的時間或地方。I seﬁko katatonekan no kapah. 年輕人在聚會所相會。
+katatonekan(tonek)    [疊 2]互相約定的時間或地方。I sefiko katatonekan no kapah. 年輕人在聚會所相會。
 katatongodan(tongod)    [疊 2]互相連接的地方。Katatongodan no 'okak. 骨節。同katatoresan。
 katatoresan(tores)    [疊 2]彼此關聯處，關節。Katatoresan no 'okak. 骨頭關節。同katatongodan。
 katatosahan(tosa)    [疊 2]兩人一起把某事做了。Katatosahan nangra a mikakoy koya 
@@ -1544,7 +1540,7 @@ kateli'ay(kateli')    ①  漂亮，美麗。②  漂亮的，美麗的。Kateli
 kateliian(telii)    令人憤恨的、可恨的。Kateliian a tamdaw. 令人討厭的人。
 kato    (習慣用語)。不要了，不用了，夠了。同 aka to。Kato kalasang kiso !夠了(別喝了)，你要醉了。
 kato'asan(to'as)    成長的地方，籍貫。I Posong ko kato'asan no paro no loma' niyam.我祖籍台東。參見 pito'asan、pa'atayan。
-katofil(tofil)    嘴唇。Malifawa ko katoﬁl no safa ako. 我妹妹的嘴唇腫起來。同 ﬁlﬁl。
+katofil(tofil)    嘴唇。Malifawa ko katofil no safa ako. 我妹妹的嘴唇腫起來。同 filfil。
 katohay    一種飲料，自釀小米酒。
 katokinihan(tokinih)    失控、失衡、呈偏斜的(狀況等)。
 katokinilan(tokinil)    側躺休息的地方。
@@ -1561,11 +1557,11 @@ katomirengan(tireng)    所建樹的，建造的。Tanektek ko katomirengan no l
 katop    黃柿、大葉山欖。Komaen kako to heci no katop. 我吃了大葉山欖果。同katapa。
 katopih    土製酒壼、酒瓶。Aka 'alien ko katopih. 不要把瓶打破。同 kofoc。
 katotoyay(totoy)    幼小，幼動物。
-katepo    鼓著肚子，大腹便便。Katepo saan koya citiyaday a fafahian. 那位懷孕的婦女大腹便便。參見 makatepo、kaﬁtelok、katiyad。
+katepo    鼓著肚子，大腹便便。Katepo saan koya citiyaday a fafahian. 那位懷孕的婦女大腹便便。參見 makatepo、kafitelok、katiyad。
 katerakan(terak)    (東西)掉落、跌落的時間或地方。I fanaway ko katerakan no toki ako. 我的手錶在魚池裡掉落。
 kawacay(wacay)    ①  赤裸的。②  (表促使、命令)請赤裸、請脫衣服。Kawacay a mayno'. 洗澡要赤裸。
 kawakawas(kawas)    [疊 2]各路神明，諸神明。Mita'ong ko tamdaw to kawakawas. 人們拜各路神明。
-kawal    梯子。O kawal ko sapitefad ako to 'aﬁnung. 我用梯子取椰子。同 tokar、ﬁhel。
+kawal    梯子。O kawal ko sapitefad ako to 'afinung. 我用梯子取椰子。同 tokar、fihel。
 kawala    瓦片。(日語借詞)Ma'aca kami to kawala. 我們去買瓦片。
 kawali(wali)    東方，東面，東側，東邊。Nani kawali ko cidal a masadak. 太陽從東方出來。
 kawaliwali(wali)    [疊 1]東方，東部。Palomaen i kawaliwali ko kalitang. 往東邊一點種豆。
@@ -1594,7 +1590,7 @@ kawmi'ay(kawmi')    ①  柔軟脆弱。②  柔軟脆弱的。Kawmi'ay a sawfan
 kawra    (連接詞)。可是，但是，然而。Ta'angayay ko fali anini , kawra cowa kasi'naw. 今天風大，但是不冷。同kawrira、kirami、nikawrira。
 kawrira    (連接詞)。可是，但是，然而。Maolahay kako to 'epah , kawrira ca kahakowa ko mikaenan. 我愛喝酒，但喝得不多。同 kawra、kirami、nikawrira。
 kayafayafan    並肩、並排的時間。I Malaysiya ko 
-kayafayafan niyam a malacafay a    malasuﬁtay. 我與他在馬來西亞並肩當兵。
+kayafayafan niyam a malacafay a    malasufitay. 我與他在馬來西亞並肩當兵。
 kayakay    ①  橋。②  媒人，中介人。Mita'elif kako toya macoyacoyay a kayakay. 我躍過那吊橋。同 amkang。
 kayakay    橋。Mastol no nanom ko kayakay. 橋被水沖。
 kayakayen(kayakay)    ①  過橋，踩過去。②  給某某作媒。Kayakayen niyam ko kilang a milacal.我們踩木橋過去
@@ -1607,7 +1603,7 @@ kayathan(kayat)    就拉住某某，就牽引某物。Kayathan no wama ningra k
 kayhid    誘惑，誤導別人走人歧途，教唆。Akaka kayhid no tao kiso. 你別被人誤導。參見 mikayhid。
 kayhiden(kayhid)    把某某引誘、教唆。Kayhiden no mari'angay a tamdaw koya fafahiyan.壞人引誘那少女。同 hidhid。
 kaying    妙齡少女，姑娘，小姐。Makapahay a malalok ko kaying ako. 我的姑娘是美麗又勤勞。
-kayki    會議，聚會，集會。[日語借詞]Iraay ko kayki no ﬁnawlan i seﬁ. 部落在集會所有會議。
+kayki    會議，聚會，集會。[日語借詞]Iraay ko kayki no finawlan i sefi. 部落在集會所有會議。
 kayko    蠶。[日語借詞]Mipakaen kami to kayko i mamangho kako. 小時候我家有養蠶。
 kaymaan(maan)    不用，不必，不要。參見 hamanan、kalimaan。Kaymaan a caroh sa a patayni saw? 何必急著帶來呢？
 kaynang    (動物)撒歡、逗弄。Maolah ko waco a mikaynang to posi. 小狗喜歡和小貓撒歡。
@@ -1631,8 +1627,8 @@ kedi'    (瓜果，蔬菜等)乾癟，癟癟的。Makedi' ko heci no kingking. �
 kedof    山間深溝，深谷，盆地。Aka pipaloma to dateng i kedof. 不要在山間深溝間種菜。
 keca'han(keca')    就把枝杈一下砍下來。Keca'han noya safa ko tolak no kilang , miparingat to marec. 弟弟就把樹皮嚓一聲砍削來，貼上了糌粑。同 pca'、pcas。
 kecec    閉上眼睛。同 fotek、kepit、kocem。參見 mikecec。
-kececen(kecec)    把眼睛閉上。Kececen ita ko mata a mafuti'. 把眼睛閉上睡覺。同 foteken、kﬁten。
-keced    萎縮，收縮，傷口收歛。'Alaﬁnto ko 
+kececen(kecec)    把眼睛閉上。Kececen ita ko mata a mafuti'. 把眼睛閉上睡覺。同 foteken、kfiten。
+keced    萎縮，收縮，傷口收歛。'Alafinto ko 
 futi' ningra i papaiyoan saka keced sa    ko cepi' ningra. 他在醫院臥病多時，他的大腿萎縮了。參見 makeced。
 kelakela'    牛車，車子。Parakat ci mama ako to kelakela'. 我父親牽牛車。同 paliding、kakipa。
 kelang    (金屬器物)隆噹一聲掉地。 Kelang a matfad ko satoktok. 瑯頭隆噹一聲掉地。
@@ -1657,7 +1653,7 @@ kelingsa(keling)    叮噹一聲(嚮)，砰然一聲(嚮)。Kelingsa a materak k
 kelkel    ①  (因寒冷)發抖，顫抖。②  咬牙切齒貌。Makelkel to nika si'naw. 因冷而發抖。參見 makelkel、tatiltil。
 kelkelsa(kelkel)    ①  咬牙切齒地。②  冷得直發抖。Kelkelsa ko telii ako toya tamdaw. 我對那個人恨的咬牙切齒。Kelkelsa kora malitengay to si'naw. 那老人冷得打抖索。
 kelong    (重物落地聲)咚的一聲。Kelong saan ko tancun a matfad. 木桶咚的一聲掉落下來。同 kerong。
-kemkem    咬碎，嚼碎。Caay ka ﬁlo a mikemkem ko sakoﬁt. 鈕扣不易咬碎。參見 mikemkem。
+kemkem    咬碎，嚼碎。Caay ka filo a mikemkem ko sakofit. 鈕扣不易咬碎。參見 mikemkem。
 kemkemen(kemkem)    把某物咬碎、嚼碎。Kemkemen koni a 'icep. 把這個檳榔嚼碎。
 kemo    (曬製海鹽用的)籠匣。Matomes niyam a miparo ko kosoy i kemo. 我們把香毛草裝滿蒸桶。
 kengkeng    水溝，水圳。Aka pakayra i kengkeng a romakat. 不要走水溝。同 ci'ci、kali、kicon。
@@ -1775,7 +1771,7 @@ kicitama'(tama')    ①  打獵得到的。②  (表促使、命令) 必須獵�
 kickic    (葦草編織的)獵人盔。
 kickic    割傷，割下蕃薯秧曝曬準備做肥料。Mikickic to konga. 割下蕃薯秧曝曬準備做肥料。參見 mikickic。
 kickicen(kickic)    把某物割傷，把蕃薯秧割下準備做肥料。
-kicocom    把某物隱藏一下。Kicocom i takar ko kowang. 把槍隱藏在床下。Kicofi 部落名稱，今台灣花蓮縣壽豐鄉月眉村地區。Adihay ko 'alotoc i Kicoﬁ. 月眉有很多尖螻。
+kicocom    把某物隱藏一下。Kicocom i takar ko kowang. 把槍隱藏在床下。Kicofi 部落名稱，今台灣花蓮縣壽豐鄉月眉村地區。Adihay ko 'alotoc i Kicofi. 月眉有很多尖螻。
 kicomcom    斜路，對角線，(偏僻不易找到的地方)。Na'onen ko rakat I kicomcom.在斜坡上小心行走。參見 mikicomcom。
 kicomcomen(kicomcom)    到偏僻的地方藏起來。
 kicon    水圳，水溝。閩南語借詞。Mapolin kako I kicon. 我跌入水溝。
@@ -1841,9 +1837,9 @@ kilawa(lawa)    撿、拾遺物(如拾遺落地上的稻穗)。參見 mikilawa�
 kilawaen(lawa)    把遺物撿、拾起來。Kilawaen ko 'emi.拾麥。
 kilemel    湍急，強勁，有力。Kilemel ko nanom. 水流很急。Kilemel ko dingki.電力很強。
 kilemelay(kilemel)    ①  湍急，強勁，有力。②  湍急的，強勁的，有力的。Kilemelay ko fali. 風力強勁起來了。Kilemelay a nanom. 湍急之水。
-kilet    掐去(花，葉)。Kilet to ﬁra'. 掐荖葉。參見 mikilet。
+kilet    掐去(花，葉)。Kilet to fira'. 掐荖葉。參見 mikilet。
 kileten(kilet)    把花、葉等掐掉。Kileten ko papah.把葉掐去。
-kili'elan(li'el)    (套牛、車、犁等的)頸帶。Pakaﬁten ako ko kili'elan no kolong. 我掛上牛頸帶。
+kili'elan(li'el)    (套牛、車、犁等的)頸帶。Pakafiten ako ko kili'elan no kolong. 我掛上牛頸帶。
 kilidong(lidong)    在某物掩蔽物下避風、雨。Mikilidong to 'orad i pangpangan no tao. 在別人家屋簷下避雨。參見 mikilidong。
 kilidongen(lidong)    在躲避風雨，到某處避風雨吧。I 
 kala'no no kilang kilidongen ko 'orad    ! 在樹下避避雨吧！
@@ -1889,7 +1885,7 @@ kimos    (指牲畜瘦弱)屁股骨頭突出。參見makimos。
 kimpay    金牌。[閩南語借詞]Pakaala to kimpay cingra a comikay. 他賽跑得金牌。
 kimpi'    四方形，扁平形狀。Kimpi' ko coco.胸部平扁。同 timpi'。
 kina    前綴。主要表示：①  動成行為的產物、遺留物。如 kinafalah 廢物，垃圾。②  自殺性行為。如 kinaso'ot 上吊自殺。③  停靠某處。如 kina'ayaw 靠在前面。沝 動作行為的次數。如 kinacecay (做)一次；kinalima(做)五次。
-kina'alol('alol)    投河自盡。Caayka pakaﬁlo ko faloco' 
+kina'alol('alol)    投河自盡。Caayka pakafilo ko faloco' 
 ningra a miharateng to kiyam saka    kina'alol saan cingra. 他為債物想不開而自盡。
 kina'amis('amis)    靠近北邊，往北邊靠近。Kina'amis a paloma. 往北邊一點種。
 kina'amisay('amis)    ①  靠近北邊了，往北邊靠近了。②  指往北邊靠近的。Kina'amisay ko pifaliw iso. 你砍的過北邊了。
@@ -2009,7 +2005,7 @@ kinil    軋鋼。
 kinsa    檢查。[日語借詞]。Mikinsa to adada no tatilengan. 去做身體健康檢查。
 kinsaen(kinsa)    把某物檢查，檢查一下吧。Kinsaen no ising ko tireng ako. 醫生要檢查我的身體。
 kinsifo    縣政府。[日語借詞]Kinsifo no posong ko katayalan ako. 我在台東縣工作。
-kiomah(omah)    夜間看守田地莊稼。Mitakaw ko tao to nanom, kiomah kako a milaﬁn.常有人盜水我在田園守夜。參見mikiomah。
+kiomah(omah)    夜間看守田地莊稼。Mitakaw ko tao to nanom, kiomah kako a milafin.常有人盜水我在田園守夜。參見mikiomah。
 kiomahen(omah)    夜間去田地把莊稼看守。Kiomahen niyam ko 'emi anodadaya. 今夜我們去守麥子。
 kioyiko    教育，學習。[日語借詞]。
 kipang    阿美族人長袖短襟的傳統上衣。同kiping。Ciriko' ko kapah to kipang a malikoda. 年輕人穿阿美族人長袖短襟的古式上衣跳舞。
@@ -2108,7 +2104,7 @@ keli'    (金屬器物落地聲)㓟啦一聲。參見mikeli'。
 keli'en(keli')    把金屬器物啪地一聲摔落地上。Keli'en koya 'ekim a 'alapit. 把金筷子摔落地上。
 kelikeliwan(keliw)    苧麻地。Cicka i kelikeliwan. 苧麻地有多刺。同 sakeliwan。
 kelis    (量穀物時把高山容具的部分)刮平。參見 miklis。
-kelisen(kelis)    把多餘部分刮掉。Kelisen ko pinaro no ﬁcing. 把斗量平。Keliw 古代部落名稱、今台灣花蓮吉安鄉歌柳地區。Awaay ko tamdaw niyam i Keliw. 歌柳地區我們沒親人。
+kelisen(kelis)    把多餘部分刮掉。Kelisen ko pinaro no ficing. 把斗量平。Keliw 古代部落名稱、今台灣花蓮吉安鄉歌柳地區。Awaay ko tamdaw niyam i Keliw. 歌柳地區我們沒親人。
 keliw    苧麻，苧麻線。Faloden to keliw ko sikal. 草席用苧麻線綁起來。
 kelop    (挖土機等)刨土，挖深。參見mikelop。
 kelopen(kelop)    (使用挖土機等)把土挖刨了。Kelopen to pitaw ko pipalomaan to toud. 用鋤頭挖種相思樹的地。
@@ -2121,8 +2117,8 @@ kemit    緊閉眼睛，閉目。Kemiten ako ko mata a miharateng. 我閉目沉�
 kemo    拳打，拳擊。Kemohan ningra koya sakalaodot a tamdaw. 他把與他打架的人重重的打了一拳。參見 mikemo。
 kemod    深處，內部，底層。Hacowa ko talolong no kemod noni a fanaw. 這湖不知有多深。Iraay ko 'ekim a pitaw i kemod no fanaw. 湖底有把金斧頭。
 kemoen(kemo)    把某某拳打。Kemoen cingra ! 用拳揍他！ Kemoen ningra kora tamdaw a misti'. 他把那個人打了。
-kenaw    蔥。Pacamolen to kenaw ko ﬁta'ol a miciyan. 蛋加蔥來炒。
-kenel    給某物打印、蓋印、壓印痕跡。Ci kenel no sakoﬁt ko kamay ako. 我 `手上有鈕扣的印子。參見 mikenel。
+kenaw    蔥。Pacamolen to kenaw ko fita'ol a miciyan. 蛋加蔥來炒。
+kenel    給某物打印、蓋印、壓印痕跡。Ci kenel no sakofit ko kamay ako. 我 `手上有鈕扣的印子。參見 mikenel。
 keni'    一隻眼睛，獨眼。Keni' saan to mata ami^eneng i takowan cingra. 他用單眼看我。
 keni'en(keni')    把目標瞄準。Keni'en ko mata a mikowang. 射擊要把目標瞄準。
 ko    (格位結構助詞)。是句子中主語成分的標誌。Mi'adop ko wama. 父親打獵。Fa'detay ko romi'ad. 天氣熱了。
@@ -2148,7 +2144,7 @@ ko'esit    ①  硬，堅硬，拉不動。②  不容易，有難度。Ko'esit 
 ko'esitay(ko'esit)    ①  硬的，堅硬的，拉不動的。②  不容易的，有難度的。Ko'esitay a heto'en.不易扒開。
 ko'eteng    黏性，黏糊糊。Ko'eteng ko hemay.年糕黏。
 ko'etengay(ko'eteng)    ①  有黏性，黏糊糊。②  黏的，黏糊糊的。Ko'etengay ko inglo ato holaymay a saholoen. 旱稻和蓬萊米做飯黏性大。
-ko'etim    冰冷的變紫色。Ki'etec ko tireng nona wawa ko'etim ko ﬁlﬁl ningra. 這孩子冰冷嘴唇業便紫色。
+ko'etim    冰冷的變紫色。Ki'etec ko tireng nona wawa ko'etim ko filfil ningra. 這孩子冰冷嘴唇業便紫色。
 ko'etimay(ko'etim)    ① 呈紫色。Ko'etimay ko cngel nora riko'. 那件衣服的顏色是紫色的。② 紫色的。Ko'etimay a kiping. 紫色的上衣。
 kocakoc    爬樹，攀援。Mananam ko wawa mikocakoc. 孩子善於攀援。同kockoc。參見 mikocakoc。
 kocakocen(kocakoc)    把某物爬上去，攀援而上。Kocakocen no lotong tala teloc noya kilang. 猴子爬到樹梢上。Kocakocen koni a kilang ! 爬上這棵樹吧！同 kockocen,kicakic。
@@ -2181,19 +2177,19 @@ kofa    鄉鎮公所。
 kofakof    茂密，茂盛。Kofakof ko papah no lopas. 桃子葉茂。同 hofahof。
 kofakofay(kofakof)    ①  茂密，茂盛。②  茂密的，茂盛的。Kofakofay ko dateng ako to no miso.我的菜比你的茂盛了。
 kofakofsa(kofakof)    茂密的、茂盛的樣子，那麼茂密、茂盛。Kofakofsa ko konga namo ,makaheciay sato ! 你們的蕃薯那麼茂盛，結果很多吧！
-kofaw    廚房。Palikaten ko kofaw. 開廚房的燈。同 demi、seﬁ、cawka。
-kofet    皺紋。Makofet ko pising no ina ako.我媽的臉有皺紋。同 koﬁd。參見makofet、kofel、kofer。
-kofid    皺紋。同 kofet。參見 makoﬁd。
-kofilet    (瓜類不新鮮)萎縮，扭彎起來。參見makoﬁlet。
-kofing    熱水瓶。同 hoﬁng，mahoﬁng。[日語借詞]Paroen i koﬁng ko fadisaw. 把熱水倒入熱水瓶。
-kofit    (鈕扣)扣緊，扣鈕扣。Caayka koﬁt ko papangaan ako. 我沒扣緊褲子。參見 mikoﬁt。
-kofiten(kofit)    把(鈕扣)扣緊，搞一致了。Koﬁten ko takamayan. 把手袖扣緊。
+kofaw    廚房。Palikaten ko kofaw. 開廚房的燈。同 demi、sefi、cawka。
+kofet    皺紋。Makofet ko pising no ina ako.我媽的臉有皺紋。同 kofid。參見makofet、kofel、kofer。
+kofid    皺紋。同 kofet。參見 makofid。
+kofilet    (瓜類不新鮮)萎縮，扭彎起來。參見makofilet。
+kofing    熱水瓶。同 hofing，mahofing。[日語借詞]Paroen i kofing ko fadisaw. 把熱水倒入熱水瓶。
+kofit    (鈕扣)扣緊，扣鈕扣。Caayka kofit ko papangaan ako. 我沒扣緊褲子。參見 mikofit。
+kofiten(kofit)    把(鈕扣)扣緊，搞一致了。Kofiten ko takamayan. 把手袖扣緊。
 kofo    (面積單位)公頃。Cecay a kofo. 一公頃。
 kofoc    瓶子。Kofoc no 'epah. 酒瓶。同katopih、talid。
 kofol    皺摺，摺兒。Makofol ko riko' ningra.他的衣服皺摺。同 koldet、kolfo。參見makofol。
 kohakoh    搖晃，鬆動。Makohakoh kona pitaw.這鋤頭鬆動。參見 makohakoh。
-kohaw    湯，羹湯。Kohaw no futing. 魚湯。同 kaﬁ。
-kohawen(kohaw)    把某食物煮成湯。Kohawen koni a futing. 把這條魚煮成湯。Kohawen ko kohaw no koko'. 把雞湯煮一煮。同kaﬁen。
+kohaw    湯，羹湯。Kohaw no futing. 魚湯。同 kafi。
+kohawen(kohaw)    把某食物煮成湯。Kohawen koni a futing. 把這條魚煮成湯。Kohawen ko kohaw no koko'. 把雞湯煮一煮。同kafien。
 kohecal    白，白色，白皙。Kohecal ko fanges ningra. 她皮膚白。
 kohecalay(kohecal)    ①  呈白色，白皙。②  白的，白皙的。Kohecalay ko saong ako. 我的傘是白色的。Kohecalay ko fanges no wawa iso. 你孩子的皮膚很白。Kohecalay a cokap. 白鞋。Kohecalay a kafong. 白帽子。
 koheced    肌肉結實。
@@ -2215,13 +2211,13 @@ kokakoka'sa(kokak)    [疊 2]青蛙咕嘎咕嘎地鳴叫著。Oya takora' kokako
 kokang    木琴。Mafana' a misanga' to kokang ci Sawtoy. 薩多宜會製作木琴。
 koki'    恐懼，懼怕。mirmirsa ko wawa to koki'. 孩子因為恐懼而渾身發抖起來。
 kokih    白肉榕。Maretek ako ko kokih. 白肉榕被我砍了。
-koko'    雞。Pacoken ko koko' to hasakalaﬁ.殺雞煮晚餐。同 'ayam。
+koko'    雞。Pacoken ko koko' to hasakalafi.殺雞煮晚餐。同 'ayam。
 kokong    賊，海盜，匪徒。Matakaw no kokong ko kompiwta ako. 我的電腦被賊偷了。
 kokopang    黑板。[日語借詞]Tiliden ko ngangan iso i kokopang. 把妳的名字寫在黑板上。
 kokowa    小孩嬉戲時的習慣用語。
 kokoy    佛手瓜。Palada' to kokoy. 給一點佛手瓜。同 komiyot、poki。Koladot 部落名稱，今台灣花蓮縣長濱鄉樟原村。Masataminaay ko kiwkay no Koladot. 樟原教會造型像船。
 kolafaw    田鼠。Maolah ko Piuma a komaen to kolafaw. 卑南族喜歡吃田鼠。同kalafaw。
-kolah    。①  麻織男式長外衣。②  褐色(毛) Ciriko' to kolah ko kapah a masa'opo i seﬁ. 年輕人穿麻織男式長外衣在集會所集合。
+kolah    。①  麻織男式長外衣。②  褐色(毛) Ciriko' to kolah ko kapah a masa'opo i sefi. 年輕人穿麻織男式長外衣在集會所集合。
 kolah    甜酒。Malasang kako to kolah. 我喝甜酒會醉。同 korah、'raw。
 kolahot    (因激怒)用手抓人。Makolahot no posi ko kamay noya wawa. 那小孩的手被貓抓。
 kolakol    (為保護農作物而製造的驅逐鳥獸的嚮器)嚮板。Ngiyangien koya kolakol.去搖動那嚮板。
@@ -2311,7 +2307,7 @@ konokonosa(kono)    [疊 1]彎著腰，彎下腰。Konokonosa ko malitengay a mi
 konoy    圓木桶。'Afalang han ningra ko cecay a konoy. 他扛起一個圓木桶。
 kontaw    拳術，武術。(閩南語借詞)Minanam to kontaw ko wawa ako. 我孩子練武術。
 kool    (蟲咬)腫起來，腫脹。Makarat no rikes kako makool ko fanges ako. 我被蚊子釘皮膚腫脹起來。參見 makool。
-kopa    車輪。Pakaﬁten ko kopa no paliding.把車輪掛上。同 ﬁher、moli。
+kopa    車輪。Pakafiten ko kopa no paliding.把車輪掛上。同 fiher、moli。
 kopang    曬乾的煙葉。
 kopang    帆布，帳篷。Pawalien i paputal ko kopang. 把布蓬拿出去曬。
 kopit    (豆類等)乾縮，乾蔫，乾癟。Makopec ko heci no kalitang. 婉豆的果子乾縮。參見 makopit。
@@ -2327,9 +2323,9 @@ kopkopkopkophan(kopkop)    [疊 1]就把某物摟得一乾二淨。Kopkopkopkoph
 kopo    杯子。(日語借詞)Paﬂien kako to cecay a Kopo. 請給我一個杯子。
 kora    (指示代詞)表示遠指，主格形態：那，那個，那些。同 korira。
 korac    純正，乾淨，純潔。Maolah ko tamdaw to makoracay a faloco'. 人人都喜歡純潔的心。參見 makorac。
-korafis    牽涉，有關係。Aka pikapot ci Namohan makoraﬁs. 不要和 Namoh 在一起會被牽涉到。參見 makoraﬁs。
-korafit    住，掛上。參見 mikoraﬁt。
-korafiten(korafit)    把某物邨住、掛上。Koraﬁten ko riko' ningra. 把他的衣服住了。
+korafis    牽涉，有關係。Aka pikapot ci Namohan makorafis. 不要和 Namoh 在一起會被牽涉到。參見 makorafis。
+korafit    住，掛上。參見 mikorafit。
+korafiten(korafit)    把某物邨住、掛上。Korafiten ko riko' ningra. 把他的衣服住了。
 korah    麻織的男式長外衣，也指褐色黃毛。同kolah。
 korahos    抓取，攫取。同 korahot。參見mikorahos。
 korahosen(korahos)    把某物抓取、攫取。Korahosen ko fanta. 把蚊帳抓取。同 korahoten。

@@ -1,4 +1,3 @@
-
 w    阿美語輔音之一，屬雙唇濁半母音。音值為 [ w ]。
 wa    感歎詞。表驚訝、驚歎。Wa,samaanaen saw? 哇，怎麽辦呀？
 wa'a    犄角，角兒。Wa'a　no kolong. 牛角。同 pohong。
@@ -47,7 +46,6 @@ walawalen(walawal)    想把…忘記、忘卻。Walawalen　 ita koya kecem! �
 walay    ①  線，細繩子。②  面線，細麵條。③ 褐藻的一種。
 wali    東，東方。
 walih    推開，移開。同 warih。參見 miwalih。
-　    
 walihen(walih)    把…推開、移開。Walihen　 ako kora sapica'it to riko'. 我要把那掛衣架移開。
 walin    翻動，翻滾。參見 miwalin。　
 walinen(walin)    把…翻動、翻滾。Walinen　 koni a fokeloh. 把這塊大石頭翻過來。
@@ -89,7 +87,7 @@ wawa    ①  孩子，晚輩。O wawa ako. 我的孩子。O a 　wawa. 私生子
 wawa'ilen(wa'il)    [疊 2]①  要套住。O wawa'ilen ako kora siri. 我要套住那隻山羊。②  指要套捕的(對像)。O cima ko wawa'ilen ira? 他要捕誰？
 wawaan(wawa)    徒弟，門徒。
 wawadawaden(wadawad)    [疊 2]①  要翻騰，要翻箱倒櫃。O wawadawaden ako ko riko' i lalipaan.我要把箱子裡的衣服翻箱倒櫃。② 指要翻騰、要翻箱倒櫃的(東西)。Wawadawaden　 a maamaan. 即將被翻動的東西。同 wawadwaden。
-wawadayen(waday)    [疊 2]①  要排除糾紛，要勸架。Wawadayen　 ako capanay. 我要把Panay(巴奈)他們勸架。②  指要排除糾紛、要勸架的(物件)。Wawadayen 　 a ﬁyaw. 即將讓人勸架的鄰居。同wawarayen。
+wawadayen(waday)    [疊 2]①  要排除糾紛，要勸架。Wawadayen　 ako capanay. 我要把Panay(巴奈)他們勸架。②  指要排除糾紛、要勸架的(物件)。Wawadayen 　 a fiyaw. 即將讓人勸架的鄰居。同wawarayen。
 wawadwaden(wadwad)    [疊 2]①  要倒騰、翻騰。②  指要倒騰、翻騰的(東西)。同 'a'ad'aden、wawadawaden。
 wawahihen(wahih)    [疊 2]①  要推開、挪開。Wawahihen 　 ira ko kanpiwta ako. 他要把我的電腦挪開。②  指要推開、挪開的(東西)。Wawahihen　 a lipa. 即將被挪開的箱子。同 wawalihen、wawaniken。
 wawakeliden(wakelid)    [疊 2]①  要掀翻、推翻。O wawakeliden no wawa kora koliciw.孩子要把那輛自行車推翻。②  指要掀翻、推翻的(物件)。Wawakeliden　 a eto. 即將被人掀翻的桌子。
@@ -107,7 +105,7 @@ wawatawaten(watawat)    [疊 2]①  要揮動、揮舞。Wawatawaten no wawa ko 
 wawi'awi'en(wi'awi')    [疊 2]①  要鬆動、扭動，要按摩。②  指要鬆動、活動的，要按摩的(物件)。同 ngangohangohen、wawiyawi'en。
 wawi'ingen(wi'ing)    [疊 2]①  牛要頂撞人。O wawi'ingen no siri ko wawa. 羊要撞孩子。②  指牛要頂撞的(對像)。Wawi'ingen a kaying. 即將被頂撞的小姐。
 wawiciken(wicik)    [疊 2]①  要躲閃、謙讓。Wawiciken naira ko malitengay. 他們就要謙讓老人。②  指要躲閃、謙讓的(物件)。Wawiciken a mato'asay. 即將被人謙讓的老一輩。
-wawikwiken(wikwik)    [疊 2]①  要編織籃子。Wawikwiken no kaka ko cayna. 姊姊要編籃子。② 指要編織的(籃子)。Wawikwiken a ﬁtay. 要被編織的篩子。
+wawikwiken(wikwik)    [疊 2]①  要編織籃子。Wawikwiken no kaka ko cayna. 姊姊要編籃子。② 指要編織的(籃子)。Wawikwiken a fitay. 要被編織的篩子。
 wawilecen(wilec)    [疊 2]①  要扭動、活動上身。O wawilecen no wama ko tireng ira. 父親要去活動身體。②  指要扭動、活動上身的(物件)。Wawilecen a kamay. 即將擺動鍛鍊的手。
 wawileten(wilet)    [疊 2]①  要擰斷、扭斷。O wawileten no wawa kora hana. 孩子要擰斷那朵花。②  指要擰斷、扭斷的(物件)。Wawileten a papah. 即將被扭斷的葉子。
 wawingawingen(wingawing)    [疊 2]①  要搖尾巴，要擺動。Wawingawingen no waco ko wikol ira. 狗要搖動牠的尾巴。②  指要搖動的(尾巴)要搖擺的(軟東西)。Wawingawingen a wikol.(狗)要搖動的尾巴。
@@ -136,7 +134,7 @@ wikol    尾巴。
 wikwik    編織竹籃、竹篾。參見 miwikwik。
 wikwiken(wikwik)    把…編織成籃子。Makapahay a wikwiken.(他)籃子編得好看。
 wilec    扭動上身。參見 miwilec。
-wilecen(wilec)    把…扭動。Halaﬁnay to a maro',wilecen ita a talapapotal ! 坐得很久了，我們到外院活動活動吧！
+wilecen(wilec)    把…扭動。Halafinay to a maro',wilecen ita a talapapotal ! 坐得很久了，我們到外院活動活動吧！
 wilet    擰斷，扭曲。參見 miwilet。
 wileten(wilet)    把…扭斷、擰斷。Wileten ako ko ca'ang no kilang. 我把樹枝扭斷。
 wili    左，左邊，左側。
@@ -188,7 +186,7 @@ yamayamen(yamayam)    把(火焰)點燃。
 yamayamsa(yamayam)    火勢熊熊的樣子，火勢呈旺盛的狀態。Yamayamsa ko iloh no lotok, caay ko mamapadeng. 山火熊熊，難以撲滅。Yami 臺灣原住民族之一。雅美族。自稱Tawo(達悟)。
 yangci    氧氣。[漢語借詞]。
 yangcien(yangci)    吸氧吧！
-yasi    椰子。[日語借詞]。同 'aﬁnong。
+yasi    椰子。[日語借詞]。同 'afinong。
 yasyas    撒水，濺水。參見 miyasyas。
 yasyasen(yasyas)    把…撒水、濺水。
 yasyashan(yasyas)    特地把…撒水、濺水。
@@ -198,12 +196,12 @@ yayamayamen(yamayam)    [疊 2]①  即將點燃火焰。②  指要點燃的(�
 yayangcien(yangci)    [疊 2]①  要吸氧氣。②  指要吸納的(氧氣)。
 yayasyasen(yasyas)    [疊 2]①  要撒水、濺水。②  指要濺撒、噴灑的(水)。
 yayatayaten(yatayat)    [疊 2]①  要活動筋骨、身體。②  指要活動的(筋骨、身體)。同 yatayaten。
-yayofen(yof)    [疊 2]①  要吹拂。②  指要吹拂的(物件)。Yis 耶穌。[英語借詞]。同 Yiso。Yincomin 原住民。[漢語借詞]。O kahecacecay a tamdaw no Yincominco. 指台灣原住民族之個人。Yincominco 原住民族。[漢語借詞]。 O maro'ay i Taiwan a polong ﬁnacadan a Yincominco. 依中華民國政府頒布之『原住民族基本法』之定義，係指既存於台灣而為國家管轄內之傳統民族。Yincominco a Iingkaay no Sincengyin 行政院原住民族委員會。[漢語借詞]。(2014 年 2 月改為原住民族委員會) Yinminhoy 原民會(行政院原住民族委員會之簡稱)。[漢語借詞]。Yiso 耶穌。[漢語借詞]。同 Yis。
+yayofen(yof)    [疊 2]①  要吹拂。②  指要吹拂的(物件)。Yis 耶穌。[英語借詞]。同 Yiso。Yincomin 原住民。[漢語借詞]。O kahecacecay a tamdaw no Yincominco. 指台灣原住民族之個人。Yincominco 原住民族。[漢語借詞]。 O maro'ay i Taiwan a polong finacadan a Yincominco. 依中華民國政府頒布之『原住民族基本法』之定義，係指既存於台灣而為國家管轄內之傳統民族。Yincominco a Iingkaay no Sincengyin 行政院原住民族委員會。[漢語借詞]。(2014 年 2 月改為原住民族委員會) Yinminhoy 原民會(行政院原住民族委員會之簡稱)。[漢語借詞]。Yiso 耶穌。[漢語借詞]。同 Yis。
 yo    感歎詞。表示驚歎。喲，呀！
 yo    關聯詞。當…之際。Yo mafana' kako 'i, sarahekersa kako. 當我知道的時候，我是那麽地高興。
 yociing    幼稚園，幼稚園，託兒所。[日語借詞]。
 yof    吹。同 iyof。參見 miyof。
-yofen(yof)    把…吹拂。Yofen ko lamal nga' caka padeng. 柴火要吹才不會熄滅。yoﬁng 郵局，郵差。[日語借詞]。
+yofen(yof)    把…吹拂。Yofen ko lamal nga' caka padeng. 柴火要吹才不會熄滅。yofing 郵局，郵差。[日語借詞]。
 yong    傭人，雇工，幫工。[日語借詞]。
 yopiyaw    郵票。[漢語借詞]。Yotaya 猶太人。[日語借詞]。
-yoyang    煩惱，惱怒，頑固，很拗。同 ﬁrang。參見 mayoyang。Ca ka yoyang kora wawa. 那個小孩的脾氣很拗。
+yoyang    煩惱，惱怒，頑固，很拗。同 firang。參見 mayoyang。Ca ka yoyang kora wawa. 那個小孩的脾氣很拗。

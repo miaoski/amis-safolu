@@ -1,7 +1,5 @@
-
 t    阿美語的輔音之一，音值為 [ t ]。屬舌中清塞音，不送氣。t 在詞尾有送氣現象，讀 [ th ]；如有後加成分，則恢復原音值。
-ta    前綴。主要表示：①  趨向，去，前往。Tayra 去，前往。Tadi'ec 緊挨著；依靠。②  放置所在(通常與尾碼 -an 搭配)。Tarakatan 鐵軌；路徑。③  攜帶，呈現。Takokong 整個地提起來，把大碗整個端起來。Takodicay 蟾蜍。沝 抵達，碰撞。Tahini 到達這裏。Tahaﬁkod 絆倒。
-ta    
+ta    前綴。主要表示：①  趨向，去，前往。Tayra 去，前往。Tadi'ec 緊挨著；依靠。②  放置所在(通常與尾碼 -an 搭配)。Tarakatan 鐵軌；路徑。③  攜帶，呈現。Takokong 整個地提起來，把大碗整個端起來。Takodicay 蟾蜍。沝 抵達，碰撞。Tahini 到達這裏。Tahafikod 絆倒。
 ta    去，去吧。Ta tayra i pisalamaan.走，一起去娛樂場。指示代詞 toya 的簡形。Tayra kako ta tokos. 我去那座山。
 ta    接著…，然後去…，於是就…。Mihorac to wadis, ta malali'op, ta mikales kako. 我去刷牙，而後去洗臉和梳頭。Simeden ko payso iso, ta caay katakaw. 把你的錢藏好，這樣就不會被偷了。
 ta^enek    有小東西墊住，不平坦，久站、久坐而有不舒服感，卡腳，卡屁股。Ta^enek kako a maro'. 我坐得不舒服。 Ta^enek ko kakeli. 竹蓆凹凸不平睡起來不舒服。
@@ -45,7 +43,7 @@ tadalaloma'(loma')    [疊 1]內室，臥室。
 tadamaan(maan)    偉大，至尊，了不起；勇敢。Tadamaan ko kaolah no kawas. 神明的關愛是偉大的。Tadamaan ko fana' ni Sawram to codad. Sawram(沙拉姆)的知識淵博。Tadamaan ko kapah no Amis milood. 阿美族的小夥子打仗很勇敢。
 tadamaanay(maan)    ①  偉大了，了不起了，勇敢了。Tadamaanay ko ngangan ningra. 他的聲明卓著。Tadamaanay ko tedi no cidal. 太陽的光芒多麼壯麗了。Tadamaanay ko pipatahka niyam. 我們的會宴盛況空前。②  偉大的，了不起的，勇敢的(人)。O tadamaanay a tamdaw kiso. 你是了不起的人。Tadamaanay a demak. 偉大的事業。Tadamaanay a romi'ad. 莊嚴的日子。
 tadamafana'ay(fana')    ①  太聰明了，有智慧了。Tadamafana'ay cingra to no 'Amis a sowal. 他非常精通阿美語。②  指智者，聰明人。Tadamafana'ay a malitengay. 非常聰明的老人。
-tadanca    軟弱，虛弱；沒有魄力，能力差。Tadanca ko faloco' niyam. 我們內心軟弱。Tadanca to ko tireng ni ina. 媽媽的身體很弱了。Tadanca ko tayal ako,ca pakaﬁlo kako toni a demak. 我的能力差，難以勝任這項工作。
+tadanca    軟弱，虛弱；沒有魄力，能力差。Tadanca ko faloco' niyam. 我們內心軟弱。Tadanca to ko tireng ni ina. 媽媽的身體很弱了。Tadanca ko tayal ako,ca pakafilo kako toni a demak. 我的能力差，難以勝任這項工作。
 tadancaay(tadanca)    ①  軟弱了，虛弱了；沒有魄力了，能力差了。Tadancaay ko tireng ira. 他的身體虛弱了。②  軟弱的，虛弱的，沒有魄力的，能力差的。Tadancaay a wawa.能力差的孩子。Tadancaay ko faloco' a tamdaw. 心理脆弱的人。
 tadas    重新開始，更新，換新的。參見mitadas。
 tadasakena(kena)    了不起，很重要。
@@ -140,7 +138,7 @@ tafangaray(tafangar)    ①  發霉了。Tafangaray koni titi. 這塊肉有霉�
 tafedo'    嫩葉，嫩梗，菜心。
 tafelik    騰空翻，翻騰。參見 matafelik。
 tafeliksa(tafelik)    呈騰空翻的姿勢，翻騰著。Tafeliksa koya wawa a maskong no tao. 那孩子被人一擊就倒下來。
-tafihaw    孤寂，孤單。參見 mataﬁhaw。
+tafihaw    孤寂，孤單。參見 matafihaw。
 tafiyotan(fiyot)    風箱。
 tafo    飯盒，便當，飯包。
 tafoen(tafo)    把…包裝、包起來。Tafoen ko tilid a mipanokay. 把書包起來送回家。Tafoen 
@@ -156,7 +154,7 @@ tafesiw    飛過，經過，越過。參見 mitafesiw。
 tafesiwen(tafesiw)    把…直接經過、越過。Tafesiwen nora 'ayam ko riyal a ma^efer. 那隻鳥把海飛越過去。
 tafesiwsa(tafesiw)    就直接經過、越過。Tafesiwsa ko hikoki a taladipon. 飛機直達日本。
 tafesiwtafesiwhan(tafesiw)    [疊 1]特地把…飛快地越過去。Tafesiwtafesiwhan ningra a miki'ayaw koya i 'ayaway a tamdaw. 他颼颼一下子把前面的人超越過去，走在最前面。同 tafesiwfesiw。
-taha    前綴。主要表示：①  到達，抵達。tahanini 至今，迄今。tahayra 到達；②  觸及，碰撞。tahaceka 紮刺。tahakefeng 掉進陷阱；③  導致。tahaﬁkod 絆倒。tahacefa 遭到報應。
+taha    前綴。主要表示：①  到達，抵達。tahanini 至今，迄今。tahayra 到達；②  觸及，碰撞。tahaceka 紮刺。tahakefeng 掉進陷阱；③  導致。tahafikod 絆倒。tahacefa 遭到報應。
 tahacaer(caer)    紮穿，刺破。Tahacaer i pohong noya ngafol koya wawa ningra. 她的孩子紮穿在鹿的犄角上。
 tahacefa(cefa)    遭到不幸，導致報應。Tahacefa cingra.他要遭到報應。
 tahacefaay(cefa)    ①  導致報應了。Tahacefaay cingra. 他遭到報應了。②  指遭到報應的(人)。Tahacefaay a kaying. 遭到報應的小姐。
@@ -190,9 +188,9 @@ tahaf    蓋，覆蓋。參見 mitahaf。
 tahafalohang(falohang)    達到胸部、胸膛。Tahafalohang ako ka'akawang no wawa ako. 我孩子身高要到達我胸膛。
 tahafalohangay(falohang)    ①  達到胸部了。Tahafalohangay ko nawnaw no nanom. 水淹到胸部。②  達到胸部的。
 tahafen(tahaf)    把…蓋上、掩蓋。Tahafen ningra to palo' koya riko', matalaw kacpa'an no 'orad. 他用檳榔葉把衣服蓋上，怕讓雨水淋濕。
-tahafidacan(fidac)    小母牛。Tahaﬁdacan a kolong. 小母牛。
-tahafikod(fikod)    被障礙物碰撞而倒，絆倒。Tahaﬁkod kora wawa. 那個孩子絆倒了。
-tahafikoday(fikod)    ①  絆倒了。Tahaﬁkoday kako. 我絆倒了。②  指絆倒的。Tahaﬁkoday a wawa.被絆倒的孩子。
+tahafidacan(fidac)    小母牛。Tahafidacan a kolong. 小母牛。
+tahafikod(fikod)    被障礙物碰撞而倒，絆倒。Tahafikod kora wawa. 那個孩子絆倒了。
+tahafikoday(fikod)    ①  絆倒了。Tahafikoday kako. 我絆倒了。②  指絆倒的。Tahafikoday a wawa.被絆倒的孩子。
 tahakefeng(kefeng)    踩空，跌進陷阱裏。Tahakefeng cingra i rarefongan. 他要掉進洞裡。
 tahakefengay(kefeng)    ①  踩空了，跌進陷阱裏了。Tahakefengay koya tomay to talakal.狗熊掉落到陷阱裡。②  指踩空者，跌進陷阱裏的(人)。Tahakefengay a tomay. 掉進去的狗熊。
 tahakeleng(keleng)    掉進洞穴裏。Tahakeleng ko 'edo i ofang. 老鼠要掉進洞裡。
@@ -218,7 +216,7 @@ tahapinga'ay(pinga')    ①  踩到糞便了。Tahapinga'ay cingra to tai' no fa
 taharaka(raka)    碰礁，觸礁。Ta'angayay ko tapelik,taharaka ko tamina niyam. 海浪這樣大，我們的船要觸礁了。
 taharakaay(raka)    ①  碰礁了，觸礁了。Taharakaay ko tamina, samaanen niyam? 船觸礁了，我們怎麼辦？②  指觸礁者。Taharakaay a tamina. 觸礁的船。
 tahariked    卡住，卡殼，卡滯。Tahariked to ko kowang ako. 我的槍卡住了。
-taharikeday(tahariked)    ①  卡住了，卡殼了。Taharikeday ko kalileng, ca kaﬁlo a mipaliyon. 輪子卡住了，沒法旋轉。②  指卡殼者，卡滯者。Taharikeday a kowang. 卡住的槍。
+taharikeday(tahariked)    ①  卡住了，卡殼了。Taharikeday ko kalileng, ca kafilo a mipaliyon. 輪子卡住了，沒法旋轉。②  指卡殼者，卡滯者。Taharikeday a kowang. 卡住的槍。
 tahasekong(sekong)    撞上，碰撞。Tahasekong toya ta'angayay a kilang, ska'sa koya takolil.那只兔子迎頭撞上大樹，一下子昏過去。
 tahasekongay(sekong)    ①  撞上了，碰撞了。Tahasekongay ko otofay i 'ongcoy. 摩托車撞到大石頭了。②  指碰撞者。Tahasekongay a tosiya. 撞到某物的汽車。
 tahasetol(setol)    碰撞，絆倒。Tahasetol kami to tosiya no tao. 我們撞到別人的車子。
@@ -257,7 +255,7 @@ tahiniay(ini)    ①  到達此地了。Tahiniay cikacaw.Kacaw(卡兆)到這裡�
 tahira(ira)    到達那裏。Madapdap ko namal a tahira i lotok. 火勢蔓延到山林那裏。
 tahiraay(ira)    ①  到達了。Pina ko toki a romakat,tahiraay saw? 走幾個鐘頭才到呢？。O kako ko ②  到達那裡的(人) tahiraay i Posong. 到達台東那裡的是我。
 taheka    食器，食具。
-tahekaen(taheka)    把(食器)擺上，把…宴請；請入宴席。Patahekaen ako kamo. 我一定宴請你們。Tahekaen kona Sakalaﬁ. 請入晚宴。
+tahekaen(taheka)    把(食器)擺上，把…宴請；請入宴席。Patahekaen ako kamo. 我一定宴請你們。Tahekaen kona Sakalafi. 請入晚宴。
 tahekol    丟棄，遺棄，扔掉。同 fahekol。參見mitahekol。
 tahekolen(tahekol)    把…丟棄、扔棄某處。Tahekolen ningra ko cakelis. 他把斧頭扔掉。同fahekolen。
 tahekolhan(tahekol)    特地把…丟棄、扔棄某處。Tahekolhan ako ko titi i 'a'ayaw no waco. 我特地把肉扔在狗的面前。同 fahekolhan。
@@ -291,7 +289,7 @@ takaraw    高，高大。同 'akaraw。
 takaraway(takaraw)    ①  高了，高大了。②  高的，高大的。同 'akaraway。Takaw 地名，高雄。[日語借詞]
 takaw    偷竊，偷東西。參見 mitakaw。
 takawen(takaw)    把…偷竊、偷來。Ca kanga'ay a takawen ko payso no tao. 偷別人的錢不好。
-takawhan(takaw)    特地把…偷走。Takawhan ningra ko kolong no ﬁyaw. 他就把鄰居的牛偷走。
+takawhan(takaw)    特地把…偷走。Takawhan ningra ko kolong no fiyaw. 他就把鄰居的牛偷走。
 takawsa(takaw)    在以偷偷的方式做。Takawsa cangra a misa'epah. 他們在偷偷地造酒。Takay 部落名稱。今臺灣花蓮縣玉裏鎮三民地區。
 takayaman(kayam)    手套，袖套，袖筒。同 takamayan。
 takec    擁抱，抱住。參見 mitakec。
@@ -363,7 +361,7 @@ tala^etip(^etip)    到西方，去西方。Tala^etip kami a tayra. 我們要往
 tala^etipay(^etip)    ①  到西方了，去西方了。Tala^etipay cangra a mikasoy. 他們到西邊砍柴去了。②  指到西方的(人)。Kami ko tala^etipay. 往西去的是我們。
 tala^etipen(^etip)    把…送到西邊。Tala^etipen ako ko paliding ! 我讓車到西邊去！
 talaaikor(ikor)    退到後面，落後。Talaaikor to kako.我要落後了。
-talaaikoray(ikor)    ①  退到後面了，落後了。Talaaikoray kora saﬁtay. 士兵退到後面了。②  指落後者。Talaaikoray a kapah. 退到後面的年輕人，落後的年輕人。
+talaaikoray(ikor)    ①  退到後面了，落後了。Talaaikoray kora safitay. 士兵退到後面了。②  指落後者。Talaaikoray a kapah. 退到後面的年輕人，落後的年輕人。
 tala'al    陶壺，葫蘆壺。
 tala'amis('amis)    到北方，去北方。Tala'amis kora kasolin, o Piking ko katahiraan ira. 那趟火車要往北，目的地是北京市。
 tala'amisay('amis)    ①  到北方了，去北方了。Tala'amisay ko tosiya a miparakat. 汽車往北走了。②  指到北方的(人)。Tala'amisay a tamdaw. 到北方的人。
@@ -405,7 +403,7 @@ talaktaksa(talaktak)    (水)呈滴落、流淌的狀態，滴落者著，流淌
 talalafacay    喜鵲。同 'arakakay。
 talalikor(ikor)    後退，退步，倒退。同 talaaikor。
 talalikoray(ikor)    ①  後退了，退步了，倒退了。②  指後退者，退步者，倒退者。同 talaaikoray。
-talalikoren(ikor)    把…後退、倒退。Talalikoren kora soﬁtay. 叫士兵後退。
+talalikoren(ikor)    把…後退、倒退。Talalikoren kora sofitay. 叫士兵後退。
 talalikorsa(ikor)    呈後退、倒退的樣子。Talalikorsa cangra to miming. 他們後退有點後退的樣子。
 talariyal(riyal)    去海裏，到海裏。Talariyal kita mifuting. 我們去海裏捕魚。
 talariyalay(rilay)    ①  去海裏了，到海裏了。Talariyalay cangra a mifuting. 他們去海裡打魚了。②  指去海裏的(人)。Tatolo ko talariyalau. 去海裡的有三個人。
@@ -440,9 +438,9 @@ talararemen(rarem)    到下游去吧！ Talararemen ita a midangoy, macedengay 
 talarefong(refong)    掉到洞裏。如掉井裏。Talarefong i tefon. 要掉到井裡。
 talarefongay(refong)    ①  掉到洞裏了。Talarefongay ko toki ako. 我的錶掉到裡了。②  指掉到洞裏的(人)。Talarefongay a papaysoan.掉到洞裡的錢包。
 talarefongen(refong)    下到洞裏去吧！ Talarefongen a mikilim ! 到洞裡找吧！
-talasefi(sefi)    到集會所去。Talaseﬁ ko malitengay a romadiw. 老人去會所唱歌。
-talasefiay(sefi)    ①  到集會所了。Talaseﬁay kami a masa'opo. 我們到會所聚會了。②  指到集會所的人。Talaseﬁay a tamdaw. 到會所的人。
-talasefien(sefi)    到集會所去吧！ Talaseﬁen a makero romadiw haw ! 到會所唱歌跳舞吧！
+talasefi(sefi)    到集會所去。Talasefi ko malitengay a romadiw. 老人去會所唱歌。
+talasefiay(sefi)    ①  到集會所了。Talasefiay kami a masa'opo. 我們到會所聚會了。②  指到集會所的人。Talasefiay a tamdaw. 到會所的人。
+talasefien(sefi)    到集會所去吧！ Talasefien a makero romadiw haw ! 到會所唱歌跳舞吧！
 talatalaen(tala)    [疊 1]把…等了又等。Talatalaen ningra ko wawa i, awaawasa a minokay. 他等了又等，孩子還是沒有回家。
 talatiih    做夢，說夢話。Talatiih to ko mato'asay i dadaya. 長老晚上要做夢了。
 talatiih    受災難。Talatiih kora kapah. 那位年青人蒙受苦難。
@@ -503,7 +501,7 @@ talinolinoy(talinoy)    [疊 2]落葉繽紛。Mangata to ko tiposan, talinolinoy
 talinolinoyay(talinoy)    [疊 2]①  落葉紛紛了。Talinolinoyay kora kilang. 那棵樹落葉了。②  指落葉紛紛的(樹木)。Talinolinoyay a kilang. 落葉的樹木。
 talinolinoysa(talinoy)    [疊 2]落葉繽紛的樣子。Talinolinoysa ko papah, makapahay a enengen. 落葉繽紛的景象，看起來很美。
 talip    裙子。
-talipa'elal    睡醒，醒悟。Talipa'elal to kako tona demak ningra. 我因為他這件事情而醒悟了。Halaﬁnay ko kafuti' ira,mangata to a talipa'elal ! 他睡覺的時間好久了，快醒了吧！
+talipa'elal    睡醒，醒悟。Talipa'elal to kako tona demak ningra. 我因為他這件事情而醒悟了。Halafinay ko kafuti' ira,mangata to a talipa'elal ! 他睡覺的時間好久了，快醒了吧！
 talipa'elalay(talipa'elal)    ①  睡醒了，醒悟了。Talipa'elalay ko wawa. 孩子醒了。Talipa'elalay to cingra namafoti'. 他睡醒過來了。②  睡醒者，醒悟者。Talipa'elalay a tamdaw. 醒悟的人，清醒的人。
 talisinan(lisin)    祭祀場，齋場，祭壇。
 taliwakang(wakang)    仰面摔倒。Taliwakang sa kora malitengay a mapolin. 那位老人要仰面跌倒了。
@@ -629,7 +627,7 @@ tango'oray(tango'or)    ①  依戀著，留戀著。Tango'oray ho cingra to nak
 tangso    衣櫃。[日語借詞]。
 tangsol    馬上，立刻(做)。參見 mitangsol。
 tangsolen(tangsol)    馬上、立刻把…做，請馬上(做)。Tangsolen namo a mifaca' ko riko' ako ! 你們馬上把我的衣服洗吧！
-tangsolhan(tangsol)    馬上就把…做。Tangsolhan ningra a milasil ko ﬁnawlan. 他馬上召集村民。
+tangsolhan(tangsol)    馬上就把…做。Tangsolhan ningra a milasil ko finawlan. 他馬上召集村民。
 tangsolsa(tangsol)    處於馬上做的狀態。Tangsolsa cingra a tomireng i 'a'ayaw ako. 他就立刻站在面前。
 tangsoy    蓑衣。[閩南話借詞]。
 tangtang    小檳榔石灰盒。
@@ -685,7 +683,7 @@ tanosikasikalsa(sikal)    [疊 2]只有蓆子的樣子。Tanosikasikalsa ko mi'o
 tanosota'(sota')    只有泥巴，別無他物；滿身是泥巴。Tanosota' ko tireng ningra. 他滿身泥巴。
 tanosota'sa(sota')    都是泥巴，渾身是泥巴的樣子。Tanosota'sa kora kamay ira. 他的手都是泥把似的。
 tanotangic(tangic)    一直哭，只是哭泣。Tanotangic sa kora kaying a masafana'. 那位小姐因受騙而一直哭著。
-tanotangicsa(tangic)    一直哭泣的樣子。Tanotangicsa ci Taﬁti a macokacok. 大衛一直哭著上山坡。
+tanotangicsa(tangic)    一直哭泣的樣子。Tanotangicsa ci Tafiti a macokacok. 大衛一直哭著上山坡。
 tanotireng(tireng)    只剩下身體，光身一條，赤裸裸；兩手空空。Awaay ko fafahi ira, awaay ko wawa ira, tanotireng sanay. 他沒妻子了，沒孩子了，只是光棍一個人。
 tanotirengsa(tireng)    呈赤裸裸的樣子，兩手空空的樣子。Tanotirengsa kora kapah a minokay. 那個青年空手而歸。
 tanotiretireng(tireng)    [疊 2]只有那麼一條光身子了。Tanotiretireng sa cingra a minokay. 他回家時孤零零的一個人。
@@ -741,7 +739,7 @@ tapenih    傾倒，翻倒。同 takenih。參見matapenih。
 taperoc    給貪婪者起外號。Taperocen cingra. 給他起外號吧。參見 mitaperoc。
 taperocen(taperoc)    給…貪婪者起外號。
 tapes    簸去糠皮。參見 mitapes。
-tapesen(tapes)    把…簸去糠皮。Tapesen ko safak. 把穀粒簸一簸。Tapesen ko aﬁh no felac.把米糠簸去。
+tapesen(tapes)    把…簸去糠皮。Tapesen ko safak. 把穀粒簸一簸。Tapesen ko afih no felac.把米糠簸去。
 tapesi'    潑水弄濕。參見 mitapesi'。
 tapesi'en(tapesi')    把…澆濕。Tapesi'en to no wawa ko tilid ako. 孩子把我的書弄濕了。
 tapi'    征服，打勝。參見 mitapi'。
@@ -837,7 +835,7 @@ taro'aw    翹首仰望。參見 mataro'aw。
 taro'away    鵝。
 tarocoy    (指形狀)向前方突出、凸現。參見matarocoy。
 tarodo'    手指，腳趾。Ko'edaway ko tarodo' no kamay ira. 他的手指長。
-tarofira    勞動、工作處於十分緊張的狀態。Taroﬁra kami a matayal. 我們工作處於緊張的狀態。
+tarofira    勞動、工作處於十分緊張的狀態。Tarofira kami a matayal. 我們工作處於緊張的狀態。
 taroh    拖拉，拽走。參見 mitaroh。
 tarohen(taroh)    把…拖走、拉走。Tarohen a pasadak kona waco. 把這條狗拖出去。
 tarok    間苗後留下的好苗。
@@ -852,7 +850,7 @@ tastasen(tastas)    把…拆卸、破壞。Tastasen to ningra ma^emin ko kikay 
 tasetokan(setok)    終點，終點站。O Taypak ko tasetokan no nikalican a cinamalay ako. 我所坐的火車的終點站是台北。
 tata    招呼對方一起走。走吧！ Tata kataira takowanan ! 走吧，請去我那裡！同ata。tata' /ta' ta' 用刀砍傷。參見 mitata'。tata' /ta' ta' 興師問罪。
 tata'ak    粗大，粗壯。Tata'ak ko 'orad. 雨大。Tata'ak ko futing. 魚大。Tata'ak ko cidal. 陽光強烈。Tata'ak ko fadanglan ningra. 他的手臂大。
-tata'akay(tata'ak)    ①  粗大了，粗壯了。Tata'akay koni ﬁdengal. 這棵杉木很粗大。②  粗大的，粗壯的。Tata'akay a kilang. 粗大的樹。Tata'akay a 'oner. 大蛇。
+tata'akay(tata'ak)    ①  粗大了，粗壯了。Tata'akay koni fidengal. 這棵杉木很粗大。②  粗大的，粗壯的。Tata'akay a kilang. 粗大的樹。Tata'akay a 'oner. 大蛇。
 tata'akay(tata'ak)    大了。大的。同 ta'angyay。
 tata'aken(tata'ak)    把…放大、弄粗。Tata'aken ko soni to miming ! 把聲響弄大點！
 tata'ang(ta'ang)    [疊 2]大，大的。同 ta'angay。
@@ -890,7 +888,7 @@ tatangsolen(tongsol)    [疊 2]①  要馬上做。O tatangsolen kona demak. 此
 tatangtangen(tangtang)    [疊 2]①  要煮。Tatangtangen ni ina ko fuitng. 媽媽要煮魚。②  指要煮的(食品)。O maan ko tatangtangen a dateng? 要煮什麼菜？
 tatanifaynifay(nifay)    [疊 2]如同隨風飄飛的 nifay 花一樣。比喻不團結，形同散沙。
 tatapal(tapal)    [疊 2]隔岸相對，面對面。參見matatapal。
-tatapalsa(tapal)    [疊 2]處於彼此相對的狀態。Tatapalsa ko suﬁtay a romakat. 部隊在行軍中對立著。
+tatapalsa(tapal)    [疊 2]處於彼此相對的狀態。Tatapalsa ko sufitay a romakat. 部隊在行軍中對立著。
 tatapangan(tapang)    出身，出處，來歷，淵源。Tatapangan no sapaloma. 種子的來歷。Icowa ko tatapangan namo a loma'? 你們的籍貫何處？
 tatapayan(tapay)    烤架，烤爐。同 tadohdohan。
 tatapiden(tapid)    [疊 2]①  要縫補、修補。Tatapiden ira koni cokap. 他就要修補這雙鞋。② 指要縫補、修補的(衣物)。Tatapiden a riko'. 要縫補的衣服。
@@ -907,9 +905,9 @@ tatayra    要去，會去。Kako ko tatayra i Amilika. 我要去美國。Tatayr
 tatayraen(tatayra)    ①  決心要去。Tatayraen ako i kakomaenan. 我要去食堂。②  指要去、會去的(地方)。O Singko ko tatayraen ako. 我要去成功鎮。
 tatedalen(tedal)    ①  要解開、解脫。O tatedalen ako ko kaos. 我要把系帶解開。②  指要解開、解脫的(扣子)。Tatdalen a kaos. 要解開的系帶。
 tatedecen(tedec)    ①  要鞭打、鞭策。O tatedecen no wama kora tadakolongay. 父親要打那頭黃牛。②  指要鞭打、鞭策的(對像)。Tatedecen a tamdaw. 要鞭策的人。
-tatefaden(tefad)    [疊 2]①  要跌落、墜落。O tatefaden ako ko mali i kafekang. 我要把上面的球弄下來。②  指要跌落、墜落的(對像)。Cowa ko tatefaden ko ﬁta'ol. 雞蛋是不能掉下來。
+tatefaden(tefad)    [疊 2]①  要跌落、墜落。O tatefaden ako ko mali i kafekang. 我要把上面的球弄下來。②  指要跌落、墜落的(對像)。Cowa ko tatefaden ko fita'ol. 雞蛋是不能掉下來。
 tatefingen(tefing)    [疊 2]①  要觸動、觸摸。②  指要觸動、觸摸的(物件)。
-tatefiren(tefir)    [疊 2]①  要用橡皮彈。O tateﬁren ira kako. 她就要橡皮彈射打我。②  指要用橡皮彈的(物件)。O maan ko tateﬁren iso takowanan? 你要彈射什麼呢？
+tatefiren(tefir)    [疊 2]①  要用橡皮彈。O tatefiren ira kako. 她就要橡皮彈射打我。②  指要用橡皮彈的(物件)。O maan ko tatefiren iso takowanan? 你要彈射什麼呢？
 tatefocen(tefoc)    [疊 2]①  要懲辦、懲罰。O tatefocen ko raraw ira. 他的過錯要得到懲罰。。O cima ②  指要懲辦、懲罰的(對像) ko tatefocen iso saw? 你要懲罰誰呢？
 tatefoken(tefok)    [疊 2]①  要宰殺。O tatefoken to ko kolong ! 要宰牛了！②  指要宰殺的(牲口)。Tatefoken a diyong. 就要宰殺的豬。
 tateka'ay    一種會爬樹的青蛙，紫蛙。
@@ -932,7 +930,7 @@ tatekolen(tekol)    [疊 2]①  要投擲。O tatekolen ira kora kotang. 他要�
 tatekosen(tekos)    [疊 2]①  要砍伐桂竹。O tatekosen ako a tala'a'aolan. 我要到竹林裡砍桂竹。②  指要砍伐的(桂竹)。Pinaay ko tatekosen iso? 你要砍幾根桂竹？同tatekesen。
 tatekteken(tektek)    [疊 2]①  要打實弄緊。Tatekteken ako koni a satektek. 我要把這些木樁打緊。②  指要打實弄緊的(東西)。Tatekteken a hecek. 要打緊的柱子。
 tatelelen(telel)    [疊 2]①  要搖晃、顛簸。O tatelelen no fali ko loma' i kafaliyosan. 颱風時風把房子搖晃。②  指要搖晃、顛簸的(物件)。Tatelelen a tosiya. 即將顛簸的車子。同 taterteren。
-tatelepen(telep)    [疊 2]①  要倒塌、拆除。Tatelepen niyam ko ﬁdengal. 我們要把杉木推倒。②  指要倒塌、拆除的(物件)。Tatelepen a kilang. 即將推倒的樹木。
+tatelepen(telep)    [疊 2]①  要倒塌、拆除。Tatelepen niyam ko fidengal. 我們要把杉木推倒。②  指要倒塌、拆除的(物件)。Tatelepen a kilang. 即將推倒的樹木。
 tatengeren(tenger)    [疊 2]①  用慢火燉煮。Tatengeren ako ko titi. 我就要燉肉。②  指要燉煮的(東西)。Tatengeren a titi. 要燉煮的肉。
 tatengilen(tengil)    [疊 2]①  要聽。O tatengilen ako ko radiw ira. 我要去聽她的歌。②  指要聽的。Tatengilen a sowal. 要聽的話。
 tatengtengen(tengteng)    [疊 2]①  要拉拽。O tatengtengen niyam kora paliding. 我們要把那輛車拉拽上來。②  指要拉拽的(對像)。Tatengtengen a tosiya. 即將拉拽的車。Tatengtengen a kolong. 即將拉拽的牛。
@@ -1004,7 +1002,7 @@ tatisalen(tisal)    [疊 2]①  要分配、分給東西。Tatisalen no kakerida
 tatiseken(tisek)    [疊 2]①  要刺穿、戳穿。Tatiseken ako ko sapad. 我要把板子刺穿。②  指要刺穿、戳穿的(物件)。Tatiseken a maamaan.(他)要刺破的東西。
 tatisengen(tiseng)    [疊 2]①  要炫耀、誇耀。Tatisengen ira ko demak. 他要炫耀業績。②  指要炫耀、誇耀的(物件)。Tatisengen a riko'. 要炫耀的衣服。
 tatisoden(tisod)    [疊 2]①  要更換、更新。O tatisoden ko otofay ako. 我的摩托車要換下來。②  指要更換、更新的(東西)。O tatisoden a riko'. 要更換的衣服。
-tatistisen(tistis)    [疊 2]①  要砍削。Tatistisen koni ﬁdengal. 這根杉木要砍削一下。②  指要砍削的(東西)。Tatistisen a 'aol. 要砍削的竹子。
+tatistisen(tistis)    [疊 2]①  要砍削。Tatistisen koni fidengal. 這根杉木要砍削一下。②  指要砍削的(東西)。Tatistisen a 'aol. 要砍削的竹子。
 tatiw    手拿，提著，提攜。同 tatoy。參見mitatiw。
 tatiwatiwen(tiwatiw)    [疊 2]①  要撥弄、撥拉。O tatiwatiwen no wawa ko fataerir. 孩子要撥弄蟋蟀。②  指要撥弄、撥拉的(東西)。Tatiwatiwen a 'asisiw. 要撥拉的稻草。
 tatiwen(tatiw)    [疊 2]把…提著，提攜。Tatiwen to ko kowang. 把槍提起來了。
@@ -1042,7 +1040,7 @@ tato'elep    蜆，海螺，蛤蜊。
 tato'elepen(tato'elep)    把蜆撿拾。Tato'elepen kona. 把蛤蜊撿拾。
 tato'ongen(to'ong)    [疊 2]①  要摸，撫摸。Tato'ongen ira ko fongoh ako. 他要摸我的頭部。。Tato'ongen a ②  指要撫摸的(頭部) fongoh. 要被碰撞的頭部。
 tato^etoen(to^eto)    [疊 2]①  要直接做、繼續做。② 指要直接做、繼續做的(事情)。同tatoetoen。
-tatodadacen(todadac)    [疊 2]①  要剝皮、剝殼。Tatodadacen ko podac no ﬁta'ol. 要剝蛋殼。②  指要剝皮、剝殼的(東西)。Tatodadacen a raﬁr. 要剝下來的皮。同 tatodidisen。
+tatodadacen(todadac)    [疊 2]①  要剝皮、剝殼。Tatodadacen ko podac no fita'ol. 要剝蛋殼。②  指要剝皮、剝殼的(東西)。Tatodadacen a rafir. 要剝下來的皮。同 tatodidisen。
 tatodaden(todad)    [疊 2]①  要烙燙、灼傷。②  指要烙燙、灼傷的(物件)。
 tatodemen(todem)    [疊 2]①  要封火、埋火。O tatodemen ko namal no parod. 要把灶火封起來。②  指要封火、埋火的(物件)。Tatodemen a namal. 要封起來的火。
 tatodidisen(todidis)    [疊 2]①  要剝皮。②  指要剝皮的(物件)。同 tatodadacen。
@@ -1055,8 +1053,8 @@ tatodongsa(todong)    [疊 1]呈合適的狀態，正好，剛好，恰好，恰
 malahci to ningra ko ccay a lolod a    kiradom. 當時，有一券布恰好被她完成了。
 tatoemen(toem)    [疊 2]①  要閉口、合嘴。②  指要閉口、合嘴的(對像)。
 tatoetoen(toeto)    [疊 2]①  要繼續做，接著做。O tatoetoen ko demak ira. 要把他的事情繼續做。②  指要繼續做的，接著做的(事情)。Tatoetoen a tayal. 要繼續做的工作。同 tato'etoen。
-tatofafacen(tofafac)    [疊 2]①  要拉扯。O tatofafacen ako ko laway ira. 我要抓破他的臉。②  指要拉扯的(物件)。Tatofafacen a riko'.要拉扯的衣服。同 tatoﬁﬁcen。
-tatofayacen(tofayac)    [疊 2]①  要撕破。O tatofayacen no safa ko padakopak. 弟弟要撕紙。② 指要撕破的(東西)。Tatofayacen a padakopak. 要撕破的紙。Tatofayacen a hangkaci. 要撕破的手帕。同tatoﬁcﬁcen。
+tatofafacen(tofafac)    [疊 2]①  要拉扯。O tatofafacen ako ko laway ira. 我要抓破他的臉。②  指要拉扯的(物件)。Tatofafacen a riko'.要拉扯的衣服。同 tatofificen。
+tatofayacen(tofayac)    [疊 2]①  要撕破。O tatofayacen no safa ko padakopak. 弟弟要撕紙。② 指要撕破的(東西)。Tatofayacen a padakopak. 要撕破的紙。Tatofayacen a hangkaci. 要撕破的手帕。同tatoficficen。
 tatofificen(tofific)    [疊 2]①  要拉扯。②  指要拔出的(物件)。同 tatofafacen。
 tatohatohen(tohatoh)    [疊 2]①  要搖擺、鬆動。O tatohatohen koni tacanoyan namo. 要把你們的鞦韆擺動。②  指要搖擺、鬆動的(物件)。Tatohatohen a kikay. 要鬆動的機器。
 tatoka'en(toka')    [疊 2]①  要支撐、支援。②  指支撐、支架的(物件)。同 tatokahen。
@@ -1108,7 +1106,7 @@ tatood(tood)    [疊 2]互相跟隨，相連接。參見miatatood。
 tatooden(tood)    [疊 2]①  要採摘紅豆。Tatooden no kaka i 'a'ayawan no loma'. 姊姊要在房子後面摘紅豆。②  指要採摘的(紅豆)。Ora tatooden ako. 那是我要摘的紅豆。
 tatoor(toor)    [疊 2]互相跟隨，彼此相從。參見matatoor。
 tatooren(toor)    [疊 2]①  要隨從、順從。O tatooren niyam cingra. 我們要服從他。②  指要隨從、順從的(對像)。No tireng a harateng ko tatooren. 要順從的是自己的意願。
-tatootoorsa(toor)    [疊 1]一個跟著一個地。Tatootoorsa ko suﬁtay a masarayaray. 士兵一個跟著一個地排隊。
+tatootoorsa(toor)    [疊 1]一個跟著一個地。Tatootoorsa ko sufitay a masarayaray. 士兵一個跟著一個地排隊。
 tatopaen(topa)    [疊 2]①  要蓋章、出版。O tatopaen ira koni mitilidan ako. 他要出版我寫的書。②  指要蓋章、出版的(東西)。Tatopaen a tilid. 要出版的書。同rarina'en。
 tatopelaken(topelak)    [疊 2]①  要扯開、打開(包裹)。Tatopelaken ako ko lalosidan. 我要打開行李。②  指要扯開、打開的(包裹)。Tatopelaken a sofok. 要扯開的麻袋子。
 tatoperen(toper)    [疊 2]①  要靠近、接近。Tatoperen kora loma'. 要逐步走近那幢房子。② 指要靠近、接近的(物件)。O maan ko tatoperen ira? 他要靠近的什麼東西？
@@ -1197,17 +1195,17 @@ tedec    鞭打。參見 mitedec。
 tedecen(tedec)    把…鞭打。Tedecen ako kora waco. 我鞭打那隻狗。
 tedo    獨自一人，我行我素。參見 matedo。
 tefac    揪住撕破。參見 mitefac。
-tefacen(tefac)    把…揪住撕破。Tefacen ira ko lali'elan nora tamdaw. 他一把揪住那個人的衣領。同 toﬁﬁc。
+tefacen(tefac)    把…揪住撕破。Tefacen ira ko lali'elan nora tamdaw. 他一把揪住那個人的衣領。同 tofific。
 tefafac(tefac)    [疊 2]互相揪住對方衣領撕下來。參見 mafafac。
 tefatefac(tefac)    [疊 2]揪住對方衣領撕下來。參見matefatefac。
 tefek    大口大口地啃吃。同 tefok。參見mitefek。
-tefi    感歎詞，生氣罵人的口頭語。呸！ Teﬁpisafana' to iso to tamdaw ! 呸，你是有意騙人！同 tefai。
-tefing    觸摸，觸動，感動。參見 miteﬁng。
-tefingen(tefing)    把…觸摸、觸動、感動。Nanay teﬁngen no kawas ko faloco' ningra ta masalof cingra. 願上帝感動他的心，讓他悔改。
-tefinghan(tefing)    特地把…觸摸、觸動、感動。Teﬁnghan ningra ko kaka. 他有意碰一下哥哥。
-tefir    拉扯，抖動，彈動。參見 miteﬁr。
-tefiren(tefir)    把…拉扯、抖動、彈動。Teﬁren kora tawso. 把那條繩子抖動一下。
-tefirtefirsa(tefir)    [疊 1]呈不斷抖動的樣子。Romakat sa koya kolong, teﬁrteﬁrsa ko heci no cpi' ira. 那頭牛一走動，大腿的肉一直抖動。
+tefi    感歎詞，生氣罵人的口頭語。呸！ Tefipisafana' to iso to tamdaw ! 呸，你是有意騙人！同 tefai。
+tefing    觸摸，觸動，感動。參見 mitefing。
+tefingen(tefing)    把…觸摸、觸動、感動。Nanay tefingen no kawas ko faloco' ningra ta masalof cingra. 願上帝感動他的心，讓他悔改。
+tefinghan(tefing)    特地把…觸摸、觸動、感動。Tefinghan ningra ko kaka. 他有意碰一下哥哥。
+tefir    拉扯，抖動，彈動。參見 mitefir。
+tefiren(tefir)    把…拉扯、抖動、彈動。Tefiren kora tawso. 把那條繩子抖動一下。
+tefirtefirsa(tefir)    [疊 1]呈不斷抖動的樣子。Romakat sa koya kolong, tefirtefirsa ko heci no cpi' ira. 那頭牛一走動，大腿的肉一直抖動。
 tefoy    女人腰間的裝飾飄帶。同 foyfoy。
 teka    開始，肇始。同 satapang。
 tekaan(teka)    開始階段。同 pitekaan。
@@ -1334,17 +1332,17 @@ tengo'sa(tengo')    卡嚓一聲響地折斷。Tengo'sa kora kangkang a mapitek.
 tengteng    拉，拉拽。參見 mitengteng。
 tengtengen(tengteng)    把…拉拽。Manayat ko komo a tengtengen. 橡皮筋拉拽起來會延長。
 tengtenghan(tengteng)    特地把…拉拽。Tengtenghan no kolong kora paliding. 牛就把那輛車拉拽。
-tenok    中央，中間。Tenok no laﬁi. 午夜。Tenok no romi'ad. 中午。Tenok tarodo'. 中指。Maro' i tenok. 坐中間。同 terong。
+tenok    中央，中間。Tenok no lafii. 午夜。Tenok no romi'ad. 中午。Tenok tarodo'. 中指。Maro' i tenok. 坐中間。同 terong。
 tenok    用腳踢。參見 mitenok。
 tenokay(tenok)    ①  中間了，中央了。I tenokay no riyal ko lonan. 輪船在海中間了。②  中間的，中央的。同 terongay。
 tenoken(tenok)    把…踢踹。Tenoken ako cingra,wakangsa cingra. 我把他踢個四腳朝天。
-tenokhan(tenok)    特地把…踢踹。Tenokhan ningra,ﬁtlaksa koya ﬁta'ol. 他一踢那顆蛋，蛋裂了。
+tenokhan(tenok)    特地把…踢踹。Tenokhan ningra,fitlaksa koya fita'ol. 他一踢那顆蛋，蛋裂了。
 tenoon    織布。同 tenooy。同 mitenoon。
 tenoonen(tenoon)    把…紡織成布。Tenoonen to na wina ko kiradom. 母親她們把布織出來了。同 tenooyen。
 tenooy    織布。同 tenoon。參見 mitenooy。
 tenooyen(tenooy)    把…紡織成布。同 tenoonen。
 tenor    浸泡，浸在水裏。參見 mitenor。
-tenoren(tenor)    把…浸泡、泡在水裏。Tenoren ira ko hangkaci i ﬁntang. 把手帕泡在臉盆裡。
+tenoren(tenor)    把…浸泡、泡在水裏。Tenoren ira ko hangkaci i fintang. 把手帕泡在臉盆裡。
 tenorsa(tenor)    呈浸泡似的樣子。Tenorsa ko kareteng.泡水似的沈重。
 tenor    ①  錨。同 'enor。②  竹筒水壺。同potot、tayhaw。
 tenten    砸傷。參見 mitenten。
@@ -1393,12 +1391,12 @@ teriken(terik)    把…彈射、迸射。Teriken ko pana'.把箭射出去。
 teroc    跳越，跳過去。參見 miteroc。
 terocen(teroc)    把…跳越、跳過去。Terocen no efa kora 'alo. 馬把條小溪越過去。
 terocsa(teroc)    一跳過去，聳身一跳的樣子。Terocsa koya wawa to xa'xa'. 那個孩子一跳就過了水溝。
-terong    中間，中央。Terong no laﬁi. 深夜。Terong no lahok. 中午。同 tenok。
+terong    中間，中央。Terong no lafii. 深夜。Terong no lahok. 中午。同 tenok。
 terong    赴宴時攜帶的禮品。
 terongay(terong)    ①  中間了，中央了。②  中間的，中央的。同 tenokay。
 teroteroc(teroc)    [疊 1]蹦蹦跳跳地過去。參見miteroteroc。
 teroterocen(teroc)    [疊 2]蹦蹦跳跳地把…跳過去。Teroterocen no wawa kora 'adipel. 孩子蹦蹦跳跳地跳過籬笆牆。
-teroterochan(teroc)    [疊 2]蹦蹦跳跳地就把…跳過去。Teroterochan no soﬁtay kora hefong.士兵就一一跳過那道戰壕。
+teroterochan(teroc)    [疊 2]蹦蹦跳跳地就把…跳過去。Teroterochan no sofitay kora hefong.士兵就一一跳過那道戰壕。
 terter    顛簸，踉蹌。同 teltel。參見 materter，hateter。
 tesek    刺透，穿刺。參見 mitesek。
 teseken(tesek)    把…刺透、穿刺。Teseken ira a pahecek. 他插深柱子。
@@ -1411,9 +1409,9 @@ tesoksa(tesok)    踽踽獨行的樣子。
 testes    不留情地指責、怒駡。參見 mitestes。
 testesen(testes)    把…指責、怒駡。Testesen no malitengay kako a mapo'i. 老人怒氣沖沖地責罵我。
 tefad    從高處取東西，掉落。參見 mitefad。
-tefaden(tefad)    把…取下來，卸貨。Tefaden niyam nani kafekang ko 'aﬁnong. 我們從上面取下椰子。Tefaden kora tokar. 把梯子取下來。
+tefaden(tefad)    把…取下來，卸貨。Tefaden niyam nani kafekang ko 'afinong. 我們從上面取下椰子。Tefaden kora tokar. 把梯子取下來。
 tefi'    扁豆。
-tefi'en(tefi')    把(扁豆)採摘下來吧！ Teﬁ'en ita !我們摘扁豆吧！
+tefi'en(tefi')    把(扁豆)採摘下來吧！ Tefi'en ita !我們摘扁豆吧！
 tefo    跳落，落下。參見 mitefo。
 tefo'    竹筍，筍。
 tefo'an(tefo')    竹筍的種類。
@@ -1601,7 +1599,7 @@ tisel    ①  刺穿，鑿穿。②  深入理解，洞悉。同 ta'sel。參見
 tiselen(tisel)    ①  把…刺穿、鑿穿。②  把…深入了解、洞悉。Tiselen ko fana! 要深入了解。Tiselen ira ko odo' to fodoy. 她用毛線把珠寶貫穿起來。
 tiseng    感到炫耀、誇耀、驕傲。同 seneng。參見 matiseng。
 tisil    縱隊，縱列、排列。
-tisilsa(tisil)    呈縱隊形式。Tisilsa ko suﬁtay a romakat. 士兵縱隊行進。
+tisilsa(tisil)    呈縱隊形式。Tisilsa ko sufitay a romakat. 士兵縱隊行進。
 tisod    更換衣服。同 tidos。參見 mitisod。
 tisoden(tisod)    把…更換下來，換衣服吧！同 tidosen。
 tisowanan    第二人稱代詞，單數，賓格形態。你，你這裏。同 kisowanan。
@@ -1642,7 +1640,7 @@ tekop    獵物陷阱，毀滅，覆沒。參見mitekop。
 tekopen(tekop)    設獵物陷阱，把…毀掉。Tkopen ira koko' ako. 他把我的鷄群毀掉了。
 tena'    阻擋、防止。同 cona、'ateng、'eteng。
 tenas    沾。同 cedo'、cido'。
-to    時態助詞。表示動作行為已經完結。Halaﬁnay to, minokay i loma' haw !好久了，回家吧！ Mipalomaan to ako koya kilang. 我把樹已經種了。Caay to kafoti' cangra. 他們不睡了。
+to    時態助詞。表示動作行為已經完結。Halafinay to, minokay i loma' haw !好久了，回家吧！ Mipalomaan to ako koya kilang. 我把樹已經種了。Caay to kafoti' cangra. 他們不睡了。
 to    格位助詞。主要表示：①  受動者。Misimaw to cangra to omah. 他們在守護田地。Pakaen to kako to kolong to rengos. 我餵牛青草。②  特指動作行為的時間。Matayal kami to romi'ami'ad. 我們天天忙碌。③  對於，關於。Awa to ko pinang noya tatosaay a wawa to kawali、ka^etip、katimol、ka'amis. 那兩個小孩子對東西南北沒有辨認能力了。沝 原因。Awato 
 ko sasowalen ningra to lahekel no    faloco' ningra. 他父親高興得說不出話來。沀 行為手段、工具。Riwariwen niyam to lalal. 我們用小鋤頭攉土。泞 補充說明某種程度等。Si^enaway ko romi'ad to miming anini. 今天天氣有一點冷。泀 比較。'Akawangay ko nga'ay to poeneray. 高個兒比挨個兒好。
 to    語氣助詞。表示肯定或有肯定傾向的催促、測度等語氣。Kalomowad to ko namo, ta^engaday to ko romi'ad. 你們起床吧，天已經亮了。Maharekay to kako a mikara tona facal, 'anipen to !我已經耙好這塊田地，把秧插上吧！
@@ -1699,7 +1697,7 @@ toetosa(toeto)    就直接做著。同 to'tosa。
 tofa    柚子的內瓤。
 tofa    紅海參。
 tofafac    扯裂，抓破。參見 mitofafac。
-tofafacen(tofafac)    把…扯裂、抓破。同 toﬁﬁc。
+tofafacen(tofafac)    把…扯裂、抓破。同 tofific。
 tofax    大海參。
 tofay    機車。[日語借詞]
 tofeng    木訥，不善辭令。同 temoy。參見matofeng。
@@ -1727,7 +1725,7 @@ tokak    突然止步、停步。參見 matokak。
 tokakar    踮著腳站。同 tokikar、tokiyar。
 tokakaren(tokakar)    請踮腳站著！ Aka tokakaren a tomireng itini ! 不要踮腳站在這裡！同tokikaren、tokiyaren。
 tokaksa(tokak)    呈嘎然而止的狀態。Tado tokaksa koya malitengey a pasla'. 那個老人突然停下來休息。Tokar 部落名稱。今臺灣花蓮縣玉鎮觀音部落。
-tokar    梯子，階梯，階級，臺階。同 ﬁher、kawal。
+tokar    梯子，階梯，階級，臺階。同 fiher、kawal。
 tokatok    打瞌睡，打盹兒。參見 matokatok。
 tokay    都市，城市。[日語借詞]。Tata'angay a tokay. 大都市。I tokay a maro' kita. 我們在都市生活。
 toked    橫梁，房屋的支架橫梁。
@@ -1774,7 +1772,7 @@ tolek    耳聾。同 to'eng。參見 matolek。
 tolem    淹沒，沉沒，掩埋。參見 mitolem。
 tolemen(tolem)    把…淹沒、沉沒、掩埋。Tolemen to ira ko 'enor no tamina. 他把船錯沉下海。
 tolidac    剝皮，剝開，掰開。參見 mitolidac。
-tolidacen(tolidac)    把…剝開、掰開。Tolidacen ko tolak no teﬁ'. 把扁豆莢剝開。Tolik 部落名稱，台東縣成功鎮都歷部落。
+tolidacen(tolidac)    把…剝開、掰開。Tolidacen ko tolak no tefi'. 把扁豆莢剝開。Tolik 部落名稱，台東縣成功鎮都歷部落。
 tolik    用十字法編藤、竹，編製。參見mitolik。
 tolikaw    開拓山路。參見 mitolikaw。
 tolikawen(tolikaw)    把…開山路，開山路吧！ Tolikawen niyam ko sapi'adopan a lalan. 我們把打獵的路開拓出來。
@@ -1849,8 +1847,7 @@ tomos    人身上的蝨子，臭蟲。同 tomes。
 tomtom    敲鼓，舂穀。同 tongtong。參見mitomtom。
 tomtomen(tomtom)    把…敲擊、舂穀。Tomtomen ko safak.把穀子舂一舂。同 tongtongen。
 tona    指示代詞賓格形態。系 toni 與 a 的連讀。這，這個，這些。Mikangkang tona omah. 犁耕這塊田地。
-tonaton    陷入流沙、軟濕地；因被打傷而瘀青。參見 matonaton。(因被打傷而瘀青
-maalimay)    
+tonaton    陷入流沙、軟濕地；因被打傷而瘀青。參見 matonaton。(因被打傷而瘀青 maalimay)    
 tonek    設置，制訂，約定。參見 mitonek。
 tonekan(tonek)    協定，條約，合同。Awaay ko tonekan niyam. 我們沒有約定。同 tatonekan。
 toneken(tonek)    把…設置、制訂、約定。Toneken ko kasaso'arawan niyam. 把我們約會時間定下來。

@@ -1,4 +1,3 @@
-
 c    阿美語輔音之一。系舌葉塞擦音，不送氣，音值為[7]。在元音 i 的前面顎化，讀如[ce]。處在詞終時略有送氣，讀如[7h ]。
 ca    前綴。①  加在人名詞與親屬稱謂詞的前面，表示主格、多數。ca Panay. 巴奈等。ca ina 母親們。②  表否定的副詞cowa 的簡縮形態。同 cowa。
 ca ho    (短語)。①  還沒有呢，還沒呢。②  還沒有，還不。Ca ho katayra. 還沒去。Ca ho pinokay kako. 我還不回家。
@@ -17,9 +16,9 @@ caay aca ko matiniay    (短語)。真是不得了，真是異乎尋常。Caay a
 caay katadamaan    (短語)。並不怎麼樣，沒什麼了不起。Caay katadamaan ko lalok ningra.她並不怎麼努力。
 caay katadasakena    (短語)。並不怎麼樣，沒有什麼了不起。Caay katadasakena ko ngangan ningra. 他並不出名。
 caay saca    ①  怎麼也不…，怎麼也沒有…。 Caay saca kalomowad kako anini. 我今天怎麼也起不來。②  即使…，怎麼也不…。Komaen to maamaan a sapaiyo, caay saca kanga'ay ko adada ira. 即使吃了各種各樣的藥物，他的病也不見好。
-caayay(caay)    ①  不是，不是的。Caayay ko tapang niyam cingra. 他不是我們的長官。② 永遠不能，永遠沒有。Matiya to maﬁnor ko nanom, caayay kapiradom kami. 水這樣被攪渾，我們舀水不成了。
+caayay(caay)    ①  不是，不是的。Caayay ko tapang niyam cingra. 他不是我們的長官。② 永遠不能，永遠沒有。Matiya to mafinor ko nanom, caayay kapiradom kami. 水這樣被攪渾，我們舀水不成了。
 caayho    (短語)。還不是，尚未。Caayho kalakapah koya fa'inayan. 這些男性尚未成年。Caayho kafana' cingra to sowal no 'Amis. 他還不會說阿美族話。
-ca'ca    ①  小柵門，小柵欄。②  一種草，用以連結竹竿。同 cayca'. Maparak ko caca'.欄柵壞了。Pakaﬁt to ca'ca. 裝小柵門。
+ca'ca    ①  小柵門，小柵欄。②  一種草，用以連結竹竿。同 cayca'. Maparak ko caca'.欄柵壞了。Pakafit to ca'ca. 裝小柵門。
 ca^eca aca    不能不，非…不可。Ca^eca aca pilaliw cingra. 他非逃跑不可。Ca^eca aca kasomowal kiso han? 你非說不可嗎？
 caca'aen(ca'a)    [疊 2]要抬頭看的，要抬頭看的東西。Caca'aen a midengdeng ko fulad.月亮是要抬頭看的。
 caca'asa(ca'a)    [疊 2]抬著頭，一直昂首看。Caca'asa cangra a minengneng toya ma^feray ikakarayan a 'ayam. 他們抬著頭仰望天上的飛鳥。
@@ -41,9 +40,9 @@ caca'oren(ca'or)    [疊 2]要立刻、迅速做出反應。Caca'oren a mitakop.
 cacadacada(cada)    [疊 1]一個接一個地相互傳遞、承接。Cacadacada saan to mali cangra.他們一個接一個地傳球。
 cacadaen(cada)    [疊 2]要伸手承接，伸手要承接的東西。O maan ko cacadaen iso saw?你伸手要接什麼東西？參見 micada、macacadacada。
 cacafayen(cafay)    [疊 2]要陪同的、做伴的。Ora kaying ko cacafayen iso. 你要陪伴的是那位小姐。
-cacafi'(cafi')    [疊 2]互相超越，競賽。Macacaﬁ' kami. 我們相互競爭。Cacaﬁ'caﬁ sa a comikay. 賽路。參見 Macacaﬁ'。
-cacafi'an(cafi')    [疊 2]門檻。Ca'iten i cacaﬁ'an. 吊在門檻上。
-cacafi'en(cafi')    [疊 2]要比賽的、要競賽的人。O cacaﬁ'en ako ci Omah. 歐馬先生是我的競賽對手。同 caﬁr、caﬁren。參見caﬁ'。
+cacafi'(cafi')    [疊 2]互相超越，競賽。Macacafi' kami. 我們相互競爭。Cacafi'cafi sa a comikay. 賽路。參見 Macacafi'。
+cacafi'an(cafi')    [疊 2]門檻。Ca'iten i cacafi'an. 吊在門檻上。
+cacafi'en(cafi')    [疊 2]要比賽的、要競賽的人。O cacafi'en ako ci Omah. 歐馬先生是我的競賽對手。同 cafir、cafiren。參見cafi'。
 cacahfaken(cahfak)    [疊 2]要直接撲過去，要直接撲過去的對像。Kako ko cacahfaken no lokedaw. 豹子向我衝撲過來。參見micahfak。
 cacahoken(cahok)    [疊 2]要舀出來的，要把水舀出來。Cacahoken a nemnem. 要舀出來的泉水。參見 micahok。
 cacahraden(cahrad)    [疊 2]要碰撞的，要撞擊的東西。O cacahraden no kolong a rihi. 牛要用角碰撞的田埂。
@@ -92,7 +91,7 @@ cacemeken(cemek)    [疊 2]要猛扎的，要猛刺的東西。Cacemeken a fafoy
 cacomoden(comod)    [疊 2]要進去的。'Adihay ko cacomoden no tamdaw a loma'. 要進去的房子很多。
 cacemoten(cemot)    [疊 2]要釣的，要釣的魚。O maan ko cacemoten iso a futing?你要釣什麼魚？
 cacenal    [疊 2]小馬蜂。Adada ko cepit no cacenal. 小馬蜂釘的真痛。同facacenal。
-cacengawen(cengaw)    [疊 2]要睜開眼睛的，即將甦醒的。Caay ka ﬁlo a cacengawen ningra ko mata. 他睜不開他的眼睛。Cacengawen ko faloco'. 要覺醒。
+cacengawen(cengaw)    [疊 2]要睜開眼睛的，即將甦醒的。Caay ka filo a cacengawen ningra ko mata. 他睜不開他的眼睛。Cacengawen ko faloco'. 要覺醒。
 cacengcengen(cengceng)    [疊 2]①  要賴著要東西的，要糾纏的對像。②  要修補的，要勾抹修補的東西(如木桶)。O cacengcengen to 'amoto ko ngela' no moco'. 牆的裂痕要補水泥。
 cacengelen(cengel)    [疊 2]要上色的，要染色的東西(如布料)。Cacengelen ko kiradom. 布要染色。
 cacepa'en(cepa')    [疊 2]要浸濕的、弄濕的東西(如衣物等)。O cacepa'en a kiradom. 要浸濕的布。
@@ -103,8 +102,8 @@ cacesces    [疊 2]眼鏡蛇。O katalawan ko cacesces. 眼鏡蛇是很可怕的
 cacefangen(cefang)    [疊 2]要參加、入伙的團體。Cacefangen niyam a kapot. 我們要加入的團體。同 cafay。
 cacefcefen(cefcef)    [疊 2]要強制灌食的食物，注入的水。O cacefcefen no adadadaay a tamdaw a kakaenen koni. 這是給病人灌食的食物。
 cacefengen(cefeng)    [疊 2]要投入、投進，要投入、投進的。Cacefengen i namal a kasoy. 要投入火裡的木材。同 cacefongen。
-cacefisen(cefis)    [疊]要出其不意地搶奪、掠取，要出其不意搶奪、掠取的。Caceﬁsen a hata. 要掠取的旗子。
-cacefiten(cefit)    [疊 2]要出其不意地甩出去，要出其不意抽取的東西。Caceﬁten a fanoh.要拔取的毛。
+cacefisen(cefis)    [疊]要出其不意地搶奪、掠取，要出其不意搶奪、掠取的。Cacefisen a hata. 要掠取的旗子。
+cacefiten(cefit)    [疊 2]要出其不意地甩出去，要出其不意抽取的東西。Cacefiten a fanoh.要拔取的毛。
 cacefongen(cefong)    [疊 2]要投入、投進的東西。Cacefongen a dateng. 要丟進鍋裏水煮的菜。同 cacfengen。
 cacefosen(cefos)    [疊 2]要澆水，要澆水的花草。Cacefosen no wawa a hana. 孩子要澆水的花。O cacefosen a dateng i omah. 要澆水的菜園。
 caci'iwien(ci'iwi)    [疊 2]要分道走的。O caci'iwien ko tosiya a romakat. 要與車子分道走路(不要走車道)。同 caciriden、caciwi'en。
@@ -116,8 +115,8 @@ cacifafahi(fafahi)    [疊 2]即將娶妻的。Cingra ko cacifafahi to kaka ako.
 cacihi'en(cihi')    [疊 2]要追查的、要追究責任的人、要辱罵的。 O cacihi'en niyam kona demak. 我們要究這件事。O cacihi'en kora mararaway a tamdaw. 要追究有錯的人的責任。
 cacihoken(cihok)    [疊 2]要舀出來的東西(如水、米粒等)。Cacihoken a felac. 要舀出來的米。同 cahok。
 cacikciken(cikcik)    [疊 2]要切塊的、剁塊的東西。O titi no kolong ko cacikciken. 牛肉要切成塊。Adihaayho ko cacikciken a futing. 要切的魚還很多。
-caciker(ciker)    [疊 2]閂門工具，鎖頭。Pakaﬁten ko caciker. 掛上鎖頭。同 saciker。
-cacikeren(ciker)    [疊 2]要閂緊的、上鎖的門戶。Cacikeren to laﬁi ko loma'. 夜間房門要上鎖。
+caciker(ciker)    [疊 2]閂門工具，鎖頭。Pakafiten ko caciker. 掛上鎖頭。同 saciker。
+cacikeren(ciker)    [疊 2]要閂緊的、上鎖的門戶。Cacikeren to lafii ko loma'. 夜間房門要上鎖。
 caciketen(ciket)    [疊 2]要離開的對像。Caciketen ko mamlangay a widang. 要離開頑皮的朋友。同 laliyasen。
 cacilek    [疊 2]蠅卵。Patayen ko cacilek. 把蠅卵弄死。
 cacimonaen(cimona)    [疊 2]要阻撓、擾亂、妨礙的對像。Cacimonaen ko mirawraway a tamdaw.要阻撓那擾亂的人。
@@ -135,7 +134,7 @@ cacipa'(cipa')    [疊 2]互相交叉，岔路，支流。Malalitmoh kita i caci
 cacipat(cipat)    [疊 2]彼此粘住，相貼。Cacipat ko tilid. 書本相粘。同 pakipat。
 cacipaten(cipat)    [疊 2]要粘貼的，要粘貼上去的東西。Cacipaten ko sasing. 照片要貼上去。
 cacipeden(ciped)    [疊 2]①  要用抹布擦拭，要用抹布拿的東西。Cacipeden a sioy. 要用抹布拿的熱鍋。②  牲口要啃吃的東西。Cacipeden no kolong a 'asisiw. 牛群要啃的稻草。
-cacipohen(cipoh)    [疊 2]要搽粉化妝的，要化妝的人。O cacipohen ko mamikadafo a kaying.待嫁的女孩要化妝。同 faﬁhonen。
+cacipohen(cipoh)    [疊 2]要搽粉化妝的，要化妝的人。O cacipohen ko mamikadafo a kaying.待嫁的女孩要化妝。同 fafihonen。
 caciriden(cirid)    [疊 2]要分道走的。Caciriden ko rakat no paliding. 牛車要分道走。同caci'iwien、caciwa'en。
 caciriten(cirit)    [疊 2]要撕下來的。Caciriten ko koyomi to romiami'ad. 每日要撕掉一張日曆。
 caciro'    [疊 2]水蟲。Matalaw ko wawa to caciro'. 孩子怕水蟲。
@@ -182,7 +181,7 @@ caco^eco^en(co^eco)    [疊 2]①  要推擠的、緊靠的人。②  催急。C
 caco^eneken(co^enek)    [疊 2]要插入的、要嵌入其間的東西。Caco^eneken no faki i moco' ko 'ongto. 伯父要把煙斗插入蘆竹牆裡。
 cacocoen(coco)    [疊 2]要餵奶的，要吸的奶。Cacocoen a wawa. 要餵奶的小孩。
 cacocopen(cocop)    [疊 2]①  要吮吸的、要吸的 ②  要點染的東西。Cacocopen no wawa ko hacol no wina. 小孩要吸媽媽的奶。 同cacopcopen。
-cacodadan(codad)    [疊 2]①  教育，教材。②  教育場所。I seﬁ ko cacodadan no kapah. 青少年受教育的地方在集會所。
+cacodadan(codad)    [疊 2]①  教育，教材。②  教育場所。I sefi ko cacodadan no kapah. 青少年受教育的地方在集會所。
 cacodaden(codad)    [疊 2]①  要寫字的，要寫的字。②  要學習的，要學習的書本。Lahecien ko cacodaden. 功課要寫完。
 cacodo(codo)    [疊 2]指臨時性的替代物。
 cacofayen(cofay)    [疊 2]要折返的、要退回的。Cacofayen koni a macicihay a riko'.要退回這件破的衣服。同 papatikolen。
@@ -197,7 +196,7 @@ cacokaten(cokat)    [疊 2]要干擾、妨礙、吵嚷的。Cacokaten ita koya m
 cacokayen(cokay)    [疊 2]要踢、踹、踩，要踢、踹、踩的。同 cacokaren。
 cacokcoken(cokcok)    [疊 2]① 要用器物塞進去的、去搗的東西(如管子)。Cacokcoken a padal.要捅的圍牆。Cacokcoken ko kolang i talid. 要把醃菜塞進瓶子裏。②  鎖住、上鎖。
 cacokeren(coker)    [疊 2]要支撐、支持的人或物。Ci Koras ko cacokeren ita. 我們要支持 Koras 先生。
-cacokiwaten(cokiwat)    [疊 2]要用工具(如竹竿)鈎取的東西。Cacokiwaten a sasiﬁn. 要鈎取的毛巾。Cacokiwaten to aol ko matfaday a riko'. 掉下去的衣服要用竹竿釣上來。
+cacokiwaten(cokiwat)    [疊 2]要用工具(如竹竿)鈎取的東西。Cacokiwaten a sasifin. 要鈎取的毛巾。Cacokiwaten to aol ko matfaday a riko'. 掉下去的衣服要用竹竿釣上來。
 cacoklinen(coklin)    [疊 2]要攪拌、要翻動的(東西)。
 cacokonen(cokon)    [疊 2]要捅的，要捅的人或物。Cacokonen a kowa'. 要捅的木瓜。
 cacokoren(cokor)    [疊 2]要用拐杖的，要支撐的東西。Cacokoren a tomato. 要支架的蕃茄。
@@ -211,7 +210,7 @@ cacolicoli(coli)    [疊 1]大家互相頂嘴、吵嘴。Cacolicoli saan a malaw
 cacolien(coli)    [疊 2]要頂嘴的，要頂撞的人
 cacolipesen(colipes)    [疊 2]口中含水用口噴水的動作，要用口噴水的。同 tolipes。Cacolipesen no kakitaan ko hafay iayaw no likoda.豐年祭之前部落領袖要用口噴水在五穀上祈禱。
 cacolo'en(colo')    [疊 2]要搬運的，要運輸的貨物。Cacolo'en a panay. 要搬運的稻米。
-cacomoden(comod)    [疊 2]要進入的，要搬進去的房舍。Fa'lohay a loma' ko cacomoden. 要搬進新家。Caay ko cacomoden no fafahiyan ko seﬁ. 婦女不能進入集會所。
+cacomoden(comod)    [疊 2]要進入的，要搬進去的房舍。Fa'lohay a loma' ko cacomoden. 要搬進新家。Caay ko cacomoden no fafahiyan ko sefi. 婦女不能進入集會所。
 caconaen(cona)    [疊 2]要阻撓、阻擋、妨礙的人。Caconaen ko kolong a micomod. 要阻止牛進入。同 tna'。
 caconaken(conak)    [疊 2]要插入的東西。 Caconaken a tiked. 要插入的魚鉤。同 co'nek。
 cacongacongen(congacong)    [疊 2]要催促的人或事，依賴別人生活的人。同 coracor. Cacongacongen a tayal. 要趕緊做的事。
@@ -235,12 +234,12 @@ cacorahen(corah)    [疊 2]要燒的，要點燃的東西。Cacorahen a 'asisiw.
 cacorayen(coray)    [疊 2]推土機要堆土的，山豬要用鼻子挖土(推土)。 Cacorayen a tafok.要堆的砂。
 cacorcoren(corcor)    [疊 2]要翻土的，要鏟土的田地。Cacorcoren a omah. 要鏟土的田地。
 cacoriya'en(coriya')    [疊 2]要荒廢、浪費的東西或財物。Awaay ko cacoriya'en a payso. 沒有可浪費的錢。
-cacorocorok(corok)    [疊 2]大家逐一互相輪流。Cacorocorok a mikiﬁ. 輪流職班守備。參見 macacorocorok。
+cacorocorok(corok)    [疊 2]大家逐一互相輪流。Cacorocorok a mikifi. 輪流職班守備。參見 macacorocorok。
 cacorohen(coroh)    [疊 2]要推走的，要搬走的東西。Cacorohen niyam a tosiya koni. 這是我們要推走的汽車。同 cokroh。
 cacorok(corok)    [疊 2]輪流，輪番。 Cacorok a romadiw. 輪流唱歌。參見 macacorok。
 cacoroken(corok)    [疊 2]要輪流的，輪番做的事。Cacoroken a miliso'. 要輪流拜訪的。
 cacorokhan(corok)    [疊 2]就逐個或逐次地輪流。Cecayay ko takid no 'epah,cacorokhan ita a mi'owak. 杯子只有一個，大家就用這個杯子輪流喝酒。
-cacoroksa(corok)    [疊 2]逐一或逐次地輪流著。Cacoroksa ko ﬁnawlan a mipawsa to kakaenen noya misamaraday. 鄉親們輪流著給鐵匠送飯。
+cacoroksa(corok)    [疊 2]逐一或逐次地輪流著。Cacoroksa ko finawlan a mipawsa to kakaenen noya misamaraday. 鄉親們輪流著給鐵匠送飯。
 cacoscosen(coscos)    [疊 2]要一再催促的，要一再脅迫去做事的。Cacoscosen a payso. 要一再催討的債。同 colacol。
 cacowaten(cowat)    [疊 2]要擴展的，要發展的。Adihay ko cacowaten a omah. 好多要開闢的土地。
 cacepeten(cepet)    [疊 2]①  要抓捕的、②  擰乾的衣物。Cacepeten a takora'. 要捉的青蛙。O cacepeten komacpa'ay a riko'. 濕的衣服要擰乾。
@@ -281,10 +280,10 @@ cafer    暫時停留，逗留一下。同 cafel、kaleto。
 caferen(cafer)    要停留一下，要逗留下來吧。同cafelen、kaletoen。
 cafersa(cafer)    就停留下來，就順路拜訪一下。同cafelen、cafelsa。參見 micafer。
 cafersa    就停留下來，就順路拜訪一下。同cafelsa。
-cafi'    ①  比賽，超越 ②  抵抗來犯之敵 ③  門框、門檻。同 caﬁr。
-cafi'en(cafi')    把某人超過去。Caﬁ'en niyam kamo!我們要超過你們！
-cafir    ①  比賽，超越。②  抵抗來犯之敵。同caﬁ'。
-cafiren(cafir)    要把某人超過去。同 caﬁ'en、tafesiwen。
+cafi'    ①  比賽，超越 ②  抵抗來犯之敵 ③  門框、門檻。同 cafir。
+cafi'en(cafi')    把某人超過去。Cafi'en niyam kamo!我們要超過你們！
+cafir    ①  比賽，超越。②  抵抗來犯之敵。同cafi'。
+cafiren(cafir)    要把某人超過去。同 cafi'en、tafesiwen。
 ca'fon    揚撒(粉狀物)，揚灰。 Ca'fon to tafok. 揚起沙子。 參見 mica'fon。
 ca'fonen(ca'fon)    把灰或土揚撒。Ca'fonen iso ko 'afo i omah. 你把肥料撒在田裡去吧。
 cafool    尿急。 Cafool kako yo parakat to tosiya. 我開車時尿急。同 safool。
@@ -300,7 +299,7 @@ cahfas    流溢，溢出，橫溢。 Cahfas to ko rokrok no kohaw. 湯滾燙而
 cahfay    懸掛衣物風乾或日曬。 Cahfay to riko' i 'anengan. 衣服披掛在椅子上。同paypay、dahepay。參見 micahfay。
 cahid    ①  水芋的乾莖、葉，可食用，鹹菜。Tangtangen ko cahid. 煮水芋的莖。②  雲，雲彩。Makapah ko cahid. 彩雲好美。同 kadit、to'em。
 cahiw    ①  饑餓。②  貧窮，貧困。Macahiw ko matokaay a tamdaw. 懶惰的人沒飯吃。同 solep。參見 Macahiw。
-cahkit    驚擾，驚動，驚嚇。Micahkit ko ti'ro no waco to laﬁi. 半夜狗叫驚動人。同cekid、cekok。
+cahkit    驚擾，驚動，驚嚇。Micahkit ko ti'ro no waco to lafii. 半夜狗叫驚動人。同cekid、cekok。
 cahlak    雨過天睛，豁然開朗。同 cahdal。Cahlak ko romi'ad. 天晴了。參見 macahlak。
 caho    (短語)。①  還沒有呢，還沒呢。②  還沒有，還不。Caho katayra. 還沒去。Caho pinokay kako. 我還不回家。Caho ko maamaan. (短語)。還早呢。
 cahok    用杓舀去舀水或谷物。Cahok to felac.舀米。
@@ -319,7 +318,7 @@ ca'ien(ca'i)    必須對某人禮讓要，謙讓。Ca'ien ita ko mato'asay. 我
 caiker    鎖住，閂門。同 caniker、ciker、ta'ta。Caiker no fawahan. 門鎖。
 cait    懸掛，吊掛，垂吊。 Cait to pitaw. 吊掛鋤頭。同 ca'it。參見 micait。
 ca'it    懸掛，吊掛起來。Ca'it to kafong. 掛帽子。同 cait。參見 mica'it。
-ca'iten(ca'it)    把衣物懸掛上去、吊掛起來。Ca'iten ko sasiﬁn ako. 把我的毛巾掛起來。Ca'iten nira ko sapad a paya i ka'ayaw no patiyaman. 他把木牌子掛在店舖前面。
+ca'iten(ca'it)    把衣物懸掛上去、吊掛起來。Ca'iten ko sasifin ako. 把我的毛巾掛起來。Ca'iten nira ko sapad a paya i ka'ayaw no patiyaman. 他把木牌子掛在店舖前面。
 cakal    ①  牛鼻籠。②  蘆葦編織的桶箍。Paketingen ko cakal no kolong. 綁牛鼻籠。同 manis。
 cakapakomaan    (短語)。不當一回事。
 cakat    ①  攀登，上坡。同 cokacok。②  物價上漲，提昇。Macakat ko aca' no dafong. 物價都漲了。 Macakat ko 'orip. 生活提昇了。參見 macakat。
@@ -351,7 +350,7 @@ calaped    豐年祭時穿的長褲。同 kafer。Calaped no kapah. 年青人的
 calascas    流水聲，潺潺。Calascas ko cikay no nanom. 流水潺潺。
 calay    ①  繩子， ②  拉線，③  機器的轉動帶，傳送帶，沝 蜘蛛網。Paketingen ko calay i paliding. 將拉繩掛在牛車上。
 ca'lay    垂掛、披戴、交叉佩掛在肩上。參見mica'lay.
-calaycay    果實累累貌。Calaycay ko heci no facidol. 麵包果結實纍纍。同 maloﬁc。
+calaycay    果實累累貌。Calaycay ko heci no facidol. 麵包果結實纍纍。同 malofic。
 ca'layen(ca'lay)    把衣物、衣飾垂掛、披戴。Ca'layen ko dofot a malikoda. 跳舞時把肩袋披戴起來。
 calcal    用刀、斧等劈開，切塊兒，剁成一段一段。 同 cakcak。
 calcalen(calcal)    把東西劈開，剁成塊兒。Calcalen ako ko 'okak. 我把骨頭剁碎。
@@ -367,7 +366,7 @@ calep    ①  犁得深 ②  指果皮削得厚。
 calepen(calep)    ①  把地犁深些。②  把果皮削厚。Calepen ko sera nona sadatengan. 把這塊菜地挖深些。
 calipacip    流暢、流利。同 caripacpac、calipcip、palicpic。
 calipcip    流利，說話流暢。
-califad    發火，生氣。Califad kako. 我生氣了。同 ﬁrang、keter。參見 macalifad。
+califad    發火，生氣。Califad kako. 我生氣了。同 firang、keter。參見 macalifad。
 calikcik    身上長痱子或有髒東西而發癢的。Calikcik ko tifeni. 痱子奇癢。參見sacalikcik。
 calilaw    說話、吵鬧。同 cingelaw、caciyaw。
 calil    叫喊，尖叫，聒噪。Micalil ko wawa.小孩子在尖叫。同 celi'。
@@ -400,7 +399,7 @@ cangalay(cangal)    不稱心的，不滿意的。Macangalay kami to kimad no fa
 cangalen(cangal)    感到不滿意的或不稱心的。Cangalen no tao kiso. 別人對你不滿。
 ca'ngar    ①  把樹枝、竹竿等呈交叉狀架起來。②  把食物架在火上燒烤。Mica'ngar to hahodhoden a titi. 把要烤的肉架上。參見 mica'ngar.
 ca'ngaren(ca'ngar)    ①  要把樹枝、竹竿等呈交叉形架起來。②  要把食物架在火上燒烤。
-cangaw    頸飾，項鏈。Pakaﬁten no kapah ko cangaw i kaolahan ningra a kaying.年青男士把項鍊掛在他所心愛的小姐身上。
+cangaw    頸飾，項鏈。Pakafiten no kapah ko cangaw i kaolahan ningra a kaying.年青男士把項鍊掛在他所心愛的小姐身上。
 ca'engaw    開眼，張眼注視。Ca'engaw to mata.張眼望過去。
 ca'engawen(ca'engaw)    要張眼抬頭看東西。Ca'engawen a mi^eneng. 開眼抬頭看一看。
 ca'engawhan(ca'engaw)    張眼仔細一看，認真一看。Ca'engawhan matiya o fulad no i niyaroay. 張眼仔細一看很像是故鄉的月亮。
@@ -439,7 +438,7 @@ caoren    立刻地、迅速地做出反應。Caoren kako a paca'of. 請立刻�
 ca'owaw    ①  物體處於不平衡前頭翹起來。②  船在波浪上顛簸。Ca'owaw ko rakat no tamina. 船行不穩。同 ta'owaw. 參見mata'owaw.
 capa'    分叉處，叉路，樹枝的分叉。同cipa'，cacipa'. Capa' no kilang ko pica'itan. 在樹枝的分叉處掛東西。
 capas    分岔路，樹木的分枝。Macapasay a lalan. 分岔路。
-capay    耳環。micakay to capay. 買耳環。同ﬁting。
+capay    耳環。micakay to capay. 買耳環。同fiting。
 caper    把東西提拉上來，抬高支撑、扶起。Micaper to 'ongcoy. 把磐石抬高。同cakat，kakoy. 參見 micaper。
 caperen(caper)    要把滑落的東西提拉起來，要抬高。Caperen ko hecek. 要抬高樑柱。Caperen ko inafa. 把背上揹的滑下來的小孩拉上來。
 capet    抓住，捕捉。 Capet to koko'. 抓雞。同 kacep。參見 micapet。
@@ -469,7 +468,7 @@ cawang    開叉，水田的分水叉口。Miliso' to cawang. 巡視分水叉口
 cawas    (動詞)①  木頭刻成凹形槽上置橫木。②  間隔成兩部分，分開，分離。參見macawas。
 cawas    (名詞)棚子。Patireng to cawas. 塔棚子。
 cawasen(cawas)    ①  把房子分開成隔間。②  與對方分手，離婚。Cawasen nira ko matokaay a fainay. 她把懶惰的丈夫休了。
-cawcaw    ①  玩水，戲水。②  擾亂。Cawcaw to nanom. 玩水。同 ﬁnoren。參見micawcaw。
+cawcaw    ①  玩水，戲水。②  擾亂。Cawcaw to nanom. 玩水。同 finoren。參見micawcaw。
 cawhi    鱸魚。[閩南語借詞]Mipalnak to cawhi. 養鱸魚。
 cawi    ①  抬東西或牲口拉車時換班的人或動物 ②  應答，回應。同 cako、ca'of.Makapah ko cawi ningra. 她回答得很好。參見 macacawi.Cawi' ①  部落名稱，今台灣花蓮縣豐濱鄉靜埔村。 O kalala'ed no Posong ato Kalingko ko Cawi'. 靜蒲是花東的界限。②  分離處，被河流分隔的地方，分手。Caay ka lesem kako a micawi' tisowanan. 我不忍心與你分手。參見micawi'.
 cawi'en(cawi')    與對方分離，分手吧。Cawi'en ningra ko fafahi ningra. 他與妻子分手。
@@ -511,7 +510,7 @@ cefongen    要把某物投入水中。同 cefengen。
 cefot    弦或繩等因太緊而斷裂。Macefot ko ka'red. 繩子斷了。同 lafot。參見macefot。
 cekal    匝線圈。Cekal to pa^tang. 用匝線圈穩定木桶。
 cekcek    ①  打實 ②  硬擠進去。O 'amoto ko sacekcek to ngara' no moco'. 用水泥擠牆縫。參見 micekcek.
-cekceken(cekcek)    ①  把地踏實，壓實。Cekceken niyam ko pa^nan. 我們把地板打實。②  硬擠進去。Tada 'alomanay ko tamdaw, ca ka ﬁlo a cekceken. 人太多，不容易擠進去的。
+cekceken(cekcek)    ①  把地踏實，壓實。Cekceken niyam ko pa^nan. 我們把地板打實。②  硬擠進去。Tada 'alomanay ko tamdaw, ca ka filo a cekceken. 人太多，不容易擠進去的。
 ceker    房樑。Mikilim to ceker no talo'an. 找工寮的房樑。 支撐，挺立，支架。Miceker to roni. 挺立絲瓜的支架。
 cekeren(ceker)    把某物支撐起來。Cekeren ko saong.把雨傘撐起來。參見 miceker.
 cekid    被突然的聲音驚嚇。Macekid ko mafuti'ay a wawa. 熟睡的孩子被驚動。 同 ckok。
@@ -529,7 +528,7 @@ celok    足跡，腳印。Celok no malonem. 水鹿的足跡。
 cemek    鑽進水裡。參見 micemek.
 cemeken(cemek)    要鑽進水裡。Cemeken ita i micelem hena! 我們要鑽進水裡潛水，怎麼樣！
 cemekhan(cemek)    就一頭鑽進水裡去。Cemekhan noya tamdaw micelem i riyal. 那個人於是一個頭鑽進了大海潛水。
-cemeksa(cemek)    鑽進水裡。Cemeksa cingra i nanom,halaﬁn a caka sadak. 他在水裡鑽好久不出來。
+cemeksa(cemek)    鑽進水裡。Cemeksa cingra i nanom,halafin a caka sadak. 他在水裡鑽好久不出來。
 cemet    小睡片刻，稍微躺一下。Cemet saho kako itini. 我要在這裡小憩一下。參見 pacemet。
 cemetay(cemet)    ①  小睡片刻了，小憩了。②  指小憩的人。Cemetay koya matayalay. 工人在小睡片刻。參見 pacemetay。
 cemod    進入，入內。Micemod ko waco i loma'. 小狗進屋了。同 comod。參見micemod.
@@ -591,10 +590,10 @@ cefa    報應，因做壞事而遭到懲罰。Ci cefa ko mari'angay a tamdaw. �
 cefang    ①  (指聚合的單元)群，團，班，組。②  指某團體成員。O cefang niyam a tayra i Padaka a misalama cangra. 他們跟我們同一團去美國旅遊。 Safawah a mimingay cefang. 關鍵少數。
 cefangen(cefang)    決心參加、加入某團體。Sa cefangen niyam koni a kapot. 我們一定要參加這一班團體。
 cefis    搶奪，掠奪，奪取。
-cefisen(cefis)    把某物瞬間抽取。Ceﬁsen no lotong ko 'angad no wawa. 猴子掠奪孩子的食物。 參見 miceﬁs。
-cefit    出其不意地或一瞬間搶別人的東西。Miceﬁt ko mitakaway. 小偷出其不意地搶別人的東西。
-cefiten(cefit)    ①  出其不意地或瞬間把別人的東西搶過來。②  突然甩出去。Ceﬁten ako ko 'aliwal a mikakoy. 我把釣竿甩起來。
-cefithan(cefit)    於是突然地把它奪過來或甩出去。Ceﬁthan ningra ko impic ako. 他突然的搶了我的鉛筆。參見 miceﬁt。
+cefisen(cefis)    把某物瞬間抽取。Cefisen no lotong ko 'angad no wawa. 猴子掠奪孩子的食物。 參見 micefis。
+cefit    出其不意地或一瞬間搶別人的東西。Micefit ko mitakaway. 小偷出其不意地搶別人的東西。
+cefiten(cefit)    ①  出其不意地或瞬間把別人的東西搶過來。②  突然甩出去。Cefiten ako ko 'aliwal a mikakoy. 我把釣竿甩起來。
+cefithan(cefit)    於是突然地把它奪過來或甩出去。Cefithan ningra ko impic ako. 他突然的搶了我的鉛筆。參見 micefit。
 cefo    ①  膀胱。②  有夜尿症。Adada ko cefo ako. 我膀胱發炎。參見 macefo。
 cefo'    物體掉入水中之聲。同 cefo'。
 cefo'cefo'sa(cefo')    [疊 2]噗咚噗咚地跳到水裏。Cefo'cefo'sa ko ka^emangay i fanaw.孩子個個都落到水裡。
@@ -667,8 +666,8 @@ ci'enoysa(ci'enoy)    頭朝下地，倒掛著。Oya lotong ci'enoysa a maca'it 
 cioo'(oo')    有腳，長腳。Cioo' ko takola', o 'oner cowa kacioo'. 青蛙有腳，蛇沒有腳。同 Ciwa'ay。
 ci'odihang('odihang)    有回聲、回應，有反嚮。Ci'odihang ko lotok. 山有回聲。同 fadihang。
 ci'odihangay('odihang)    ①  有回聲的、回應的，有反嚮的。② 指有回聲的(地方)。Ci'odihangay ko radiw ningra i kakarayan. 她的歌聲在天空回嚮。
-ci'ofil('ofil)    長繭。Ci'oﬁl to ko saripa'. 腳掌長繭。
-ci'ofilay('ofil)    ①  長繭的。②  指長繭的(對像，如手)。Ci'oﬁlay ko kamay ako to pifafarodan. 我的手因常結繩而長繭。
+ci'ofil('ofil)    長繭。Ci'ofil to ko saripa'. 腳掌長繭。
+ci'ofilay('ofil)    ①  長繭的。②  指長繭的(對像，如手)。Ci'ofilay ko kamay ako to pifafarodan. 我的手因常結繩而長繭。
 ci'orip('orip)    有生命，存在生命。Ci'orip cingra to mida'ocay. 他有永恆的生命。
 ci'oripay('orip)    ①  有生命的，存在生命的。②  指有生命的(東西)。Ci'oripay cingra. 他還有生命。
 ci'orong('orong)    肩上扛著東西，頭頂著東西。Ci'orong to kasoy. 扛木柴。 Ci'orong to 'asisiw. 扛稻草。
@@ -690,7 +689,7 @@ cicamol(camol)    混雜，攙有雜質。Cicamol ko fanoh nona waco. 這隻狗�
 cicamolay(camol)    ①  攙雜其它東西的，混雜著。②  指混雜某物的東西。Cicamolay to kohetingay ko kangdaway a opih. 綠色的羽毛混雜著黑色的。
 cicanem(canem)    有霧，起霧。Cicanem anini. 今天有霧。同 carapong.
 cicanemay(canem)    ①  有霧的，煙霧濔漫。②  指有煙霧的地方。Cicanemay ko loma'. 屋裡煙霧瀰漫。
-cicangaw(cangaw)    戴項鏈。Cicangaw to ﬁdoso'. 戴瑪瑙項鏈。
+cicangaw(cangaw)    戴項鏈。Cicangaw to fidoso'. 戴瑪瑙項鏈。
 cicangaway(cangaw)    ①  戴著項鏈的 ②  戴項鏈的人。cicangaway ci ina. 媽媽戴著項鏈。
 cicapa'(capa')    長出旁枝。Cicapa' ko kamay nona wawa. 這孩子的手指有旁隻。Cicapa ko ta'angaay a kilang. 大樹長出枝節。
 cicapa'ay(capa')    ①  長出旁枝的。Cicapa'ay ko kilang.樹長分枝了。②  指長旁枝的樹。Cicapa'ay a 'aol. 有旁枝的竹子。③  手指長旁支。Cicapa'ay a tarodo'. 六指兒。
@@ -796,8 +795,8 @@ cifedi'ay(fedi')    ①  皮膚有裂口，長凍瘡了。②  皮膚有裂口�
 cifelin(felin)    娶姊妹為妻。
 cifelinay(felin)    ①  娶姊妹為妻了。②  指娶姊妹為妻的人。
 cifes    鰭魚翅。
-cifiting(fiting)    戴耳環、耳飾。Ciﬁting ko fa'inayan namo haw? 你們男人也戴耳飾嗎？
-cifitingay(fiting)    ①  戴著耳環的或耳飾的。②  指戴耳環或耳飾的人。Ciﬁtingay cingra to 'kim.他戴著金耳環。
+cifiting(fiting)    戴耳環、耳飾。Cifiting ko fa'inayan namo haw? 你們男人也戴耳飾嗎？
+cifitingay(fiting)    ①  戴著耳環的或耳飾的。②  指戴耳環或耳飾的人。Cifitingay cingra to 'kim.他戴著金耳環。
 cifodoy(fodoy)    ①  有毛線。②  披戴毛線編織的衣服。Cifodoy to kiftolay. 穿厚毛衣。
 cifodoyay(fodoy)    ①  有毛線的 ②  披戴毛線編織的衣飾的人。Cifodoyay cingra a mitilid. 她上學有穿毛衣。
 cifohid(fohid)    有檳榔乾，攜帶檳榔乾。Cifohid a malingad ko mato'asay. 老人帶檳榔乾工作。
@@ -874,8 +873,8 @@ cikaditay(kadit)    ①  有污點的或污垢的，有髒東西了。②  有�
 cikaf    鱗片。同 cihap。
 cikafer(kafer)    穿長褲。Cikafer kako to fa'elohay. 我穿新長褲。參見 tapad.
 cikaferay    ①  穿長褲的 ②  穿褲子的人。Cikaferay cingra to kohetingay. 他穿著黑色的褲子。
-cikafilfil(filfil)    多嘴，愛說閒話。 Cikaﬁlﬁl saan a masowal no tao kiso. 人家都說你是多嘴的人。
-cikafilfilay(filfil)    ①  多嘴的，愛說閒話的 ②  指多嘴的人。Ira ko cikaﬁlﬁlay a kadafo niyam.我們有多嘴的媳婦。同 cikangoyos。
+cikafilfil(filfil)    多嘴，愛說閒話。 Cikafilfil saan a masowal no tao kiso. 人家都說你是多嘴的人。
+cikafilfilay(filfil)    ①  多嘴的，愛說閒話的 ②  指多嘴的人。Ira ko cikafilfilay a kadafo niyam.我們有多嘴的媳婦。同 cikangoyos。
 cikafong(kafong)    戴帽子。Cikafong i kaciherangan. 夏天要戴帽子。
 cikafongay(kafong)    ①  戴著帽子的 ②  戴帽子的人。Cikafongay ko kakitaan ita to sikal no tomay. 我們的頭目戴上了熊皮帽。同tamohong、toper.
 cikalapiyat(kalapiyat)    打閃電，有閃電。Cikalapiyat i sawni.剛有閃電。
@@ -884,7 +883,7 @@ cikaliwates(kaliwates)    生痔瘡，長痔瘡。Cikaliwates ko tarodo' ako. �
 cikaliwatesay(kaliwates)    ①  生痔瘡的，長痔瘡的 ②  生痔瘡的人。Cikaliwatesay i hemot ningra. 他臀部長痔瘡。
 cikalotomen(kalotomen)    身上起雞皮疙瘩。Cikalotomen kako a pakatengil to sowal iso. 我聽了你的話身上起雞皮疙瘩。同 cikalitoman.
 cikalotomenay(lotomen)    ①  身上起雞皮疙瘩的 ②  指起雞皮疙瘩的人。Pakatengil to sowal ako cikalotomenay cingra. 他聽了我的話身上起雞皮疙瘩。同 cikalotomanay。
-cikangoyos    多嘴的、愛說閒話的。同 cikaﬁlﬁl。
+cikangoyos    多嘴的、愛說閒話的。同 cikafilfil。
 cikang    [日本語借詞]。Awa ko ①  時間。cikang no mako a tayra. 我沒空去那裡。②  馬鞍狀，呈馬鞍形。Macikang ko talo'an. 工寮呈馬鞍形。同 pikang.參見 macikang.
 cikapi(kapi)    ①  有妾 ②  添加衣服。Cikapi kako to riko' a midangoy. 我多帶些衣服去游泳。
 cikapiay(kapi)    ①  有姘頭的人 ②  添加衣服了 ③  有雙分的人。 Cikapiay ko safa ningra. 他弟弟有妾。
@@ -896,14 +895,14 @@ cikasi'elac(si'elac)    好色，貪圖女色。Cikasi'elac a tamdaw. 好色之�
 cikasi'lacay(si'lac)    好色之徒，風流鬼。Ci fa'inay cingra to cikasi'lacay. 她丈夫是風流鬼。
 cikasid(kasid)    ①  有浮木 ②  有黑潮。Cikasid ko laed no Taiwan ato Tayliko. 台灣與大陸間有黑潮。同 cikacik.
 cikasiday    ①  有浮木的 ②  出現黑潮的 ③  出現浮木或黑潮的地方。 cikasiday ko 'alo to namafaliyos. 颱風過後河裡有浮木。同cikacikay.
-cikasema(sema)    長舌鬼，長舌婦。Cikasema a wina.多嘴的母親。同 cikaﬁlﬁl。
-cikasemaay(sema)    長舌的，長舌婦的。Ciwidang cingra to cikasemaay. 他有愛多嘴的友人。參見 cikaﬁlﬁlay。Cikasowan 部落名稱。今台灣花蓮縣壽豐鄉溪口村。(原七腳川部落) 
+cikasema(sema)    長舌鬼，長舌婦。Cikasema a wina.多嘴的母親。同 cikafilfil。
+cikasemaay(sema)    長舌的，長舌婦的。Ciwidang cingra to cikasemaay. 他有愛多嘴的友人。參見 cikafilfilay。Cikasowan 部落名稱。今台灣花蓮縣壽豐鄉溪口村。(原七腳川部落) 
 cikatop(katop)    生長大葉山欖。
 cikatopay(katop)    ①  有大葉山欖的 ②  生長大葉山欖的地方。Mikilidong kita i cikatopay. 我們在大葉山欖下乘涼。Cikatopay 阿美族氏族名，居住東海岸的大港口，馬稼海、大俱來、石寧埔、白守蓮、蔴荖漏等部落。
 cikaw    邊緣，岸邊，界限。Pahanhan i cikaw.在岸邊休息。同 lawac。
 cikawas(kawas)    有神靈，神明附體。Cikawas kona loma'. 這屋有神靈。
 cikawasay(kawas)    ①  有神靈的，神明附體的。②  專指宗教職業者，如祭司，巫師。Mifetik ko cikawasay. 巫師用手指彈酒祭祖靈。
-cikay    跑步，跑。Caay pakaﬁlo to cikay ako cangra. 他們跑不過我。同 fekac。參見comikay.
+cikay    跑步，跑。Caay pakafilo to cikay ako cangra. 他們跑不過我。同 fekac。參見comikay.
 cikayap(kayap)    穿男式圍裙，男式圍裙。Cikayap ko kapah a makero i kalikodaan. 年輕人在豐年節跳舞時穿男式圍裙。
 cikayapay(kayap)    ①  穿著男式圍裙的。Cikayapay cangra to mateselay. 他們穿著繡花的圍裙。
 cikaysing(kaysing)    有碗，拿著碗。Cikaysing a mililam to tangidaf. 帶碗領食物。
@@ -1004,7 +1003,7 @@ ciloma'ay ko fulad    (短語)。月暈、月蝕。Paka'araw kami i dadaya to ci
 ciloma'ay(loma')    ①  有房子，有家，成家了。②  指分家的。Awaay ko ciloma'ay niyam. 我們都未成家。Ciloma'ay ca panay. Panay 分家了。
 cilosa'(losa')    流淚，掉淚。Cilosa' kami to kimad ningra. 我們聽他演講而流淚。
 cilosa'ay(losa')    ①  流淚，掉淚。②  指流淚者。Cilosa'ay 
-cingra a patono to fa'inay ningra a    malasuﬁtay. 她流著淚歡送丈夫當兵。
+cingra a patono to fa'inay ningra a    malasufitay. 她流著淚歡送丈夫當兵。
 cilosid(losid)    衣物，傳統服飾。
 cilosiday(losid)    有衣物的，有傳統服飾的。Cilosiday kami tono 'Amis a losid. 我們著阿美傳統服飾。
 cilep    麻雀。同 'alic、facacili、cilicili。
@@ -1060,7 +1059,7 @@ cingcingen(cingcing)    把他人土地蠶食，要一點一點去佔有他人�
 cingdis    動物凶相畢露，露牙咧嘴。Cingdis ko wadis no tomay. 熊露牙咧嘴現出兇相。同 congdis、ngocedis。參見micingdis。
 cingdisen(cingdis)    動物要露出凶相恐嚇對方。Cingdisen no waco kako. 狗咧牙露齒要嚇我。
 cingelaw    說話，人聲嘈雜。Ano mikapot to sa'opo aka cingelaw. 參加會議不要喧嘩。 同 calilaw、caciyaw。
-cingelawsa(cingelaw)    嚷嚷起來了，人聲很嘈雜。Cingelawsa ko ﬁnawlan. 鄉親們嚷嚷起來。同sacaciyawsa。
+cingelawsa(cingelaw)    嚷嚷起來了，人聲很嘈雜。Cingelawsa ko finawlan. 鄉親們嚷嚷起來。同sacaciyawsa。
 cingeray    靠背，靠著。Cingeray to kilang a maro'. 背靠樹而坐。參見 micingeray。
 cingerayen(cingeray)    要背靠著，把背靠著。Cingerayen iso i kamaro'an a mafuti'. 你靠在座位上睡吧！ Cingerayen itira a tomireng! 背靠那裡站著！同 canglayen。
 cingeraysa(cingeray)    背靠著，很自然地靠著。Maroray kako a romakat, cingeraysa i tapang no kilang a maro'. 我走累了，情不自禁地靠在樹根坐著。
@@ -1079,7 +1078,7 @@ cinkor    竹子，手杖。同 si^kor、cokor。Cinkosiyo 鎮公所。[日語�
 cino'    沾，蘸。同 cedo'、cido'、tenas。 參見micino'。
 cino'en(cino')    沾，蘸。Cino'en ako ko manto to 'odax a komaen. 我把饅頭沾糖吃。
 cinowas    分開，分手，分離。參見 macacinowas。
-cinowasen(cinowas)    要分開，要分手，要分離。Minokayto a malasuﬁtay cinowasen ningra ko kakeridan no suﬁtay. 他退役回來並與部隊長官分手。
+cinowasen(cinowas)    要分開，要分手，要分離。Minokayto a malasufitay cinowasen ningra ko kakeridan no sufitay. 他退役回來並與部隊長官分手。
 cio'ol(o'ol)    有露水，沾露水。Cio'olay ko semot to dafak. 清晨小草有露水。同ci'aresing。
 cio'olay(o'ol)    ①  有露水的，沾露水的。②  有露水的(地方)。同 ci'arsingay。Ciokangan 部落名稱，今台灣台東縣長濱鄉長光村。
 ciolat(olat)    有筋，有肉筋。Ciolat ko titi no kolong. 牛肉有筋。
@@ -1190,8 +1189,7 @@ cisacahongay(cahong)    ①  有草棚，搭起草棚的人。②  指有草棚�
 cisafaw(safaw)    ①  多餘的，多出來的。Cisafaw ko waco niyam. 我們有十幾隻狗。②  (十以外)剩下，剩餘。Cisafaw to tosa.十二(餘數二)。Sepat a polo' cisafaw to falo. 四十八(四十又餘數八)。
 cisafaway(safaw)    ①  有十幾個的。②  指擁有十幾個的(人)。Cisafaway ko masa'opoay a tamdaw. 出席的人有十幾位。
 cisailoh(iloh)    佔有狩獵山。
-cisailohay(iloh)    ①  佔有狩獵山。Cisailohay cangra toya a tokos iromamiheca. 他們去年據有這座山為獵場。②  指獵場的主人。(參見
-iloh)    
+cisailohay(iloh)    ①  佔有狩獵山。Cisailohay cangra toya a tokos iromamiheca. 他們去年據有這座山為獵場。②  指獵場的主人。(參見 iloh)    
 cisamo'(samo')    有缺陷，有不足、有毛病。Cisamo' ko tireng ningra nano mamang. 從小他就先天有缺陷。
 cisamo'ay(samo')    有缺陷的，有不足的、有毛病的。Cisamo'ay ko tosiya ako. 我的汽車有毛病了。
 cisaong(saong)    戴斗笠，戴帽子。Cisaong ko comikayay. 賽跑的人戴帽子。同ta'kok。
@@ -1225,7 +1223,7 @@ cita'iay(ta'i)    ①  生鏽的，帶鏽漬的 ②  生鏽的(鐵器)。Cita'ia
 citadah(tadah)    欠債，負債。Citadah kako to cecay a 'ofad a payso. 我欠債一萬元。同cikiyam、kiyam。
 citadahay(tadah)    ①  欠債的，負債的。②  欠債者。Citadahay kako cingraan. 我欠他的債。
 citafad(tafad)    出草獵取人頭，獲得戰利品。O inanengay a tamdaw o cacitafad. 用功的人要得到戰利品。
-citafaday(tafad)    ①  獵取人頭的，獲得戰利品的。②  指獵取人頭。獲得戰利品的(對像)。O citafaday a saﬁtay. 獲得勝利品的軍人。
+citafaday(tafad)    ①  獵取人頭的，獲得戰利品的。②  指獵取人頭。獲得戰利品的(對像)。O citafaday a safitay. 獲得勝利品的軍人。
 citafangar(tafangar)    有霉味，發霉。Citafangar ko riko'. 衣服發霉。同 tapedak、tafongaw。
 citafangaray(tafangar)    ①  有霉味的，發霉的。②  指發霉的(東西)。Citafangaray a manto. 發霉的饅頭。
 citafo(tafo)    帶便當，攜帶乾糧。Mipakaen kita to kolong anocila citafo kita haw. 我們明天帶便當去放牛吧。
@@ -1240,16 +1238,16 @@ citama'(tama')    有獵物，得到獵物。Citama' to mancel. 獵到山羌。
 citama'ay(tama')    ①  有獵物的，得到獵物的。Citama'ay to fafoy ato mancel ko talakal niyam.我們的陷阱獵到野豬和山羌。②  指得到獵物的(對像，如獵人等)。
 citamod(tamod)    有酵素，含有酵素。Citamod koni a 'pang. 這個麵包含有酵素。
 citamoday(tamod)    ①  有酵素的，含有酵素的。②  指含有酵素的(東西)。Citamoday a manto. 有酵素的饅頭。
-citamorong(tamorong)    ①  肩扛著東西，扛著。Citamorong to pawti. 用肩扛著麻袋。②  肩負的任務。citamorong to demak no ﬁnaolan. 肩負族人的使命。
+citamorong(tamorong)    ①  肩扛著東西，扛著。Citamorong to pawti. 用肩扛著麻袋。②  肩負的任務。citamorong to demak no finaolan. 肩負族人的使命。
 citamorongay(tamorong)    。①  肩扛的，扛著的。②  指扛的(人) Citamorongay to kasoy ko kapah a minokay. 年輕人扛木柴回家。
 citanengay(taneng)    ①  有經驗的，有智慧的。②  指有能力、有智慧的人。Citanengay a sayxo. 有經驗的師傅。
-citangal(tangal)    ①  有頭腦，聰明。②  有知識。Caay pakaﬁlo kita to citangal a tamdaw. 我們比不上聰明的人。
+citangal(tangal)    ①  有頭腦，聰明。②  有知識。Caay pakafilo kita to citangal a tamdaw. 我們比不上聰明的人。
 citangalay(tangal)    ①  有頭腦的，聰明的。②  指有頭腦、聰明的人。Citangalay ko aniniay a ka'emangay. 現在的孩子都很聰明。O citangalay a wawa cingra. 他是個聰明的孩子。
 citangeng(taneng)    有經驗，有智慧。Citangeng ko singsi ako. 我的老師很有經驗。
-citapad(tapad)    綁腿。Citapad kami a comikay i kalasuﬁtayan. 我們在部隊跑步時打綁腿。
+citapad(tapad)    綁腿。Citapad kami a comikay i kalasufitayan. 我們在部隊跑步時打綁腿。
 citapaday(tapad)    ①  綁腿的。②  指綁腿的人。Citapaday cingra to sikal no lokedaw. 他穿著豹皮褲。
 citapang(tapang)    有根源、有主人。Citapang ko nanom.水有源頭。
-citapangay(tapang)    。①  有根源的。②  指有來頭的(地方) ③  指有靠山的人。Maﬁlo sato ko citapangay a tamdaw a mimaan. 怎可與有靠山的人相比。
+citapangay(tapang)    。①  有根源的。②  指有來頭的(地方) ③  指有靠山的人。Mafilo sato ko citapangay a tamdaw a mimaan. 怎可與有靠山的人相比。
 citapodo(tapodo)    包頭巾。Citapodo ma'min ko matayalay itini. 在這裡工作的人都包頭巾。
 citapodoay(tapodo)    ①  包頭巾的 ②  指包頭巾的人。Citapodoay cingra a milahkad to kakaenen. 她烹煮食物時都包頭巾。
 citatiw(tatiw)    提攜，手提著。Citatiw to pitaw. 拿著鋤頭。Citatiw to pa^tang. 提著水桶。
@@ -1259,12 +1257,12 @@ citatodotodongay(todong)    [疊 2]①  具有責任，具有不可推卸的責�
 citawidwid(tawidwid)    [疊 2]帶鈴鐺，繫鈴鐺。Citawidwid ko ka'emangay a mitilid. 學生們帶鈴鐺上學。
 citawidwiday(tawidwid)    ①  帶鈴鐺的，繫鈴鐺的。②  指佩帶鈴鐺的(對像)。Citawidwiday ko kolong.牛帶鈴鐺。
 citefos(tefos)    有甘蔗，出產甘蔗。Citefos ko 'aayaw no loma' niyam. 我們家門前有甘蔗。
-citefosay(tefos)    ①  有甘蔗的，出產甘蔗的。②  指有甘蔗、出產甘蔗的(人等)。Citefosay ma'emin ko ﬁnawlan itini. 這裡的人都有種甘蔗。
+citefosay(tefos)    ①  有甘蔗的，出產甘蔗的。②  指有甘蔗、出產甘蔗的(人等)。Citefosay ma'emin ko finawlan itini. 這裡的人都有種甘蔗。
 citihi    有同伴。同 cicafay。
 citilid(tilid)    有圖飾，有圖案，有文字。Citilid ko kapal ako. 我手掌有圖案。
 citiliday(tilid)    ①  有圖飾的，有圖案的，有文字的。。②  指有圖飾、圖案、文字的(對像) Itiyaho 'alomanay ko citiliday ko tireng ato pising a tamdaw. 古時候，紋身和紋面的人很多。
 citing    字典。[日語借詞]。Mitilid kami to citing no 'Amis. 我們在撰寫阿美族語字典。
-citingal(tingal)    牙縫裡有食物塞牙。Citingal ko wadis no kaka ako. 我哥哥牙縫裡有食物塞牙。同 tingas。 參見 miliﬁngas。
+citingal(tingal)    牙縫裡有食物塞牙。Citingal ko wadis no kaka ako. 我哥哥牙縫裡有食物塞牙。同 tingas。 參見 milifingas。
 citingalay(tingal)    ①  牙縫裡有食物的。②  有食物塞牙的。Citingalay ko malahokay ma'min. 吃中餐的人牙縫裡有食物塞牙。
 citinsiya    腳踏車，自行車。[日語借詞]。同koliciw、fatikar。
 citiyad(tiyad)    有身孕。Citiyad to kora fafahiyan. 那位婦女有身孕了。同 cipoyapoy。
@@ -1304,7 +1302,7 @@ ciwsiyaen(ciwsiya)    給某人注射、打針。Ciwsiyaen no kangkofo ko adadaa
 ciyaciyakan(ciyak)    [疊 2]南瓜地，南瓜園。 Midateng kako i ciyaciyakan. 我在南瓜園撿菜。
 ciyak    南瓜。同 tamorak。
 ciyan    炒菜。Mafana' kako a miciyan to dateng. 我會炒菜。參見 miciyan。
-ciyanen(ciyan)    把(菜)炒了。Ciyanen ko teﬁ' ato titi. 把扁豆和肉炒了。Ciyanen ni wina ko ﬁta'ol. 母親炒雞蛋。
+ciyanen(ciyan)    把(菜)炒了。Ciyanen ko tefi' ato titi. 把扁豆和肉炒了。Ciyanen ni wina ko fita'ol. 母親炒雞蛋。
 ciyap    看一下，一瞥。Ciyap saan koya kaying a mi'neng i takowanan. 那小姐對我看一下。參見 miciyap。
 ciyapen(ciyap)    把某目標看一眼。Ciyapen ako ko laloma' no citosiya. 我向車庫內看了一下。
 ciyas    洩流，水由上衝下的水流聲。Hacikay ko ciyas no nanom. 水流急速。
@@ -1314,7 +1312,7 @@ ciyoming    筆記本。[日本語借詞]Tiliden i ciyoming ko fangko no taketa 
 ciyor    裁剪，鉸開。同 ciyol。參見 miciyor。
 ciyoren(ciyor)    把布裁剪，鉸開。同 ciyolen。
 ceka    刺，荊棘。Taha ceka kako i omah. 我在田裡被刺。Macocok no ceka kako.我被刺刺了。
-cekad    醒過來，睡夢中驚醒過來。Macekad kako i laﬁi. 我半夜驚醒過來。
+cekad    醒過來，睡夢中驚醒過來。Macekad kako i lafii. 我半夜驚醒過來。
 cekadsa(cekad)    一醒過來的，一驚醒過來的。Cekadsa a talipa'lal ko safa a matawa. 弟弟從睡夢中一睡醒過來就笑。參見 macekad。
 cekah    初次、第一次的經驗。 O cekah ako a midi'i i cingraan. 我第一次與她同床。參見 mackah。
 cekak    張開、翹起來，豎頭髮，展翅。Cekak ko opih. 羽毛翹起來。
@@ -1345,7 +1343,7 @@ celem    潛入，潛水，沈落。Celem to a'owang. 潛水撿海膽。參見 m
 celemen(celem)    潛入，潛水，沈下去。Celemen niyam a mikilim. 我們下水去找吧。
 celi'    大聲嚷，喊叫，聒噪。Matengil ako ko celi' ni ina. 我聽到媽的叫聲。參見 miceli'。
 celi'en(celi')    要對某人大聲叫嚷，把某人叱責。Celi'en no tawki kako. 老闆對我叫喊叱責。
-celi'han(celi')    於是對某人叫嚷，大肆叱責起來之勢。Celi'en noya kakitaan ko ﬁnawlan ningra a mikapo'i. 村長突然歇斯底里把村民大罵一頓。
+celi'han(celi')    於是對某人叫嚷，大肆叱責起來之勢。Celi'en noya kakitaan ko finawlan ningra a mikapo'i. 村長突然歇斯底里把村民大罵一頓。
 celi'sa(celi')    就大聲嚷嚷起來，叫嚷著。Caay pakatengil kako to sowal ningra,celi'sa cingra a mapo'i. 我聽不到他的話，他就大聲開罵了。
 celicli'sa(celi')    大聲嚷嚷叫喊起來。Celiceli'sa cingra a mikilim to wawa. 她叫嚷著去找孩子。
 celik    崩裂，爆裂。Macelik ko taya no paliding. 輪胎爆裂。參見 macelik。
@@ -1366,7 +1364,7 @@ cengo    孽子。O cengo a wawa. 妾生的兒子。
 cengo'    幼芽，細芽，嫩芽。Ci cengo' ko kilang. 樹長出嫩芽。
 ceno'    浸濕，浸水。Ceno' to kamay. 手弄濕。參見 miceno'.
 ceno'en(ceno')    把(衣服)浸濕、濡濕。Ceno'en i nanom ko cokap. 把鞋子浸到水裡。
-cenon    因失敗不敢再嘗試，因噎廢食，害伯、擔心。 Macenon cingra a malasang.他不想再酒醉了。參見 macnon。Co 台灣鄒族，鄒人(古稱曹族)。O Co a ﬁdacadan cingra. 他是鄒族。
+cenon    因失敗不敢再嘗試，因噎廢食，害伯、擔心。 Macenon cingra a malasang.他不想再酒醉了。參見 macnon。Co 台灣鄒族，鄒人(古稱曹族)。O Co a fidacadan cingra. 他是鄒族。
 co'a'ang    ①  逆風而上。Co'a'ang to nanom a midangoy. 逆水流游泳。Co'a'ang to fali a lomakat kami. 我們逆風而行。同 co'a'ar。 ②  反抗。Co'a'ang to kaka ko safa'. 弟弟反抗哥哥。參見mico'a'ang。
 co'a'angen(co'a'ang)    決心逆風而上。Co'a'angen ita ko fali a romakat. 我們一定要逆風而行。同co'a'aren。
 co'a'ar    ①  逆風而上。②  反抗。同 co'a'ang。參見 mico'a'ang。
@@ -1411,7 +1409,7 @@ cocoken(cocok)    把某物刺入，要刺進去。Cocoken ako to kotang ko tako
 cocokhan(cocok)    就把某物刺入，就刺進去。Cocokhan ningra to talodo' ko ofang no talid. 他就用手指扎入酒瓶的口。
 cocop    吮吸，吸舐，吻，叮。參見 micocop。
 cocopen(cocop)    吮吸，蚊蚋之咂吸。同 cepcepen.Cocopen no wawa ko coco no wina.小孩吸母奶。 copcopen no likes kako.蚊子叮了我一下。
-codah    勇敢，勇猛。Macodah ko suﬁtay. 戰士很勇敢。參見 macodah。
+codah    勇敢，勇猛。Macodah ko sufitay. 戰士很勇敢。參見 macodah。
 codo    替代物、代替。
 codimek    鑽進去躲起來。Matalaw to waco ko posi codimek sa i dademetan. 貓怕狗只好鑽進草叢裡。同 limek。參見micodimek。
 codongan    內裙。Mica'dong to codongan. 穿內裙。
@@ -1565,9 +1563,9 @@ cowa kasama'an    不怎麼樣。同 cowa kasakena。
 cowaco'    水攪動貌，激蕩，蕩漾。Cowaco' ko nanom i riyal. 海水蕩漾。
 cowaco'sa(cowaco')    水蕩漾著，激動著。Cowaco'sa ko nanom, awa a ma'araw ningra ko 'adingo no tokos. 水蕩漾起來，他看不見山的倒影了。參見 macowaco'。
 cowapi    車轅，牛車兩旁駕車的木頭。同panawican。
-cowat    擴展，發展，茁壯成長。Kakahad ko macowatay no saﬁtay a sera. 軍隊擴展的土地很多。Micowat ko pilalah no kunga. 地瓜葉漫延。參見 micowat。
+cowat    擴展，發展，茁壯成長。Kakahad ko macowatay no safitay a sera. 軍隊擴展的土地很多。Micowat ko pilalah no kunga. 地瓜葉漫延。參見 micowat。
 cowaten(cowat)    要擴展，要發展，要茁壯成長。Mowaten ko omah a maomah. 開墾田地。Cowaten a misafa'loh ko loma'.要把房屋擴建換新。
-cowi'    鷸鳥。Caayho paka'araw kako to cowi'. 我未曾見過鷸鳥。O kalaﬁan ko kasadakan no cowi'. 黃昏時鷸鳥才出現。
+cowi'    鷸鳥。Caayho paka'araw kako to cowi'. 我未曾見過鷸鳥。O kalafian ko kasadakan no cowi'. 黃昏時鷸鳥才出現。
 cowing    鯉魚。Tata'ang ko Cowing to masalilay ako. 我網到大條的鯉魚。
 coy    (命令詞)。表示驅逐家禽的呼喊聲。Micoy to koko'. 趕雞。
 coyacoy    吊橋。Katalawan a rakataen ko coyacoy. 過吊橋很害怕。

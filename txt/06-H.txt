@@ -1,6 +1,5 @@
-
 h    阿美語輔音之一。屬聲門清擦音，音值為[h]。處在詞尾讀時送氣，且有長音化傾向。
-ha    前綴。主要表示：①  用途。ha'onoc 做扁擔用；hafadil 做竹筏用。②  按照。hatini 按照這樣(做)。③  準備做、計劃做。hakadafo 準備做女婿。沝 類似做。hakeliw 野苧麻當線用。沀 行為結果。haﬁkod 撞倒，絆倒。泞 行為方式。hatolo 一次拿三個(東西)。泀 所有格式。hamako。
+ha    前綴。主要表示：①  用途。ha'onoc 做扁擔用；hafadil 做竹筏用。②  按照。hatini 按照這樣(做)。③  準備做、計劃做。hakadafo 準備做女婿。沝 類似做。hakeliw 野苧麻當線用。沀 行為結果。hafikod 撞倒，絆倒。泞 行為方式。hatolo 一次拿三個(東西)。泀 所有格式。hamako。
 ha    語氣助詞。表示呼喊與驚示：啊。Tngilen ha kapah ! 年輕人(你們)聽著！
 ha'anongnongan('anongnongan)    當中樑用，準備做中樑用。Ha'anongnongan no talo'an niyam konini a kilang. 把這個木料準備做中樑用。
 ha'anongnonganen('anongnongan)    把某物準備當中樑用。
@@ -18,7 +17,7 @@ hecad    相同，類似，一樣。Mihecad kami to kero namo. 我們要與妳�
 hecaden(hecad)    跟(某對像)比較、跟著學習。Hecaden namo hena ! 跟你們比較一下吧！ Hecaden ko piosi' ako. 跟著我唸。
 hacaen(haca)    要求再來，重復一下。同 heca。
 hacafay(cafay)    作伴，作為伙伴。Hacafay ako ci Kolas. 古拉斯先生是我的伙伴。Cingra to ko hacafay niyam i loma'. 有他在家裡做我們的伙伴。
-hacangaw(cangaw)    當項鏈戴，作為項鏈，供某人當項鏈。Maolahay cangra a cicangaw to ﬁdoso', 'acaen ako hacangaw ningra.她喜歡戴琉璃珠項鏈，我特地買來給她當項鏈。
+hacangaw(cangaw)    當項鏈戴，作為項鏈，供某人當項鏈。Maolahay cangra a cicangaw to fidoso', 'acaen ako hacangaw ningra.她喜歡戴琉璃珠項鏈，我特地買來給她當項鏈。
 hacecay(cecay)    一次拿一件，或一件一件地拿。Hacecayhan no singsi kami a patala'ayaw a pakimad. 老師叫我們一個一個的到前面演講。
 hacecayen(cecay)    要求把事情一件一件地做。Hacecayen ako ko kowang a mipanokay. 我把槍一支一支地送回去。Haccayen a mitiri'. 一件一件地拿來看。
 hacek    柱子，木樁。O tood ko hacek no loma' niyam. 我家的柱子是相思樹。同 hecek。
@@ -33,7 +32,7 @@ hacokapen(cokap)    把某物當鞋用。Hacokapen ko palo' no icep. 用檳榔�
 hacoken(hacok)    把水舀上來。Hacoken ako ko nanom a tala'alo. 我到河裡舀水。
 hacokis(cokis)    當椽子用，做椽子，具有椽子用途。O hacokis ko 'aol. 竹子可以做椽子。
 hacokisay(cokis)    ①  當椽子用的，做椽子的 ②  準備做椽子的東西。Hacokisay a 'aol. 準備做椽子的竹竿。
-hacokisen(cokis)    把某物做椽子用。Hacokisen niyam ko ﬁdengal. 我們用杉木當椽子。
+hacokisen(cokis)    把某物做椽子用。Hacokisen niyam ko fidengal. 我們用杉木當椽子。
 hacol    ①  乳汁，奶水。Hacol no kolong. 牛奶。②  提水，打水，挑水。mihacol to nanom. 舀水。同 hacok。參見mihacol。
 hacolen(hacol)    把水舀上來。Hacolen no wawa ko nanom i ciwkeng. 小孩從水缸裡把水舀出來。
 hacorcor(corcor)    向前摔倒。Mapa'tiw no tao kako a comikay saka hacorcor saan kako. 跑步時我被人絆倒因此向前摔倒了。
@@ -53,7 +52,7 @@ hadatengen(dateng)    要把某物當菜。Hadatengen ko kacipa'ay. 把生薑當
 hadec    ①  垃圾，廢品。Mataring ko hadec i paputal. 外面一堆垃圾。②  蘆葦草的外枝。O hadec no acam. 同 tatoni、lakaw。
 hades    語氣助詞。表示反詰、反問：難道不是這樣嗎？就是這樣嘛，本來就如此的。Hades, kako ko 'ayaw kira! 我在前面，難道不是這樣嗎？同 hales。
 hadefek    覆滅，覆亡，全部死亡。Matapi' ita ko 'ada hadefek sa cangra a mapatay.我們戰勝使敵人全軍覆沒。同 lefek，tekop.
-hadefeken(hadefek)    把敵人或對手全部消滅。Hadefeken niyam koya suﬁtay ! 我們把那些士兵全部消滅掉！參見 mihadefek。
+hadefeken(hadefek)    把敵人或對手全部消滅。Hadefeken niyam koya sufitay ! 我們把那些士兵全部消滅掉！參見 mihadefek。
 hadhad    旱田，旱地。Pananomay to hadhad.給旱田灌水。
 hadidi    堅持，忍耐，耐心。O hadidi ko saka laheci no tayal. 忍耐事情才會完成。參見 mihadidi。
 hadidien(hadidi)    要忍耐，要堅持。Hadidien niyam a comikay ! 我們要忍耐的跑！
@@ -62,7 +61,7 @@ hadimelay(dimel)    ①  當圍子的、籬笆用的。②  指當圍子、籬�
 hadimelen(dimel)    把某物當圍子用，把某物防守。
 hadokidok    抽泣，飲泣。Tata'ang ko rarom nona kaying saka hadokidok sa a tomangic.這小姐太傷心所以飲泣。同 hadokhok。
 hadoy    漂流，漂泊。Adihay ko mahadoyay a kasoy i riyal. 海上漂浮許多木材。參見 mihadoy。
-hadoyen(hadoy)    使某物在河、海上漂流。Hadoyen niyam ko ﬁtonay. 我們把刺竹漂流。
+hadoyen(hadoy)    使某物在河、海上漂流。Hadoyen niyam ko fitonay. 我們把刺竹漂流。
 haen    這樣，如此(做)。Haen saan ko keton no faloco' niyam. 我們就這樣決定的。同 hatini。
 haenay(haen)    這樣的，如此(做)的。Haenay ko tatiih iso i takowan. 你就是這樣的對我不好。
 haenen(haen)    要把事情這樣做，必須如此做事。Haenen ko demak ! 事情要這樣做！Haenen iso cingra a somowal. 你要這樣對他說。
@@ -79,8 +78,8 @@ hafay    小米。Mipaloma kami i Fata'an to hafay. 我們在光復鄉種小米�
 hafayan(hafay)    ①  小米的種類 ②  也指小米產地。Ono icowaay a hafayan konini? 這是那裡的小米種？
 hafayen(hafay)    把小米收割了。Hafayen ita anini. 今天我們收割小米吧。
 hafed    植物的苗往上猛長。Fangaden ko hafed. 把突出來的拔掉。參見mahafed。
-hafekod(fekod)    撞倒，碰倒。Mahafekod ningra ko otopay ako. 他把我的機車撞倒。同haﬁkod、haﬂot。
-hafekoday(fekod)    ①  撞倒的，碰倒的。②  撞倒者。Cingra ko mihaﬁkoday to wawa ako. 是他把我的孩子撞倒。
+hafekod(fekod)    撞倒，碰倒。Mahafekod ningra ko otopay ako. 他把我的機車撞倒。同hafikod、haﬂot。
+hafekoday(fekod)    ①  撞倒的，碰倒的。②  撞倒者。Cingra ko mihafikoday to wawa ako. 是他把我的孩子撞倒。
 hafekoden(fekod)    把某物撞倒、碰倒。Ano talaomah aka hafekoden ko losay no tao. 到田園不要碰倒別人的作物。
 hafel    ①  煮熟的豬飼料。②  燒過的黑木炭。Adihay ko mipatalaan ni ina a hafel i talo'an. 媽媽在工寮已備好許多豬飼料。
 hafelen(hafel)    把豬食煮熟。Hafelen ni ina ko sapakaen to diyong. 母親把豬食煮好準備餵豬。
@@ -88,13 +87,13 @@ hafelofelothan(hafelot)    [疊 2]於是不斷地往前衝去。Hafelofelothan n
 hafelot    ①  往前推進，向前衝。②  捲到或纏捲東西。同 hafelot。參見 mihafelot、mihafelot。
 hafeloten(hafelot)    ①  向前衝，向某目標推進。②  把某物纏捲。Hafeloten niyam ko masay. 我們纏捲到野藤。
 hafelothafelothan(hafelot)    [疊 2]於是不斷地向前推進。Hafelothafelothan nangra ko masatono'ay a lalan. 他們向陡峭的山路衝去。同 hafelofelothan。
-hafetod(fetod)    迎面撞倒，推倒。Kalikien a milaliw mahafetodaw no kolong. 要快速逃開以免被牛撞倒。同 haﬁkod。參見miafetod。
-hafetoden(fetod)    把某物撞倒，推倒。同 haﬁkoden。Hafetoden niyam ko hecek no pa'rican. 我們撞倒電線桿。
+hafetod(fetod)    迎面撞倒，推倒。Kalikien a milaliw mahafetodaw no kolong. 要快速逃開以免被牛撞倒。同 hafikod。參見miafetod。
+hafetoden(fetod)    把某物撞倒，推倒。同 hafikoden。Hafetoden niyam ko hecek no pa'rican. 我們撞倒電線桿。
 hafetoy    小腿。Salongan ko hafetoy nona kaying. 這小姐的小腿真美。同 'afetoy。
 hafhaf    迎面吸氣，用鼻子正面聞味。Mihafhaf ko wawa to nga'ayay a fali. 孩子迎風吸新鮮空氣。
 hafhafen(hafhaf)    把氣吸進去。Hafhafen ako ko lahod no hakhak. 我吸著糯米飯的蒸氣。hafhafen ko fangsis no hana ! 聞聞花的香味！
-hafikod(fikod)    絆倒。參見 mihaﬁkod。同 hafetod、hafekod。
-hafikoden(fikod)    把某物絆倒、撞倒。Haﬁkoden no mi'adopay ko lotong a mirepet. 獵人把猴子絆倒並抓起來。同 hafetoden。
+hafikod(fikod)    絆倒。參見 mihafikod。同 hafetod、hafekod。
+hafikoden(fikod)    把某物絆倒、撞倒。Hafikoden no mi'adopay ko lotong a mirepet. 獵人把猴子絆倒並抓起來。同 hafetoden。
 hafutingay    樹名。俗稱〝燈稱花〞。
 haha'awasen('awas)    要腳跨過去，要跨越的目標。同hahawangen。
 haha'onocen('onoc)    要當做扁擔，要準備做扁擔用的材料。Haha'onocen ako koni a midimata' to kosoy. 我要用這個做扁擔來擔香茅。
@@ -112,17 +111,17 @@ hahaenhan(haen)    [疊 2]要一直這樣下去，要照這樣子做。Hahaenhan
 hahafadahongen(fadahong)    [疊 2]要當屋頂用，要當屋頂用的材料。O hahafadahongen ko ^eli'. 茅草是要當屋頂用的材料。
 hahafalaten(falat)    [疊 2]要加橫樑，要當橫樑用的材料。Hahafalaten ho niyam ko talo'an.我們還還要把工寮加橫樑。
 hahafayen(hafay)    [疊 2]要收割小米，要收割的小米。Ma^ecak to ko hafay o hahafayen to.小米熟了可以收割。同 lalamloen。
-hahafekoden(fekod)    [疊 2]即將要被絆倒或撞倒的，將要被絆倒或撞倒的人。Hahafekoden no paliding konini a 'ongcoy. 這巨石即將被車絆倒。同 hahafetoden、hahaﬁkoden。
+hahafekoden(fekod)    [疊 2]即將要被絆倒或撞倒的，將要被絆倒或撞倒的人。Hahafekoden no paliding konini a 'ongcoy. 這巨石即將被車絆倒。同 hahafetoden、hahafikoden。
 hahafelen(hafel)    [疊 2]要煮的爛熟，要煮熟透的豬食。Hahafelen a lapot. 要煮熟的蕃薯葉。
 hahafeloten(felot)    [疊 2]要向前推進或纏捲，要向前推進或纏捲的東西。O hahafeloten a kilang. 要撞的樹木。
 hahafetoden(fetod)    [疊 2]要被撞倒，要絆倒、撞倒的東西。Hahafetoden no kolong a taling no panay. 這堆稻子將被牛撞倒。同hahafekoden。
 hahafhafen(hafhaf)    [疊 2]要迎面吸氣，要正面吸的氣。Omaan ko hahafhafen namo saw? 你們在吸什麼呢？
-hahafikoden(fikod)    [疊 2]要絆倒的。Awaay ko hahaﬁkoden niyam a taling no panay. 我們沒有要絆倒的稻子。同hahafekoden。
+hahafikoden(fikod)    [疊 2]要絆倒的。Awaay ko hahafikoden niyam a taling no panay. 我們沒有要絆倒的稻子。同hahafekoden。
 hahakadafoen(kadafo)    [疊 2]要準備做女婿(或媳婦)的，要準備做女婿(或媳婦)的人。Ci Samay ko hahakadafoen nangra. 莎邁小姐要作他們的媳婦。
 hahakafongen(kafong)    [疊 2]要當帽子戴的，要當帽子戴的東西。O cinaw ko hahakafongen no mitato'lepay a fafahiyan. 撿蚌的婦女以籃子當帽。
 hahakafuti'an(futi')    [疊 2]要當床用，要當臥室用的地方。Ira i talo'an ko hahakafuti'an haw? 工寮有地方睡嗎？
-hahakakananen(hakakanan)    [疊 2]要準備蹲坐的，要準備蹲踞的人。Hahakakananen sa kami a malaﬁ.我們蹲著吃晚餐。
-hahakanakanen(hakakanan)    [疊 2]要準備蹲踞下來的，要準備蹲踞的。Hahakanakanen saan ko ﬁnawlan a masa'opo. 村民蹲著集合。
+hahakakananen(hakakanan)    [疊 2]要準備蹲坐的，要準備蹲踞的人。Hahakakananen sa kami a malafi.我們蹲著吃晚餐。
+hahakanakanen(hakakanan)    [疊 2]要準備蹲踞下來的，要準備蹲踞的。Hahakanakanen saan ko finawlan a masa'opo. 村民蹲著集合。
 hahakapen(hakap)    [疊 2]要輕輕撫摸，要輕輕撫摸的東西。O toko ko hahakapen. 摸田螺。
 hahakasoyen(kasoy)    [疊 2]要當木柴燒，要當木柴燒的木材。Hahakasoyen niyam ko kidafes.我們以番石榴作柴火。
 hahakecen(hakec)    [疊 2]要涉水渡過，要涉渡的。Kakaya' ko hahakecen a 'aro. 要涉水渡過的河流很長。同 lalakecen。
@@ -177,7 +176,7 @@ tawinaan o maan ko hahecepen no    tofor? 這母牛很瘦小牛要吸什麼奶�
 hahedalen(hedal)    [疊 2]要鬆開的，要解開的繩子。Mapaketingay ko waco i talo'an o hahedalen. 狗被綁在工寮裏要把牠鬆開。
 hahefolen(hefol)    [疊 2]要舂成精米，要舂成精米的糙米。Hahefolen konini a 'adas. 這穀子要舂成精米。
 hahelamen(helam)    [疊 2]要探測，調查的。Matakaw ko 
-^ekim niyam o hahelamen no tayhin    ko ﬁyaw niyam. 我的金子被偷了警察在調察我的鄰居。
+^ekim niyam o hahelamen no tayhin    ko fiyaw niyam. 我的金子被偷了警察在調察我的鄰居。
 haherher    稜果樹。Adihay a malengaw ko haherher i riyal. 在海邊長許多稜果。同 samoro.
 hahidaw    [疊 2]胸披、胸前披風。
 hahidawan(hahidaw)    [疊 2]胸披，胸披的種類。Misanga' ko ina ako to hahidawan. 我媽在做胸披。
@@ -242,12 +241,12 @@ hakadafoen(kadafo)    決定選擇某人為女婿(媳婦)。So^metay ko faloco' 
 hakafong(kafong)    做帽子，準備做帽子用。Mikawit cingra to hakafong i kalikodaan. 她在鉤毛線準備在豐年節做帽子用。同tamohong、toper。
 hakafongay(kafong)    ①  做帽子戴 ②  指準備做帽子用的東西。
 hakafongen(kafong)    把它當帽子用。Hakafongen no wawa ko torak no wilok. 小 孩子把柚子皮當帽子。
-hakafuti'an(futi')    當床用，準備做臥室用。O hakafuti'an aca no kapah ato pakarongay ko seﬁno 'Amis. 阿美族的聚會所也是年青人和少年人睡覺的地方。
+hakafuti'an(futi')    當床用，準備做臥室用。O hakafuti'an aca no kapah ato pakarongay ko sefino 'Amis. 阿美族的聚會所也是年青人和少年人睡覺的地方。
 hakafuti'anay(futi')    ①  當床用的 ②  指準備當臥室用的地方。Hakafuti'anay no posi ko pawti.貓把麻袋當臥室。
 hakafuti'en(futi')    把某處當作臥室去睡。
 hakakaenay(kaen)    [疊 2]①  當糧食吃的 ②  指準備充當食物的東西。
 hakakaenen(kaen)    [疊 2]當糧食吃，準備當食物吃。Mi'adop kami to cilacila to hakakaenen ningra. 我們天天打獵，準備做他的食物。Hakakaenen no kolong ko 'asisiw. 稻草可做為牛的飼料。
-hakakanan    蹲，蹲踞。Hakakanan saan ko alomanay a masa'opo i seﬁ. 許多人在集會所蹲著集合。
+hakakanan    蹲，蹲踞。Hakakanan saan ko alomanay a masa'opo i sefi. 許多人在集會所蹲著集合。
 hakakananay(hakakanan)    ①  蹲的 ②  蹲者。Mahakakanay ko aro' nora malitengay. 那老人蹲著坐。
 hakakananen(hakakanan)    要求對方蹲下來。Papihakakanen no singsi ko mitiliday. 老師叫學生蹲著。同 hakanakaneh、hekakan。
 hakakangkangen(kangkang)    [疊 2]準備要犁耕拓荒，準備犁拓荒的地。Mikilim cangra to hakakangkangen a omah. 他們要找可耕的地。O hakakangkangen ho kona defak. 這塊田畦是準備要犁耕的。
@@ -281,17 +280,17 @@ hako    箱子，盒子。(日語借詞)。Picakayho to hako. 去買箱子吧。
 hakop    用手舀東西。
 hakopen(hakop)    把某物用手捧著。Hakopen ako kora mataktakay i sera a felac to tipid. 我要用木盤去舀取那些倒在地上的米。參見 mihakop。
 hakowa    多少，幾多，幾何。Hakowa ko ko'edaw nora keliw saw? 那條線的長度多少？ Hakowa ko toki malahok kamo? 你們幾點吃午飯的？同 hacowa。
-hakowaay(hakowa)    什麼時候的，多少的。Hakowaay ko toki malahok kamo? 你們是什麼時候才吃的午飯？ Hakowaay ko maalaay a futing masalaﬁi saw? 一夜捉多少的魚呢？ Hakowaay ko ta'angay no seﬁ?聚會所的面積有多少？
+hakowaay(hakowa)    什麼時候的，多少的。Hakowaay ko toki malahok kamo? 你們是什麼時候才吃的午飯？ Hakowaay ko maalaay a futing masalafii saw? 一夜捉多少的魚呢？ Hakowaay ko ta'angay no sefi?聚會所的面積有多少？
 hakowaen(hakowa)    要多少。Hakowaen ka ta'angay? 要多大的？ Hakowaen ko kakahad noya omah saw? 那塊田地要多寬呢？
 hala    捕魚簍、舖墊，承接用漁具堵塞河川捕捉游魚。Mihala kami. 我們去堵魚。同 tada。參見 mihala、pahala。
 halaen(hala)    把河川堵住捉魚。Halaen niyam konini a 'alo. 我們在這條河堵魚 把某物舖墊、接住。同 tadaen。Pahalaen ko hemot ngamangaay a maro'. 屁股下墊一些東西比較好坐。
-halafin    指時間久，長久，很久。Halaﬁn to caay kasaso'araw kami. 我們好久沒見面。
-halafinay(halafin)    長時間的，很期的。Halaﬁnay ko pitala ako tisowanan. 我 等你很久了。Halaﬁnay to caka tayra a mipakaen to kolong. 有很長的時間沒去放牛了。
+halafin    指時間久，長久，很久。Halafin to caay kasaso'araw kami. 我們好久沒見面。
+halafinay(halafin)    長時間的，很期的。Halafinay ko pitala ako tisowanan. 我 等你很久了。Halafinay to caka tayra a mipakaen to kolong. 有很長的時間沒去放牛了。
 halaka    準備，計劃。Caay pihalaka to tatayalen kona wawa. 這孩子不準備找工作。參見 mihalaka。
 halakaen(halaka)    要求把某事準備、計劃。Halakaen 
 nangra ko sapaka'timaw no safa    nangra. 他們要為妹妹的婚事準備。
 halama    娛樂、游玩。Maolah ko wawa ami halama. 孩子喜歡玩耍。同 salama。參見 mihalama。
-halamaen(halama)    要玩樂，去玩吧。Halamaen niyam ko totoy no ﬁyaw. 我們把鄰家的小狗拿來玩。同 salamaen。
+halamaen(halama)    要玩樂，去玩吧。Halamaen niyam ko totoy no fiyaw. 我們把鄰家的小狗拿來玩。同 salamaen。
 halamham    充滿希望地，非常期盼。Halamham koya tamadaw to katayni iso. 那個人非常期盼你的到來。同 lahamham。
 halamhamay(halamham)    希望的，期盼的，高興的。Halamhamay cangra to katayni no Foksi. 牧師的到來使他們很喜歡。
 halap    用手抓，攫住，手抓飯。參見mihalap、solap。
@@ -324,7 +323,7 @@ haliacangay(haliacang)    ①  喜歡赴宴的，嗜好被人請客的 ②  喜�
 hali'alip('alip)    喜歡做愛。指人男女之間的性行為。Halialip kona malitengay. 這位老人喜歡做愛。
 halicawcaw(cawcaw)    喜歡玩水，嗜好玩水。Halicawcaw ko wawa to nanom. 孩子喜歡玩水。
 halicawcaway(cawcaw)    ①  喜歡玩水的 ②  喜歡玩水的小孩。Halicawcaway to nanom kona kolong.這頭牛喜歡玩水。
-halicipoh(cipoh)    愛化妝，喜歡打扮。Halicipoh ko kaying. 小姐愛打扮。同 haliﬁhon。
+halicipoh(cipoh)    愛化妝，喜歡打扮。Halicipoh ko kaying. 小姐愛打扮。同 halifihon。
 halicipohay(cipoh)    ①  愛化妝的，喜歡打扮的 ②  嗜好化妝打扮的人。Halicipohay ko kalofafahiyan. 每一位女人都是喜歡打扮的。
 halicoco(coco)    愛吃奶，喜歡吃奶。Halicoco ko kahengangay ho a wawa. 嬰孩喜歡吃奶。
 halicocoay(coco)    ①  愛吃奶的，喜歡吃奶的。②  指愛吃奶的人。Halicocoay ko toforan. 小牛喜歡吃奶。
@@ -336,7 +335,7 @@ halicudad(cudad)    愛讀書，喜歡讀書。Halicudad kako.我愛讀書。
 halicudaday(cudad)    ①  愛讀書的，喜歡讀書的 ②  愛讀書的人。Halicudaday ci Cupai. 朱百先生是喜愛讀書的人。
 halifet(lifet)    使勁，用力地。Halifet ko pitekol to mali. 用力投球。同 'alifet。
 halifetay(lifet)    ①  用力地 ②  指使勁、用力者。Halifetay ko cikay ningra. 他用力使勁的跑。
-halifihon(fihon)    愛打扮，喜歡塗脂抹粉。Haliﬁhon cingra to pising. 他喜歡塗脂抹粉。同halicipoh。
+halifihon(fihon)    愛打扮，喜歡塗脂抹粉。Halifihon cingra to pising. 他喜歡塗脂抹粉。同halicipoh。
 haliforifor(forifor)    喜歡酒後搗亂撒野。Haliforifor a malasang cingra. 他喝醉喜歡撒野。
 halifuting(futing)    喜歡魚，很會捕撈魚。Halifuting ko wawa ako. 我的孩子愛吃魚。
 halifutingay(futing)    ①  喜歡吃魚的 ②  很會捕撈魚的人。Halifutingay ko wawa ako. 我的孩子是很會捕撈魚的人。
@@ -361,7 +360,7 @@ halimamaay(mama)    ①  非常愛父親的，依靠於父親的。②  指依�
 halineknek(neknek)    使用人工方法澄清某物，或使之沈澱下來。Cimixor ko nanom halineknekenho. 水很渾濁先把它沈澱下來。
 halineknekay(neknek)    ①  使用人工方法澄清某物，或使之沈澱下來。②  指使某物沈澱下來的(人)。
 halinga'ay(nga'ay)    酷愛和平。Halinga'ay ko mitooray to Kawas a tamdaw. 有信仰的人酷愛和平。
-halinga'ayay(nga'ay)    ①  酷愛和平的。②  指酷愛和平的人。O halinga'ayay a ﬁnacadan kita. 我們是熱愛和平的民族。
+halinga'ayay(nga'ay)    ①  酷愛和平的。②  指酷愛和平的人。O halinga'ayay a finacadan kita. 我們是熱愛和平的民族。
 halinonoh(nonoh)    喜歡撿拾東西。Halinonoh cingra to maamaan. 他喜歡撿拾東西。
 halinonohay(nonoh)    ①  喜歡撿拾東西的。②  指喜歡撿拾東西的人。Halinonohay a tamdaw. 喜歡撿拾東西的人
 halionto(onto)    愛好運動，熱愛運動。[日語借詞]。Halionto cingra, saka tanektek ko tireng ningra. 他愛好運動，所以身體強壯。
@@ -463,7 +462,7 @@ hananghangay(hananghang)    ①  灼痛，劇痛。②  指灼痛、劇痛的(�
 hananingra(ningra)    做為他們的，準備給他們的。O hananingra a kakawmahen konini. 這是他們要耕種的。
 hanatala(tala)    殷切期待、恭候。Aawa sa atayni kiso, hanatala ci kaka to katayni no miso. 你一直沒來，哥哥是多麼期盼你的到來。同 hinatala。
 hanatalaay(tala)    ①  殷切期待、恭候著。②  指殷切期待者，恭候者。Hanatalaay ko widang ako to katayni iso. 我的朋友殷切期待你會來。同 hinatalaay。
-hanaw    [連接詞]。因此，所以，這就是理由，原來如此。Sa^ca^casa ka laﬁ
+hanaw    [連接詞]。因此，所以，這就是理由，原來如此。Sa^ca^casa ka lafi
 o sapitala ningra toya kaying ningra    hanaw. 他不吃晚餐原來是再等女朋友。同 salaw。
 hanek    氣味。Tatiih ko hanek no loma' nangra. 他家的氣味不好。同 sanek。
 haneken(hanek)    聞味兒，嗅味兒，把某物聞一聞。Kahteng ko 'etot ningra a haneken. 他的屁聞起來極臭。Fangsis a haneken koni a hana. 這朵花聞起來香。
@@ -480,9 +479,9 @@ hanglo'    有腥臭味，發臭。Hanglo' ko siraw ningra. 他醃的肉發臭�
 hangorngor(ngorngor)    摔個倒栽蔥。Comikay cingra i hangorngor saan i kacomikayan. 當他跑步時在跑道上摔倒。參見mihangorngor。
 hangorngoren(ngorngor)    使之摔個倒栽蔥。
 hangroay    一種草的名稱，川七。同 anglo'ay。
-hanhan    歇息，歇一口氣，休息。Awaay ko hanhan niyam to paﬁlongan. 我們過年沒休假。參見 mahanhan。
+hanhan    歇息，歇一口氣，休息。Awaay ko hanhan niyam to pafilongan. 我們過年沒休假。參見 mahanhan。
 hanhanan(hanhan)    休息時間。同 pahanhanan。
-hani    [語氣助詞]。對所發生的事情表示驚奇、驚異不解。Tatiihay hani matini ko demak ! 事情如此發生，可不好啊！ O maan ko pinaro no ariri' hani?倉庫裡到底存什麼呀？ Karaﬁyal kiso hani ! 看你疲勞不堪的樣子啊！
+hani    [語氣助詞]。對所發生的事情表示驚奇、驚異不解。Tatiihay hani matini ko demak ! 事情如此發生，可不好啊！ O maan ko pinaro no ariri' hani?倉庫裡到底存什麼呀？ Karafiyal kiso hani ! 看你疲勞不堪的樣子啊！
 hani'icekoy('icekoy)    老是低下頭來。Hani'icekoy ko faki ako. 我的舅舅低下頭來。
 hani'icekoysa('icekoy)    低著頭的樣子。Hani'icekoysa ci wama a makesem. 父親低著頭發愁。
 hanima(nima)    ( 習慣口語 )。是否，是不是。Tayla cangra hanima ？他們不知要不要去？。Pakafana' hanima kiso takowanan. 誰知你是否會告訴我呀。同 han nima。
@@ -499,11 +498,11 @@ hano    (前置詞)。為了給…使用，出於(某種)目的。Hano micolo'ay
 hano'alomanay('aloman)    為多數人，基於大眾之目的。Hano'alomanay a kakaenen konini. 這是給大眾吃的。
 hanotao(tao)    為別人、他人的，是準備給別人的。Ona futing i o hanotao. 這些魚是準備給別人的。
 hao'    ( 感嘆詞 )。表示遺憾、惋惜等。Hao' tado nika tayni ako, awa ko ^epoc. 太可惜了，我特意來了，還是沒有用處。Hao' kiya futing a milaliw ! 可惜呀，那條魚逃走了！
-haop    囊括，把所有的東西總括起來。Caay pakaﬁlo cingra a mihaop a maomah. 他無法全部囊括來耕作。參見 mihaop。
+haop    囊括，把所有的東西總括起來。Caay pakafilo cingra a mihaop a maomah. 他無法全部囊括來耕作。參見 mihaop。
 haopen(haop)    把所有的東西囊括起來。Haopen niyam a mi'anip ko omah namo. 我們要將妳們的田都要插秧。
 haophan(haop)    於是把某物囊括殆盡，一鍋端。Haophan ningra ko tokos. 他把山頭整個兒佔領了。
 hapadal(padal)    做前後牆用，準備做前後牆用。Hapadal ko 'aol. 用竹子當房子的前後牆。
-haparpar(parpar)    摔個屁股蹲地。Tahaﬁkod kako to masay haparpar a mapolin i lotok. 在山上我被野藤牽住摔個屁股蹲地。參見mihaparpar。
+haparpar(parpar)    摔個屁股蹲地。Tahafikod kako to masay haparpar a mapolin i lotok. 在山上我被野藤牽住摔個屁股蹲地。參見mihaparpar。
 haparparen(parpar)    讓他摔個屁股蹲地。Cokar han ningra koya tamdaw i, haparparen saan i sera. 他踹了那個人，那個人就摔個屁股蹲地。
 hapilaladan(lalad)    準備攀援、登上去的地方。Patirengen ko hecek hapilaladan no kalitang. 豎立柱子做為豆莢攀援的地方。
 hapilaladan    準備傳播或流出。
@@ -551,9 +550,9 @@ harofalifali(fali)    [疊 1]狂風即至，不停地刮著。Harofalifali a ma'
 hasa    (前綴)。主要表示準備或計劃製做某種用途的工具、材料等。hasapana' 準備做弓箭。hasacengel 準備做染料用。
 hasa'iwas(iwas)    準備做舟櫓用，用來搖船的。Hasa'iwas to tamina. 準備做搖船的(槳、櫓)。
 hasafalod(falod)    準備捆東西用。Hasafalod ko 'oway.籐條用來捆東西。
-hasaka    (前綴)。主要表示：①  準備膳食。hasakaranam 準備早餐吃的。hasakalaﬁ準備晚餐吃的。②  準備某種用途的工具、材料等。hasaka'efer 準備飛行用的(器具)。hasakacidal 準備祭祀太陽用的(東西)。
+hasaka    (前綴)。主要表示：①  準備膳食。hasakaranam 準備早餐吃的。hasakalafi準備晚餐吃的。②  準備某種用途的工具、材料等。hasaka'efer 準備飛行用的(器具)。hasakacidal 準備祭祀太陽用的(東西)。
 hasakaen(kaen)    準備佐餐用，當菜餚。Hasakaen niyam koni a takora'ay. 這些田雞是我們的小菜。
-hasakalafi(lafi)    準備晚餐吃。Midateng kako to hasakalaﬁ. 我去摘菜準備晚飯吃。
+hasakalafi(lafi)    準備晚餐吃。Midateng kako to hasakalafi. 我去摘菜準備晚飯吃。
 hasakalahok(laho)    準備午餐吃。Hasakalahok ko holo ato titi. 午餐準備的是米飯和肉。
 hasakaranam(ranam)    準備早餐吃。Hasakaranam ko ^epang.早餐準備包吃。
 hasakasasela'(sela')    [疊 2]用來呼吸、喘氣。Hasakasasela' ko ngoso'. 鼻子是用來呼吸的(鼻子具有呼吸功能)。
@@ -608,7 +607,7 @@ nisowalan no tapang niyam a pasowal    cingra. 請遵照領導所說的告訴他
 hato    [前綴]。主要表示：好像，類似，恰似。hato'ayam 像鳥兒似的。hatotamdaw 像人樣(比喻有出息)。hatodadaya 如同黑夜。
 hato    [前置詞]。好比，恰似，好像。Mahinawar ko tangal ningra, hato maco'isay ko kilang a ^enengen. 他頭暈，看周圍的樹木好像顛倒過來似的。Hato pipaliwalan to maamaan. 如同賣百貨的市場一樣。
 hatolo(tolo)    三個(東西)一起拿，一次同時拿三個(東西)。
-hatoloen(tolo)    要求對方一次拿三個(東西)。Hatoloen niyam a panokay ko 'aﬁnong. 我們一次帶三個椰子回家。
+hatoloen(tolo)    要求對方一次拿三個(東西)。Hatoloen niyam a panokay ko 'afinong. 我們一次帶三個椰子回家。
 hatora(tora)    好像那(個)，如同那(個)。Sacaciyawsa ko tamdamdaw itira,hatora pipaliwalan a raawaw. 那裡人聲嘈雜，好像賣百貨的市場一樣。
 hatosa(tosa)    兩個(東西)一起拿，一次同時拿兩個(東西)。Hatosa han ako a micolo' ko kasoy a mipanokay. 我一次兩個的扛著木材回家。
 hatosaen(tosa)    要求對方一次拿兩個(東西)。Hatosaen ko piramot. 一次拿兩個。
@@ -644,14 +643,14 @@ hayda    [感嘆詞]。表示同意、許可、讚成：行，可以的，沒關
 haydaen(hayda)    ①  要求對方繼續下去，請勿中止。Haydaen ho ! 請繼續，不要停止！②  要求同意、許可。Haydaen ko longoc ningra. 請同意他的要求。
 hayhay    吹風，充氣，晾乾。Pahayhay kako to riko'. 我把衣服晾乾。參見 mihayhay。
 hayhayen(hayhay)    給某物充氣、吹風，晾乾。Hayhayen ko masengeray a sawfan. 把潮濕的棉被晾乾。
-hayken    (表示否定)不知道，不懂得。Hayken, hakowaay kahalaﬁn i tenok no riyal. 不知道在海中間停了多久了。Hayken, makahi kiso hanima a pasowal takowanan. 不知道你是否願意告訴我。同 haykeno、hakeno、haiken、hakno。
+hayken    (表示否定)不知道，不懂得。Hayken, hakowaay kahalafin i tenok no riyal. 不知道在海中間停了多久了。Hayken, makahi kiso hanima a pasowal takowanan. 不知道你是否願意告訴我。同 haykeno、hakeno、haiken、hakno。
 hayken makenaay    [短語]。不知怎麼了，不知怎麼樣。Hayken makenaay koni a wawa hokini? saromi'adsa a mitatangic? 這孩子不知怎麼了，哭鬧了一整天？
 hayyo    明星。[日語借詞]O hayyo ko wawa ningra. 她女兒是明星。
 hecek    柱子，木樁。O 'amoto ko hecek no padiyongan niyam. 我家豬舍柱子是水泥柱。同 salili、sariri。
 hecep    吸，吮吸。參見 mihecep。
 hecepen(hecep)    把某物吮吸。Hecepen no takomod ko nanom. 棉花把水吸乾。
 hicera    降落，著落，到達。Mahicera i kakilangan ko kafong ako. 我的帽子落再樹上。同 tefo。參見 mahicera。
-heci    ①  結果，果實。②  (工作)完成。Adihay to ko heci no panay. 稻子殼穗多了。Maloﬁcay ko heci no karo'.柚子果實累累。參見 maheci。
+heci    ①  結果，果實。②  (工作)完成。Adihay to ko heci no panay. 稻子殼穗多了。Maloficay ko heci no karo'.柚子果實累累。參見 maheci。
 hecian(heci)    結成的果實。O maan a hecian no kidafes koni? 這是什麼品種的石榴？
 hedal    解開，鬆開(繩子)。Mahedal no tao ko kolong ita. 我們的牛被別人鬆開。同 sedal。 參見 mihedal。
 hedalen(hedal)    把(繩子)解開。Hedalen ko saso'ot.把繩子解開。Hedalen ningra ko teloc no kafer. 他解下褲腰帶。
@@ -690,12 +689,12 @@ hiceraen(hicera)    要求達到目的地。I Posong ko hiceraen. 寶桑是目�
 hiday    遺留，留下(東西)。Aka pihiday to dafong i lotok. 別在山上留下東西。參見 mihiday。
 hidayen(hiday)    把某物遺留或留下。Hidayen ningra ko wawa ningra i loma'. 他把自己的孩子留在家裡。Hidayen ako ko sapa'aca to paya no tosiya a payso ! 我把買車票的錢留下吧！同 siday。
 hidek    喝甘蔗的汁，嘬汁。Sanga'ay saan ko pihidek nona wawa. 這孩子嘬甘蔗汁真行。參見 mihidek。
-hideken(hidek)    把(甘蔗)嘬汁。Hideken niyam ko salang no 'aﬁnung. 我們嘬揶子汁。
+hideken(hidek)    把(甘蔗)嘬汁。Hideken niyam ko salang no 'afinung. 我們嘬揶子汁。
 hifalat(falat)    橫向，橫放，橫亙。Hifalat saan i lalan koya mapolinay. 那跌倒的人橫放在路上。
 hifalatay(falat)    ①  橫向，橫放。②  橫向的，橫放的。Awaay ko mihifalatay to kasoy a pateli. 沒有人橫放木材。
 hifalaten(falat)    把某物橫放。Hifalaten koni a falat itini. 把這根樑橫放這裡。
 hifalatsa(falat)    橫放著，橫亙著。Hifalatsa ko cikay no otopay. 機車橫行。
-hifang    歇工，休息。[日語借詞]Awaay ko hifang niyam to paﬁlongan. 我們春節沒放假。
+hifang    歇工，休息。[日語借詞]Awaay ko hifang niyam to pafilongan. 我們春節沒放假。
 hifangen(hifang)    要求歇工休息，歇工吧。Cima ko hifangen sanay? 誰說要停工？
 hipeloc    (把葉、穗)摘取下來。參見mihipeloc。
 hipelocen(hipeloc)    把(葉、穗)摘取下來。Hipelocen ni ina ko heci no fadisan. 母親把高粱穗取下來。同 sopelic、soperit。
@@ -734,7 +733,7 @@ hinatalaay(tala)    ①  期盼，期待，企盼。②  指期盼者。Hinatala
 hinawar    眩暈，旋暈。Hinawar ko fongoh ako.我頭暈。參見 mahinawar。同 sinawar。
 hinawarsa(hinawar)    眩暈起來，旋暈起來。Hinawarsa ci wama a matolo' i sasraan. 父親一陣旋暈跌倒在地上。
 hinawen(hinaw)    把某物尋找、查看。Hinawen ako ko payso. 我去把錢找一找。hinawen ko kolong. 去把牛找一找。同 kilim。
-hinefa    趴著，俯臥。Mihinefa cingra mita'ong.他俯臥跪拜。參見 mihinefa。同faﬁnefaen、ﬁnefa。
+hinefa    趴著，俯臥。Mihinefa cingra mita'ong.他俯臥跪拜。參見 mihinefa。同fafinefaen、finefa。
 hinefaen(hinefa)    有意識地趴著，俯臥著。Hinefaen ningra a mitala i rengorengosan. 他們特地趴著草叢中等候。
 hinefasa(hinefa)    趴伏著，俯臥著。Hinefasa a minafoy.腹匍前進。Hinefasa i ngangarifan no ciwkeng a mi^neng toya toko cingra.他趴伏在水缸邊沿看那顆田螺。
 hingat    殘渣，餘糞。Cihingat ko hemot no wawa. 孩子留餘糞在屁上。同 singat。
@@ -761,9 +760,9 @@ hiphip    聞味，嗅。參見 mihiphip。
 hiphipen(hiphip)    把某物聞一聞。Hiphipen koni a titi,nga'ayay ho han? 聞聞這塊肉，還好嗎？ Hiphipen no waco ko cokap iso.狗把你的鞋聞了。
 hiphiphan(hiphip)    就把某物聞了、嗅了。Hiphiphan noya 
 waco ko narikoran noya comikay a    milaliw a wawa. 那隻狗聞到孩子的腳印而逃跑。
-hitatala(tala)    [疊 2]久等，老等著。Halaﬁnto ko pihitatala ningra to pinokay iso. 她等你回來很久了。
+hitatala(tala)    [疊 2]久等，老等著。Halafinto ko pihitatala ningra to pinokay iso. 她等你回來很久了。
 hitatalaay(tala)    ①  久等，等候很久。Hitatalaay kamo itini haw? 你們在這裡等很久了吧？
-hitay    士兵，軍人。[日語借詞]Tanektek ko tireng no hitay. 軍人的體魄真壯。同suﬁtay、kuwaping。
+hitay    士兵，軍人。[日語借詞]Tanektek ko tireng no hitay. 軍人的體魄真壯。同sufitay、kuwaping。
 hiterter(terter)    從上往下跳時屁股著地。參見mihiterter。
 hiterteren(terter)    往下跳時屁股著地。Aka hiterteren !不要屁股著地！
 hitefo(tefo)    (由上而下)跳下，跳水。Mahitefo i nanom ko mali. 球落入水中。參見mihitefo。
@@ -806,14 +805,14 @@ henot    陷入泥沼、泥濘、流沙。Mahenot ko omah niyam. 我們的田踩
 ho    ①  (指過去很長時間)曾經，以往，還在…的時候。Itiya ho. 古時候，很久以前。I ka'emang ho. 少年時代，小時候。②  剛才，方才，剛剛。Ni'acaanho ako. 我剛買的時候。Hareksaho a maranam. 剛吃好早餐。③  還。Awaay ho ko wawa ningra. 他還沒有孩子。Cowa ho kasamihecaan. 還不到一年。沝 又，一會兒。Talaen ho ita itini. 我們在這裡等一會兒。pasla'ho cingra.他還在休息。Hoanya (平埔族)。②  洪雅語。①  台灣洪雅族群
 hodac    磨得發亮。Mahodac ko funus ako. 我的刀磨得發亮。參見 mahodac。
 hodiyak    嘆息、嘆氣。Ano manikawnikaw aca aka ka hodiyak. 生活雖然貧困也不要老是嘆息。
-hodiyaken    感到遺憾。Hodiyaken no ﬁnaolan ko patay nora tamdaw. 人們對他的死感到可惜。
+hodiyaken    感到遺憾。Hodiyaken no finaolan ko patay nora tamdaw. 人們對他的死感到可惜。
 hodiyaksa(hodiyak)    直嘆息。Hodiyaksa ko wama to caka pitilid no wawa. 爸爸對不上學的孩子直嘆息不已。
 hodhod    烘烤，烘燒。Mihodhod to 'ayam. 烤雞。同 dawdaw。參見 mihodhod。同tapay。
 hodhoden(hodhod)    把某物烘烤，烘燒。Hodhoden ko katol no kolong. 去烤牛皮。
 hodoc    拔出(刀、劍等長條狀物)。Mihodoc cingra to funus. 他把刀拔出來。參見mihodoc。同 sodoc。
 hodocen(hodoc)    把(刀、劍等)拔出。Hodocen ako ko hawan nani cofel. 我把刀拔出鞘。
 hodochan(hodoc)    於是一下子抽出來。Hodochan ningra koya mi'alayan ningra a funus,sapitapa' ningra toya kawas. 他於是抽出佩帶的刀，做為砍妖怪的武器。
-hofi    獎賞，獎品。[日語借詞]。Ano hacikay kiso pakalayap to hoﬁ. 若你跑的快必可領到獎。同 sapakaolah。
+hofi    獎賞，獎品。[日語借詞]。Ano hacikay kiso pakalayap to hofi. 若你跑的快必可領到獎。同 sapakaolah。
 hofoc    生育，分娩，生產。Tatiih ko hofoc ako. 我難產。同 sofoc。參見mihofoc。
 hofocan(hofoc)    分娩、生產的地方。Kahofocan ako anini. 今天是我生日。同 kahofocan。
 hofocen(hofoc)    把(嬰兒等)生下來。Hofocen no kolong ko tofor. 牛要生下牛犢。
@@ -842,14 +841,14 @@ homawaday(homawad)    ①  (吃飽飯後)起來，起座，離席。②  指用�
 homik    懦弱，軟弱，膽小。Hato fafahiyan a mahomik. 像女人膽小。
 homikay(homik)    ①  懦弱，軟弱，膽小。②  指懦弱者。Cicafay kako to mahomikay a tamdaw.我與軟弱的人作伴。
 homong    小海參。Matama ako ko homong i riyal. 我在海裡撿到小海參。
-homongen(homong)    捕撈小海參。Homongen niyam ko sakalaﬁ. 我們捕撈小海參當晚餐。
+homongen(homong)    捕撈小海參。Homongen niyam ko sakalafi. 我們捕撈小海參當晚餐。
 homox    柔軟，光滑。Sano homox saan ko fokes ningra. 她的頭髮很柔軟。
 hongila'    用心做，認真做。Mahongila' ko tayal nona kaying. 這小姐工作很認真。同 songila'、hadime'、sadimel。參見mihongila'。
 hongila'en(hongila')    要求用心、認真，請認真(做)。Hongila'en ko katomireng. 站好一點。
 hongko    鼓風機，風殼機。( 閩南語借詞 ) Paloen ko 'adas i hongko. 把稻谷放入風鼓機裡。
 hongti    皇帝，國王，總統。( 閩南語借詞 ) O 'amis ko hongti niyam. 我們的國王是阿美族。
 hongting    風燈，手提燈。( 閩南語借詞 ) Ci hongting kami itiyaho. 過去我們有過風燈。
-honi    ①  一會兒，過了一會兒。②  忽而，時而。Honi malaﬁ to. 過一會兒吃晚飯吧。Honi milaliw to koya tomay. 一會兒熊逃走了。Honi micelem honi 
+honi    ①  一會兒，過了一會兒。②  忽而，時而。Honi malafi to. 過一會兒吃晚飯吧。Honi milaliw to koya tomay. 一會兒熊逃走了。Honi micelem honi 
 mapawpaw honi malalsi' a misalama    to nanom. 時而潛水，時而浮游，時而濺水游戲。
 honi    聲音，聲嚮。Honi no 'ayam.
 honihan(honi)    過了一會再說，等一會再說吧。Mitiri'ayho ko ising to adada ningra,honihan to iso a micomod ! 醫生正在給他看病，(你)等一會兒進來吧！Honihan a miparo to holo, komaenayho to 'pah cangra. 過一會再盛飯吧，他們還在吃酒呢。
@@ -874,10 +873,10 @@ ko lalan horiyac sa a mapolin ko    romakatay. 路滑行走的人都滑倒。參
 horiyoc    ①  龍捲風。②  極度彎曲。Tata'ang koya horiyoc inacila. 昨天的龍捲風極強。參見 mahoriyoc。
 hotaro    螢火蟲。[日語借詞]。Malikat ko wikol no hotaro to dadaya. 夜間螢火蟲的尾端發亮。(阿美語？) 
 hotiso    布袋蓮，浮萍。( 日語借詞 )。
-howad    ①鮑魚，九孔。O howad ko sapakalaﬁako to lafang. 晚餐我以九孔招待客人。②(從上面)拱出來，冒出來，出現。Howad sa a nani riyal koya wani a masadak. 突然間鱷魚從海面出來。參見 mihowad。
+howad    ①鮑魚，九孔。O howad ko sapakalafiako to lafang. 晚餐我以九孔招待客人。②(從上面)拱出來，冒出來，出現。Howad sa a nani riyal koya wani a masadak. 突然間鱷魚從海面出來。參見 mihowad。
 howaden(howad)    把某物拱出來，冒出來。Howaden 
 koya misimedan iso a mitakaw a    dafong. 把你偷來藏的東西交出來。
-howaden(howad)    捕撈鮑魚。Howaden niyam ko sapalatang i seﬁ. 我們捕撈鮑魚交到集會所。
+howaden(howad)    捕撈鮑魚。Howaden niyam ko sapalatang i sefi. 我們捕撈鮑魚交到集會所。
 howak    大雁，水鳧，鴉子。Pakaen kako to howak. 我去餵鴉子。Howak 部落名稱，今台灣台東縣北源村。
 hoya    燈罩。[日語借詞]。Mapiciway ko hoya niyam. 我們的燈罩壞了。
 hoying    法院[日語借詞]。Tayraay cangra i hoying inacila. 他們昨天上法院。

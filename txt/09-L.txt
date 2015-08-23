@@ -1,4 +1,3 @@
-
 l    阿美語輔音之一。屬舌尖中濁邊音，音值為[l]。
 la    前綴。主要表示：①  變成，演變成。la'alilis 變成鷹；lakapah 長大成人。② (雙方)彼此互為，互相結成某種關係。lawidang 成為朋友；lakayat 手拉手；年齡階梯組織各組之名稱之前加之。如 Lacoyacoy 大橋組。③  具有某種突出的特性、品質。lata'ang 自大，自負；lamo'cel 公正，誠實。
 la'afa'afas('afas)    [疊 2]大家互相爭搶、搶奪。La'afa'afas to mali. 爭球。參見mala'afa'afas。
@@ -42,7 +41,7 @@ lada'en(lada')    向別人討、索要(東西)。Lada'en no wawa ci wina to 'od
 ladac    弄平，整平，弄平坦。同 ropay。參見miladac。
 ladacen(ladac)    把某處弄平、整平。Ladacen ko sacapoxan. 整秧苗田。
 lades    感染，腫起來。Lades saan ko doka' ningra. 他的傷口有感染。參見milades。同 lifawa。
-ladesen(lades)    把疾病傳染別人。Ladesen ningra ko tao to keﬁng. 他把天花傳染給人。
+ladesen(lades)    把疾病傳染別人。Ladesen ningra ko tao to kefing. 他把天花傳染給人。
 ladiw    歌，歌曲，音樂。Makapah ko ladiw nona kaying. 這女孩唱的歌真好。同radiw。
 ladiwsa(ladiw)    唱著，唱起來。Ladiwsa cangra tahadadaya. 他們唱著歌直到入夜。同radiw。
 ladom    挑水，汲水，提手。Ladom to nanom no riyal. 去挑海水。同 radom。參見miladom。
@@ -60,15 +59,15 @@ lafao(fao)    比喻人口很少的家庭。Awa ko malitengay lafao sato ko 'ori
 lafaosa(fao)    彼此相依為命地(生活)。Lafaosa koya malawinaay tatosa a maro'. 她們母女兩人就相依為命地住在一起。
 lafay    陶製容器，菜盤。Caliwen ko lafay na Osay. 向 Osay 借菜盤。
 lafel    (鳥獸受驚嚇)逃竄，溜走。Malafel ko topi. 鴿子飛走了。參見 malafel。同 ngafel。
-lafi    晚餐，吃晚餐。O laﬁ ita koni. 這是我們的晚餐。參見 malaﬁ。
-lafii    深夜，午夜，下半夜。O laﬁi ko sakatahira ako i loma'. 我到家時間是半夜了。
-lafiifii(lafii)    [疊 2]每個深夜、午夜。Minokay kako to laﬁiﬁi. 我每個深夜要回去。
-lafin    過夜，寄宿，住宿。Tayni i loma' niyam a milaﬁn. 來我家過夜。
-lafinen(lafin)    要求對方在某處過夜、住宿。Laﬁnen itini anini ! 今天在此過夜吧！
-lafinsa(lafin)    就這樣過夜、住宿。To'man to ko romi'ad , laﬁnsa to cangra i fatad no lalan. 天黑了，他們就在半路上露宿。參見 milaﬁn。
-lafir    皮革，皮製品。Laﬁr ko telec ako. 我腰帶是皮製的。
-lafiwfiway(fiwfiw)    蘆葦，木苧麻，四脈苧麻。Manga'ay a malasafarod ko laﬁwﬁway. 木苧麻可當繩索。
-lafiyaw(fiyaw)    彼此相鄰，互為鄰居。Makapah kami a malaﬁyaw. 我們敦親睦鄰。參見malaﬁyaw。
+lafi    晚餐，吃晚餐。O lafi ita koni. 這是我們的晚餐。參見 malafi。
+lafii    深夜，午夜，下半夜。O lafii ko sakatahira ako i loma'. 我到家時間是半夜了。
+lafiifii(lafii)    [疊 2]每個深夜、午夜。Minokay kako to lafiifii. 我每個深夜要回去。
+lafin    過夜，寄宿，住宿。Tayni i loma' niyam a milafin. 來我家過夜。
+lafinen(lafin)    要求對方在某處過夜、住宿。Lafinen itini anini ! 今天在此過夜吧！
+lafinsa(lafin)    就這樣過夜、住宿。To'man to ko romi'ad , lafinsa to cangra i fatad no lalan. 天黑了，他們就在半路上露宿。參見 milafin。
+lafir    皮革，皮製品。Lafir ko telec ako. 我腰帶是皮製的。
+lafiwfiway(fiwfiw)    蘆葦，木苧麻，四脈苧麻。Manga'ay a malasafarod ko lafiwfiway. 木苧麻可當繩索。
+lafiyaw(fiyaw)    彼此相鄰，互為鄰居。Makapah kami a malafiyaw. 我們敦親睦鄰。參見malafiyaw。
 lafo    邪氣，褐崇，邪惡。Ira ko lafo noni a loma'. 這間房子有邪氣。
 lafofo    指雙方是祖孫關係。Malafofo kami aci Lekal. 我與 Lekal 為祖孫關係。參見malafofo。
 lafong    覆蓋，掩埋，收藏。參見 milafong。
@@ -96,7 +95,7 @@ laheker    愉快，興奮，高興。Laheker kako to lalok no wawa ako. 我對�
 lahod    蒸汽，水氣。Mihafhaf to lahod. 吮吸水氣兒。同 dahod。
 lahok    午餐。I tokos ko lahok ita. 我們在山上吃中餐。參見 malahok。
 lahol    腐爛，蛀掉。Caayka lahol ko so'ka.塑膠不會腐爛。參見 malahol。同nahol、poni'。
-laholol(holol)    彼此和睦、融洽，相敬如賓。Malaholol kami ato ﬁyaw. 我們與鄰居彼此和睦。
+laholol(holol)    彼此和睦、融洽，相敬如賓。Malaholol kami ato fiyaw. 我們與鄰居彼此和睦。
 lahololsa(holol)    彼此和睦、融洽地相處。Lahololsa awa ko kihar ningra a maro'. 合家團圓，他毫無牽掛地生活著。
 lahongti(hongti)    當上皇帝、國王、總統。Lahongti sa cingra no Taiwan. 他當上台灣的總統。參見 malahongti。
 lahoper(hoper)    變成粉末，分解，崩潰。Sengel han 
@@ -116,7 +115,7 @@ lakawas(kawas)    成為神明、上帝，也指成為鬼魂、妖魔。Tadamaan
 saka lakawas saan a kahemeken no    tamdaw. 他身前待人真好所以人門尊他為神明。參見 malakawas。
 lakayakay(kayakay)    媒人。Ci Hani ko malakayakay no mita. 我們請約翰作媒人。參見malakayakay。
 lakayakay    當成橋。
-lakec    涉水，渡河。Ta'angay ko 'orad, lakec han niyam ko 'alo. 傾盆大雨我們要涉水渡河。參見 milakec。 Caayka pakaﬁlo ko waco ako a milakec to 'alo. 我的狗沒辦法渡河。同 lakec。參見 milakec。
+lakec    涉水，渡河。Ta'angay ko 'orad, lakec han niyam ko 'alo. 傾盆大雨我們要涉水渡河。參見 milakec。 Caayka pakafilo ko waco ako a milakec to 'alo. 我的狗沒辦法渡河。同 lakec。參見 milakec。
 lakecen(lakec)    溪河要渡過去。 Lakecen nangra ko 'alo a mi'adop. 他們要渡河打獵。
 lakis    留傳，留存。Malakis ko 'oning no mocu'. 牆壁殘留污點。參見 milakis。
 lakisen(lakis)    把某物留傳、留存下來。Lakisen nangra ko remes no fafoy i lalan. 他們把山豬的血殘留在路上。
@@ -136,7 +135,7 @@ lakowiten(lakowit)    把山嶺越過、翻越。Lakowiten to nangra ko pinaay a
 lala'    月經，經期。Matrepto ko lala' ningra.她停經了。同 fulad。
 lala'ed(la'ed)    [疊 2]彼此間的距離，間隔。Pito a mihecaan ko lala'ed niyam a malikaka.我們兄弟相隔七年。
 lala'em    ①  口腔上齶。②  空間，空隙。Lala'em a ngiha'. 摩擦聲。
-lala'is(la'is)    [疊 2]彼此互相投擲，戰場上布陣打仗。Malala'is ato ﬁyaw a niyaro'. 與鄰村戰亂。參見 malala'is。同 lalood。
+lala'is(la'is)    [疊 2]彼此互相投擲，戰場上布陣打仗。Malala'is ato fiyaw a niyaro'. 與鄰村戰亂。參見 malala'is。同 lalood。
 lala'isen(la'is)    [疊 2]要投擲，要投擲的(對像)。O ada ko lala'isen ita. 我們要攻戰敵人。
 lala'omen(la'om)    [疊 2]即將浪費、荒廢，即將浪費、荒廢的(東西)。Awaay ko lala'omen a payso. 沒有可浪費的錢。同 lalasawaden。
 lala'owapen(la'owap)    [疊 2]要跨越，要跨越的(對像)。O tokos na Aki ko lala'owapen. 要跨越 Aki 的山。同 lalakowiten。參見mila'owap。
@@ -148,7 +147,7 @@ laladen(lalad)    把某物攀援、爬行上去。Laladen no fadiso'so' kora he
 laladesen(lades)    [疊 2]即將傳染，即將傳染的(疾病)。Adihay ko laladesen a adada nani romaroma a kitakit. 國外有許多病將傳染。
 laladomen(ladom)    [疊 2]要挑水、汲水，要挑來、汲來的(水)。O laladomen ako koni. 這是我要挑的(水)。同 raradomen。
 lalafa'en(lafa')    [疊 2]要追趕、追逐，要追趕、追逐的(對像)。O lalafa'en niyam koya malafacay a kolong. 我們要追趕那逃跑的牛。
-lalafinen(lafin)    [疊 2]要過夜、寄宿，要過夜、寄宿的(對像，地方)。Omaan ko lalaﬁnen i loma' na Osay saw? 你在吳賽家過夜作什麼？
+lalafinen(lafin)    [疊 2]要過夜、寄宿，要過夜、寄宿的(對像，地方)。Omaan ko lalafinen i loma' na Osay saw? 你在吳賽家過夜作什麼？
 lalafongen(lafong)    [疊 2]即將覆蓋、收藏，即將覆蓋、收藏的(對像)。Lalafongen nangra a lamlo. 他們即將收藏的小米。
 lalafoten(lafot)    [疊 2]即將弄斷，即將弄斷的(對像，如繩、線)。Lalafoten a towaso.要弄斷的繩索。
 lalaha'en(laha')    [疊 2]要大聲喊叫，要大聲喊叫叱責的(對像)。O lalaha'en cingra a mipatapal. 要大聲呼叫他。
@@ -179,11 +178,11 @@ lalan    路、道路，門路。Lalan no mancel. 山姜的路。
 lalanangen(lanang)    [疊 2]要煩擾、騷擾，要煩擾、騷擾的(對像)。O radiw nangra ko lalanangen. 他們的歌很煩擾人。
 lalang    勸阻，勸止，禁止。Awaay ko milalang to katayni iso. 沒人會阻止你來。參見 milalang。
 lalangasen(langas)    [疊 2]要砍伐、修剪，要砍伐、修剪的(樹枝)。Lalangasen a ca'ang no nanges. 芒果要修剪的枝子。
-lalengaten(lengat)    [疊 2]要挑釁、挑戰，要挑釁、挑戰的(對像)。Mararid a lalengaten no tao ko ﬁnacadan ita. 我們的民族常受挑戰。
+lalengaten(lengat)    [疊 2]要挑釁、挑戰，要挑釁、挑戰的(對像)。Mararid a lalengaten no tao ko finacadan ita. 我們的民族常受挑戰。
 lalangaw    蒼蠅。Mahitefu no lalangaw ko kakaenen. 食物被蒼蠅爬過。同talangaw。
 lalangen(lalang)    把某某勸阻、勸止。Kinapina lalangen no tao cingra , cowa ka pitengil. 別人勸他多少次，他都不聽。
 lalango    苔，青苔。Adihay ko lalango i 'ongcoy. 石頭上有許多青苔。同damay。
-lalaocan(laoc)    [疊 2]集會所，議事廳，會議室。Masa'opo i lalaocan. 在會議室集合。參見 seﬁ'、soraratan。
+lalaocan(laoc)    [疊 2]集會所，議事廳，會議室。Masa'opo i lalaocan. 在會議室集合。參見 sefi'、soraratan。
 lalaocen(laoc)    [疊 2]要聚會議事，要聚會議定的(議題)。Pakayniay i kiloma'an ko lalaocen ita. 我們會議的議題是有關豐年節相關事宜。
 lalaopen(laop)    [疊 2]要追趕、驅逐，要追趕、驅逐的(對像)。Lalaopen koya misakasakay to 'anip a maymay. 要追趕那踐踏稻秧的鴉子。
 lalaoseden(laosed)    [疊 2]即將浪費、荒廢，即將浪費、荒廢的(東西)。O lalaoseden no kitakit ko caayka dademak a kikay. 國家要將不運轉的機器報廢。
@@ -204,13 +203,13 @@ lalawisen(lawis)    [疊 2]要伸出去鉤取，要伸手去拿的(東西)。O l
 lalaya'en(laya')    [疊 2]要伸展雙臂丈量，要伸展雙臂丈量的(東西)。O maan ko lalaya'en iso? 你伸手做什麼？
 lalayalen(layal)    [疊 2]要懸掛、擱置起來，要懸掛、擱置起來的(東西)。Lalayalen i moco'. 要懸掛在牆上。
 lalayapen(layap)    [疊 2]要伸手承接、接受，要承接、接受的(東西)。O lalayapen a nga'ayay a pinangan no 'Amis. 要接受美好的阿美族美德。
-lalecafi'en(lecafi')    [疊 2]要搶先做，要搶先做的(對像、事情)。O piropay to sera ko lalecaﬁ'en a tayal. 填土是極須搶先要做的事。
+lalecafi'en(lecafi')    [疊 2]要搶先做，要搶先做的(對像、事情)。O piropay to sera ko lalecafi'en a tayal. 填土是極須搶先要做的事。
 lalecengen(leceng)    [疊 2]要修整、修剪，要修整、修剪的(東西)。O papah no kida ko lalecengen. 要修整釋迦葉。
 lalidefen(lidef)    [疊 2]要關起來，要緊閉；要關閉、緊閉的(門戶)。Lalidefen a loma'. 要關上門的房屋。
 lalefeken(lefek)    [疊 2]要裂開，要推倒的(東西)。O lalefeken no kikay koninni a fakeloh.這石頭要用機器爆裂。
 lalefoen(lefo)    [疊 2]要襲擊、爭鬥打倒，要襲擊、打倒的(對像)。Mari'angay a tamdaw ko lalefoen. 去攻擊那壞人。
 lalefohen(lefoh)    [疊 2]要加大火力燒，要加大火力燒的(東西)。Ma'icangay a ^li' i lotok ko lalefohen. 燒山上那乾燥的茅草 .
-laleko    長相，樣式，模式，規格。Masamaanay ko laleko no faﬁkﬁk saw? 壁虎的樣是怎麼樣的呢？
+laleko    長相，樣式，模式，規格。Masamaanay ko laleko no fafikfik saw? 壁虎的樣是怎麼樣的呢？
 lalekoan(laleko)    樣式、模式、規格的類別。Makapah ko lalekoan nonini a riko'. 這件衣服的樣式滿好看。
 lalen    (指內容與形式)一樣，沒有區別。參見 malalen。Malalen ko palilam i cangraan. 平分給他們。
 lalenafen(lenaf)    [疊 2]要浸染、油刷，要浸染、油刷的(對像、東西)。On lalenafen ko mapicpicay a padal. 那破裂的牆要油漆。
@@ -284,7 +283,7 @@ lalimaden(limad)    [疊 2]即將移動、搬動，即將移動、搬動的(對�
 lalimeken(limek)    [疊 2]即將躲藏，即將躲藏的(對像)。Lalimeken a tamdaw. 要躲藏的人。
 lalimelaen(limela)    [疊 2]即將珍惜、疼愛，即將珍惜、疼愛的(對像)。Lalimelaen ko romi'ad. 愛惜光陰。
 lalinahen(linah)    [疊 2]要搬走、遷移，要搬走、遷移的(對像)。Lalinahen iso a kamaro'an. 你要搬走的坐位。
-laling    呻吟，沈吟。Caayka pakaﬁlo to adada cingra laling saan to laﬁi. 他半夜忍不住疼痛就呻吟起來。參見 malaling。
+laling    呻吟，沈吟。Caayka pakafilo to adada cingra laling saan to lafii. 他半夜忍不住疼痛就呻吟起來。參見 malaling。
 lalingatoan(lingato)    [疊 2]起因，緣故，根源，起源。O maan ko lalingatoan? 起因是什麼。Iraan ko lalingatoan no palang a komaen to tafo tahanini. 那就是烏鴉至今吃乾糧的緣故。同 lalengawan。
 lalingatoen(lingato)    [疊 2]即將開始、啟程，即將開始、啟程的(事情)。Pakayni ko lalingatoen a matayal. 從此處開始工作。同lalengatoan。
 lalingkingen(lingking)    [疊 2]要摘龍眼，要摘下來的龍眼。I tokos na Talod ko lalingkingen. 在達路斯的田園摘龍眼。
@@ -297,7 +296,7 @@ laliniken(linik)    [疊 2]要不辭而別、偷偷溜走，要不辭而別、�
 lalipalawen(palaw)    [疊 2]即將乘其不意而行事，即將乘機突然採取行動的(對像)。Ano 
 caayka pisa'icel a minanam kamo to    tilid no Amilika, o lalipalawen no tao kamo a mafana'. 妳們不加強練英文別人則會強過妳們。
 lalipayen(lipay)    [疊 2]即將做禮拜，即將禮拜的(對像)。Ini a loma' ko lalipayen. 就在這家禮拜。同 lalihayen。
-lalipoten(lipot)    [疊 2]要捲起來，要捲起來的(東西，如香煙)。Lalipoten a ﬁngkes. 要捲起來的煙葉。
+lalipoten(lipot)    [疊 2]要捲起來，要捲起來的(東西，如香煙)。Lalipoten a fingkes. 要捲起來的煙葉。
 lalipowaken(powak)    [疊 2]要剖開、裂開，要剖開、裂開的(東西)。Lalipowaken no fali. 要被風剖開。
 laliw    逃跑，溜走。Matalaw to singsi ko mitiliday saka laliw saan. 學生們怕老師因此逃跑了。參見 milaliw。
 laliwen(laliw)    要離開、逃脫。O tatayni ko faki,laliwen namo ! 伯父要來了，你們怎麼要離去呢？
@@ -321,7 +320,7 @@ lalodisan(lodis)    [疊 2]行李，日常用品。Lalodisan no loma'. 傢俱。
 lalodoten(lodot)    [疊 2]即將收網，即將回收的網。Lalodoten a tilo. 要收攏的魚網。
 laloecan    一種毒蛇名稱。Nengen makalat no laloecan. 小心不要被毒蛇咬。
 laloen(lalo)    把米浸泡、漬水。Laloen ko doway.把糯米泡了。
-laloficen(lofic)    [疊 2]要拾撿，要拾撿的(遺物)。Laloﬁcen a kakaenen. 要撿起來的糧食。
+laloficen(lofic)    [疊 2]要拾撿，要拾撿的(遺物)。Laloficen a kakaenen. 要撿起來的糧食。
 lalofoten(lofot)    [疊 2]要砍斷、砍掉，要砍斷、砍掉的(東西)。Lalofoten a kilang. 要砍掉的樹。
 lalohaken(lohak)    [疊 2]即將鬆土，即將耘鬆的(土地)。Lalohaken kona sera pipalomaan to kodasing. 要將這地鬆開以便種稙花生。
 lalok    認真，用功，勤奮，孜孜不倦。Malalok a matayal ko fafahi ako. 我太太很認真工作。參見 malalok。
@@ -379,7 +378,7 @@ langaten(langat)    向對方挑釁、挑戰。Langaten niyam a mimali cangra. �
 langdaw    青色，綠色，藍色。Langdaw ko kakarayan. 藍天。
 langdaway(langdaw)    ①  呈青色、綠色、藍色。②  青的、綠的、藍的。Langdaway ko riyal. 大海碧藍。
 langkes    (米、飯裡摻雜)砂子、砂粒。Ci langkes ko felac. 白米有砂粒。
-langlang    病情、傷口加重、惡化。Malanglang ko adada no ﬁtoka ako. 我胃痛得更嚴重。參見 malanglang。
+langlang    病情、傷口加重、惡化。Malanglang ko adada no fitoka ako. 我胃痛得更嚴重。參見 malanglang。
 langod    波浪，浪濤，浪花。Langod no riyal.大海的波浪。
 langodos    流鼻血。Maherek a makero cingra i malangodos cingra. 她舞跳過後就流鼻血了。同 lingodos。參見 malangodos，malingodos。
 langtal    (砍伐後的)殘株。Todohen ko langtal. 燒殘株。同 lantal。
@@ -393,7 +392,7 @@ lanto    灰燼，未燒燼的炭火。同 langto。
 lantoen(lanto)    把某物燒燼、燒焦。Lantoen koya kilang. 把木頭燒燼。
 lao'edengan('edeng)    (月亮出現前)大地一片黑暗、漆黑。Malingad kita to lao'edengan. 我們在黎明出發。
 laoc    (竹子、蘆葦等)最末節與葉子之間的部分。Sa'opoen ko laoc no tefus. 把甘蔗末葉集中起來。
-laoc    開會，議事。Malaoc i seﬁ. 在集會所集會。參見 lomaoc、milaoc。
+laoc    開會，議事。Malaoc i sefi. 在集會所集會。參見 lomaoc、milaoc。
 laocen(laoc)    召集某某開會、議事。Laocen ci Kolas a masa'opo. 邀 Kolas 來開會。
 lawla    快樂，歡樂，歡慶。Mafana' a malawla cingra. 他會帶歡樂。參見malawla。
 laop    趕走，驅趕，圍住。Caayka laop ko 'ayam. 抓不著鳥。參見 malaola。
@@ -413,7 +412,7 @@ lasak    漏出，流出，泄漏。Adihay ko lasak no payso. 錢的支出很多
 lasang    酒醉，醉了。Caayka lasang kako. 我沒有醉。參見 malasang。
 lasawad(sawad)    消失，取消。Malasawad ko sa'opo anini. 今天取消會議。參見 malasawad。
 lasil    逐個地傳遞信息。Milasil kako i cingraan. 我傳遞信息給他。同 liliw。參見 milasil。
-lasilen(lasil)    逐個地傳遞信息。Lasilen ko ﬁnawlan papililiw. 逐家逐戶地通知鄉親，叫他們互助勞動。
+lasilen(lasil)    逐個地傳遞信息。Lasilen ko finawlan papililiw. 逐家逐戶地通知鄉親，叫他們互助勞動。
 lasinol    融化。Malasinol ko koli. 冰融化。同laso'er。參見 malasinol。Laso'ay 部落名稱，今台灣花蓮縣光復鄉大全村。Malafong no sera ko loma' no I Laso'ay a niyaro' i kafaliyosan. 在颱風之際大全部落的房子被埋。
 laso'er(so'er)    溶化，溶解。Malaso'er ko koli i nanom. 冰塊在水裡溶解。參見malaso'er。
 lasol    提前，先行，先走。I lasol kiso a mipatara. 你先作預備。參見 milasol。
@@ -449,7 +448,7 @@ latoh    章節、一段。Sakacecay a latoh. 第一章。
 latolo(tolo)    變成或分成三份。Macacolok a latolo kami a matayal. 我們分三班工作。參見 malatolo。
 latoloen(tolo)    把某物分成三份。Latoloen ako a pasacefacefang cangra. 我把他們編成三組了。
 lawa    遺漏，遺忘，錯過。Awaay ko lawa niyam a miharateng. 我們沒遺忘。參見 milawa。
-lawa    指田地上遺落的花生或稻穗。同 loﬁc。
+lawa    指田地上遺落的花生或稻穗。同 lofic。
 lawac    邊緣，邊界，岸邊。Lawac no riyal.海岸，海邊。Lawac no omah. 田邊，田界。
 lawaen(lawa)    把某物某事遺漏，遺忘。Lawaen ningra ko misowalan iso. 他把你交代的話漏掉了。Aka lawaen konini a demak ! 不要把這件事遺忘了！
 lawal    飛鼠。Milawal kita i lotok. 我們去山上抓飛鼠。同 kalawal。
@@ -472,9 +471,9 @@ laylay    野獸經過或出沒的路線。Ma^edeng itini ko laylay no mancel. �
 laymay    嘮叨，話匣子。Caay ka tomerep ko laymay ni mamo. 奶奶嘮叨。參見malaymay。
 layong    獅子。[日話借詞]Ma'araw ako i lotok ko layong. 我在山上看到獅子。
 lecad    (領唱後)和唱，應和，同級，相同，一樣。Awaay ko lecad ako a mitilid.我沒同學。參見 milecad。
-lecafi'    衝上去，搶先，競爭。Mafodo' toya dadaya lecaﬁ' sa kami a mikalic to kilang. 當晚下大雨我們衝上去爬樹。參見 milecaﬁ'。
-lecafi'en(lecafi')    衝上去或搶先把事情做了。Lecaﬁ'en niyam koya tao a comikay. 我們搶先他人賽跑。
-lecafi'han(lecafi')    就衝上去先下手吧。Lecaﬁ'han namo canira a mipatay. 你們就衝上去把他們殺了。
+lecafi'    衝上去，搶先，競爭。Mafodo' toya dadaya lecafi' sa kami a mikalic to kilang. 當晚下大雨我們衝上去爬樹。參見 milecafi'。
+lecafi'en(lecafi')    衝上去或搶先把事情做了。Lecafi'en niyam koya tao a comikay. 我們搶先他人賽跑。
+lecafi'han(lecafi')    就衝上去先下手吧。Lecafi'han namo canira a mipatay. 你們就衝上去把他們殺了。
 leceng    剪，修剪。Mileceng to fokes. 剪髮。參見 mileceng。
 lecengen(leceng)    把某物修剪、修整。Lecengen ko kilang. 修整樹木。
 lecep    滲進去，深入。Milecep ko nanom i lingka. 水滲入紅磚裡。同 recep。參見malecep。
@@ -486,10 +485,10 @@ ledek    寒氣。
 ledo    上下一般粗，完整，徹底。Maledo ko nipololan iso. 你的線圈很完整。參見maledo。
 lefek    有裂痕，倒塌。Lefek sa ko fadahong.屋頂有裂痕。參見 malefek。
 lefeken(lefek)    使某物裂開、倒塌。Lefeken ko kilang.把樹砍倒。
-lefis    摘下(紐扣)，搶走，丟掉。Maleﬁs ko sakoﬁt. 紐扣調了。參見 mileﬁs。
-lefis    歿，死了。Maleﬁs ko cecay a wawa ako. 我死了一個小孩。
-lefisen(lefis)    把(紐扣)摘下，使之脫落。Leﬁsen ko focacing. 摘下嫩檳榔。
-lefit    (衣物等)扯破，撕開。同 reﬁt。參見maleﬁt。
+lefis    摘下(紐扣)，搶走，丟掉。Malefis ko sakofit. 紐扣調了。參見 milefis。
+lefis    歿，死了。Malefis ko cecay a wawa ako. 我死了一個小孩。
+lefisen(lefis)    把(紐扣)摘下，使之脫落。Lefisen ko focacing. 摘下嫩檳榔。
+lefit    (衣物等)扯破，撕開。同 refit。參見malefit。
 lefo    襲擊，打架，兩人爭鬥時把對手擊倒壓在下面。Milefo cingra i takowanan.他把我壓倒在下。參見 milefo。
 lefod    (賽跑)猛追。Pikapot to tao a milefod to takolil. 與別人一起去追兔子。參見 milefod。
 lefoden(lefod)    (賽跑時)把對手猛追。Lefoden ko kapah no Torik. 競跑時猛追都歷的青年。
@@ -499,12 +498,12 @@ lefohen(lefoh)    加大火力把某物猛燒。Lefohen ko namal. 加大火力�
 lefot    千，一千。Tolo a lefot. 三千。Limaay a lefot ko (tamdaw no) pitilidan niyam. 我們學校有五千人。同 patek。
 lekairair(ira)    [疊 2]應有盡有，樣樣齊全。Lekairair ko dafong nangra. 他們應有盡有。參見 malekairaira。
 lekakawa    祭典，法規，社會倫理。Do^doen ko nga'ayay a lekakawa no 'Amis. 持守阿美族之美好風範。
-lekal    喊叫，叫嚷。Milekal to ﬁnawlan. 向群眾呼喊。Mafokil a milekal kona waco. 這隻狗不會狂叫。參見 malekal。
+lekal    喊叫，叫嚷。Milekal to finawlan. 向群眾呼喊。Mafokil a milekal kona waco. 這隻狗不會狂叫。參見 malekal。
 lemed    夢，夢占，運氣。Tatiih ko lemed ako.我作惡夢。同 nitiir、sintiih。
 lemek    通姦，暗行惡事。Marpet no tao ko nika lemek nangra. 他們通姦被抓到。參見 malemek。
 lenaf    浸染，塗染，刷漆。Caayho ka lenaf ko ciko. 角落尚未漆上。參見milenaf。
 lenafen(lenaf)    給某物塗染、刷漆。Lenafen to kohecalay ko laloma'. 裡面漆白色。
-lenak    傳播，繁殖。Malenak i ﬁyaw ko demak iso. 你的事情被傳到鄰舍。參見 milenak。同 tnak。
+lenak    傳播，繁殖。Malenak i fiyaw ko demak iso. 你的事情被傳到鄰舍。參見 milenak。同 tnak。
 lenaken(lenak)    使某物傳播、繁殖。Lenaken ningra ko sowal itaowanan. 他把話傳播到別人那裡。Lenaken ko kolong niyam. 讓我們的牛繁殖。
 leneng    沈沒，沈淪。Maleneng ko tamina. 船沉下了。同 teneng。參見 maleneng，moleneng。
 lengac    ①  月桃草。②  美人蕉。③  蝴蝶花。Tafoen to lengac ko hemay. 用月桃葉包飯。同 'engac。
@@ -546,7 +545,7 @@ licayen(licay)    向某某詢問，提問。Licayen ci Kolas.去問古拉斯先
 licinowas    散開，裂開，離開。同 liwasak. 參見malicinowas.
 licing    碎片。'Arawi matapa' no licing. 小心被碎片割傷。
 liclic    訊問，審問，質問。Samaanay ko liclic no singsi. 老師質問的怎麼樣？參見 miliclic。
-liclicen(liclic)    把某某審問，質問。Liclicen no tapang kora suﬁtay. 長官要盤問那位士兵。
+liclicen(liclic)    把某某審問，質問。Liclicen no tapang kora sufitay. 長官要盤問那位士兵。
 licod    (從某附屬物中)拔出，抽出。同dicoh。參見 milicod、hodoc。
 licoden(licod)    把某物所屬物體中拔出、抽出。Licoden ko pacek. 把釘子拔掉。同dicohen、sodocen。
 licoh    拆除，使之脫離。Milicoh to falat. 拆除橫樑。參見 milicoh。
@@ -577,7 +576,7 @@ lifong    傳染病，瘟疫。Adihay ko lifong no itiyaayho a tamdaw. 過去的
 lifongoh(fongoh)    砍人頭，斬首。Caay pilifongoh ko 'Amis a tamdaw. 阿美族沒有砍人頭的。參見 milifongoh。
 lifongohen(fongoh)    把頭砍了、獵取了。Lifongohen ko 'ada. 向仇敵獵頭。
 lifot    麻煩，困擾。Aka ka lifot kiso i takowanan. 別對我厭煩。參見malifot、kalifotan。
-lifowas(fowas)    擴散，輻射，撒落四方。Malifowas ko kohaw. 湯滿溢了。參見 malifowas、malaﬁyas。
+lifowas(fowas)    擴散，輻射，撒落四方。Malifowas ko kohaw. 湯滿溢了。參見 malifowas、malafiyas。
 lihaf    閒話，謠言，傳聞。Tatiih ko lihaf iso i niyaro'. 在部落你的謠言不好。
 lihal    拂曉，黎明。Minokay kako to lihal.我黎明回來。同 nihar。參見 monihal。
 lihalih    (把柄)鬆動，鬆脫，搖動。Malihalih ko kafer nona kapah. 這個年輕人的褲子鬆姱。參見 malihalih、kihakih。
@@ -618,7 +617,7 @@ likowawen(kowaw)    把飛魚捉住。Likowawen niyam i riyal. 我們在海上�
 lilac    污垢，污穢，不乾淨。Cililac kona wawa. 這孩子不乾淨。同 lilic。參見malilac。
 lilal    竹編床台。Mafuti' kako i lilal to kalahokan. 中午我在竹編床台睡覺。
 lilam    分領，份兒。Ala^mang kita to lilam. 我們都分一點。同 kilac。參見mililam。
-lilamal(lamal)    取火，取火種。Mililamal ci Looh i ﬁyaw a talo'an. Looh 向隔壁的工寮借火種。參見 mililamal。
+lilamal(lamal)    取火，取火種。Mililamal ci Looh i fiyaw a talo'an. Looh 向隔壁的工寮借火種。參見 mililamal。
 lilamalen(lamal)    把火種取來。I parod a mililamal. 從爐灶取火種。
 lilamen(lilam)    把某物分配。Lilamen kora 'odax. 把那些糖果分了吧。
 lilamit(lamit)    拔根，除根。Lilamithan niyam ko 'icep. 我們拔除檳榔根。參見mililamit。
@@ -660,7 +659,7 @@ limood    圓形，圓的。Limood ko ta^ko'. 頭笠是圓的。同 kimood、lim
 limooday(limood)    呈圓形，圓的。Limooday a 'adicaw.圓的光滑石。
 limpo    蓮霧樹，蓮霧果。[閩南語借詞]Micakay to limpo. 去買蓮霧。Paloma kako to limpo. 我種植蓮霧。
 linah    遷移，移動，搬遷。Malinah ko aro' niyam. 我們遷居了。參見 milinah。
-linahen(linah)    把某物遷移、移動走。Linahen noya malitengay koni a tokos. 老人把這座山搬走。Linahen niyam ko kowang a mitoker tora tayniay a 'ada. 我們移動火槍抵抗來犯之敵。同 ﬁliden。
+linahen(linah)    把某物遷移、移動走。Linahen noya malitengay koni a tokos. 老人把這座山搬走。Linahen niyam ko kowang a mitoker tora tayniay a 'ada. 我們移動火槍抵抗來犯之敵。同 filiden。
 linalin    一種海藻，可食用。O linalin ko dateng no matayalay. 工人吃海藻菜。
 linay    油傘。Hawikiden ko linay a mitilid.帶傘去學校。
 lineknek    傾訴某事。參見 palineknek。
@@ -676,7 +675,7 @@ lingking    龍眼樹，龍眼。[閩南語借詞]Pakaenen ako ko wawa to lingki
 lingkingen(lingking)    把龍眼摘下來。Lingkingen koya marohemay. 去採熟的龍眼。
 lingkiw    辣椒。Tenasen to lingkiw ko futing.吃魚要沾辣椒。
 lingkiwen(lingkiw)    把辣椒摘下來。Lingkiwen koya i omahay. 去田裡把辣椒摘下來。
-lingko    蘋果樹，蘋果。[日語借詞]Maloﬁc ko heci no lingko. 蘋果結實纍纍。
+lingko    蘋果樹，蘋果。[日語借詞]Malofic ko heci no lingko. 蘋果結實纍纍。
 lingkoen(lingko)    把蘋果摘下來。Lingkoen a pakaenen to lafang. 我們摘蘋果給客人吃。
 lingling    覬覦，非分的貪念，聚集，簇擁在某物周圍。Milingling ko lalangaw to odah.. 蒼蠅聚集垂涎著糖果。
 lingod    圍觀，觀望。Tatiih a milingod to malasangay. 不可圍觀酒醉的人。
@@ -709,7 +708,7 @@ lipowak    分開，散開。參見 malipowak。
 lipowaken(powak)    把某物一下剖開、裂開。Lipowaken koya fafoy. 把豬剖開來。
 lirengos(rengos)    拔草。Milirengos kami i omah. 我們在山上拔草。參見 milirengos。
 lirengosen(rengos)    把草拔了。Lirengosen niyam koya omah anini. 今天我們要把那塊田地的草拔了。
-lisaot    聚會，開會討論，磋商。Mikapot kako to lisaot no ﬁnawlan. 我參與部落的聚會。參見 malisaot、sa'opo、lisafon。
+lisaot    聚會，開會討論，磋商。Mikapot kako to lisaot no finawlan. 我參與部落的聚會。參見 malisaot、sa'opo、lisafon。
 lisin    ①  祭祀，奉祀，祈禱。②  禁忌，詛咒。Pido^do to lisin no 'Amis. 要遵守阿美族的祭禮。參見 paysin。
 lisinan(lisin)    祭祀、節日慶典的類別。Adihay ko lisin no 'Amis. 阿美族有許多祭祀。O lisinan a romiad. 祭祀日
 liso'    探視，探望，訪問，拜訪。Tayniay ko faki a miliso' to ina ako. 舅舅有來探視我母親。參見 miliso'。
@@ -742,7 +741,7 @@ litingal(tingal)    剔牙，剔除牙垢。Militingal kako. 我剔牙。同 lit
 litingalen(tingal)    把牙垢剔除，把某某牙垢剔去。Litingalen no wawa ko tingal ningra.孩子在剔牙。同 litingasen。
 litingas(tingas)    剔牙，剔除牙垢。同 litingal。
 litingasen(tingas)    把牙垢剔除，給某某剔除。同litingalen。
-litod    摘穗，摘下，拔下來。Mafana' cingra a militod to 'aﬁnung. 他很會摘椰子果。參見 militod。
+litod    摘穗，摘下，拔下來。Mafana' cingra a militod to 'afinung. 他很會摘椰子果。參見 militod。
 litoden(litod)    把果實摘下來，拔下來。Litoden ko panay. 摘稻穗。Litoden ko fadiso'so'.把葡萄摘收下來。Litoden ako ko pacek. 我把釘子拔出來。
 litohok    (初生嬰兒)胖都都的。Makapah ko wawa litohok saan. 那嬰孩胖都都的。參見 malitohok。
 litosa(tosa)    一分為二，分成兩部分。Malitosa ko omah niyam to palilam no mato'asay.老人把田分兩半給我們。
@@ -799,10 +798,10 @@ lofades    (動物受驚嚇)四處逃散。Malofades ko waco to katayni niyam. �
 lofang    對七十歲以上長老的尊稱。O kakangodoen no mita ko lofang. 我們應尊敬長者。同 kalas。
 lofawa(fawa)    腫脹，長瘤子。Malofawa ko cepi' ako. 我的腿腫起來。同 lifawa。參見malofawa。
 lofayas    散架，散箍。Malofayas ko cadada to kakareteng no miparoan. 架子放太重的物品而散架了。參見 malofayas。
-lofic    拾、撿(遺漏的花生、蕃薯、稻穗等)。Miloﬁc kami to konga. 我們去撿地瓜。參見 miloﬁc。
-lofic    結實纍纍。Maloﬁc ko heci no palamicu. 波羅蜜結實纍纍。參見maloﬁc。
-loficen(lofic)    把遺物拾、撿起來。Loﬁcen ko materakay a lamlo. 把掉落的小米拾起來。同 faroyosen。
-lofis    (鈕扣、鎖鍊等)脫落。Maloﬁs ko hana. 花落了。參見 maloﬁs、leﬁs。
+lofic    拾、撿(遺漏的花生、蕃薯、稻穗等)。Milofic kami to konga. 我們去撿地瓜。參見 milofic。
+lofic    結實纍纍。Malofic ko heci no palamicu. 波羅蜜結實纍纍。參見malofic。
+loficen(lofic)    把遺物拾、撿起來。Loficen ko materakay a lamlo. 把掉落的小米拾起來。同 faroyosen。
+lofis    (鈕扣、鎖鍊等)脫落。Malofis ko hana. 花落了。參見 malofis、lefis。
 loflof    (木板等)搖動，鬆動。Mangiyangi no fali ha maloﬂof ko hecek i matini.柱子被風吹動現在有些鬆動了。參見maloﬂof。
 lofoc    布袋，袋子。Paroen i lofoc ko felac.把米放入袋裡。
 lofong    雨具，皮革斗篷。Pataynien ko lofong.把雨具帶來。

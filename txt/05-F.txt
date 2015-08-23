@@ -1,4 +1,3 @@
-
 f    阿美語輔音之一。屬唇齒清擦音，音值為[f]。f 在北部方言區為雙唇濁塞音[b]，也有演變雙唇濁擦音[β]，或者唇齒濁擦音[V]；在其他方言區則清化為[f]。f 處在詞尾有長音化傾向。
 faar    枯黃，發黃。Faar saan ko mipalomaan ningra a dateng. 她種的菜枯黃了。參見 mafaar。
 faca'    洗，洗滌(衣服)。Malalok kako a mifaca' i alo'. 我常在河邊洗衣。參見mifaca'。
@@ -7,7 +6,7 @@ facacenal    黃蜂，胡蜂。Mari'ang ko facacenal.黃蜂很兇悍。同 cacen
 facacidalay    螳螂。Ma'fel ko facacidalay. 螳螂會飛。同 kakawang、kacidalay。
 facacido'    蜻蜓。Mitinac i nanom ko facacido'.蜻蜓在點水。參見 fadadico'、fadadayaw。
 facacili    麻雀。Romadiw i ca'ang no kilang ko facacili. 麻雀在樹枝上唱歌。同 cilicili。
-facaco'ay    壁虎。Makapa ni kaka ko facaco'ay.哥哥摸到壁虎。同 faﬁkﬁk、fatektekay、kaco'co'ay、fakakotoc、fadico'co。
+facaco'ay    壁虎。Makapa ni kaka ko facaco'ay.哥哥摸到壁虎。同 fafikfik、fatektekay、kaco'co'ay、fakakotoc、fadico'co。
 facafacalan(facal)    [疊 2]梯田上，田畦裡。Palomaen ni ina i facafacalan ko 'alilay. 媽媽在梯田種玉米。
 facal    ①  田畦 ②  梯田。Cecay a facal ko mikankangan ako. 我犁了一畦田。同lako。
 facfac    (用樹枝等物)抽打，鞭打。Facfac han ni mama to saasik ko safa. 爸爸用掃把抽打弟弟。同 pacpac、ti'ti'。參見 mifacfac。
@@ -66,7 +65,7 @@ faes    糯米糕。O faes ko sakalahok nangra.他們中餐吃糯米糕。同 to
 fa'eso    冷卻，涼了。同 fasaw。參見 mafa'eso。
 fa'etic    甩過去，甩起來。Fa'etic han ningra ko satoktok. 他把瑯頭甩過去。參見mifa'etic。
 fa'eticen(fa'etic)    把(釣竿)甩出來。Fa'eticen ningra ko 'aliwal a mikakoy. 他把釣竿舉起來甩過去。
-fa'etichan(fa'etic)    就把(釣竿)甩出去。Pakaﬁten i pacemot ko sapariri, fa'etichan ko 'aliwal i nanom. 把魚餌掛在魚鈎上，就把釣竿甩到水裡。
+fa'etichan(fa'etic)    就把(釣竿)甩出去。Pakafiten i pacemot ko sapariri, fa'etichan ko 'aliwal i nanom. 把魚餌掛在魚鈎上，就把釣竿甩到水裡。
 fafa    揹負，揹(孩子)。Fafa han no malitengay ko wawa a mi'anip. 老人們背著孩子插秧。
 fafa'ecicen(fa'ecic)    [疊 2]要甩上來，要甩上來的東西。Fafa'ecicen no kolong ko 'asisw a komaen. 牛把稻草甩來吃。同 wa'cik、fatelik。
 fafa'ed(fa'ed)    [疊 2]在上層，在上面，在上方。Ira i fafa'ed ko loma' ako. 我的家在上面。Pasifafa'ed ko rakat niyam. 我們向上面走。Telien i fafa'ed ko fati. 把戒子擺在上面。同 kafekang、faed。
@@ -137,29 +136,29 @@ fafereten(feret)    [疊 2]要扔過去的、要丟過去的。Fafereten a mifal
 faferferen(ferfer)    [疊 2]要吹散，要吹散的東西。Faferferen a tahfod. 要吹散的灰塵。
 fafesocen(fesoc)    [疊 2]要直走的、直行的。O fafesocen a romakat kona lalan. 這條路是要直行的路。
 fafetesen(fetes)    [疊 2]①  要給牲口的鼻子穿孔，要穿鼻孔 ②  要把膿擠出來。O fafetesen ko ngoso' no kolong a mimanis. 要把牛的鼻子穿孔以便套上鼻孔圈。Fafetesen ko fena' no doka'. 要把傷口的膿擠出來。
-fafi'enoten(fi'enot)    [疊 2]要拔掉，要拔掉的草。Faﬁ'enoten a samado. 要拔掉水稻中的雜草。
-faficficen(ficfic)    [疊 2]要拉扯的、扯動的。Faﬁcﬁcen a lamit. 要扯動的根。
-fafihfihen(fihfih)    [疊 2]要搖擺扇出風來、搖曳的東西。Faﬁhﬁhen a namal. 要搖擺加旺的火。Faﬁhﬁhen a riko'. 要搖曳的衣服。參見 pihpih.
-fafihekacen(fihekac)    [疊 2]要用捕鳥器捕鳥，要捕捉的。Faﬁhekacen a molafaw. 要捕捉的田鼠。
-fafihonen(fihon)    [疊 2]要化妝裝飾，要化妝的人。Faﬁhonen a kaying. 被化妝的姑娘。
-fafikawen(fikaw)    [疊 2]要彎曲的東西。Faﬁkawen a marad. 要彎曲的鐵。
-fafikfik(fikfik)    [疊 2]壁虎。Ma'araw ako ko faﬁkﬁk i moco'. 我在牆壁上看到壁虎。同 fadico'co'、ﬂadoda。
-fafikfiken(fikfik)    [疊 2]要甩掉的東西，用手大力搖落東西。Faﬁkﬁken ko riko' a mitfad to tafok. 用手大力搖落衣服上的沙子。同tatihtihen。
-fafikoden(fikod)    [疊 2]要絆倒，要絆倒的人。Faﬁkoden a tamdaw. 要絆倒的。
-fafila'en(fila')    [疊 2]要摘取的荖葉。Onini a facal ko faﬁla'en. 要採收荖葉的就是這塊田。
-fafiliden(filid)    [疊 2]要移走的，要遷移的。用手抱著走。Faﬁliden ko adadaay a paising.要把病人抬著去看病。同 lalinahen。
-fafilo(filo)    [疊 2]相互比勁，較勁。Mafaﬁlo kami to tatayalen. 我們在工作上較勁。參見 mafaﬁlo。
-fafilofilo(filo)    [疊 1]大家相互比勁，較勁。Faﬁloﬁlo saan ko maomahay a mipanay. 農夫割稻時相互較勁。參見mafaﬁloﬁlo。
+fafi'enoten(fi'enot)    [疊 2]要拔掉，要拔掉的草。Fafi'enoten a samado. 要拔掉水稻中的雜草。
+faficficen(ficfic)    [疊 2]要拉扯的、扯動的。Faficficen a lamit. 要扯動的根。
+fafihfihen(fihfih)    [疊 2]要搖擺扇出風來、搖曳的東西。Fafihfihen a namal. 要搖擺加旺的火。Fafihfihen a riko'. 要搖曳的衣服。參見 pihpih.
+fafihekacen(fihekac)    [疊 2]要用捕鳥器捕鳥，要捕捉的。Fafihekacen a molafaw. 要捕捉的田鼠。
+fafihonen(fihon)    [疊 2]要化妝裝飾，要化妝的人。Fafihonen a kaying. 被化妝的姑娘。
+fafikawen(fikaw)    [疊 2]要彎曲的東西。Fafikawen a marad. 要彎曲的鐵。
+fafikfik(fikfik)    [疊 2]壁虎。Ma'araw ako ko fafikfik i moco'. 我在牆壁上看到壁虎。同 fadico'co'、ﬂadoda。
+fafikfiken(fikfik)    [疊 2]要甩掉的東西，用手大力搖落東西。Fafikfiken ko riko' a mitfad to tafok. 用手大力搖落衣服上的沙子。同tatihtihen。
+fafikoden(fikod)    [疊 2]要絆倒，要絆倒的人。Fafikoden a tamdaw. 要絆倒的。
+fafila'en(fila')    [疊 2]要摘取的荖葉。Onini a facal ko fafila'en. 要採收荖葉的就是這塊田。
+fafiliden(filid)    [疊 2]要移走的，要遷移的。用手抱著走。Fafiliden ko adadaay a paising.要把病人抬著去看病。同 lalinahen。
+fafilo(filo)    [疊 2]相互比勁，較勁。Mafafilo kami to tatayalen. 我們在工作上較勁。參見 mafafilo。
+fafilofilo(filo)    [疊 1]大家相互比勁，較勁。Fafilofilo saan ko maomahay a mipanay. 農夫割稻時相互較勁。參見mafafilofilo。
 fahinefaen    [疊 2]要趴下，要讓…趴下。Fahinefaen no siri a micoco. 羊要趴下吃奶。
-fafinoren(finor)    [疊 2]要弄渾濁，要弄渾濁的水。Faﬁnoren ko na fanaw. 這池塘要弄渾濁。
-fafirang(firang)    [疊 2]彼此生氣，吵架。Faﬁrang saan a mararamod. 夫妻吵架。同farot。參見 mafaﬁrang。
+fafinoren(finor)    [疊 2]要弄渾濁，要弄渾濁的水。Fafinoren ko na fanaw. 這池塘要弄渾濁。
+fafirang(firang)    [疊 2]彼此生氣，吵架。Fafirang saan a mararamod. 夫妻吵架。同farot。參見 mafafirang。
 fafitangalen(fitangal)    [疊 2]要摘取人的頭顱，要摘取的瓜。參見 litangal 獵人頭。
-fafitayen(fitay)    [疊 2]要用米篩子篩，要篩的穀物。faﬁtayen a felac. 要篩的米。
-fafitelaken(fitelak)    [疊 2]要撥開的、劈開的東西。Faﬁtelaken a ﬁta'ol. 要破開的蛋。
-fafitonayan(fitonay)    [疊 2]刺竹林裡。Mateli i faﬁtonayan ko po'ot. 小刀放在刺竹林裡。同 ﬁtonatonayan。
+fafitayen(fitay)    [疊 2]要用米篩子篩，要篩的穀物。fafitayen a felac. 要篩的米。
+fafitelaken(fitelak)    [疊 2]要撥開的、劈開的東西。Fafitelaken a fita'ol. 要破開的蛋。
+fafitonayan(fitonay)    [疊 2]刺竹林裡。Mateli i fafitonayan ko po'ot. 小刀放在刺竹林裡。同 fitonatonayan。
 fafitowa'en(fitowa')    [疊 2]要裂開、破裂的東西。
-fafiyacen(fiyac)    [疊 2]要略微舒展，要把四肢伸展的。Faﬁyacen ko kolol. 要伸展背脊。
-fafiyoken(fiyok)    [疊 2]要猛烈吹拂，強風猛烈一陣吹過。Faﬁyoken no fali a talo'an. 要被風猛烈吹掉的工寮。
+fafiyacen(fiyac)    [疊 2]要略微舒展，要把四肢伸展的。Fafiyacen ko kolol. 要伸展背脊。
+fafiyoken(fiyok)    [疊 2]要猛烈吹拂，強風猛烈一陣吹過。Fafiyoken no fali a talo'an. 要被風猛烈吹掉的工寮。
 fafekaden(fekad)    [疊 2]要驚擾、驚動的動物。Fafekaden a 'ayam. 要驚動的鳥。
 fafekoten(fekot)    [疊 2]要收縮、彎曲的手腳或東西。Fafekoten a kamay. 要灣曲的手。
 fafelihen(felih)    [疊 2]要翻動過來，要翻動過來的。Fafelihen a defak. 要翻耕的菜畦。
@@ -201,10 +200,10 @@ fafetiren(fetir)    [疊]要用手指彈撥的、發射的對像，用橡皮彈�
 fafuti'en(futi')    [疊 2]睡意，要睡覺的念頭。Hemeksa cingra to pina a dadaya caay ka ala ko fafuti'en ningra. 他高興得幾夜沒睡覺。
 fafutingen(futing)    [疊 2]要捕捉的魚。Fafutingen a fanaw. 要捕魚的池塘。
 faha    咳嗽。Mafaha kako to kasi'nawan. 我冬天會咳嗽。同 koec。參見 mafaha。
-fahadil    樅樹，杉樹。Iraay i tokos ko fahadil.山上有杉樹。同 fahdil、ﬁdngal。
+fahadil    樅樹，杉樹。Iraay i tokos ko fahadil.山上有杉樹。同 fahdil、fidngal。
 fahal    突然的，令人意外地。Fahal i tapal cingra a milkal. 他突然在對面大喊一聲。陌生，生疏，不熟悉。O kafahalan ako cingra. 我對他很陌生。參見 mafahal。
 fahalsa(fahal)    突然地，出乎意外地。Fahalsa ira ci Alik. 突然阿莉小姐出現了。Fahalsa a mawakang ko widang ako. 我的朋友突然昏倒。Fahalsa a mapadeng ko dingki. 電燈突然熄滅。
-fahdil    樅樹，杉樹。Mipaloma kako to fahdil anini. 我今天要種杉樹。同 fahadil、ﬁdngal。
+fahdil    樅樹，杉樹。Mipaloma kako to fahdil anini. 我今天要種杉樹。同 fahadil、fidngal。
 fahfah    ①  巫師作法驅邪。②  趕走，驅逐。Mifahfah ko cikawasay. 巫師在作法驅邪。 參見 mifahfah。同 fafahfahen。
 fahfahen(fahfah)    把(動物、邪鬼)趕走。Fahfahen ko totoy iso. 把你的小狗趕走。
 faheka'    驚訝，詫異。Faheka' kako to pinangan iso. 我對你的表現很驚訝。
@@ -278,9 +277,9 @@ falinono    長在水田的糯米。O falinono ko sapiala to kadafo. 娶媳婦�
 falisan    高粱。Manga'ay a sa'pahen ko falisan. 高粱很好釀酒。同 faliyasan。
 falisanan(falisan)    高粱的種類。Nani cowaay a falisanan konini. 這是那裡的高粱種。
 falitawi'an    裙子兩邊的開口處。Macinasay ko falitawi'an no talip iso. 妳裙子兩邊的開口處撕裂了。
-falitfit    痱子。Ci falitﬁt ko kolol no wawa.孩子背上長痱子。同 tefeni。
-falitfitay(falitfit)    有痱子，發癢的。Falitﬁtay ko tifeni ako. 我的痱子很癢。同 tofeni、calikcik。
-faliwfiw    風吹聲。Faliwﬁw ko fali inacila. 昨天的風很強。同 fariwﬁw。
+falitfit    痱子。Ci falitfit ko kolol no wawa.孩子背上長痱子。同 tefeni。
+falitfitay(falitfit)    有痱子，發癢的。Falitfitay ko tifeni ako. 我的痱子很癢。同 tofeni、calikcik。
+faliwfiw    風吹聲。Faliwfiw ko fali inacila. 昨天的風很強。同 fariwfiw。
 faliwfiw    大苧麻。
 faliyasan    高粱。Mapalomaayto ko faliyasan i omah. 田裡已種了高粱。同 falisan、fadisan。
 faliyos    颱風。Mararid i Posong a micomod ko faliyos. 颱風常在台東登陸。
@@ -367,12 +366,12 @@ fariri    ①  墾荒時砍伐草木。②  橫甩棍棒。同faresiw。參見 m
 faririen(fariri)    ①  墾荒時把草木砍伐。②  橫甩棍棒。同 faresiwen。
 fariw    開墾荒野時砍伐雜草。Mifariw kami to lotok. 我們砍伐山林。參見mifariw。
 fariwen(fariw)    開墾荒野時要把雜草砍伐。Fariwen ako koya likot. 我要把那片土地的草木砍伐了。
-fariwfiw    風吹聲颼颼地。Fariwﬁw ko soni no fali. 風聲颼颼地。同 faliwﬁw。
+fariwfiw    風吹聲颼颼地。Fariwfiw ko soni no fali. 風聲颼颼地。同 faliwfiw。
 farohfohay    毛線。Pi'aca to farohfohay a keliw.去買毛線。同 fodoy。
 farongafing    綠海蜇。
 faroro    藤筐，背簍。Mikoyod kami to faroro a maomah. 我們背著藤筐工作。同takoyodan。
-faroyos    稻穀散落一地。Faroyos sa ko panay i sera. 稻穀散落滿地。同 loﬁc。參見mifaroyos。
-faroyosen(faroyos)    把撒落地上的稻穀拾起來。Faroyosen niyam ko panay. 我們把撒落的稻穀拾起來。同 loﬁcen。
+faroyos    稻穀散落一地。Faroyos sa ko panay i sera. 稻穀散落滿地。同 lofic。參見mifaroyos。
+faroyosen(faroyos)    把撒落地上的稻穀拾起來。Faroyosen niyam ko panay. 我們把撒落的稻穀拾起來。同 loficen。
 fasal    蛔蟲。Ci fasal ko wawa. 孩子有蛔蟲。
 fasaw    冷卻，涼的。Fasaw a holo. 冷飯。參見 mifasaw。
 fasawen(fasaw)    把某物冷卻一下，把熱度做冷卻處理。Fasawen ko fa'det no loma'. 把房子裡的熱度冷卻一下。參見 mafasaw.
@@ -393,7 +392,7 @@ fatakolongay    石礱子。
 fatatangad    樹墩兒。
 fatato'ongay    燕子。Makapah ko 'fel no fatato'ongay. 燕子飛翔時真好看。同fatata'ongay、'alolil、palicaw。
 fatawngi'    木耳。Pacamolen to fataongi' ko dateng a mitangtang. 煮菜時加上木耳。同 talonged.
-fatektekay(tektek)    壁虎。Caay ka talaw ko ka'mangay to fatektekay. 小孩子不怕壁虎。同facaco'ay、faﬁkﬁk、falico'co'ay。
+fatektekay(tektek)    壁虎。Caay ka talaw ko ka'mangay to fatektekay. 小孩子不怕壁虎。同facaco'ay、fafikfik、falico'co'ay。
 fatel    綁、繫。Makapah ko fatel noya kaying to tapad. 那小姐的綁綁腿很好。
 fateng    蜘蛛網。Mimokmok kami to fateng i lotok. 我們在山中躦蜘蛛網。同karifateng。
 fater    阻礙，打擾。Mifater cangra to tayal ako. 他們打擾我的工作。同 cara'。參見 mifater。
@@ -471,8 +470,8 @@ ferengsa(fereng)    一窩蜂湧上去。Ferengsa cangra a tayra a miradom to ne
 feret    扔過去，丟過去。Feret han ningra ko cakelis. 他把斧頭丟過去。參見miferet。
 fereten(feret)    把某物扔過去，丟過去。Fereten no mifutingay ko futing i hekal. 漁夫把魚甩到岸上。
 ferethan(feret)    就把某物扔下來、甩下來。Mangatato a mapatay koya misti'an, ferethan ningra koya fafoy i la'no no tono'. 打得快死了，他就把那隻山豬扔到山崖下面。
-ferfer    被風吹起來，飄飛。Maferfer no fali ko kafong ako. 我的帽子被風吹起來。同 ﬁwﬁw。參見 miferfer。
-ferferen(ferfer)    把某物吹起來、飄飛起來。Ferferen no fali ko aﬁh no panay. 風把殼糠吹得飛起來。
+ferfer    被風吹起來，飄飛。Maferfer no fali ko kafong ako. 我的帽子被風吹起來。同 fiwfiw。參見 miferfer。
+ferferen(ferfer)    把某物吹起來、飄飛起來。Ferferen no fali ko afih no panay. 風把殼糠吹得飛起來。
 ferferhan(ferfer)    就把某物吹得飄飛起來。Ferferhan no fali koya sasing tala raaraay. 風就把那張照片吹到很遠的地方。
 feri'ak    休克，昏迷，暈厥。Mapolin cingra feri'ak saan. 他休克倒下。同 fori'ak、seka'。參見 maferi'ak。
 feriw    微風輕拂。Makapah ko romi'ad anini feriw saan ko fali. 今天天氣好微風輕拂。
@@ -482,99 +481,99 @@ fesi'    撲騰一聲(魚躍貌)，濺到水。Mafesi no taplik no riyal ko riko
 fesi'sa(fesi')    撲騰著濺水。Fesi'sa ko futing i nananoman. 魚在水面上打撲騰。
 feto    手、腳起水泡。同 foto。
 fetik    祈求。Mifetik ko cikawasy. 巫師祈求。參見 mifetik。
-fi'ik    臉頰，腮幫子。Ciposak ko ﬁ'ik iso.你臉上有飯粒。
-fi'enot    拔(草)。參見 miﬁ'enot。
+fi'ik    臉頰，腮幫子。Ciposak ko fi'ik iso.你臉上有飯粒。
+fi'enot    拔(草)。參見 mifi'enot。
 fi'enoten(fi'enot)    去把草拔。Fi'enoten ko rengos. 把青草拔掉。
-ficfic    拉扯，拉一下。Ficﬁc han no wawa ko riko' no ina ningra. 孩子把他媽媽的衣服拉扯。參見 miﬁcﬁc。
-ficficen(ficfic)    把某物拉扯，拉一下。Ficﬁcen ako ko kiping no kaka. 我把哥哥的上衣扯動一下。
-ficin    。(閩南語借詞)。①  米升，升(容器) 。Lima a ﬁcin ko lamlo.②  升(量詞) 小米五升。同 ﬁcing。
-ficing    。(閩南語借詞)。①  米升，升(容器) 。同 ﬁcin。②  升(量詞) 
-ficekot    抽筋，痙攣。Mafuti' kako to dadaya i mararid a ciﬁcekot kako. 晚上睡覺時我經常抽筋。參見 maﬁcekot。
-fida'olaw    軟毛柿。Mipaloma kami to ﬁda'olaw anini a miheca. 我們今年種了軟毛柿。同 kamaya、kafohongay。
-fidac    蚌，蛤。Adihay ko ﬁdac i omah niyam. 我們田裡很多蚌子。
-fidang    柚、柑橘的一瓣。Palada'en kako to cecay a ﬁdang no wilok. 請給我一瓣柚子。
-fidangan(fidang)    一片瓣兒。Pina ko 'aca no cecay a ﬁdangan a mami' no miso? 你的橘子一瓣兒賣多少？
-fidaol    ①  胡瓜，甜瓜，香瓜。②  一種青草，牛可食用。Komaen to ﬁdaol ko kolong niyam. 我家的牛會吃香瓜。
-fidas    白廯，皮膚病。Katiih ko fanges ako adihay ko ﬁdas. 我皮膚不好長很多白廯。同 fodas。
-fideto    鋁。O ﬁdeto ko sioy nangra. 他們的鍋子是鋁製的。同 fadito。
-fidfid    按順序排列、堆積或分配。O mami lilam kami to riko' saka masaﬁdﬁd kami a masa'opo. 我們要領衣服所以我們按順序排列集合。同 silsil。參見maﬁdﬁd。
-fidic    小杉木。O ﬁdic ko sapisanga' niyam to palatawan. 我們用杉木製作窗戶。
-fidngal    。同 fahdil.①  杉木、樅木(常綠樹) ②  魚鱗松。Manga'ayay ko ﬁdngal a sapisaloma'. 杉木是很好的建材。同 fahadil、fahdil。
-fidoso'    琉璃珠子項鍊。Malalok ko Paliwan a misanga' to ﬁdoso'. 排灣族善於製作琉璃珠子項鍊。
-fihahak    發酵。Maﬁhahak koya utong. 那麵粉發酵了。同 fohahak、foaw。參見maﬁhahak。
-fiher    梯子。Alaen ako ko ﬁher a mitokong to kowa'. 我拿梯子採木瓜。同kawal、tokar。
+ficfic    拉扯，拉一下。Ficfic han no wawa ko riko' no ina ningra. 孩子把他媽媽的衣服拉扯。參見 mificfic。
+ficficen(ficfic)    把某物拉扯，拉一下。Ficficen ako ko kiping no kaka. 我把哥哥的上衣扯動一下。
+ficin    。(閩南語借詞)。①  米升，升(容器) 。Lima a ficin ko lamlo.②  升(量詞) 小米五升。同 ficing。
+ficing    。(閩南語借詞)。①  米升，升(容器) 。同 ficin。②  升(量詞) 
+ficekot    抽筋，痙攣。Mafuti' kako to dadaya i mararid a cificekot kako. 晚上睡覺時我經常抽筋。參見 maficekot。
+fida'olaw    軟毛柿。Mipaloma kami to fida'olaw anini a miheca. 我們今年種了軟毛柿。同 kamaya、kafohongay。
+fidac    蚌，蛤。Adihay ko fidac i omah niyam. 我們田裡很多蚌子。
+fidang    柚、柑橘的一瓣。Palada'en kako to cecay a fidang no wilok. 請給我一瓣柚子。
+fidangan(fidang)    一片瓣兒。Pina ko 'aca no cecay a fidangan a mami' no miso? 你的橘子一瓣兒賣多少？
+fidaol    ①  胡瓜，甜瓜，香瓜。②  一種青草，牛可食用。Komaen to fidaol ko kolong niyam. 我家的牛會吃香瓜。
+fidas    白廯，皮膚病。Katiih ko fanges ako adihay ko fidas. 我皮膚不好長很多白廯。同 fodas。
+fideto    鋁。O fideto ko sioy nangra. 他們的鍋子是鋁製的。同 fadito。
+fidfid    按順序排列、堆積或分配。O mami lilam kami to riko' saka masafidfid kami a masa'opo. 我們要領衣服所以我們按順序排列集合。同 silsil。參見mafidfid。
+fidic    小杉木。O fidic ko sapisanga' niyam to palatawan. 我們用杉木製作窗戶。
+fidngal    。同 fahdil.①  杉木、樅木(常綠樹) ②  魚鱗松。Manga'ayay ko fidngal a sapisaloma'. 杉木是很好的建材。同 fahadil、fahdil。
+fidoso'    琉璃珠子項鍊。Malalok ko Paliwan a misanga' to fidoso'. 排灣族善於製作琉璃珠子項鍊。
+fihahak    發酵。Mafihahak koya utong. 那麵粉發酵了。同 fohahak、foaw。參見mafihahak。
+fiher    梯子。Alaen ako ko fiher a mitokong to kowa'. 我拿梯子採木瓜。同kawal、tokar。
 fiher    車輪。
-fihfih    搖動，搖曳，搖擺。Awaay ko caay ka ﬁhﬁh no fali a tamina. 沒有一艘船是不被風搖動。同 fahfah。參見miﬁhﬁh。
-fihfihen(fihfih)    要把某物搖動、搖擺。Fihﬁhen no wawa ko riko' no wina ningra. 小孩搖動他母親的衣服。
-fihid    甲狀腺、淋巴腺。Ci adada ko faki ako to ﬁhid. 我舅舅得了甲狀腺炎。同ﬁro'ok、poco'。
-fihekac    一種捕鳥器，用陷阱捕鳥。Mihawikid ci Kacaw to ﬁhekac a talalotok. 卡兆先生帶著捕鳥器去上山。
+fihfih    搖動，搖曳，搖擺。Awaay ko caay ka fihfih no fali a tamina. 沒有一艘船是不被風搖動。同 fahfah。參見mifihfih。
+fihfihen(fihfih)    要把某物搖動、搖擺。Fihfihen no wawa ko riko' no wina ningra. 小孩搖動他母親的衣服。
+fihid    甲狀腺、淋巴腺。Ci adada ko faki ako to fihid. 我舅舅得了甲狀腺炎。同firo'ok、poco'。
+fihekac    一種捕鳥器，用陷阱捕鳥。Mihawikid ci Kacaw to fihekac a talalotok. 卡兆先生帶著捕鳥器去上山。
 fihekacen(fihekac)    用捕鳥器捕鳥。Fihekacen ko 'ayam.用捕鳥器捕鳥。
-fihon    塗脂抹粉，化妝。Patadoen no ina ko wawa a miﬁhon. 媽媽幫孩子化粧。同cipoh。
+fihon    塗脂抹粉，化妝。Patadoen no ina ko wawa a mifihon. 媽媽幫孩子化粧。同cipoh。
 fihonen(fihon)    把某人塗脂抹粉，化妝美飾。Fihonen ningra ko laway. 她臉部化妝。
-fikaw    鐵絲等的彎曲。Caay ko mamaﬁkaw konini a 'ric. 這鐵絲是無法灣曲的。參見 miﬁkaw、miﬁkoko。
+fikaw    鐵絲等的彎曲。Caay ko mamafikaw konini a 'ric. 這鐵絲是無法灣曲的。參見 mifikaw、mifikoko。
 fikawen(fikaw)    把鐵絲等彎曲。Fikawen ako ko 'ric.我把鐵絲折彎。
-fikfik    用力抖落，摜下來。Makarat no falalihod cingra saka ﬁkﬁk han ningra koya falalihod. 他被蜜蜂叮所以用力把蜜蜂甩落。參見 miﬁkﬁk。
-fikfiken(fikfik)    把某物用力抖落下來。Fikﬁken ko kamay iso ! 甩一下你的手！ Fikﬁken ako ko lopas ta materak. 我把桃子抖落下來。
-fikod    絆，絆住。Caay ka ﬁkod niyam ko adengang no tao. 我們沒把人家的椅子絆倒。參見 miﬁkod。
-fikoden(fikod)    把某人某物絆倒。Aka ﬁkoden ko losay no tao. 不要把別人的農作物絆倒。
-fikoko    彎。Fikoko sa a mafuti' koya malasangay i lalan. 那醉酒的人在路上彎著身睡。同 ﬁkeaw。
-fila'    荖葉。Mi'aca ko wawa to ﬁla' i patiyamay. 孩子在店舖買荖葉。
-fila'en(fila')    摘取荖葉。Fila'en nangra ko ﬁla' niyam. 他們摘了我們的荖葉。同 ﬁkaw.
-filfil    嘴唇。Malifawa ko ﬁlﬁl no widang ako. 我朋友的嘴唇腫起來。
+fikfik    用力抖落，摜下來。Makarat no falalihod cingra saka fikfik han ningra koya falalihod. 他被蜜蜂叮所以用力把蜜蜂甩落。參見 mifikfik。
+fikfiken(fikfik)    把某物用力抖落下來。Fikfiken ko kamay iso ! 甩一下你的手！ Fikfiken ako ko lopas ta materak. 我把桃子抖落下來。
+fikod    絆，絆住。Caay ka fikod niyam ko adengang no tao. 我們沒把人家的椅子絆倒。參見 mifikod。
+fikoden(fikod)    把某人某物絆倒。Aka fikoden ko losay no tao. 不要把別人的農作物絆倒。
+fikoko    彎。Fikoko sa a mafuti' koya malasangay i lalan. 那醉酒的人在路上彎著身睡。同 fikeaw。
+fila'    荖葉。Mi'aca ko wawa to fila' i patiyamay. 孩子在店舖買荖葉。
+fila'en(fila')    摘取荖葉。Fila'en nangra ko fila' niyam. 他們摘了我們的荖葉。同 fikaw.
+filfil    嘴唇。Malifawa ko filfil no widang ako. 我朋友的嘴唇腫起來。
 filid    抬著走。
-filiden(filid)    把某物搬遷、抬走。Mafolaw cangra saka ﬁliden nangra ko kalomaamaan.他們要搬家所以把東西都搬走。同linahen。
-filo    啤酒。[日語借詞]Caay ka komaen kako to ﬁlo. 我不喝啤酒。
-filo    能夠，可以做到，急著做完。Ma'edeng kamo a miﬁlo saw? 你們可以做到嗎？參見 maﬁlo。
-filoen(filo)    幹吧，去把工作趕著做完。Ati ﬁloen ita ! 來，我們幹吧！
-filomo    軟片。[日語借詞]Matawal ako ko ﬁlomo. 我忘了帶軟片。
+filiden(filid)    把某物搬遷、抬走。Mafolaw cangra saka filiden nangra ko kalomaamaan.他們要搬家所以把東西都搬走。同linahen。
+filo    啤酒。[日語借詞]Caay ka komaen kako to filo. 我不喝啤酒。
+filo    能夠，可以做到，急著做完。Ma'edeng kamo a mifilo saw? 你們可以做到嗎？參見 mafilo。
+filoen(filo)    幹吧，去把工作趕著做完。Ati filoen ita ! 來，我們幹吧！
+filomo    軟片。[日語借詞]Matawal ako ko filomo. 我忘了帶軟片。
 filowa    籮筐。[閩南語借詞]
-finacadan    種族，族群。Masasilomaloma ko pinangan no ﬁnacadan i Taiwan. 台灣各族的生活習慣不同。
-finafariwan(fariw)    砍伐開墾的荒地。Kakahad ko ﬁnafariwan ako. 我開墾的荒地面積很大。同 kinafariwan。
-finawlan    部落全體族人、民眾。Malipahak ko ﬁnawlan anini a mihecaan to pikrid no kakitaan. 今年全部落族人樂意部落領袖的領導。
-finafinawlan(finawlan)    [疊 2]鄉親們。Malipahak ko ﬁnaﬁnawlan i ilisin. 豐年節時鄉親們都很歡悅。
-final    間苗，移植。(把密擠的秧苗中移除一部分)。同 ﬁsal。
-finangay    ①  一種稻子的名稱。Icowaay kamo a miala to sapaloma no ﬁnangay? 你們在何處取這稻種？②  水田裡的浮游物，腐爛後可做肥料。
-finefa    趴下，面朝地躺下。Ano ira ko hikoki no 'ada ﬁnefa han i sera. 若敵機臨空就趴在地面。同 hinefa。參見 miﬁnefa。
-finefaen(finefa)    使對方趴下，命令對方趴下。Papi ﬁnefaen no singsi ko maliyangay a tamdaw. 老師叫不聽話的人趴下。
-fingkes    用煙葉片捲成的煙葉。Milipot ko mamo to ﬁngkes. 奶奶用煙葉片捲著煙葉。
-fingtang    臉盆。[閩南語借詞]Paroen ko nanom i ﬁngtang. 把水裝在臉盆。
-finor    水濁，渾濁。Malipa'ay no kolong saka ﬁnor saan ko nanom. 牛踏過所以水變渾濁。參見 miﬁnor。同 mangota、rohimor。
-finoren(finor)    把水攪渾濁。Mana ﬁnoren koni a nemnem? 為什麼把這泉水攪渾濁？ Finoren no wawa ko nanom i ciwkeng. 小孩把水缸裡的水弄渾濁了。同 ﬁyor、cawcaw。
-firang    生氣，發怒，憤慨。Cima ko caay ka ﬁrang no tamdaw. 什麼人不生氣。同inget、keter、tomay。參見 maﬁrang。
-firo'ok    甲狀腺。Tata'ang ko lifawa no ﬁro'ok ni mamo ako. 我奶奶的甲狀腺腫大。同 ﬁhid、poco'。
-fisal    間苗。同 ﬁnal。
-fita'o    廢水池，小池子。Masakango ko ﬁta'o i omah nangra. 他們田裡有一塊廢水池。
+finacadan    種族，族群。Masasilomaloma ko pinangan no finacadan i Taiwan. 台灣各族的生活習慣不同。
+finafariwan(fariw)    砍伐開墾的荒地。Kakahad ko finafariwan ako. 我開墾的荒地面積很大。同 kinafariwan。
+finawlan    部落全體族人、民眾。Malipahak ko finawlan anini a mihecaan to pikrid no kakitaan. 今年全部落族人樂意部落領袖的領導。
+finafinawlan(finawlan)    [疊 2]鄉親們。Malipahak ko finafinawlan i ilisin. 豐年節時鄉親們都很歡悅。
+final    間苗，移植。(把密擠的秧苗中移除一部分)。同 fisal。
+finangay    ①  一種稻子的名稱。Icowaay kamo a miala to sapaloma no finangay? 你們在何處取這稻種？②  水田裡的浮游物，腐爛後可做肥料。
+finefa    趴下，面朝地躺下。Ano ira ko hikoki no 'ada finefa han i sera. 若敵機臨空就趴在地面。同 hinefa。參見 mifinefa。
+finefaen(finefa)    使對方趴下，命令對方趴下。Papi finefaen no singsi ko maliyangay a tamdaw. 老師叫不聽話的人趴下。
+fingkes    用煙葉片捲成的煙葉。Milipot ko mamo to fingkes. 奶奶用煙葉片捲著煙葉。
+fingtang    臉盆。[閩南語借詞]Paroen ko nanom i fingtang. 把水裝在臉盆。
+finor    水濁，渾濁。Malipa'ay no kolong saka finor saan ko nanom. 牛踏過所以水變渾濁。參見 mifinor。同 mangota、rohimor。
+finoren(finor)    把水攪渾濁。Mana finoren koni a nemnem? 為什麼把這泉水攪渾濁？ Finoren no wawa ko nanom i ciwkeng. 小孩把水缸裡的水弄渾濁了。同 fiyor、cawcaw。
+firang    生氣，發怒，憤慨。Cima ko caay ka firang no tamdaw. 什麼人不生氣。同inget、keter、tomay。參見 mafirang。
+firo'ok    甲狀腺。Tata'ang ko lifawa no firo'ok ni mamo ako. 我奶奶的甲狀腺腫大。同 fihid、poco'。
+fisal    間苗。同 final。
+fita'o    廢水池，小池子。Masakango ko fita'o i omah nangra. 他們田裡有一塊廢水池。
 fita'ol    蛋，卵。Fita'ol no koko'. 雞蛋。Fita'ol no fao. 蟲卵。
 fitangal    摘瓜。
 fitangal    出草。
 fitangalen(fitangal)    把瓜摘取。Fitangalen ko kowa'. 採木瓜。參見 militangal.
 fitangila    鑽進耳朵裡的昆蟲。
-fitay    篩子。[閩南語借詞]Misanga' to ﬁtay ci akong ako. 我祖父在作篩子。同sasiwasiw。
+fitay    篩子。[閩南語借詞]Misanga' to fitay ci akong ako. 我祖父在作篩子。同sasiwasiw。
 fitayen(fitay)    把某物篩去。Fitayen ko lakad. 把殘渣篩掉。
-fitelaken(fitelak)    把某物破開，裂開。Fitelaken no koko' ko ﬁta'ol nira. 母雞把蛋破開。
-fitili'    閃電，霹靂。Palapiyat ko ﬁtili' i dadaya. 昨晚雷電閃爍。
-fiting    耳環。Makapah ko ﬁting no fafahi ako. 我太太的耳環好美。同 capay。
-fitelak    破開，裂開，綻放。Makapah ko ﬁtelak no hana. 花漂亮地綻放開來。參見 miﬁtlak。同 ﬁtowak。
-fitelaksa(fitelak)    一破開，一裂開。Fitelaksa ko ﬁta'ol,masadak ko ciwciw. 蛋一裂開，小雞就出來了。
-fitelok    肚漲，大腹便便。Mafecor kako ﬁtelok saan ko tiyad. 我吃太飽而肚漲。參見maﬁtelok。
-fitoka    胃，胃部。Matokaday ko ﬁtoka ningra. 他的胃開過刀。
-fitokol    ①  膨脹，發脹。②  樹枝被果實墜彎，壓彎。參見 maﬁtokol。
-fitonatonayan(fitonay)    [疊 2]刺竹林，刺竹林裡。Adihay ko 'do i ﬁtonatonayan. 在刺竹林裡有許多老鼠。同 faﬁtonayan。
-fitonay    刺竹。O ﬁtonay ko hecek no padiyongan niyam. 我們用刺竹做豬寮的柱子。
+fitelaken(fitelak)    把某物破開，裂開。Fitelaken no koko' ko fita'ol nira. 母雞把蛋破開。
+fitili'    閃電，霹靂。Palapiyat ko fitili' i dadaya. 昨晚雷電閃爍。
+fiting    耳環。Makapah ko fiting no fafahi ako. 我太太的耳環好美。同 capay。
+fitelak    破開，裂開，綻放。Makapah ko fitelak no hana. 花漂亮地綻放開來。參見 mifitlak。同 fitowak。
+fitelaksa(fitelak)    一破開，一裂開。Fitelaksa ko fita'ol,masadak ko ciwciw. 蛋一裂開，小雞就出來了。
+fitelok    肚漲，大腹便便。Mafecor kako fitelok saan ko tiyad. 我吃太飽而肚漲。參見mafitelok。
+fitoka    胃，胃部。Matokaday ko fitoka ningra. 他的胃開過刀。
+fitokol    ①  膨脹，發脹。②  樹枝被果實墜彎，壓彎。參見 mafitokol。
+fitonatonayan(fitonay)    [疊 2]刺竹林，刺竹林裡。Adihay ko 'do i fitonatonayan. 在刺竹林裡有許多老鼠。同 fafitonayan。
+fitonay    刺竹。O fitonay ko hecek no padiyongan niyam. 我們用刺竹做豬寮的柱子。
 fitowa'    裂開，破裂。
-fitowa'en(fitowa')    把東西撬開，要裂開。Fitowa'en niyam ko fawahan no talo'an. 我們把工寮的門撬開。同 ﬁtowak。參見 mitowa'。
-fitowak    裂開，破裂。Maﬁtowak ko kayakay.橋樑裂開。同 ﬁtowa'。參見miﬁtowak、ﬁtelak。
-fitowaken(fitowak)    把某物裂開，破開。Fitowaken kora 'ongcoy. 把那盤石破開。同 ﬁtowa'en。
-fiwa    枇杷。[閩南語借詞]'Acicimen kako to ﬁwa. 枇杷令我牙酸。同 pipa、piwa。
-fiwfiw    風吹一陣一陣地嗖嗖吹著。參見miﬁwﬁw。同 ferfer。
-fiwfiwen(fiwfiw)    把某物吹拂，吹動。Fiwﬁwen no fali ko fayfay. 風把旗子颯颯吹動。
-fiyac    ①  伸直，②  四肢舒展。Caayka ﬁyac ko marad. 鐵條不直。參見 miﬁyac。
+fitowa'en(fitowa')    把東西撬開，要裂開。Fitowa'en niyam ko fawahan no talo'an. 我們把工寮的門撬開。同 fitowak。參見 mitowa'。
+fitowak    裂開，破裂。Mafitowak ko kayakay.橋樑裂開。同 fitowa'。參見mifitowak、fitelak。
+fitowaken(fitowak)    把某物裂開，破開。Fitowaken kora 'ongcoy. 把那盤石破開。同 fitowa'en。
+fiwa    枇杷。[閩南語借詞]'Acicimen kako to fiwa. 枇杷令我牙酸。同 pipa、piwa。
+fiwfiw    風吹一陣一陣地嗖嗖吹著。參見mifiwfiw。同 ferfer。
+fiwfiwen(fiwfiw)    把某物吹拂，吹動。Fiwfiwen no fali ko fayfay. 風把旗子颯颯吹動。
+fiyac    ①  伸直，②  四肢舒展。Caayka fiyac ko marad. 鐵條不直。參見 mifiyac。
 fiyacen(fiyac)    把四肢舒展開來。Fiyacen ko o'o' a pahanhan. 把腳伸直休息一下。
-fiyafi'    桶裡的水溢出，橫溢。Comikay cingra a miradom saka ﬁyaﬁ' saan ko nanom a masiyasi'. 他用跑的去挑水所以水都溢出來。同 siyasi'。參見 maﬁyaﬁ'。
-fiyal    提舉重的東西很久時胳膞酸軟，彈性疲勞。Halaﬁn tato ko katomileng saka ﬁyal saan ko o'o'. 因站太久了所以腳都發酸。參見 maﬁyal。
-fiyaraw    狼狽，狼狽相。Macahiw cingra saka ﬁyaraw saan. 他因飢餓而狼狽。參見maﬁyaraw。
-fiyaw    鄰居。Makapahay ko faloco' no ﬁyaw niyam. 我們的鄰居心地善良。
-fiyok    刮大風，疾風吹來。Tata'ang ko fali inacila ﬁyok saan. 昨天刮大風。參見miﬁyok。
+fiyafi'    桶裡的水溢出，橫溢。Comikay cingra a miradom saka fiyafi' saan ko nanom a masiyasi'. 他用跑的去挑水所以水都溢出來。同 siyasi'。參見 mafiyafi'。
+fiyal    提舉重的東西很久時胳膞酸軟，彈性疲勞。Halafin tato ko katomileng saka fiyal saan ko o'o'. 因站太久了所以腳都發酸。參見 mafiyal。
+fiyaraw    狼狽，狼狽相。Macahiw cingra saka fiyaraw saan. 他因飢餓而狼狽。參見mafiyaraw。
+fiyaw    鄰居。Makapahay ko faloco' no fiyaw niyam. 我們的鄰居心地善良。
+fiyok    刮大風，疾風吹來。Tata'ang ko fali inacila fiyok saan. 昨天刮大風。參見mifiyok。
 fiyoken(fiyok)    猛吹猛刮。Fiyoken no fali koya kilang. 那樹被風吹刮。
 fiyokhan(fiyok)    於是呼嘯而至，就呼地一聲刮來。Fiyokhan no fali, forikat sato koya kosiya. 風於是呼嘯而來，那些鐵皮房頂一下子裂開了。
 fiyoksa(fiyok)    呼呼地吹著。Fiyoksa ko ta'angayay a fali. 大風呼嘯著。
@@ -623,11 +622,11 @@ fetiren(fetir)    ①  把某物彈灑、彈射。②  彈撥。Fetiren ko pana'
 fetirhan(fetir)    ①  就把某物彈射出去。②  就把琴弦彈撥。Fetirhan nangra ko mipatoro'an a pana'. 他們於是把瞄準好的箭射出去。同 fetikhan。
 feto    手腳起的水泡。Cifto ko kamay ningra a maomah. 他工作時手起泡。同 foto。
 fo'edas    冬天皮膚乾燥而脫白皮屑。Mafo'edas ko cepi ni Kaing. 卡映的腿脫白皮。參見 mafo'das。
-fo'das    白癬，皮膚病。Mafo'das ko cepi' ako. 我腿上長白癬。同 ﬁdas。
-fo'enot    拔，拔掉。Capakaﬁlo kami a mifo'enot tonini a lengac. 我們無法把月桃拔掉。參見 mifo'not。同 fanoten。
+fo'das    白癬，皮膚病。Mafo'das ko cepi' ako. 我腿上長白癬。同 fidas。
+fo'enot    拔，拔掉。Capakafilo kami a mifo'enot tonini a lengac. 我們無法把月桃拔掉。參見 mifo'not。同 fanoten。
 fo'enoten(fo'enot)    把某物拔掉。Fo'noten ko lamit. 把根拔起來。
 fo'ot    拘留，扣留，挽留。Caay pifo'ot kami. 我們不挽留你們。同 lepel。 參見 mifo'ot。
-fo'oten(fo'ot)    把某人留下來。Fo'oten cangra a milaﬁn. 留他們過夜吧。Fo'oten ningra kako a malahok. 他留我吃午餐。
+fo'oten(fo'ot)    把某人留下來。Fo'oten cangra a milafin. 留他們過夜吧。Fo'oten ningra kako a malahok. 他留我吃午餐。
 focacing    檳榔樹開的花，結新果。Fangsis ko focacing no 'icep. 檳榔開花真香。
 focingkay    婦女會。(日語借詞)。Masa'opo ko focingkay i Falangaw anopapacem. 明天婦女會要在馬蘭開會。
 foceki    文鯧魚。O foceki ko sasimi niyam.我們以文鯧魚當生魚片。
@@ -708,7 +707,7 @@ folsak    播種，撒種。Maherekto cangra a mifolsak to sacapox. 他們已撒
 folsaken(folsak)    把種子撒播。Folsaken ko sapaloma.撒播種子。
 folsakhan(folsak)    就把種子撒播。Folsakhan niyam ko 'adas no lamlo itira. 我們於是就把小米粒播種在那個地方。
 fonak    沙子，砂子，細沙子。Maolah ko wawa a misalama to fonak. 孩子們喜歡往玩砂子。同 tafok。
-fonal    破碎、磨成粉末。碎後摻雜在一起。Halaﬁn ko pitiyor to wasapi fonal saan i tawyiw. 把芥茉攪拌後會被摻雜在醬油裏。參見 mafonal。
+fonal    破碎、磨成粉末。碎後摻雜在一起。Halafin ko pitiyor to wasapi fonal saan i tawyiw. 把芥茉攪拌後會被摻雜在醬油裏。參見 mafonal。
 fonga    甘藷，俗稱〝蕃薯〞，地瓜。Mirongad kami to fonga. 我們採收地瓜。同konga。
 fongafong    頭髮蓬亂。Kaacekan ko fokes iso fongafong sanay. 你的頭髮零亂真難看。參見 mafongafong。
 fonget    鼻塞、不通氣。Si'naw ko romi'ad mafonget kako. 天冷我就鼻塞。參見mafonget。
@@ -721,7 +720,7 @@ fonor    接連落地，落葉，落枝。Mafonor ko papah no kamoraw. 柚子片
 forac    刷，刷牙。Malalok ko wawa ako a miforac to wadis. 我的孩子勤刷牙。同so'at。參見 miforac。
 foracen(forac)    把牙刷一刷。Foracen ko wadis nakomaenay. 飯後一定要刷牙。
 foraw    趕緊。同 kalah、caroh. Aka kaforaw,kamaro'ho. 不要太匆忙，再坐一下。
-foraw    侵擾。Tatiih a miforaw to ﬁyaw. 不可侵擾鄰居。
+foraw    侵擾。Tatiih a miforaw to fiyaw. 不可侵擾鄰居。
 forawen(foraw)    把某人侵擾。Aka forawen ko niyaro' no tao ! 不要侵犯他人村莊！參見miforaw。
 forayan    米的一種叫在來米。同 tipos。
 fori'ak    小孩昏迷，休克。Maherek a comikay koya wawa fori'ak saan a mati'nang.那孩子跑完後休克倒下。參見mafori'ak。同 feri'ak。
@@ -749,14 +748,14 @@ fotod    檸檬。'Acicim ko salang no fotod. 檸檬汁很酸。Fotod 雅美族�
 fotoen(foto)    用蘆葦纏繞把某物固定住。Fotoen ko sikal. 草蓆用蘆葦固定。
 fotol    陰囊、睪丸。 O cifotolay kona fainayan. 這個男人很有男性氣慨。同ta'ol。
 fotol    稱坨。Fotol no tingting. 稱坨。
-fotong    天資聰明。Awaay ko pakaﬁloay to fotong ni Safolo. 沒人可比沙扶洛先生聰明。
+fotong    天資聰明。Awaay ko pakafiloay to fotong ni Safolo. 沒人可比沙扶洛先生聰明。
 fowa    金槍魚、鬼頭刀魚。Adihay ko paliwalay to fowa i minato. 魚港很多人在賣金槍魚。
 fowaan(fowa)    金槍魚、鬼頭刀魚的種類。Omaan a fowaan konini? 這是那一種金槍魚？
 fowaen(fowa)    把金槍魚捕撈。
 fowah    開閘洩洪，開水門放水，堤壩缺口。Matomes ko nanom i fanaw, fowahen.池塘的水滿了去放水。參見 mafowah。
 fowak    泉水湧出，冒泡。Mafowah ko nanom fowak saan a miteloc. 水閘一開水就噴出來。Fowak sa ko nemnem. 泉水湧出。參見 mafowak。
 fowal    鳥獸驚散，四處逃跑。Cedengen ko rakat mafowal ko 'ayam. 走路小心點以免鳥會驚散。Midefong i facal kako fowal sa ko fananin'ol a milaliw. 我的腳一踩入水田裏蝌蚪就四處逃跑。參見mafowal。
-fowas    呈輻射狀散開，向四處分散。Fowas saan ko aﬁh a ma'fer. 米糠被風吹散。參見 mafowas、marifowas。
+fowas    呈輻射狀散開，向四處分散。Fowas saan ko afih a ma'fer. 米糠被風吹散。參見 mafowas、marifowas。
 foyfoy    波濤聲或汽車急疾聲轟隆隆響。Foyfoy 
 saan ko cikay no otopay no kapah    anini. 現在的年輕人騎的機車聲音轟隆隆響。同 harengreng。
 foyol    把東西推到某角落而倒下。Akawang 
@@ -770,7 +769,7 @@ funus    番刀，腰刀。Caayka nga'ay a awa ko funus no 'Amis a tamdaw. 阿�
 furaw    急迫、緊急。同 kalah、famor、foraw、safor。
 furok    用手或爪子挖掘，扒土。Furokhan no waco ko sera. 狗在扒土。
 futi'    睡覺，睡眠。Cango'ot kako to futi'.我睡眠不足。參見 mafuti'。
-futing    魚。O futing ko sakalaﬁ niyam. 我們的晚餐是魚。
+futing    魚。O futing ko sakalafi niyam. 我們的晚餐是魚。
 futingan(futing)    魚類，魚的種類。O maan a futingan kora? 那是什麼魚？
-futingan(futing)    魚類，魚的種類。O maan a futingan kora? 那是什麼魚？ futing 魚。o futing ko sakalaﬁ niyam. 我們的晚餐是魚。
+futingan(futing)    魚類，魚的種類。O maan a futingan kora? 那是什麼魚？ futing 魚。o futing ko sakalafi niyam. 我們的晚餐是魚。
 futingen(futing)    把魚捕住。Futingen ita anini. 我們今天要去捕魚。 keliw. 我們要把線繞圈成線球。

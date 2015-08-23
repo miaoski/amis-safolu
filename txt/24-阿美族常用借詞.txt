@@ -1,4 +1,3 @@
-阿美族常
 acinomoto    味精，味素〈日語借詞〉。Paacinomotoen ko dateng. 菜要加一點味精。
 angki    背誦，暗記〈日語借詞〉。Angkien ko Cudad. 背書。
 akacingki    紅藥水〈日語借詞〉。Mmatekes konini a akacingki. 紅藥水的價錢很貴。
@@ -58,7 +57,8 @@ cusya    注射〈閩南語借詞〉。
 cuyaku    口譯〈日語借詞〉。
 cukaymas    使用〈日語借詞〉。
 cyodo    柔道〈日語借詞〉。
-cyoking    存款〈日語借詞〉。Cyolo Kyokay 長老教會〈日語借詞〉。
+cyoking    存款〈日語借詞〉。
+Cyolo Kyokay    長老教會〈日語借詞〉。
 cyukakko    中學〈日語借詞〉。
 cyumpi    準備〈日語借詞〉。
 dansu    跳舞〈日英語借詞〉。
@@ -87,10 +87,24 @@ faku    倒退；背景〈日語借詞〉。
 falikang    剃頭刀〈日語借詞〉。
 fancing    蕃人〈日語借詞〉。
 fanta    蚊帳〈閩南語借詞〉。
-fasu    公車，大客車〈日語借詞〉。ﬁtaming 維他命〈日語借詞〉。ﬁtay 篩子〈閩南語借詞〉。
+fasu    公車，大客車〈日語借詞〉。
+fitaming    維他命〈日語借詞〉。
+fitay    篩子〈閩南語借詞〉。
 fatili    蓄電池〈日語借詞〉。
 fatong    棒子〈日語借詞〉。同 patong。
-^efaw    包工〈閩南語借語〉。同 pawkong〈漢語借詞〉。ﬁca 簽證〈日語借詞〉。ﬁcing 升斗〈閩南語借詞〉。ﬁnciw 便所〈日語借詞〉。ﬁnto 便當〈日語借詞〉。ﬁntofako 便當盒〈日語借詞〉。ﬁs 詩班第四部〈日語借詞〉。ﬁntang 面盆，洗臉盆〈閩南語借詞〉。ﬁngkosi 律師〈日語借詞〉。ﬁtay 篩穀器〈閩南語借詞〉。ﬁtto 床〈日語借詞〉。ﬁw 廟堂，廟宇〈閩南語借詞〉。ﬁwing 醫院〈日語借詞〉。同 paisingan。
+^efaw    包工〈閩南語借語〉。同 pawkong〈漢語借詞〉。
+fica    簽證〈日語借詞〉。
+ficing    升斗〈閩南語借詞〉。
+finciw    便所〈日語借詞〉。
+finto    便當〈日語借詞〉。
+fintofako    便當盒〈日語借詞〉。
+fis    詩班第四部〈日語借詞〉。
+fintang    面盆，洗臉盆〈閩南語借詞〉。
+fingkosi    律師〈日語借詞〉。
+fitay    篩穀器〈閩南語借詞〉。
+fitto    床〈日語借詞〉。
+fiw    廟堂，廟宇〈閩南語借詞〉。
+fiwing    醫院〈日語借詞〉。同 paisingan。
 foingkyo    望遠鏡〈日語借詞〉。
 fudi    毛筆〈日語借詞〉。
 fukkiw    佛教〈日語借詞〉。
@@ -147,7 +161,8 @@ ingki    墨汁〈日語英語借詞〉。
 ikakang    影畫館，電影院〈日語借詞〉。
 iki    車站〈日語借詞〉。同 syataw〈閩南語借詞〉。
 ikicyo    站長〈日語借詞〉。
-ilang    碾磨〈閩南語借詞〉。iliﬁta 電梯〈日語英語借詞〉。
+ilang    碾磨〈閩南語借詞〉。
+ilifita    電梯〈日語英語借詞〉。
 ilotoko    帥哥，英俊瀟洒〈日語借詞〉。
 imong    慰勞〈日語借詞〉。
 impic    鉛筆〈日語借詞〉。
@@ -207,7 +222,8 @@ kayki    會計〈日語借詞〉。
 kayko    蠶〈日語借詞〉。
 kaysya    公司(會社)〈日語借詞〉。
 kayto    嚮導〈日語借詞〉。
-keng    鋒利(鋼)〈閩南語借詞〉。kiﬁ守衛〈日語借詞〉。
+keng    鋒利(鋼)〈閩南語借詞〉。
+kifi    守衛〈日語借詞〉。
 kingking    獻金〈日語借詞〉。
 kingkiw    研究〈日語借詞〉。
 kingko    銀行〈日語借詞〉。
@@ -222,7 +238,9 @@ kining    紀念〈日語借詞〉。參見 malokining，pakining 作紀念〈�
 kinsa    檢查〈日語借詞〉。
 kingdo    劍道〈日語借詞〉。
 kikang    機關〈日語借詞〉。
-kikong    結婚〈日語借詞〉。Kilisto Kristo 基督〈英語日語借詞〉。Kilistokiw 基督教〈日語借詞〉。參見 misakilistoay 基督徒。語源英語的 Christian。
+kikong    結婚〈日語借詞〉。
+Kilisto Kristo    基督〈英語日語借詞〉。
+Kilistokiw     基督教〈日語借詞〉。參見 misakilistoay 基督徒。語源英語的 Christian。
 kippu    車票〈日語借詞〉。
 kisac    警察〈日語借詞〉。同 kincac、tayxing。
 kisoku    規則〈日語借詞〉。
@@ -244,7 +262,9 @@ kopi    影印，複製〈日語借詞〉。
 kosiki    戶籍〈日語借詞〉。同 kika。
 kosoli    藥，藥物〈日語借詞〉。同 kusulio。
 koyasi    肥料〈日語借詞〉。同 hilio〈閩南語借詞〉。
-koyomi    日曆〈日語借詞〉。同 kalinta〈英語借詞〉。kuciﬁki 抽籤〈日語借詞〉。kuciﬁni 口紅〈日語借詞〉。
+koyomi    日曆〈日語借詞〉。同 kalinta〈英語借詞〉。
+kucifiki    抽籤〈日語借詞〉。
+kucifini    口紅〈日語借詞〉。
 kuciw    區長〈日語借詞〉。
 kucila    鯨魚〈日語借詞〉。
 kucukaysing    零用錢〈日語借詞〉。
@@ -298,8 +318,11 @@ lomataw    流氓〈閩南語借詞〉。同 molataw。
 losoko    蠟蠋〈日語借詞〉。
 luingtay    錄音帶〈國語借詞〉。同 tipu〈日語借詞〉。
 maci    街上〈日語借詞〉。
-mafulusi    
-mapulusi    異象〈日語借詞〉。mahoﬁn 熱水瓶〈日語借詞〉。
+mafulusi    異象〈日語借詞〉。
+mapulusi    異象〈日語借詞〉。
+mahofin    熱水瓶〈日語借詞〉。
+mapulusi    異象〈日語借詞〉。
+mahofin    熱水瓶〈日語借詞〉。
 mangka    漫畫〈日語借詞〉。
 mangko    芒果〈日語借詞〉。
 maku    幕〈日語借詞〉。
@@ -317,7 +340,8 @@ mihun    米粉〈閩南語借詞〉。
 mikani    眼鏡〈日語借詞〉。
 miluku    牛奶〈英日語借詞〉。
 minato    港口〈日語借詞〉。
-misa    彌撒〈日語借詞〉。misiﬁn 洗臉〈閩南語借詞〉。
+misa    彌撒〈日語借詞〉。
+misifin    洗臉〈閩南語借詞〉。
 mising    縫紉機〈日語借詞〉。
 misyakay    到都市謀職〈日語借詞〉。
 mita    電錶，水錶〈日語借詞〉。
@@ -326,9 +350,11 @@ mota    馬達〈日語借詞〉。
 mukung    木工〈漢語借詞〉。參見 misamukung 做木工，蓋房子。
 munday    問題〈日語借詞〉。同 muntay。
 musing    無線電〈日語借詞〉。
-muwa    麻繩〈日語借詞〉。naﬁ鍋子〈日語借詞〉。
+muwa    麻繩〈日語借詞〉。
+nafi    鍋子〈日語借詞〉。
 namali    鉛〈日語借詞〉。
-ningkiw    洋娃娃〈日語借詞〉。nikiﬁ青春痘〈日語借詞〉。
+ningkiw    洋娃娃〈日語借詞〉。
+nikifi    青春痘〈日語借詞〉。
 nikutay    領帶〈日語借詞〉。
 nasi    梨〈日語借詞〉。
 niwsu    新聞〈日語借詞〉。同 sinpon。
@@ -349,7 +375,7 @@ osoy    慢〈日語借詞〉。參見 maosoy。
 osyongac    過新年〈日語借詞〉。
 oysang    舅舅叔叔〈日語借詞〉。
 otofay    摩托車〈日語借詞〉。
-oytaming    維他命〈漢語借詞〉。同 ﬁtaming〈日語借詞〉。
+oytaming    維他命〈漢語借詞〉。同 fitaming〈日語借詞〉。
 pangku    爆胎〈日語借詞〉。
 pangiiw    香水，香料〈閩南語借詞〉。
 pakayaro    混蛋王八蛋〈日語借詞〉。
@@ -397,7 +423,9 @@ pompu    抽水機〈日語借詞〉。
 pudaw    小魚(鮈仔)〈閩南語借詞〉。
 puaki    敗家子〈閩南語借詞〉。
 ristolan    餐廳、飯店〈英日語借詞〉。
-safa    沙發〈漢語借詞〉。saﬁ生銹〈日語借詞〉。saﬁtay 守備隊，預備隊〈日語借詞〉。同suﬁtay。
+safa    沙發〈漢語借詞〉。
+safi    生銹〈日語借詞〉。
+safitay    守備隊，預備隊〈日語借詞〉。同sufitay。
 safun    肥皂〈閩南語借詞〉。
 sakas    馬戲〈日語借詞〉。
 sailailay    驕傲，傲慢〈日語借詞〉。
@@ -411,7 +439,9 @@ sampolo    範本〈日語借詞〉。
 sankosyo    參考書〈日語借詞〉。
 sancicu    算數〈日語借詞〉。
 sandalo    外出用拖鞋〈日語借詞〉。
-sanpac    理髮〈日語借詞〉。同 sampac。Santa Klos 聖誕老人〈英語借詞〉。sasiﬁn 毛巾〈閩南語借詞〉。
+sanpac    理髮〈日語借詞〉。同 sampac。
+Santa Klos    聖誕老人〈英語借詞〉。
+sasifin    毛巾〈閩南語借詞〉。
 sasikumi    插頭，插座〈日語借詞〉。
 sasimi    生魚片〈日語借詞〉。
 sato    糖〈日語借詞〉。
@@ -426,7 +456,8 @@ siay    比賽，競賽〈日語借詞〉。
 pisay    比賽〈漢語借詞〉。
 sicimincyo    火雞〈日語借詞〉。
 sicuci    執事〈日語借詞〉。
-sifay    戲劇〈閩南語借詞〉。同 kuwahi。siﬁlo 西裝〈日語借詞〉。
+sifay    戲劇〈閩南語借詞〉。同 kuwahi。
+sifilo    西裝〈日語借詞〉。
 sihong    資本〈日語借詞〉。
 singkaku    神學〈日語借詞〉。
 singkiw    選舉〈日語借詞〉。
@@ -464,7 +495,8 @@ soli^pa    拖鞋〈日語；英語借詞〉。
 spay    間諜〈日語；英語借詞〉。
 spayku    釘鞋〈日語借詞〉。
 seplano    詩班的第一部音〈日語；英語借詞〉。
-stindis    不銹鋼〈日語；英語借詞〉。suﬁtay 軍人(守備隊)〈日語借詞〉。同hitay，saﬁtay 軍人〈日語借詞〉。
+stindis    不銹鋼〈日語；英語借詞〉。
+sufitay    軍人(守備隊)〈日語借詞〉。同hitay，safitay 軍人〈日語借詞〉。
 sukiyaki    火鍋〈日語借詞〉。
 suli    扒手〈日語借詞〉。
 sumi    墨汁〈日語借詞〉。
@@ -477,7 +509,8 @@ syaking    債〈日語借詞〉。同 kiyam〈閩南語借詞〉。
 syasing    相片〈日語借詞〉。
 syasingki    照相機〈日語借詞〉。同 kamila〈日語；英語借詞〉。
 syataw    車站〈閩南語借詞〉。同 iki。
-syohing    獎品〈日語借詞〉。Takasakucok 高砂族〈日語借詞〉。清朝時被稱為「蕃人」或「生熟」。1923 年日本東宮皇太子來台時改稱為「高砂族」。1994年正名為「原住民族」。
+syohing    獎品〈日語借詞〉。
+Takasakucok    高砂族〈日語借詞〉。清朝時被稱為「蕃人」或「生熟」。1923 年日本東宮皇太子來台時改稱為「高砂族」。1994年正名為「原住民族」。
 tangiiw    柏油〈閩南語借詞〉。
 tangki    乩童〈閩南語借詞〉。
 tangki    短期〈日語借詞〉。
@@ -505,7 +538,8 @@ taykang    貸款〈日語借詞〉。同 taykwan。
 tayko    大鼓〈日語借詞〉。
 taypulayta    打字機〈日語借詞〉。
 taysiwning    代書〈日語借詞〉。
-tayring    警察〈閩南語借詞〉。Taywan 臺灣〈閩南語借詞〉。
+tayring    警察〈閩南語借詞〉。
+Taywan    臺灣〈閩南語借詞〉。
 taypyaw    代表〈漢語借詞〉。同 dayhiw。
 tayxing    警察〈閩南語借詞〉。同 kisac。
 tayya    輪胎〈日語借詞〉。
@@ -517,7 +551,7 @@ tingki    電〈日語借詞〉；權狀(登記)〈閩南語借詞〉。
 tingsu    成績〈日語借詞〉。
 tingting    秤〈閩南語借詞〉。
 tikami    信〈日語借詞〉。
-tiking    鐵筋〈日語借詞〉。tiliﬁ電視〈日語借詞〉。
+tiking    鐵筋〈日語借詞〉。tilifi電視〈日語借詞〉。
 timaku    帳棚(天幕)〈日語借詞〉。
 timpo    電報〈日語借詞〉。
 tingwa    電話〈日語借詞〉。同 dingwa。
@@ -527,7 +561,8 @@ tinsi    煎匙〈閩南語借詞〉。
 tinicukay    天使〈日語借詞〉。
 tinkoku    天國〈日語借詞〉。
 tingwa    電話〈日語借詞〉。同 dingwa。
-tipu    錄音帶，膠帶〈日語借詞〉。Tinsukiw 天主教〈日語借詞〉。
+tipu    錄音帶，膠帶〈日語借詞〉。
+Tinsukiw    天主教〈日語借詞〉。
 tisaki    手提帶〈日語借詞〉。
 tiyap    補貼，疊〈閩南語借詞〉。
 tiyam    店〈閩南語借詞〉。
@@ -571,6 +606,11 @@ yakang kakko    夜校〈日語借詞〉。
 yakkiw    捧球〈日語借詞〉。
 yako    夜車〈日語借詞〉。
 yakufa    公所〈日語借詞〉。同 kufa。
-yakuwing    委員〈日語借詞〉。Yis Yisu 耶穌〈希拉語拉丁文
-yociing    幼稚園〈日語借詞〉。日語借詞〉。yoﬁng 郵局〈日語借詞〉。yoﬁng 郵差〈日語借詞〉。yoﬁngkyok 郵政局〈日語借詞〉。
+yakuwing    委員〈日語借詞〉
+Yis    耶穌〈希拉語拉丁文
+Yisu    耶穌〈希拉語拉丁文
+yociing    幼稚園〈日語借詞〉。日語借詞〉。
+yofing    郵局〈日語借詞〉。
+yofing    郵差〈日語借詞〉。
+yofingkyok    郵政局〈日語借詞〉。
 yuducingki    碘酒〈日語借詞〉。

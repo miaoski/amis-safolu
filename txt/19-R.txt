@@ -1,5 +1,3 @@
-
-r    
 ra    阿美語輔音之一，音值為 [ r ]，屬舌尖中濁顫音。處在詞尾位置有長音化傾向。raya 的簡形。那，那個，那些。
 raang    (動物)母的，雌性。
 raay    遠處。Ma'araw ako cinira i raay. 我在遠處看見他。
@@ -16,10 +14,10 @@ raep    下水道。
 rafar    休耕的山坡地，原野地。
 rafas    富餘，有剩餘，額外的。Ira to ko rafas a komaen. 吃有富餘了。
 rafay    缸，水壺，缽頭。
-rafin    過夜。參見 miraﬁn。
-rafi'    溢出，泛濫。同 fafas、raﬁyas。參見maraﬁ'。
+rafin    過夜。參見 mirafin。
+rafi'    溢出，泛濫。同 fafas、rafiyas。參見marafi'。
 rafir    皮革，皮製品，皮帶。
-rafiyas    溢出，泛濫。同 fafas、raﬁr。參見maraﬁyas。
+rafiyas    溢出，泛濫。同 fafas、rafir。參見marafiyas。
 rafor    曬乾的煙葉或切絲的煙葉，塞入煙斗內點火來抽。
 rafraf    火勢熊熊。參見 marafraf。
 rahed    蛋黃，蟹黃。
@@ -85,7 +83,7 @@ ra'emed    柔軟，柔滑。同 ra'emih。
 ra'emeday(ra'emed)    ①  柔軟了，柔滑了。②  柔軟的，柔滑的。同 ra'emihay。
 ra'emih    柔軟，柔滑。同 ra'emed。
 ra'emihay(ra'emih)    ①  柔軟了，柔滑了。Ra'emihay ko tadasay iso , makapahay a enengen. 你的頭巾很柔軟，又好看。②  柔軟的，柔滑的。Ra'emihay a kiradom. 軟布。同ra'emeday。
-ra'es'es    輕聲。Ano mikimad ko kakitaan awa ko ra'es'es ilalomaan no sﬁ'. 頭目講話時在集會所內一點聲音都沒有。
+ra'es'es    輕聲。Ano mikimad ko kakitaan awa ko ra'es'es ilalomaan no sfi'. 頭目講話時在集會所內一點聲音都沒有。
 ra'esodan    嗚咽，啜泣。
 ra'it    獠牙。
 ra'it    倒鈎。
@@ -118,7 +116,7 @@ rarasi'en(rasi')    [疊]①  要潑水、灑水。同 raraso'en，lalesi'en。O
 raraso'en(raso')    [疊 2]①  要潑水、灑水。②  指要潑水、灑水的(對象)。同 rarasi'en。
 raratohen(ratoh)    [疊 2]①  要告狀、報告，講述。O raratohen ako koya ma'odangay a tamdaw. 我要告發那個違法亂紀的人。②  指要告狀、報告的。Raratohen a tamdaw. 即將被告發的人。
 raraw    錯誤，不對，對不起。O raraw to ako itiya kisowanan. 那時，我對不起你了。
-rarawisen(rawis)    [疊 2]①  要勾取東西。Rarawisen no wawa ko 'aﬁnong. 孩子要去勾取椰子。②  指要勾取的(東西)。Rarawisen ako a 'icep. 我要勾取的檳榔。
+rarawisen(rawis)    [疊 2]①  要勾取東西。Rarawisen no wawa ko 'afinong. 孩子要去勾取椰子。②  指要勾取的(東西)。Rarawisen ako a 'icep. 我要勾取的檳榔。
 rarawrawsa(rawraw)    [疊 2]處於困擾不止的狀態，慌亂。Rarawrawsa ko salikaka to pakainiay i mikapatay no tomok. 弟兄們為頭目之死而困擾著。
 raraya'    長，漫長。Raraya' koni a 'atikak. 這條蚯蚓長。
 rarecepen(recep)    [疊 2]①  要浸濕。O rarecepen no kaka ko riko'. 姊姊要把衣服浸濕。② 指要浸濕的。Rarecepen a riko' koni.這是要浸濕的衣服。
@@ -139,7 +137,7 @@ rarengecen(rengec)    [疊 2]①  要剪斷、切斷(草等)。O rarengecen ko '
 rarengosan(rengos)    [疊 2]草叢裏。Ira ko 'oner i rarengosan. 草叢裡有蛇。同rengorengosan。
 rarepaten(repat)    [疊 2]①  即將弄壞、損壞。O rarepaten ira ko koliciw ako. 他要損壞我的腳踏車。②  指即將弄壞、損壞的(物件)。Rarepaten a kikay. 即將破壞的機器。( 保留 ) 
 rarepelen(repel)    [疊 2]①  要損壞、弄壞。②  指要損壞、弄壞的(物件)。同 rarepaten。
-rarepeten(repet)    [疊 2]①  要抓住、逮捕。O rarepeten a 'ayam(soﬁtay)cinira. 即將抓住的鳥。②  指要抓住、逮捕的(對象)。Rarepeten a tamdaw. 要抓的人。
+rarepeten(repet)    [疊 2]①  要抓住、逮捕。O rarepeten a 'ayam(sofitay)cinira. 即將抓住的鳥。②  指要抓住、逮捕的(對象)。Rarepeten a tamdaw. 要抓的人。
 rarepingan(reping)    [疊 2]隔壁、鄰居所在。Maro'ay kako i rarepingan ira. 我住在他隔壁。
 rarepingen(reping)    [疊 2]①  要放旁邊。O rarepingen ko lalosidan iso. 你的行李要放隔壁。② 指要放旁邊的(物件)。Rarepingen a tilid. 要放旁邊的書本。
 rare'afas(re'afas)    [疊 2]互相搶劫、搶奪。參見marare'afas。
@@ -148,7 +146,7 @@ raresapen(resap)    [疊 2]①  要蠕動、爬行。②  指要蠕動、爬行�
 raresresen(resres)    [疊 2]①  要切絲兒。Raresresen ako ko rafor. 我要把煙葉切絲。②  指要切絲的(東西)。Raresresen a rafor. 切細的煙絲。
 raretepen(retep)    [疊 2]①  要趕上、遇上。O raretepen ako cinira. 我要及時趕上他。②  指趕上、遇上的(對象)。
 rareti'en(reti')    [疊 2]①  要鍛冶、冶煉。O rareti'en no sayho ko marad. 工匠要把鐵器火煉一下。②  指要鍛冶、冶煉的(東西)。Rareti'en a funus. 要鍛煉的刀。
-raretreten(retret)    [疊 2]①  要用小刀切割。O raretreten ako kora raﬁr to po'ot. 我要把這張皮革用小刀割下來。②  指要切割的(東西)。Raretreten a titi. 要割下來的肉。
+raretreten(retret)    [疊 2]①  要用小刀切割。O raretreten ako kora rafir to po'ot. 我要把這張皮革用小刀割下來。②  指要切割的(東西)。Raretreten a titi. 要割下來的肉。
 raricaricen(ricaric)    [疊 2]①  要搓、揉。O raricaricen kora dateng. 要把這菜揉成鹹菜。② 指要搓、揉的(東西)。O maan ko raricaricen ira saw? 他要搓揉什麼呢？
 raricay    畫眉鳥。
 raricingen(ricing)    [疊 2]①  要破碎、弄碎。②  指要破碎、弄碎的(東西)。同 rareciken。
@@ -237,7 +235,7 @@ rasmas    小雨，毛毛雨。
 rasmasan(rasmas)    毛毛雨天氣。
 rasmasen(rasmas)    給…灑毛毛雨。
 raso'    灑水，噴水。同 rasi' 參見 miraso'。
-raso'en(raso')    把…灑水、噴水，把…灑水、噴水。Raso'en to nanom ko ﬁnangay ! 給稻子灑水(祭祀)吧！同 rasi'en。
+raso'en(raso')    把…灑水、噴水，把…灑水、噴水。Raso'en to nanom ko finangay ! 給稻子灑水(祭祀)吧！同 rasi'en。
 rasras    撒落，散落。同 rasiras。參見marasras。
 ratar    大清早，起個大早。Nisakaranam ko wina i ratar. 母親大清早做早餐。
 ratoh    新聞，消息。Ng'ayay a ratoh. 好新聞。
@@ -432,7 +430,7 @@ rodiheng    回聲，回響。同 lodihang。
 rodis    浪濤，波濤。Ta'angayay ko rodis anini. 今天浪濤很大。
 roen    摁壓。同 noer。參見 miroen。
 roenen(roen)    把…摁壓。Adadaay ko kolol ako ,roenen hena ! 我背上疼痛，給我摁一摁吧！同 noeren。
-rofiyas    溢出。參見 maroﬁyas。
+rofiyas    溢出。參見 marofiyas。
 rofo    坐牢、關閉，籠罩。參見 mirofo。
 rofoen(rofo)    把…關閉、籠罩。Rofoen ko maymay,komaen na to panay. 要把鴨子關起來，免得吃稻子。
 roharoh    催促，敦促，逼迫。同 coracor。參見miroharoh。
@@ -474,7 +472,7 @@ romoho(roho)    彎腰，蹲踞。Romoho kora malitengay a romakat. 那個老人
 romohoay(roho)    ①  彎腰了，蹲踞著。Romohoay cinira i awtal a nitamako. 他蹲在屋外吸煙。②  指彎腰者，蹲踞者。Ci wama ko romohoay han? 蹲著的是父親嗎？
 romot    狹窄，縮小，路窄。同 ringawet。參見maromot。
 romrom    點燃火。參見 miromrom。
-romromen(romrom)    把…點燃。Romromen no kapah ko namal i awtal no seﬁ. 青年在會所外面把火點燃。Romromen ko namal ,mamakero kami ! 點上篝火吧，我們要跳舞了！
+romromen(romrom)    把…點燃。Romromen no kapah ko namal i awtal no sefi. 青年在會所外面把火點燃。Romromen ko namal ,mamakero kami ! 點上篝火吧，我們要跳舞了！
 ronang    沼澤，泥塘，池塘。參見 mironang。
 ronem    墳地，墳墓。同 fadem。
 roni    絲瓜。

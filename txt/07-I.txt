@@ -1,6 +1,5 @@
-
 i    阿美語元音之一。屬展唇、高前舌面元音，音值為[i]，有[ira]等變體。i 在 '、h 之後一般讀[I]，在 '、h 之前一般讀[ie]。
-i    (前綴)。主要表示：①  存在，所在。②  指剛剛過去的時間，在…時。Itira 在那裡。I tokos 在山上。I toros 在膝蓋。I papacem 今天早晨。I laﬁi 昨夜。I mamiheca 去年。
+i    (前綴)。主要表示：①  存在，所在。②  指剛剛過去的時間，在…時。Itira 在那裡。I tokos 在山上。I toros 在膝蓋。I papacem 今天早晨。I lafii 昨夜。I mamiheca 去年。
 i    (前置詞)。在(某處)，位於，所在。Mikasoy i tokos. 在山上砍柴。Micomod to ko posi i laloma'. 貓進屋裡了。
 'i    (語氣助詞)。表示疑問。呢。Itiraay i Kalingko ko loma' niyam, kiso ' i?我們的家在花蓮港，那麼你呢？ O ' Amis cinira, kiso ' i? 他是阿美族，你呢？同 saw。
 'i    (連接詞)。主要表示：①  提示主語、主題。O paro no niyam 'i mamoetep ko tamdaw. 我們全家呢，有十口人。O eli' i o hamoco' o hapadal ato hafadahong. 茅草呢是準備做房子兩邊牆、前後牆和屋頂用的。②  正當…時候、在…過程中。Minokay kako 'i , matengil ako ko tangic. 正當我砍柴(回家)的時候，聽見了哭聲。③  如果…、那麼…。Ano ma'orad 'i,mikilidong kita i kalaeno no kilang.一旦下雨的話，我們就去樹下躲避。沝 但是、不過。Saliyaliyawen ako a somowal cinira 'i, caay saca kapitengil to sowal. 我反反復複地對他說，但他還是不聽話。沀 …, 而且…。Mapalit ko safa 'i, pasilifongen noya tamdaw i laloma'. 弟弟被捆綁起來，而且那個人把他禁閉在屋裏。
@@ -66,7 +65,7 @@ ifenek    努力，勤奮，勤勉。Ifenek ko wawa ako a mitilid. 我的孩子�
 ifenekay(ifenek)    ①  努力，勤奮，勤勉。②  指勤奮、努力的(人)。Ifenekay a wawa. 勤勉的孩子。
 'ifor    生氣、發怒。參見 ma'ifor。
 'ifowas    散播、撒落、擴散、洋溢。同lifowas。參見 ma'ifowas。
-'ifowassa('ifowas)    散播、撒落、擴散開來，洋溢著。'Ifowassa ko nanom i ﬁntang. 臉盆裡的水溢出來了。同 lifowassa。
+'ifowassa('ifowas)    散播、撒落、擴散開來，洋溢著。'Ifowassa ko nanom i fintang. 臉盆裡的水溢出來了。同 lifowassa。
 ihacowa(cowa)    (指過去時間)何時，什麼時候。Ihacowa a fulad? 哪一個月？ Ihacowa a mihecaan? 哪一年？ Ihacowa a tayni? 什麼時候來的？
 ihacowaay(cowa)    ①  何時，什麼時候。②  指什麼時候的。Ihacowaay cangra a tayra? 他們什麼時候去了？
 ihoni(honi)    剛才，方才，剛剛。Mi'adopay ihoni.剛才在打獵。同 isawni。
@@ -100,13 +99,13 @@ ikemoday(kemod)    ①  在裡面，在深處。②  在裡面的，在深處的
 iki    (感嘆詞)。表示讚嘆：太好了，太妙了。Iki kona wawa pakalafa' to fafoy.這孩子真好能追到山豬。
 'ik'ik    嗷嗷叫喚。參見 ma'ik'ik。
 ikikilangan(kilang)ikilakilangan    [疊 2]在樹上。Iraay ko 'ayam i ikikilangan. 鳥在樹上了。
-'ik'iksa('ik'ik)    嗷嗷叫起來、嗷嗷叫喚著。'Ik'iksa a misaﬁroﬁro. 嗷嗷掙扎著。
+'ik'iksa('ik'ik)    嗷嗷叫起來、嗷嗷叫喚著。'Ik'iksa a misafirofiro. 嗷嗷掙扎著。
 'ikir    歪、歪斜。參見 ma'ikir。
-ikor    後，後面，以後。Ikor no tenok no laﬁi. 下半夜(深夜以後)。
+ikor    後，後面，以後。Ikor no tenok no lafii. 下半夜(深夜以後)。
 ikoray(ikor)    ①  後，後面，以後。②  指後面的、以後的。Ikoray a tamdaw awaay ko lilam.在後面的人領不到東西。
 ikoren(ikor)    。②  最後特意①  回頭，後來(做) 做。Ikoren a minengneng. 請回頭看。Ikoren noya kawas no riyal a somowal ci Salatawan. 海神最後特別交代薩拉大。
 'iksa('ik)    哎呀地哀叫一聲。'Iksa koya waco a maco'iyal a mapatay. 那只狗哀叫一聲伸腿死了。
-ilafii(lafii)    昨夜，昨晚。O cima ko iloma'ay iso ilaﬁi saw? 昨夜誰在你家裡？
+ilafii(lafii)    昨夜，昨晚。O cima ko iloma'ay iso ilafii saw? 昨夜誰在你家裡？
 ilalinik(linik)    在深處、底層、底下。Akaka paroen ilalinik no sato ko dawdaw. 不要把燈放在斗底下。Ilalinik no riyal koya ^ekim a kaysing. 那隻金碗在海底下。
 ilaloma'(loma')    在屋裡，在宅內。Kamaro' ilaloma'! 請屋裡坐！
 ilaloma'ay(loma')    ①  在屋裡，在宅內。②  指在屋裡、宅內的(對像)。Papina ko ilaloma'ay? 屋裡的人有多少？
@@ -158,7 +157,7 @@ imowa    大麻。( 閩南語借詞 ) Milasangay ko imowa. 大麻會讓人暈。
 impay    銀牌。[漢語借詞]Pakalayap kako to impay a comikay. 我餐賽得銀牌。
 impi    圓鍬。( 閩南語借詞 ) Tatoyen ko impi a malingad. 工作要帶圓鍬。
 impic    鉛筆。( 日語借詞 ) Micakay cingra to kahengangay a impic. 她去買一枝紅鉛筆。
-in    (中加綴)。一般插入詞根的開頭輔音之後，主要表示：動作行為的必然產物。經歷過某動。作行為的對像。某動作行為經歷的特殊地方。pinaro 裝進去的東西，內裝的物品，內容，內涵。sinafel 煮炸過的食品。'inorong 肩挑的擔子，負荷。pina'orip 飼養的家禽家畜。tina'i 腸子。ﬁnariwan. 人工砍伐過的初墾地。
+in    (中加綴)。一般插入詞根的開頭輔音之後，主要表示：動作行為的必然產物。經歷過某動。作行為的對像。某動作行為經歷的特殊地方。pinaro 裝進去的東西，內裝的物品，內容，內涵。sinafel 煮炸過的食品。'inorong 肩挑的擔子，負荷。pina'orip 飼養的家禽家畜。tina'i 腸子。finariwan. 人工砍伐過的初墾地。
 ina    (對稱)媽媽。Ci Sunay ko ina ako.我母親叫蘇奈。
 inaaw(ina)    (對稱)媽媽呀，媽咪。Inaaw ma'ilol kako i tisowanan. 媽媽我好想妳。
 inaciila(cila)    前天，前些日子，以前。Mitefo'ay ko tao inaciila. 前些日子有人來採竹筍。
@@ -168,7 +167,7 @@ inafaen(inafa)    把某某揹負、馱起來。Painafaen kako tona wawa. 幫我
 inahacowa(cowa)    (指過去)什麼時候的。Inahacowa kako a micoco to wawa? 我什麼時候給孩子餵的奶？
 'inal    所想要的、渴望的、羡慕的。Matatodongay to 'inal kona pawli. 這個香蕉很合口味。
 inaneng    認真，勤勞，勤勉。Tada inaneng kora kapah a matayal. 那位小伙子工作十分認真。
-inanengay(inaneng)    ①  認真，勤勞，勤勉。②  指認真的、勤勞的(對像)。Inanengay ci wama a maomah. 父親很認真地勞動著。Inanengay ko 'Amis a ﬁnawlan. 阿美人是勤勞的民族。
+inanengay(inaneng)    ①  認真，勤勞，勤勉。②  指認真的、勤勞的(對像)。Inanengay ci wama a maomah. 父親很認真地勞動著。Inanengay ko 'Amis a finawlan. 阿美人是勤勞的民族。
 'inap    妒忌、吃醋。參見 ma'inap。
 inapil    男式傳統服的腰帶。Pasanga' kako to inapil i loma' ni Panay. 我到 Panay 家叫她做我的腰帶。同 inapir。
 'inaw    柔軟的毛織品。
@@ -180,13 +179,13 @@ incay    蕹菜，空心菜。(閩南語借詞)Maolah ko lafang ako a komaen to 
 'ingcoay('ngco)    ①  窄小了、狹窄了。②  窄小的、狹窄的。同 'ikecoay。
 'inger    陀螺。同 'acocol。
 'ingeren('inger)    去打陀螺吧。'Ingeren a misalama ! 打陀螺玩吧！
-inget    生氣，發怒，責罵。Caka nga'ay a mainget ko mala fakiay. 當叔叔的不可生氣。同 ﬁrang、keter。參見 mainget、maﬁrang、macihi。
+inget    生氣，發怒，責罵。Caka nga'ay a mainget ko mala fakiay. 當叔叔的不可生氣。同 firang、keter。參見 mainget、mafirang、macihi。
 ingid    旁邊，靠近，挨著。Ingid han noya kaying ko malofa'inay ningra. 那小姐挨近她的未婚夫。
-ingir    歪著腦袋，側頭。Capakaﬁlo cingra 
+ingir    歪著腦袋，側頭。Capakafilo cingra 
 tonini a demak saka ingir sa to    fongoh. 他無法完成這件事所以歪著頭。同 'iring。參見 maingir。
 ingki    墨汁，墨水。[日語借詞]。Omaan a cengeran ko ingki iso? 你是用什麼顏色的墨汁。Ingkolis 英國，英語。( 英語借詞 ) Minanam ko ka^mangay to Ingkolis i pitilidan. 學生再學校學英語。
 inglo    旱稻，陸稻。Miritrit ci ina to inglo i omah. 媽媽在田裡割陸稻。
-ini    (指示代詞)。基本格形態。表示：這，這個，這些，這裡。Ini i tataroan ko focacing ato ﬁla' ato 'apol. 小檳榔和蒟葉、石灰在這個筐子裡。
+ini    (指示代詞)。基本格形態。表示：這，這個，這些，這裡。Ini i tataroan ko focacing ato fila' ato 'apol. 小檳榔和蒟葉、石灰在這個筐子裡。
 inik    底、底層、深處、裡面。I inik no takar. 在床底下。同 lalinik, ainik。Ining 部落名稱，今台灣台東市康樂村。Mangata niyam ko Ining a niyaro'. 我們離康樂很近。
 inini    (指示代詞)。基本格形態。表示：這，這個，這些，這裡。同 ini。
 'inip    沾一口，喝一小口。同 'enip、ninip。
@@ -208,7 +207,6 @@ ipalaay(pala)    ①  在荒郊野地。②  指在荒郊野地的，野生的�
 ipapacem(papacem)    今天早上。Miasik to paenan kako ipapacem. 我今天早上掃地板。
 ipapotal(potal)    [疊 1]在屋外，在庭院裡。Ipapotal cangra a misalama. 他們在屋外玩耍。同 iawtal。
 ipapotalay(potal)    [疊 1]①  在屋外，在庭院裡。②  指在屋外的(對像)。Ipapotalay ci wina mikawit to tafokod. 母親正在庭院裡織漁網。同 iawtalay。
-ipi    
 ipi    桃子，枇杷樹。同 lopas、ipa。側。Ipien ko piteli to 'ehong. 把書本側放。
 'ipoc    指一端粗一端細的條狀物。
 'ipocen('ipoc)    把…削尖。'Ipocen ko sapitilid a impic iso. 把你的寫字鉛筆削尖。
@@ -270,7 +268,7 @@ maherekay to ko roma a niyaro' a    mipanay. 我來的時候，別的村子已�
 'itekakay('itekak)    ①  堅硬了、堅定了。'Itekakay ko marad. 堅硬如鐵。②  堅硬的、堅定的。'Itekakay a fokeloh. 硬石頭。
 'itekaksa('itekak)    呈堅硬、堅定的狀態。'Itekaksa ko faloco' ira. 他信心堅定。
 'iteki    指竹、木堅硬。
-'itekiay('iteki)    ①  堅硬了。'Itekiay ko ﬁtonay. 剌竹很硬。②  堅硬的。'Iekiay a kilang. 硬石頭(木頭)。
+'itekiay('iteki)    ①  堅硬了。'Itekiay ko fitonay. 剌竹很硬。②  堅硬的。'Iekiay a kilang. 硬石頭(木頭)。
 'iter    節約、節儉。同 rahid。參見 mi'iter。
 'iteren('iter)    把…節約、節省。同 rahiden。
 itima(tima)    施行巫術，念咒施法術。
@@ -296,7 +294,7 @@ itiyahan(tiya)    到那時候再說。Itiyahan to nga' mafana' kiso. 到那時�
 itiyaho    (短語)。古時候，很久以前，那時候。Itiyaho awaay ko tamdaw i tokotokosan a maro'. 古時候，在山上還沒有人居住。
 ito    (語氣助詞)。表示催促、敦促：去吧。Katayal ito. 去工作吧。
 ito    打發。 Ito han ako cingra a talaloma' namo. 我要派他去你家。
-itokotokosan(tokos)    [疊 2]在山上，在山裡。同itatokosan。Milaﬁn ko mi'adopay itokotokosan to dadaya. 獵人晚上在山上過夜。
+itokotokosan(tokos)    [疊 2]在山上，在山裡。同itatokosan。Milafin ko mi'adopay itokotokosan to dadaya. 獵人晚上在山上過夜。
 itowan    斜紋布。Paktingen koya itowan a kiradom i lawac no kafang iso. 把斜紋布縫在你的大衣的邊沿。
 'iwa'iw    左右搖擺。參見 ma'iwa'iw。
 'iwal    撬開、撬起來。同 'owal。參見mi'iwal。
