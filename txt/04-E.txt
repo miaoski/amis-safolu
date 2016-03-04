@@ -1,202 +1,961 @@
-e    阿美語元音之一，屬元音，音值為[∂]。一般出現詞中音節，不作詞尾；作詞首時產生弱化，發音短促，並出現輕微的喉塞化。如 'efa(馬)讀如 'fa ，enem(六)讀如 'nem。
-'eca    不，不是。一般與否定副詞一起使用，表示雙重否定。非…不可。Ca ka 'eca katayra kamo. 你們非去不可。Aka ka 'eca kasomowal to no 'Amis a sowal.一定要說阿美話。
-'ecak    煮熟，成熟。同 cacak。參見 ma'ecak。
-'ecak('cak)    成熟，煮熟。'Ecaken a mitangtang ko futing. 魚要煮熟。同 malohem。參見ma'cak。
-'eced    黑蜂。
-'eceng    光線刺眼，目眩。參見 ma'eceng。
-'ecic    火燎，燒焦。參見 mi'ecic。
-'ecicen('ecic)    把…火燎、燒焦。'Ecicen ko fanoh no fafoy. 把豬毛用火燎燒一下。
-'eciw    唱歌的領唱。同 ki'eciw。參見mi'eciw。
-'eciw('ciw)    (揚鞭發出的嚮聲)嗖地一聲。'Eciw sa ko temela i kafekang. 子彈在上面嗖地一聲而過。同 siw。
-'eciwen('eciw)    請領唱吧！把…領唱。Ki'eciwen to a misatapang ko likuda. 請起頭領唱以便開始大會歌舞。同 ki'eciwen。
-'eco    擠佔，佔領他人的位置。參見 mi'eco。
-'eco('co)    象。[日語借詞]
-'ecoen('eco)    把…擠掉。Aka 'ecoen ko kamaro'an niyam ! 不要侵佔我們的居住地！
-'edaw    作法術。Mi'edaw ko cikawasay. 巫師作法。
-'edaw    卜卦，算命，詛咒。參見 mi'edaw。
-'edawen('edaw)    把…卜卦、算命、詛咒。
-'edef    關門，覆蓋，佈滿。參見 mi'edef。
-'edef('def)    ①  全面性的，散佈整個區域。Ma'def no nanom ko niyaro' a manawnaw.部落全部淹水。②  關門。'Edefen ko fawahan. 要關門。 參見 mi'def。
-'edefen('def)    要全部的。'Eedefen no nanom ko paenan no loma' iso a manawnaw. 你家地板淹水了。
-'edefen('edef)    把(門戶)關閉。'Edefen ko sasingaran ! 把你窗戶關閉吧！
-'edeng    夠了。Ma'edeng to kako. 我夠了。
-'edeng    唯一，惟有，僅有。同 'eto。參見ma'edeng。
-'edeng ci    (短語)。除了…之外，…之外。
-'edengan('edeng)    唯一的、僅有的(人、東西)。O 'edengan cinira ko mafana'ay. 只有他知道。O 'edengan kako ko mitamakoay. 只有我一個人吸煙。同 'etoan。
-'edes    嚴厲，兇悍，兇殘。參見 ma'edes。
-'edes('des)    殘酷，凶悍，嚴酷。Ma'des konini a waco. 這條狗很兇悍。參見 maedes。
-'edil    光亮，閃耀；反照，反光。參見ma'edil。
-'edo    鼠，老鼠。
-'edo('do)    老鼠。'Adihay ko 'edo i loma' namo.你家有很多老鼠。
-'edoan('edo)    鼠類。
-'edok    穀子，種子。同 'edox。
-'edok('dok)    草莓果。Talalotok ci ina ako a paloma to 'edok. 我媽去山上種草莓。
-'edokan('edok)    穀子、種子的種類。同 'edoxan。
-'edong    套袖，筒袖。
-'edongen('edong)    把…套上、穿上。'Edongen ko kiping ! 把傳統服飾的上衣穿上！
-'edox    穀子，種子。同 'edok。
-'edox('dox)    種子。Icowaay a miala tona 'edox kiso? 你在那裡拿這種子？
-'edoxan('dox)    種子的種類。O maan ko 'edoxan iso?你的種子是哪一種？
-'edoxan('edox)    穀子、種子的種類。同 'edokan。
-'e'el    自刎，自殺。參見 mi'e'el。
-'e'elen('e'el)    讓…自刎，去自刎、自殺吧！ Aka 
-'e'elen makapahay ka^mangay ho ko    miso ! 不要自殺，你還年輕！
-'efa('efa)    馬。[閩南語借詞]Paka'efa a minokay. 騎馬回去。
-'efaw    包工，承包工。
-'efaw('efaw)    承包工。'Efaw saan kora wawa to tatayalen. 這小子認真承包工作。
-'efawen('efaw)    把…承包、包工。'Efawen ko kamaomahan niyam ! 把我們的農活包了吧！
-'efec    。②  用毛巾①  阻止、禁止(他人說話) 纏頭。參見 mi'efac。
-'efec('efec)    ①  阻止、禁止他人說話 ②  包頭。'Efecen ningra ko tao. 他禁止別人說話。參見 mi'efec。
-'efecen('efec)    ①  把…阻止、禁止。'Efecen iso kako a somowal han? 你一定不讓我說話嗎？②  給…纏頭。'Efecen ko tadasay.把頭帕纏上。
-'efek('efek)    狠揍一頓，狠打。
-'efeken('efek)    把某對像狠揍、狠打一頓。'Efeken kora 'oner a miseti'. 狠狠地打那條蛇。
-'efekhan('efek)    就把某對像狠揍、狠打。'Efekhan noya wawa to kasoy koya waco , 'iksa maco'iyal a mapatay. 小孩用木頭狠打那條狗，狗“哎”地一聲伸腿就死了。
-'efeng    拋棄，遺棄，丟棄。參見 mi'efeng。
-'efeng('efeng)    拋棄，丟掉。同 falah。參見 mi'feng。
-'efengen('efeng)    把…拋棄、遺棄、丟棄。'Efengen ko 'atang. 把木屑扔掉。
-'efengen('efeng)    把東西拋棄、丟掉。'Efengen ako i tafalahan ko lakaw. 我把垃圾拋在垃圾場。
-'efer('efer)    飛，飛翔，飛行。參見 ma'efer。
-'efi'('efi')    (因負荷過重)肩膀酸痛，酸軟。'Efi' saan kora wawa a mifafa. 那孩子背孩子累了。參見 ma'efi'。
-'efid    抽半截的香煙。
-'efiden('efid)    把(香煙)抽半截。'Efiden to ako ko tamako. 我抽半截煙吧！
-'efo    點心，小吃。
-'efo    ①  (道德上)有污點，罪過。Ci'efo kora tamdaw. 那人有污點 ②  難以勝任。Caka 'efo kako to tatayalen. 我不能勝任工作。同 'ilo。參見 ma'efo。
-'efong('fong)    峽谷，深溝，窪地。Palomaen ko dateng i 'efong. 在窪地種菜。Mapoling kora malasangay a tamdaw i 'efong. 那位酒醉的人跌下深溝。'Efong 部落名稱，今台灣台東縣鹿野鄉瑞源部落。O 'Efong a niyaro' konini. 這是瑞源部落。
-eika    電影。[日語借詞]同 kacoto。
-'ekak    乾燥。同 ma'akik。參見 ma'ekak。
-'ekak    詛咒。參見 mi'ekak。
-'ekak    釀酒的酒母，酒糟，咒詛。Misa'ekak ko ina ako. 我母親在做釀酒用的酒母。O sapisa'epah ko 'ekak. 酒母是用來釀酒的。
-'ekaken('ekak)    把…詛咒。Aka 'ekaken ko tao ! 不要詛咒別人！
-'eked    另起爐竈，另立派系。同 'iked、hiked。
-'eked('eked)    分離出來，另建派系。'Eked saan nani niyaro' niyam cangra. 他們由我部落分出來。參見 mi'eked。
-'ekeden('eked)    把某些人分離出來，要另建派系。'Ekeden no kakitaan cangra. 頭目使他們另建派係。
-'ek'ek    (開懷大笑)呵呵笑，笑破肚皮。'Ek'ek saan ko tawa nora wawa.那小孩呵呵大笑。
-'ek'eksa('ek'ek)    呵呵笑著。'Ek'eksa ko tawa noya malitengay. 那老人呵呵笑著。
-'ekeng    鋼鐵。[閩南語借詞]
-'ekim    金，銀。[閩南語借詞]Ci 'ekim ko wadis ni Kacaw. 卡兆先生鑲金牙。
-'ekong    貓頭鷹。Malkal ko 'ekong i kilang.貓頭鷹在樹上呼叫。
-'elam('elam)    高傲，志高氣昂。Caay ka nga'ay a ci'elam ko tamdaw. 人不能驕傲。參見ma'elam。
-'elek    陷阱的啓動器。
-'eleken('elek)    觸動啓動器把…捕捉。'Eleken ko talakal a ni'adop. 拉動陷阱捕獵。
-'elel    自刎，自殺。參見 mi'elel。
-^eli'    茅草。O ^eli' ko fadahong no loma' niyam itiyaho. 過去我們家的屋頂是用茅草蓋的。
-^eli'an(^eli' )    ①  茅草的種類②  指一束茅草。Cecay a 'eli'an. 一束茅草。
-^eli'en(^eli' )    把茅草割下來，去割茅草吧。^Eli'en ko omah. 把田裏的茅草割下來。
-'elik('elik)    踩，踩踏。Mi'elik ci mamo to lamlo.祖母踩踏著小米。參見 mi'elik。
-'eliken('elik)    把某物踩了，踩踏了。'Eliken no mamo ko lamlo. 祖母把小米踩踏著。
-^eli^eli'an(^eli' )    [疊 2]茅草地，茅草園。Kakahad ko 'eli'eli'an niyam. 我們的茅草園很廣。
-'elo'('elo')    撒嬌，嬌聲嬌氣。'Elo'en no kaying ko taoki ningra. 小姐向老闆撒嬌。參見 ma'lo'。
-'eloc    磨損，磨壞，損壞。參見 ma'eloc。
-'elocen('eloc)    把…磨損、磨壞。'Elocen koni a fokeloh ! 把這塊石頭磨一下！
-'elol    被水淹沒，溺水。參見 ma'elol。同'alol。
-'elos    海流。
-'emahay    黃牛的叫聲。
-'emahay('mahay)    黃牛。同 fadakolong。
-'emamosa    眼珠，瞳孔。同 mamosa。
-'emamosa('mamosa)    瞳孔。Madocoh ko 'emamosa nora waco. 那隻狗的瞳孔出來了。同 'amamosa。
-'emangic('mangic)    懇求，哀求，苦苦要求。'Emangic kami to nananomen. 我們懇求著要水喝。
-'emangicay('mangic)    ①  懇求的，哀求的，苦苦要求人 ② 懇求者。'Emangicay ko finawlan to kakaenen. 人民苦求食物。
-'emec    夾住，剎住。同 'imec。
-'emec('mec)    用手掐、勒。'Emec han ako koya posi. 我把那隻貓勒死。同 'imec。參見mi'mec。
-'emecen('emec)    把…夾住、剎住。'Emecen ko li'el ira.把他的脖子夾住。同 'imecen。
-'emecen('emec)    把某人掐著、勒著。'Emecen a mipatay. 掐死。
-'emek    沈沒，淹水。參見 ma'emek。
-'emel    夾板。
-'emelen('emel)    用夾板把…夾住。'Emelen ko fanangalan ira. 把他的胳膞用夾板夾一下。
-'em'em    忍受、忍耐痛苦、困難等。參見mi'em'em。
-'em'emen('em'em)    把…忍受、忍耐。'Em'emen ho aka katomangic ! 忍耐一下，不要哭！
-'emet    憋氣，剎車。參見 mi'emet。
-'emeten('emet)    把…忍住、憋住、剎住。'Emeten ko paliding ! 把車剎住！
-'emi('emi)    麥子。[閩南語借詞]
-'emin('emin)    全部，所有，整個。'Emin saan ko finawlan a mililam to titi. 全村的人都領豬肉。參見 ma'min。
-'eming    小，少，一丁點。'Ming ko fana' ako.我只知道一點。
-'eminhan('min)    就全部吧。'Eminhan ningra a komaen koya holo ato dateng. 他把飯、菜全部吃了。
-'emo    碎米糝。
-'emo    年糕。Misa'emo i pafilongan. 過年時做年糕。
-'emod    吞沒。參見 ma'emod。
-'emod    牛胯股上的爛瘡。
-'emoy    ①  常春藤 ②  天仙果。Mikasoy kami to 'emoy. 我們去砍常春藤。
-'emoyan('emoy)    常春藤或天仙果的種類。
-'emoyen('emoy)    把常春藤或天仙果採摘、採集。
-'ena    (直接告訴對方)拿去，給你去吧！'Ena oninian ko mipafelian no wina ako. 拿去吧，這個是媽媽給我的。同na。
-'enec    用手壓住，摁住。參見 mi'enec。
-'enecen('enec)    把…壓住、摁住。Pa'icelay a 'enecen.(他)捏得很用力了。
-'enem    六、六件(東西)。'Enem ko toki. 六點鐘。 'Enem a kaysing. 六個碗。
-'eneng    看，觀看。'Eneng sa ko waco to kakomaen ako. 狗一直看我吃東西。
-'enengen('eneng)    要看著吧，把某物觀看著。'Enengen kora tofor , sainanengsa a komaen. 瞧那頭小牛，在專心地吃草吧。參見mi'eneng。
-'enenghan('eneng)    仔細一看，特地去看。'Enenghan ni kafes koya sapakaen ningra a holo. 卡福斯先生仔細看送來的飯糰。
-'enep    沈迷，被吸引住。參見 ma'enep。
-'enep    留戀，沉迷，被吸引住。'Enep saan ko Dipong to niyaro' niyam. 日本人很留戀我們的部落。參見 ma'enep。
-'engac    ①  月桃 ②  美人蕉 ③  蝴蠂花。Mi'ngac kako to hasafalod. 我採月桃用來綁東西。同 lengac。
-'engang    (小孩)哇的一聲哭了。'Engang sa ko tangic noya kaying a mararom. 那位小姐傷心的哭著。
-'enged    墊鍋的鍋圈、網架等器具。Pa'engeden ko sioy. 鍋子要墊底。同 lenged。
-'enged    熱鍋的網架。
-'eng'eng    砍到樹頭根。參見 mi'eng'eng。
-'engenga    (嬰兒哭泣聲)哇哇哭。
-'eng'engen('eng'eng)    把(樹墩)砍伐，把…砍到根部。
-'engid    番薯上的蟲傷，黑斑病。
-'engiw    微弱的聲音，一丁點聲嚮。Awaay ko 'engiw. 悄然無聲。同 adeses。參見ma'engiw。
-'engiw    尖的聲響。參見 ma'engiw。
-'enip    鼈，龜。
-'enipan('enip)    鼈、龜的種類。
-'enoc    咽，吞咽。參見 mi'enoc。
-'enocen('enoc)    把…吞咽。'Enocen ko sapaiyo. 把藥吞下去。
-'enor    坨。'Enor no tingting. 秤坨。
-'enor    錨，船錨。同 tenol.
-'epah    酒。Fadisoso' a 'epah. 葡萄酒。
-'epahan('epah)    酒的種類。O maan a 'epahan ko mikaenan iso saw? 你喝的什麼酒呢？
-'epang    麵包。[日語借詞]
-'epangan('epang)    麵包的品種。
-'epi    ①  皮革。②  小孩麻痹症。
-'epian('epi)    皮革的種類。
-'epin    告發，揭發，告狀。'Epinen no tao kami. 我們被人家控告。同 kokso。
-'epinen('epin)    把某人告發。'Epinen ako cingra. 我一定要告發他。參見 a'epinen.
-'epip    笛子，口哨。Mitatoy to 'epip ko tayhin. 警察都帶哨子。
-'epoc    效果，用處。Awaay ko 'epoc no tayal iso. 你做的沒效用。Caay ka ci'epoc kuna matokaay a kapah. 這位懶惰的年青人一點用都沒有。 參見 ma'poc。
-'epod    (從車、船等)下來，卸下(貨物)。Ma'epod kako nani paliding. 我從車上下來。參見 mi'pod。
-'epoden('epod)    把東西從車或船等處弄下來，卸下來。'Poden koya i palidingay a kasoy. 把車上的木柴卸下來吧。'Poden kowawa nani kilang ! 把孩子從樹上弄下來吧！
-'epong    洞，孔兒，洞穴。'Adihay ko 'epong no lofoc. 袋子有很多破洞。同 ofang、tepong。
-'epor    舂成精米。Ma'eporto no kaying a mitifek ko felac. 小姐已把米舂成精米。同 hefol。參見 mi'epor。
-'erac    水流失，退潮，乾涸。參見 ma'erac。
-'eraw    酒糟。Iraay ko 'eraw no mato'asay.年老者有酒槽。O sapisanga' to 'epah 
-ko    'eraw. 酒糟是釀酒的原料。
-'erec    擰緊車軸，榨汁。參見 mi'erec。
-'erecen('erec)    把…擰緊、壓榨。'Erecen ko faloco' no tailangan ! 把碾磨的心擰緊！
-'eres    裝飾，打扮，愛美。Pakakaay ko 'eres no 'Amis. 阿美人的打扮很講究的。同'eningray。
-'eres    裝飾品。同 'iray。
-'eric    鐵絲。
-'erican('eric)    鐵絲的品種。
-'erid    圈套竿子，陷井彈簧、釣魚竿。
-'eriden('erid)    用圈套竿子把…捕捉。'Eriden to ako ko 'a'adopen. 我用套竿把野獸捕捉了。
-'eroc    磨損，磨光。參見 ma'eroc。同 'orac。
-'eror    (火苗旺盛時發出的嚮聲)呼呼地嚮。參見 ma'ror。
-'esal    分配，分享(東西)。同 'isal。參見mi'esal。
-'esalen('esal)    把…分配、分享。'Esalen to ko kakaenen. 把食品分配了。同 'isalen。
-'esam    不耐煩 , 心煩，發愁。參見 ma'esam。
-'eses    指正，指出，指導。參見 mi'eses。
-'es'es    口哨、笛子。參見 mi'es'es、'es'esen。
-'esesen('eses)    當面把…指出、指正。'Esesen ko raraw ako ! 把我的錯誤指出來吧！
-'es'esen('es'es)    把(口哨等)吹奏，吹口哨吧！
-'esing    打噴嚏。參見 ma'esing。
-'eso    教唆，唆使。Aka pihai to pi'eso no tao. 不要被人教唆。參見 mi'so。
-'esoen('eso)    有意識去教唆、唆使他人。'Soen ningra kako. 他唆使我。
-'esol    遠投，遠擲。參見 mi'esol。拋遠。Ma'esol ko ngiha iso a romadiw. 你的歌聲拋得很遠。
-'esolen('esol)    把…遠投、遠擲。'Esolen ako ko kotang. 我把標槍投擲出去。
-'esos    放屁(無聲)。同 'etot。參見 ma'esos。
-'eteng    築堤，築堰。同 'ateng。參見mi'eteng。
-'etengen('eteng)    築堤壩把(水)擋住，築堤壩吧！同'atengen。
-'etip    西，西方。
-'etip    西，西方。'Etip no loma' niyam o tokos. 我家西邊是山。參見 sa'etip.
-'eto    只有，惟有，僅有。同 'edeng。
-'eto    桌子。[閩南語借詞]同 cokowi。
-'etoan    只有、惟有、僅有的(人、事等)。同'edengan。
-'etoan('eto)    桌子的種類。O maan a 'etoan koni?這是哪一類桌子？
-'etol    翹起來，撅起，勃起。參見 ma'etol。'Etolan 部落名稱。今臺灣台東縣東河鄉都蘭部落。
-'etot    放屁(有聲)。同 'esos。參見 ma'etot。
-'exaw    小鋤頭，鋤草工具。同 xaxaw、lalal。O 'exaw ko sapikolas to lamlo. 用小鋤頭來鋤小米間內的雜草。
-'exir    夕陽。
-'exiw    (祭拜神明使用的)香，香火[閩南語借詞]。Mitatoy to 'exiw a mipaypay ko pairang. 漢人帶香拜拜。
-'exor    打鼾。參見 ma'exor。Ma'xor a mafuti' ko fafoy. 山豬睡覺在打鼾。
-'eyak    噎住。參見 ma'eyak。
-'eyof    改變主意、主張。Ma'eyof ko faloco' ningra. 他的心意改變了。參見ma'eyof，ma'iyof 。
-'eyofen('eyof)    把…改變主意，改變主意吧！
+e
+阿美語元音之一，屬元音，音值為[∂]。一般出現詞中音節，不作詞尾；作詞首時產生弱化，發音短促，並出現輕微的喉塞化。如 'efa(馬)讀如 'fa ，enem(六)讀如 'nem。
+
+'eca
+不，不是。一般與否定副詞一起使用，表示雙重否定。非…不可。
+    Ca ka 'eca katayra kamo.
+    你們非去不可。
+    Aka ka 'eca kasomowal to no 'Amis a sowal.
+    一定要說阿美話。
+
+'ecak
+煮熟，成熟。
+=>  cacak。
+=>  ma'ecak。
+
+'ecak('cak)
+成熟，煮熟。
+    'Ecaken a mitangtang ko futing.
+    魚要煮熟。
+=>  malohem。
+=>  ma'cak。
+
+'eced
+黑蜂。
+
+'eceng
+光線刺眼，目眩。
+=>  ma'eceng。
+
+'ecic
+火燎，燒焦。
+=>  mi'ecic。
+
+'ecicen('ecic)
+把…火燎、燒焦。
+    'Ecicen ko fanoh no fafoy.
+    把豬毛用火燎燒一下。
+
+'eciw
+唱歌的領唱。
+=>  ki'eciw。
+=>  mi'eciw。
+
+'eciw('ciw)
+(揚鞭發出的嚮聲)嗖地一聲。
+    'Eciw sa ko temela i kafekang.
+    子彈在上面嗖地一聲而過。
+=>  siw。
+
+'eciwen('eciw)
+請領唱吧！把…領唱。
+    Ki'eciwen to a misatapang ko likuda.
+    請起頭領唱以便開始大會歌舞。
+=>  ki'eciwen。
+
+'eco
+擠佔，佔領他人的位置。
+=>  mi'eco。
+
+'eco('co)
+象。[日語借詞]
+
+'ecoen('eco)
+把…擠掉。
+    Aka 'ecoen ko kamaro'an niyam !
+    不要侵佔我們的居住地！
+
+'edaw
+作法術。
+    Mi'edaw ko cikawasay.
+    巫師作法。
+
+'edaw
+卜卦，算命，詛咒。
+=>  mi'edaw。
+
+'edawen('edaw)
+把…卜卦、算命、詛咒。
+
+'edef
+關門，覆蓋，佈滿。
+=>  mi'edef。
+
+'edef('def)
+①  全面性的，散佈整個區域。
+    Ma'def no nanom ko niyaro' a manawnaw.
+    部落全部淹水。
+②  關門。
+    'Edefen ko fawahan.
+    要關門。 
+=>  mi'def。
+
+'edefen('def)
+要全部的。
+    'Eedefen no nanom ko paenan no loma' iso a manawnaw.
+    你家地板淹水了。
+
+'edefen('edef)
+把(門戶)關閉。
+    'Edefen ko sasingaran !
+    把你窗戶關閉吧！
+
+'edeng
+夠了。
+    Ma'edeng to kako.
+    我夠了。
+
+'edeng
+唯一，惟有，僅有。
+=>  'eto。
+=>  ma'edeng。
+
+'edeng ci
+(短語)。除了…之外，…之外。
+
+'edengan('edeng)
+唯一的、僅有的(人、東西)。
+    O 'edengan cinira ko mafana'ay.
+    只有他知道。
+    O 'edengan kako ko mitamakoay.
+    只有我一個人吸煙。
+=>  'etoan。
+
+'edes
+嚴厲，兇悍，兇殘。
+=>  ma'edes。
+
+'edes('des)
+殘酷，凶悍，嚴酷。
+    Ma'des konini a waco.
+    這條狗很兇悍。
+=>  maedes。
+
+'edil
+光亮，閃耀；反照，反光。
+=>  ma'edil。
+
+'edo
+鼠，老鼠。
+
+'edo('do)
+老鼠。
+    'Adihay ko 'edo i loma' namo.
+    你家有很多老鼠。
+
+'edoan('edo)
+鼠類。
+
+'edok
+穀子，種子。
+=>  'edox。
+
+'edok('dok)
+草莓果。
+    Talalotok ci ina ako a paloma to 'edok.
+    我媽去山上種草莓。
+
+'edokan('edok)
+穀子、種子的種類。
+=>  'edoxan。
+
+'edong
+套袖，筒袖。
+
+'edongen('edong)
+把…套上、穿上。
+    'Edongen ko kiping !
+    把傳統服飾的上衣穿上！
+
+'edox
+穀子，種子。
+=>  'edok。
+
+'edox('dox)
+種子。
+    Icowaay a miala tona 'edox kiso?
+    你在哪裡拿這種子？
+
+'edoxan('dox)
+種子的種類。
+    O maan ko 'edoxan iso?
+    你的種子是哪一種？
+
+'edoxan('edox)
+穀子、種子的種類。
+=>  'edokan。
+
+'e'el
+自刎，自殺。
+=>  mi'e'el。
+
+'e'elen('e'el)
+讓…自刎，去自刎、自殺吧！ 
+    Aka'e'elen makapahay ka^mangay ho komiso ! 
+    不要自殺，你還年輕！
+
+'efa('efa)
+馬。[閩南語借詞]
+    Paka'efa a minokay.
+    騎馬回去。
+
+'efaw
+包工，承包工。
+
+'efaw('efaw)
+承包工。
+    'Efaw saan kora wawa to tatayalen.
+    這小子認真承包工作。
+
+'efawen('efaw)
+把…承包、包工。
+    'Efawen ko kamaomahan niyam !
+    把我們的農活包了吧！
+
+'efec
+①  阻止、禁止(他人說話) 纏頭。
+②  用毛巾。
+=>  mi'efac。
+
+'efec('efec)
+①  阻止、禁止他人說話
+②  包頭。
+    'Efecen ningra ko tao.
+    他禁止別人說話。
+=>  mi'efec。
+
+'efecen('efec)
+①  把…阻止、禁止。
+    'Efecen iso kako a somowal han?
+    你一定不讓我說話嗎？
+②  給…纏頭。
+    'Efecen ko tadasay.
+    把頭帕纏上。
+
+'efek('efek)
+狠揍一頓，狠打。
+
+'efeken('efek)
+把某對象狠揍、狠打一頓。
+    'Efeken kora 'oner a miseti'.
+    狠狠地打那條蛇。
+
+'efekhan('efek)
+就把某對象狠揍、狠打。
+    'Efekhan noya wawa to kasoy koya waco , 'iksa maco'iyal a mapatay.
+    小孩用木頭狠打那條狗，狗“哎”地一聲伸腿就死了。
+
+'efeng
+拋棄，遺棄，丟棄。
+=>  mi'efeng。
+
+'efeng('efeng)
+拋棄，丟掉。
+=>  falah。
+=>  mi'feng。
+
+'efengen('efeng)
+把…拋棄、遺棄、丟棄。
+    'Efengen ko 'atang.
+    把木屑扔掉。
+
+'efengen('efeng)
+把東西拋棄、丟掉。
+    'Efengen ako i tafalahan ko lakaw.
+    我把垃圾拋在垃圾場。
+
+'efer('efer)
+飛，飛翔，飛行。
+=>  ma'efer。
+
+'efi'('efi')
+(因負荷過重)肩膀酸痛，酸軟。
+    'Efi' saan kora wawa a mifafa.
+    那孩子背孩子累了。
+=>  ma'efi'。
+
+'efid
+抽半截的香煙。
+
+'efiden('efid)
+把(香煙)抽半截。
+    'Efiden to ako ko tamako.
+    我抽半截煙吧！
+
+'efo
+點心，小吃。
+
+'efo
+①  (道德上)有污點，罪過。
+    Ci'efo kora tamdaw.
+    那人有污點
+②  難以勝任。
+    Caka 'efo kako to tatayalen.
+    我不能勝任工作。
+=>  'ilo。
+=>  ma'efo。
+
+'efong('fong)
+峽谷，深溝，窪地。
+    Palomaen ko dateng i 'efong.
+    在窪地種菜。
+    Mapoling kora malasangay a tamdaw i 'efong.
+    那位酒醉的人跌下深溝。
+	
+'Efong 
+部落名稱，今台灣台東縣鹿野鄉瑞源部落。
+    O 'Efong a niyaro' konini.
+    這是瑞源部落。
+
+eika
+電影。[日語借詞]
+=>  kacoto。
+
+'ekak
+乾燥。
+=>  ma'akik。
+=>  ma'ekak。
+
+'ekak
+詛咒。
+=>  mi'ekak。
+
+'ekak
+釀酒的酒母，酒糟，咒詛。
+    Misa'ekak ko ina ako.
+    我母親在做釀酒用的酒母。
+    O sapisa'epah ko 'ekak.
+    酒母是用來釀酒的。
+
+'ekaken('ekak)
+把…詛咒。
+    Aka 'ekaken ko tao !
+    不要詛咒別人！
+
+'eked
+另起爐竈，另立派系。
+=>  'iked、hiked。
+
+'eked('eked)
+分離出來，另建派系。
+    'Eked saan nani niyaro' niyam cangra.
+    他們由我部落分出來。
+=>  mi'eked。
+
+'ekeden('eked)
+把某些人分離出來，要另建派系。
+    'Ekeden no kakitaan cangra.
+    頭目使他們另建派係。
+
+'ek'ek
+(開懷大笑)呵呵笑，笑破肚皮。
+    'Ek'ek saan ko tawa nora wawa.
+    那小孩呵呵大笑。
+
+'ek'eksa('ek'ek)
+呵呵笑著。
+    'Ek'eksa ko tawa noya malitengay.
+    那老人呵呵笑著。
+
+'ekeng
+鋼鐵。[閩南語借詞]
+
+'ekim
+金，銀。[閩南語借詞]
+    Ci 'ekim ko wadis ni Kacaw.
+    卡兆先生鑲金牙。
+
+'ekong
+貓頭鷹。
+    Malkal ko 'ekong i kilang.
+    貓頭鷹在樹上呼叫。
+
+'elam('elam)
+高傲，志高氣昂。
+    Caay ka nga'ay a ci'elam ko tamdaw.
+    人不能驕傲。
+=>  ma'elam。
+
+'elek
+陷阱的啓動器。
+
+'eleken('elek)
+觸動啓動器把…捕捉。
+    'Eleken ko talakal a ni'adop.
+    拉動陷阱捕獵。
+
+'elel
+自刎，自殺。
+=>  mi'elel。
+
+^eli'
+茅草。
+    O ^eli' ko fadahong no loma' niyam itiyaho.
+    過去我們家的屋頂是用茅草蓋的。
+
+^eli'an(^eli' )
+①  茅草的種類
+②  指一束茅草。
+    Cecay a 'eli'an.
+    一束茅草。
+
+^eli'en(^eli' )
+把茅草割下來，去割茅草吧。
+    ^Eli'en ko omah.
+    把田裏的茅草割下來。
+
+'elik('elik)
+踩，踩踏。
+    Mi'elik ci mamo to lamlo.
+    祖母踩踏著小米。
+=>  mi'elik。
+
+'eliken('elik)
+把某物踩了，踩踏了。
+    'Eliken no mamo ko lamlo.
+    祖母把小米踩踏著。
+
+^eli^eli'an(^eli' )
+[疊 2]茅草地，茅草園。
+    Kakahad ko 'eli'eli'an niyam.
+    我們的茅草園很廣。
+
+'elo'('elo')
+撒嬌，嬌聲嬌氣。
+    'Elo'en no kaying ko taoki ningra.
+    小姐向老闆撒嬌。
+=>  ma'lo'。
+
+'eloc
+磨損，磨壞，損壞。
+=>  ma'eloc。
+
+'elocen('eloc)
+把…磨損、磨壞。
+    'Elocen koni a fokeloh !
+    把這塊石頭磨一下！
+
+'elol
+被水淹沒，溺水。
+=>  ma'elol。
+=>  'alol。
+
+'elos
+海流。
+
+'emahay
+黃牛的叫聲。
+
+'emahay('mahay)
+黃牛。
+=>  fadakolong。
+
+'emamosa
+眼珠，瞳孔。
+=>  mamosa。
+
+'emamosa('mamosa)
+瞳孔。
+    Madocoh ko 'emamosa nora waco.
+    那隻狗的瞳孔出來了。
+=>  'amamosa。
+
+'emangic('mangic)
+懇求，哀求，苦苦要求。
+    'Emangic kami to nananomen.
+    我們懇求著要水喝。
+
+'emangicay('mangic)
+①  懇求的，哀求的，苦苦要求人
+②  懇求者。
+    'Emangicay ko finawlan to kakaenen.
+    人民苦求食物。
+
+'emec
+夾住，剎住。
+=>  'imec。
+
+'emec('mec)
+用手掐、勒。
+    'Emec han ako koya posi.
+    我把那隻貓勒死。
+=>  'imec。
+=>  mi'mec。
+
+'emecen('emec)
+把…夾住、剎住。
+    'Emecen ko li'el ira.
+    把他的脖子夾住。
+=>  'imecen。
+
+'emecen('emec)
+把某人掐著、勒著。
+    'Emecen a mipatay.
+    掐死。
+
+'emek
+沈沒，淹水。
+=>  ma'emek。
+
+'emel
+夾板。
+
+'emelen('emel)
+用夾板把…夾住。
+    'Emelen ko fanangalan ira.
+    把他的胳膞用夾板夾一下。
+
+'em'em
+忍受、忍耐痛苦、困難等。
+=>  mi'em'em。
+
+'em'emen('em'em)
+把…忍受、忍耐。
+    'Em'emen ho aka katomangic !
+    忍耐一下，不要哭！
+
+'emet
+憋氣，剎車。
+=>  mi'emet。
+
+'emeten('emet)
+把…忍住、憋住、剎住。
+    'Emeten ko paliding !
+    把車剎住！
+
+'emi('emi)
+麥子。[閩南語借詞]
+
+'emin('emin)
+全部，所有，整個。
+    'Emin saan ko finawlan a mililam to titi.
+    全村的人都領豬肉。
+=>  ma'min。
+
+'eming
+小，少，一丁點。
+    'Ming ko fana' ako.
+    我只知道一點。
+
+'eminhan('min)
+就全部吧。
+    'Eminhan ningra a komaen koya holo ato dateng.
+    他把飯、菜全部吃了。
+
+'emo
+碎米糝。
+
+'emo
+年糕。
+    Misa'emo i pafilongan.
+    過年時做年糕。
+
+'emod
+吞沒。
+=>  ma'emod。
+
+'emod
+牛胯股上的爛瘡。
+
+'emoy
+①  常春藤
+②  天仙果。
+    Mikasoy kami to 'emoy.
+    我們去砍常春藤。
+
+'emoyan('emoy)
+常春藤或天仙果的種類。
+
+'emoyen('emoy)
+把常春藤或天仙果採摘、採集。
+
+'ena
+(直接告訴對方)拿去，給你去吧！
+    'Ena oninian ko mipafelian no wina ako.
+    拿去吧，這個是媽媽給我的。
+=>  na。
+
+'enec
+用手壓住，摁住。
+=>  mi'enec。
+
+'enecen('enec)
+把…壓住、摁住。
+    Pa'icelay a 'enecen.
+    (他)捏得很用力了。
+
+'enem
+六、六件(東西)。
+    'Enem ko toki.
+    六點鐘。
+    'Enem a kaysing.
+    六個碗。
+
+'eneng
+看，觀看。
+    'Eneng sa ko waco to kakomaen ako.
+    狗一直看我吃東西。
+
+'enengen('eneng)
+要看著吧，把某物觀看著。
+    'Enengen kora tofor , sainanengsa a komaen.
+    瞧那頭小牛，在專心地吃草吧。
+=>  mi'eneng。
+
+'enenghan('eneng)
+仔細一看，特地去看。
+    'Enenghan ni kafes koya sapakaen ningra a holo.
+    卡福斯先生仔細看送來的飯糰。
+
+'enep
+沈迷，被吸引住。
+=>  ma'enep。
+
+'enep
+留戀，沉迷，被吸引住。
+    'Enep saan ko Dipong to niyaro' niyam.
+    日本人很留戀我們的部落。
+=>  ma'enep。
+
+'engac
+①  月桃
+②  美人蕉
+③  蝴蠂花。
+    Mi'ngac kako to hasafalod.
+    我採月桃用來綁東西。
+=>  lengac。
+
+'engang
+(小孩)哇的一聲哭了。
+    'Engang sa ko tangic noya kaying a mararom.
+    那位小姐傷心的哭著。
+
+'enged
+墊鍋的鍋圈、網架等器具。
+    Pa'engeden ko sioy.
+    鍋子要墊底。
+=>  lenged。
+
+'enged
+熱鍋的網架。
+
+'eng'eng
+砍到樹頭根。
+=>  mi'eng'eng。
+
+'engenga
+(嬰兒哭泣聲)哇哇哭。
+
+'eng'engen('eng'eng)
+把(樹墩)砍伐，把…砍到根部。
+
+'engid
+番薯上的蟲傷，黑斑病。
+
+'engiw
+微弱的聲音，一丁點聲嚮。
+    Awaay ko 'engiw.
+    悄然無聲。
+=>  adeses。
+=>  ma'engiw。
+
+'engiw
+尖的聲響。
+=>  ma'engiw。
+
+'enip
+鼈，龜。
+
+'enipan('enip)
+鼈、龜的種類。
+
+'enoc
+咽，吞咽。
+=>  mi'enoc。
+
+'enocen('enoc)
+把…吞咽。
+    'Enocen ko sapaiyo.
+    把藥吞下去。
+
+'enor
+坨。
+    'Enor no tingting.
+    秤坨。
+
+'enor
+錨，船錨。
+=>  tenol.
+
+'epah
+酒。
+    Fadisoso' a 'epah.
+    葡萄酒。
+
+'epahan('epah)
+酒的種類。
+    O maan a 'epahan ko mikaenan iso saw?
+    你喝的什麼酒呢？
+
+'epang
+麵包。[日語借詞]
+
+'epangan('epang)
+麵包的品種。
+
+'epi
+①  皮革。
+②  小孩麻痹症。
+
+'epian('epi)
+皮革的種類。
+
+'epin
+告發，揭發，告狀。
+    'Epinen no tao kami.
+    我們被人家控告。
+=>  kokso。
+
+'epinen('epin)
+把某人告發。
+    'Epinen ako cingra.
+    我一定要告發他。
+=>  a'epinen.
+    
+
+'epip
+笛子，口哨。
+    Mitatoy to 'epip ko tayhin.
+    警察都帶哨子。
+
+'epoc
+效果，用處。
+    Awaay ko 'epoc no tayal iso.
+    你做的沒效用。
+    Caay ka ci'epoc kuna matokaay a kapah.
+    這位懶惰的年青人一點用都沒有。 
+=>  ma'poc。
+
+'epod
+(從車、船等)下來，卸下(貨物)。
+    Ma'epod kako nani paliding.
+    我從車上下來。
+=>  mi'pod。
+
+'epoden('epod)
+把東西從車或船等處弄下來，卸下來。
+    'Poden koya i palidingay a kasoy.
+    把車上的木柴卸下來吧。
+    'Poden kowawa nani kilang !
+    把孩子從樹上弄下來吧！
+
+'epong
+洞，孔兒，洞穴。
+    'Adihay ko 'epong no lofoc.
+    袋子有很多破洞。
+=>  ofang。
+=>  tepong。
+
+'epor
+舂成精米。
+    Ma'eporto no kaying a mitifek ko felac.
+    小姐已把米舂成精米。
+=>  hefol。
+=>  mi'epor。
+
+'erac
+水流失，退潮，乾涸。
+=>  ma'erac。
+
+'eraw
+酒糟。
+    Iraay ko 'eraw no mato'asay.
+    年老者有酒槽。
+    O sapisanga' to 'epah ko 'eraw. 
+	酒糟是釀酒的原料。
+
+'erec
+擰緊車軸，榨汁。
+=>  mi'erec。
+
+'erecen('erec)
+把…擰緊、壓榨。
+    'Erecen ko faloco' no tailangan !
+    把碾磨的心擰緊！
+
+'eres
+裝飾，打扮，愛美。
+    Pakakaay ko 'eres no 'Amis.
+    阿美人的打扮很講究的。
+=>  'eningray。
+
+'eres
+裝飾品。
+=>  'iray。
+
+'eric
+鐵絲。
+
+'erican('eric)
+鐵絲的品種。
+
+'erid
+圈套竿子，陷井彈簧、釣魚竿。
+
+'eriden('erid)
+用圈套竿子把…捕捉。
+    'Eriden to ako ko 'a'adopen.
+    我用套竿把野獸捕捉了。
+
+'eroc
+磨損，磨光。
+=>  ma'eroc。
+=>  'orac。
+
+'eror
+(火苗旺盛時發出的嚮聲)呼呼地嚮。
+=>  ma'ror。
+
+'esal
+分配，分享(東西)。
+=>  'isal。
+=>  mi'esal。
+
+'esalen('esal)
+把…分配、分享。
+    'Esalen to ko kakaenen.
+    把食品分配了。
+=>  'isalen。
+
+'esam
+不耐煩 , 心煩，發愁。
+=>  ma'esam。
+
+'eses
+指正，指出，指導。
+=>  mi'eses。
+
+'es'es
+口哨、笛子。參見 mi'es'es、'es'esen。
+
+'esesen('eses)
+當面把…指出、指正。
+    'Esesen ko raraw ako !
+    把我的錯誤指出來吧！
+
+'es'esen('es'es)
+把(口哨等)吹奏，吹口哨吧！
+
+'esing
+打噴嚏。
+=>  ma'esing。
+
+'eso
+教唆，唆使。
+    Aka pihai to pi'eso no tao.
+    不要被人教唆。
+mi'so。
+
+'esoen('eso)
+有意識去教唆、唆使他人。
+    'Soen ningra kako.
+    他唆使我。
+
+'esol
+遠投，遠擲。拋遠。
+=>  mi'esol。
+    Ma'esol ko ngiha iso a romadiw.
+    你的歌聲拋得很遠。
+
+'esolen('esol)
+把…遠投、遠擲。
+    'Esolen ako ko kotang.
+    我把標槍投擲出去。
+
+'esos
+放屁(無聲)。
+=>  'etot。
+=>  ma'esos。
+
+'eteng
+築堤，築堰。
+=>  'ateng。
+=>  mi'eteng。
+
+'etengen('eteng)
+築堤壩把(水)擋住，築堤壩吧！
+=>  'atengen。
+
+'etip
+西，西方。
+
+'etip
+西，西方。
+    'Etip no loma' niyam o tokos.
+    我家西邊是山。
+=>  sa'etip.
+
+'eto
+只有，惟有，僅有。
+=>  'edeng。
+
+'eto
+桌子。[閩南語借詞]
+=>  cokowi。
+
+'etoan
+只有、惟有、僅有的(人、事等)。
+=>  'edengan。
+
+'etoan('eto)
+桌子的種類。
+    O maan a 'etoan koni?
+    這是哪一類桌子？
+
+'etol
+翹起來，撅起，勃起。
+=>  ma'etol。
+
+'Etolan 
+部落名稱。今臺灣台東縣東河鄉都蘭部落。
+
+'etot
+放屁(有聲)。
+=>  'esos。
+=>  ma'etot。
+
+'exaw
+小鋤頭，鋤草工具。
+=>  xaxaw。
+=>  lalal。
+    O 'exaw ko sapikolas to lamlo.
+    用小鋤頭來鋤小米間內的雜草。
+
+'exir
+夕陽。
+
+'exiw
+(祭拜神明使用的)香，香火[閩南語借詞]。
+    Mitatoy to 'exiw a mipaypay ko pairang.
+    漢人帶香拜拜。
+
+'exor
+打鼾。
+    Ma'xor a mafuti' ko fafoy.
+    山豬睡覺在打鼾。
+=>  ma'exor。
+
+'eyak
+噎住。
+=>  ma'eyak。
+
+'eyof
+改變主意、主張。
+    Ma'eyof ko faloco' ningra.
+    他的心意改變了。
+=>  ma'eyof。
+=>  ma'iyof。
+
+'eyofen('eyof)
+把…改變主意，改變主意吧！
+
