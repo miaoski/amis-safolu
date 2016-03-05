@@ -68,13 +68,15 @@ rafin
 => mirafin。
 
 rafi'
-溢出，泛濫。同 fafas、rafiyas。參見marafi'。
+溢出，泛濫。同 fafas、rafiyas。
+=> marafi'。
 
 rafir
 皮革，皮製品，皮帶。
 
 rafiyas
-溢出，泛濫。同 fafas、rafir。參見marafiyas。
+溢出，泛濫。同 fafas、rafir。
+=> marafiyas。
 
 rafor
 曬乾的煙葉或切絲的煙葉，塞入煙斗內點火來抽。
@@ -149,7 +151,8 @@ rakad
     甘蔗渣。
 
 rakam
-赤腳走路腳底刺痛難行的樣子。參見marakam。
+赤腳走路腳底刺痛難行的樣子。
+=> marakam。
 
 rakar
 魚籠，魚筌。
@@ -263,10 +266,12 @@ ranikay
     Ranikay a comikay ko toki.
     時間過得快。
     Ranikay to kako a minokay , aka to katango'or takowanan !
-    我很快會回來的，不要惦念我！同narikay。
+    我很快會回來的，不要惦念我！
+=> narikay。
 
 ranikayay(ranikay)
-快了，迅速了。快的，迅速的。同narikayay。
+快了，迅速了。快的，迅速的。
+=> narikayay。
 
 ranikayen(ranikay)
 把(速度)加快、加速。
@@ -360,7 +365,8 @@ ra'emihay(ra'emih)
     你的頭巾很柔軟，又好看。
 ②  柔軟的，柔滑的。
     Ra'emihay a kiradom.
-    軟布。同ra'emeday。
+    軟布。
+=> ra'emeday。
 
 ra'es'es
 輕聲。
@@ -486,7 +492,8 @@ rarapoten(rapot)
 ②  指要包含的，牽連的(對象、目標)。
 
 rara'
-延遲，耽擱，等得太久。參見marara'。
+延遲，耽擱，等得太久。
+=> marara'。
 
 rarasa(rara')
 慢吞吞地做事。
@@ -601,7 +608,8 @@ rarekenen(reken)
 ②  指要摁壓、壓制的(對象)。
 
 rarekep(rekep)
-[疊 2]對接，吻合，合縫。參見mararekep。
+[疊 2]對接，吻合，合縫。
+=> mararekep。
 
 rarekih(rekih)
 [疊 2]跛腳。
@@ -656,7 +664,8 @@ rarenasen(renas)
 rarenoken(renok)
 [疊 2]
 ①  要接近、逗留。
-②  指要接近、逗留的(地方、對象)。同raraoden。
+②  指要接近、逗留的(地方、對象)。
+=> raraoden。
 
 rarengecay
 天牛。
@@ -1321,7 +1330,8 @@ rawang
     你們有幾間房子？
 
 rawis
-伸手或使用工具勾取遠處的東西。參見marawis。
+伸手或使用工具勾取遠處的東西。
+=> marawis。
 
 rawisen(rawis)
 把…勾取。
@@ -1336,7 +1346,8 @@ rawishan(rawis)
     我就把他的斗笠勾取下來放在桌子上。
 
 rawraw
-無頭緒，慌亂，不知所措。參見marawraw。
+無頭緒，慌亂，不知所措。
+=> marawraw。
 
 rawrawsa(rawraw)
 處於亂糟糟的、無頭緒的狀況。
@@ -1518,7 +1529,8 @@ renasen(renas)
 => cadiwen。
 
 renec
-膩，滿足，過癮，知足。參見marenec。
+膩，滿足，過癮，知足。
+=> marenec。
 
 reni'
 輪胎氣不足而壓癟。
@@ -1584,7 +1596,8 @@ repelen(repel)
     去追捕貓。
 
 repet
-抓住，逮捕。同 lepet、fo'ot. 參見mirepet。
+抓住，逮捕。同 lepet、fo'ot. 
+=> mirepet。
 
 repeten(repet)
 把…抓住、逮捕。
@@ -1600,7 +1613,8 @@ repingen(reping)
     把客人安排在隔壁住下。
 
 resap
-慢慢移動，散播，彌漫，遊蕩。參見miresap。
+慢慢移動，散播，彌漫，遊蕩。
+=> miresap。
 
 resapen(resap)
 把…慢慢移動、散播開來。
@@ -1708,7 +1722,8 @@ rihakeday(rihaked)
     可信賴的人。
 
 riharih
-拖著地面移動，曳地而行。參見mariharih。
+拖著地面移動，曳地而行。
+=> mariharih。
 
 riharihan(riharih)
 拖地、曳地的地方。同
@@ -1792,7 +1807,8 @@ rikoran(rikor)
     你走以後，他病了。
 
 rikorar
-回憶，重復他人所做的事。參見mirikorar。
+回憶，重復他人所做的事。
+=> mirikorar。
 
 rikoraren(rikorar)
 回憶，把…重復。
@@ -1859,7 +1875,8 @@ rini
 rinien(rini)
 把…模仿、複製。
     Aka rinien ko karomadiw ira , tatiih a nengnengen !
-    不要模仿她唱歌的樣子，很難看的！同ringien。
+    不要模仿她唱歌的樣子，很難看的！
+=> ringien。
 
 rinom
 針。
@@ -1935,7 +1952,9 @@ ripa'han(ripa')
     我特地用腳掌一踩，洞裏好象有什麼東西嗡嗡地響起來。
 
 riparip
-塗抹，沾抹。同 roparop。參見miriparip。
+塗抹，沾抹。
+=> roparop。
+=> miriparip。
 
 riparipen(riparip)
 把…塗抹、沾抹。同
@@ -2078,7 +2097,8 @@ riyoan(riyo)
 女性手臂環的種類。
 
 rocek
-整個地、完整地擁有、佔有遺產。參見mirocek。
+整個地、完整地擁有、佔有遺產。
+=> mirocek。
 
 roceken(rocek)
 把遺產完全擁有、佔有。
@@ -2089,7 +2109,8 @@ rocewi
     。
 
 rociwa'
-箕踞，一種不禮貌的坐姿。參見marociwa'。
+箕踞，一種不禮貌的坐姿。
+=> marociwa'。
 
 rocod
 專心，專注。
@@ -2139,12 +2160,15 @@ rofoen(rofo)
     要把鴨子關起來，免得吃稻子。
 
 roharoh
-催促，敦促，逼迫。同 coracor。參見miroharoh。
+催促，敦促，逼迫。
+=> coracor。
+=> miroharoh。
 
 roharohen(roharoh)
 把…催促、逼迫去做事。
     Roharohen ko wawa a papimitilid.
-    催孩子去學習。同coracor。
+    催孩子去學習。
+=> coracor。
 
 rohem
 指果實成熟。
@@ -2316,7 +2340,8 @@ romi'ami'ad(romi'ad)
     我們天天學習阿美族語。
 
 romirom
-火苗即將熄滅忽時明忽暗的樣子。參見maromirom。
+火苗即將熄滅忽時明忽暗的樣子。
+=> maromirom。
 
 romoho(roho)
 彎腰，蹲踞。
@@ -2332,7 +2357,9 @@ romohoay(roho)
     蹲著的是父親嗎？
 
 romot
-狹窄，縮小，路窄。同 ringawet。參見maromot。
+狹窄，縮小，路窄。
+=> ringawet。
+=> maromot。
 
 romrom
 點燃火。
@@ -2383,7 +2410,8 @@ rongawiten(ngawit)
     。
 
 rongoh
-低語，交頭接耳說話。參見marongoh。
+低語，交頭接耳說話。
+=> marongoh。
 
 rongorongohsa(rongoh)
 [疊 1]處於交頭接耳的狀況。
@@ -2391,7 +2419,9 @@ rongorongohsa(rongoh)
     他們在交頭接耳講話。
 
 roparop
-塗抹，沾抹。同 riparip。參見miroparop。
+塗抹，沾抹。
+=> riparip。
+=> miroparop。
 
 roparopen(roparop)
 把…塗抹。
@@ -2422,12 +2452,15 @@ ropesa'
     。
 
 ro'is
-流(血、淚等)。同 rowis。參見maro'is。
+流(血、淚等)。
+=> rowis。
+=> maro'is。
 
 ro'issa(ro'is)
 處於流出來的狀態。
     Ro'issa ko losa' ira a tomangic.
-    她哭得淚水汪汪的。同rowissa。
+    她哭得淚水汪汪的。
+=> rowissa。
 
 ro'it
 收割小米。
@@ -2475,7 +2508,9 @@ rorodhan(rorod)
     那條狗就特地追蹤山豬的的腳迹。
 
 roroh
-怪罪、遷怒他們。同 loloh。參見miroroh。
+怪罪、遷怒他們。
+=> loloh。
+=> miroroh。
 
 loloh
 舊茅草。
@@ -2496,7 +2531,8 @@ rorongen(rorong)
     把稻子捆起來。
 
 rorox
-指翻修房子所遺棄的舊茅草。同loloh。
+指翻修房子所遺棄的舊茅草。
+=> loloh。
 
 rosaros
 鋸東西。參見
@@ -2543,5 +2579,6 @@ rowis
 rowissa(rowis)
 情不自禁地流出來。
     Rowissa ko losa' ira.
-    他的眼淚情不自禁地流出來。同ro'issa。
+    他的眼淚情不自禁地流出來。
+=> ro'issa。
 
