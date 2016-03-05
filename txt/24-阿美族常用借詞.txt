@@ -979,7 +979,8 @@ linciw
 鄰長〈日語借詞〉。
 
 lingka
-紅磚〈日語借詞〉。同 cenga〈閩南語借詞〉。
+紅磚〈日語借詞〉。
+=> cenga。
 
 lomataw
 流氓〈閩南語借詞〉。
@@ -1631,7 +1632,8 @@ syasingki
 => kamila〈日語/英語借詞〉。
 
 syataw
-車站〈閩南語借詞〉。同 iki。
+車站〈閩南語借詞〉。
+=> iki。
 
 syohing
 獎品〈日語借詞〉。
