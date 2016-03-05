@@ -3,11 +3,9 @@ n
 
 na
 (指示代詞)noya 的縮簡形。
-    O datok na kapah.
-    (同 O datok noya kapah.) 
+    O datok na kapah.(O datok noya kapah.) 
     那個青年的口琴。
-    O wawa na tamdaw cinira.
-    (同 O wawa noya tamdaw cinira.)
+    O wawa na tamdaw cinira.(O wawa noya tamdaw cinira.)
     他是那個人的孩子。
 
 na
@@ -1103,7 +1101,9 @@ naw
     Naw minokay kiso saw?
     你為什麼回家呢？
     Naw ca to kamaomah cinira saw?
-    他為什麼不勞動呢？同nawiro、nawhani。
+    他為什麼不勞動呢？
+=> nawiro。
+=> nawhani。
 
 nawhani(naw)
 因為，由於。

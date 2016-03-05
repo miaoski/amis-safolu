@@ -25084,7 +25084,8 @@ pipanganganan(ngangan)
 
 pipangingoy(ngingoy)
 ①  請給某某洗澡吧。
-②  給洗澡的。同pipaliloc。
+②  給洗澡的。
+=> pipaliloc。
 
 pipangingoyan(ngingoy)
 給某某洗澡的地點、時間。

@@ -291,7 +291,8 @@
 'adiping
 雞冠。
     Kahengangay ko 'adiping no tangalawan.
-    公鷄的鷄冠是紅的。同kadiping。
+    公鷄的鷄冠是紅的。
+=> kadiping。
 
 'adis
 腳上的浮皮。
@@ -696,7 +697,8 @@
     我要挎肩袋！
 
 'alacam
-蘆葦乾枝，助燃柴火。同 'acam。
+蘆葦乾枝，助燃柴火。
+=> 'acam。
 
 'alacamen
 把幹蘆葦乾枝砍伐。
@@ -1303,7 +1305,8 @@ alasa'amamokomokotsa
 向…挑釁、找碴打架。
 
 'anglis
-魚腥味。同 'angdis。
+魚腥味。
+=> 'angdis。
 
 'anglisay
 ①  有魚腥味了。

@@ -6118,7 +6118,9 @@ sakafuti'(futi')
     她叠被子。
 ②  睡眠的時間。
     Hakowa ko sakafuti' iso to dadaya saw?
-    晚上你睡多少時間？同sakakemet、sakafotek。
+    晚上你睡多少時間？
+=> sakakemet。
+=> sakafotek。
 
 sakafuti'aw(futi')
 想睡覺。

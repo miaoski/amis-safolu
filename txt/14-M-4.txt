@@ -8243,7 +8243,7 @@ misahadokidok(hadokidok)
 => misahadokihok。
 
 misahadokidokan(hadokidok)
-①  曾經為…啜泣、飲泣了。同
+①  曾經為…啜泣、飲泣了。
 => misahadokihokan。
     Misahadokidokan ni wina ko wawa ira.
     母親為她的孩子而哭泣了。
@@ -11805,7 +11805,7 @@ misani'adaay(sani'ada)
     我同情著他們。
 ②  指對他人表示同情、憐憫的人。
     O wama ako ko misani'adaay to tao a tamdaw. 
-	我父親是有同情心的人。
+    我父親是有同情心的人。
 
 misanimanima(nima)
 [疊 2]
