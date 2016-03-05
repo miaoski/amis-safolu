@@ -24,7 +24,8 @@ i
     Itiraay i Kalingko ko loma' niyam, kiso ' i?
     我們的家在花蓮港，那麼你呢？
     O ' Amis cinira, kiso ' i?
-    他是阿美族，你呢？同 saw。
+    他是阿美族，你呢？
+=> saw。
 
 'i
 (連接詞)。主要表示：
@@ -133,7 +134,8 @@ icalayen(calay)
     在套繩上綁緊。
 
 'icang
-乾枯、乾涸。參見 mi'icang。
+乾枯、乾涸。
+=> mi'icang。
 
 'icangen('icang)
 把…曬乾、弄乾。
@@ -444,7 +446,11 @@ iingid(ingid)
     Iingid a maro'.
     在旁邊坐。
     Iingid iso a tomireng.
-    緊挨你旁邊站。同 ngata、tepar、itihi、itatihi。
+    緊挨你旁邊站。
+=> ngata。
+=> tepar。
+=> itihi。
+=> itatihi。
 
 iingiday(ingid)
 (在旁邊，靠近，緊挨著。(指在旁邊的、緊挨著的(對像)。
