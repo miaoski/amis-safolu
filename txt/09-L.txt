@@ -50,7 +50,7 @@ la'ecaan('eca)
 lacaan(caan)
 積勞成疾，痼疾。
     Mato'asto cingra lacaan sato ko tireng.
-    年邁了積勞成疾。同 
+    年邁了積勞成疾。
 => la'caan。
 => malacaan。
 
@@ -1058,7 +1058,9 @@ lalasongen(lasong)
     要探視病人。
 
 lalat
-用手臂或尺子丈量。參見 milalat。同 miditek。
+用手臂或尺子丈量。
+=> milalat。
+=> miditek。
     Mo^tep a laya' ko lalat nona omah.
     這塊田有十個手臂長。
 => fakciw。
