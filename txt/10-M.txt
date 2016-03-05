@@ -987,7 +987,9 @@ ma'it'itay('it'it)
 ②  指被啃嚙的(東西)。
 
 ma'iwal('iwal)
-被撬開。同 ma'owal、masowa。
+被撬開。
+=> ma'owal。
+=> masowa。
     Ma'iwal no kokong ko 'ariri niyam.
     我們的倉庫被小偷撬開。
 
@@ -2039,7 +2041,8 @@ maatiway(atiw)
     那把鋤頭被弟弟提走了。
 
 maaxiyan(axiyan)
-煙癮發作。同 maapiyan。
+煙癮發作。
+=> maapiyan。
 
 maaxiyanay(axiyan)
 ①  煙癮發作了，四肢無力，萎糜不振。
@@ -9613,7 +9616,7 @@ malaawiday(awid)
 ①  彼此是同輩份、同級別、同事了。
 ②  指同輩、同級、同事關係的(人)。
     Malaawiday ca Namoh aci Maro'.
-	Namoh 他們和 Maro' 是同輩人。
+    Namoh 他們和 Maro' 是同輩人。
 
 malacaan(lacaan)
 患痼疾，患慢性病。
@@ -12399,7 +12402,8 @@ malofawa(fowa)
     Malofawa ko laway.
     臉腫。
     Malofawa ko o'o.
-    腳腫。同malifawa。
+    腳腫。
+=> malifawa。
 
 malofawaay(fowa)
 ①  腫起來，浮腫起來。
