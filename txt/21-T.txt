@@ -4836,6 +4836,7 @@ tateko'en(teko')
     Tateko'en a dadingoan no sasingaran.
     要撞擊的窗玻璃。
 
+tatekoh(tekoh)
 [疊 2]互相抵觸。
 => matatekoh。
 

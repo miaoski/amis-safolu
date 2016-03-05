@@ -1055,7 +1055,8 @@ inik
 => lalinik。
 => ainik。
 
-Ining 部落名稱，今台灣台東市康樂村。
+Ining
+部落名稱，今台灣台東市康樂村。
     Mangata niyam ko Ining a niyaro'.
     我們離康樂很近。
 
@@ -1121,7 +1122,8 @@ ino'en(ino')
 把…憎恨、怨恨。
 => 'intelen。
 
-Into 印度。[英語借詞]。
+Into
+印度。[英語借詞]。
     Caayho ka tayra kako i Into.
     我未曾到過印度。
 

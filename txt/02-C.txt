@@ -2645,7 +2645,8 @@ cawi
     ca'of.Makapah ko cawi ningra.
     她回答得很好。參見
     macacawi.Cawi'
-    
+
+Cawi'
 ①  部落名稱，今台灣花蓮縣豐濱鄉靜埔村。
     O kalala'ed no Posong ato Kalingko ko Cawi'.
     靜蒲是花東的界限。
@@ -6474,11 +6475,8 @@ ciriko'(riko')
     穿熊皮衣服。同cifodoy。
 
 ciriko'ay(riko')
-。
-    Ciriko'ay
-    
-①  有衣服的，穿著(衣服)
-    kako to kahengangay.
+①  有衣服的，穿著(衣服)。
+    Ciriko'ay kako to kahengangay.
     我穿紅色的衣服。
 ②  指穿衣服的人。
     Ciriko'ay to no tayring a tamdaw.

@@ -563,7 +563,8 @@ nani
 nani'ol
 小蝌蚪。
 
-nani…tala…表示地點、場所的起訖。從…至…，自從…到…。
+nani…tala…
+表示地點、場所的起訖。從…至…，自從…到…。
     Nani loma niyam tala Taypak.
     從我們家到台北。
     Nani katimol tala ka'amis.
@@ -705,7 +706,8 @@ nano
     Nano ka'oripan no tamdaw awa ho matengil.
     聞所未聞。
 	
-nano…taha…表示時間的起訖。從…至…，自從…到…。
+nano…taha…
+表示時間的起訖。從…至…，自從…到…。
     Nano lalood taha tiposan.
     從春到冬
     Nano papacem taha dadaya a maomah, ca kapahanhan ko kayam a dademak.
@@ -1138,7 +1140,8 @@ nayat
 nayaten(nayat)
 把…延伸、延長、拉長。
 
-Nayil 尼羅河。
+Nayil
+尼羅河。
     Nayil a 'alo.
     尼羅河[英語借詞]。
 
@@ -1241,7 +1244,8 @@ ni
     Pacing niwama.
     父親的漁槍。
 
-ni…an 前綴。
+ni…an
+前綴。
 => mi…an。
 
 nia

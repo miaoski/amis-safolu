@@ -1524,7 +1524,6 @@ falid
     我們用竹筏在海上打魚。
 => fadil。
 => dadangoyan。
-    
 ②  漂流，漂泊。
     Mafalid ko kasoy i kafaliyosan.
     颱風時有很多漂流木。
@@ -1747,7 +1746,8 @@ fanaw
     他快速的洗刷。
 => mifanaw。
 
-Fanaw 部落名稱
+Fanaw
+部落名稱
 ①  今台灣花蓮縣壽豐鄉池南村。
 ②  今台灣花蓮縣瑞穗鄉瑞良村。
 ③  今台灣台東縣池上鄉。
@@ -2223,9 +2223,7 @@ Fata'an
     馬太鞍是個大部落。
 
 fatac
-(竹、木的)段、節。
-    Fatac no 'aol.
-    
+(竹、木的)段、節。Fatac no 'aol.
 ①  竹節之間的長度。
 ②  手關節。
     Fatac no kamay.

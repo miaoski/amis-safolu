@@ -641,12 +641,13 @@
     'Aladen kora paliding ira !
     把他的那輛車攔住。
 	
-'alafin 久，長久。
+'alafin
+久，長久。
     'Alafin caay ko mamafalic.
     永久不變。
 => halafin。
-=> 'alafinay。
-    
+
+'alafinay
 ①  久了，長久了。
     'Alafinay ko pinokayan ira i loma'.
     他回家的時間很久了。
@@ -1030,7 +1031,8 @@ alasa'amamokomokotsa
 => 'aning。
 => 'anito。
 
-'Amis 台灣原住民族之一。阿美族，阿美人。
+'Amis
+台灣原住民族之一。阿美族，阿美人。
 
 'amis
 北，北方。
@@ -1493,7 +1495,8 @@ alasa'amamokomokotsa
 菠蘿蜜。
 => facidol。
 
-'Apaloay 部落名稱。台灣花蓮縣壽豐鄉月眉地區。
+'Apaloay
+部落名稱。台灣花蓮縣壽豐鄉月眉地區。
 
 'apanongnong
 房屋中的脊梁，脊衍。
@@ -1633,10 +1636,8 @@ alasa'amamokomokotsa
 ①  即將購買，要買。
     O maan ko 'a'acaen iso saw ?
     你要買什麼呢？。
-    O 'a'acaen
-    
 ②  指即將購買的(東西)
-    a kiradom.
+    O 'a'acaen a kiradom.
     要買的布。
 
 'a'acamen('acam)
@@ -1996,8 +1997,6 @@ alasa'amamokomokotsa
 ①  要挑釁、挑撥。
     O 'a'angien no 'ada kami.
     敵人要向我們挑釁。
-    
-    
 ②  指要挑釁、挑撥的(人)
     Canira ko 'a'angien niyam.
     他們是我們要挑釁的人。
@@ -2716,7 +2715,8 @@ arawien
 植物莖部、梗。
 => 'awakay。
 
-'Asiroay 部落名稱。今台灣台東市豐年地區。
+'Asiroay 
+部落名稱。今台灣台東市豐年地區。
 
 'asiro
 柑橘，橘子。
@@ -2917,9 +2917,11 @@ arawien
     No 'atol a kakoreng.
     越橘蔓榕。
 
-'Atolan 部落名稱，今台東縣東河鄉都蘭村。
+'Atolan
+部落名稱，今台東縣東河鄉都蘭村。
 
-'Atomo 部落名稱，今花蓮縣光復鄉東富村。
+'Atomo
+部落名稱，今花蓮縣光復鄉東富村。
 
 'atomo
 瓦罐子，甕，陶器。
@@ -3177,7 +3179,8 @@ arawien
 指行為或道德上的污點，詛咒。
 => 'ilo。
 
-'Efong 部落名稱。今台灣花蓮縣瑞穗鄉瑞源村地區。
+'Efong
+部落名稱。今台灣花蓮縣瑞穗鄉瑞源村地區。
 
 'ekak
 乾燥，乾枯，乾癟。
@@ -3499,7 +3502,8 @@ arawien
 翹起來，撅起，勃起。
 => ma'etol。
 
-'Etolan 部落名稱。今台灣台東縣東河鄉都蘭地區。
+'Etolan
+部落名稱。今台灣台東縣東河鄉都蘭地區。
 => 'Atolan。
 
 'etot

@@ -1289,7 +1289,8 @@ pacefaen(cefa)
 => patedoen。
 => paterasen。
 
-pacefcef 灌注
+pacefcef
+灌注
     Pacefcef to 'epah.
     灌酒喝。
 

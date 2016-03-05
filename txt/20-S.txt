@@ -31374,10 +31374,8 @@ sasafatien(fati)
 ①  要戴戒子。
     Sasafatien no sayxo ko tadaekim.
     工匠要把金子打成戒指。。
-    Sasafatien
-    
 ②  指要戴在手上的(戒子)
-    a 'ekim.
+    Sasafatien a 'ekim.
     要做戒指的金子。
 
 sasafaya'en(safaya')
@@ -31591,7 +31589,6 @@ sasalamaen(salama)
 ①  要玩耍。
     O sasalamaen koni tosiya.
     這輛汽車是要玩耍用的。。
-    
 ②  指要玩耍的(東西)
     Sasalamaen a 'acocol.
     要玩耍用的陀螺。
@@ -31859,14 +31856,13 @@ sasekayen(sekay)
 [疊 1]
 ①  要寄託。
     Oni a lalosidan ko sasekayen.
-    這件行李即將被寄託。。
-    Sasekayen
-    
-②  指要寄託的(物件)
-    a maamaan.
+    這件行李即將被寄託。
+②  指要寄託的(物件)。
+    Sasekayen a maamaan.
     即將被寄託的東西。
-    sasekayen
-    要解脫的。
+
+sasekayen
+要解脫的。
     Sasekayen ko roray no faroco'.
     要讓心中的苦悶得到解脫。
 
@@ -32668,7 +32664,6 @@ sasolinga'en(solinga')
 ①  要擺整齊。
     Sasolinga'en ako ko kafuti'an ako.
     我要把床舖收拾好。
-   
 ②  指要擺整齊的(東西)
     Sasolinga'en a demak.
     即將被整理收拾好的事情。
@@ -32870,7 +32865,6 @@ saso'solen(so'sol)
 ①  要編串。
     O saso'solen ako ko sasimi.
     我要把生魚片串起來。
-    
 ②  指要編串的(東西)。
     O maan ko saso'solen iso?
     你要編串的是什麼東西？
@@ -32898,7 +32892,6 @@ sasowalen(sowal)
 ①  要說。
     O sasowalen ako koya demak.
     我要把那件事說出來的。
-    
 ②  指要手說的(物件)。
     O maan ko sasowalen iso?
     你要說什麼？

@@ -3224,7 +3224,6 @@ hatini(tini)
 hatiniay(tini)
 ①  按照這樣(做)了，照這樣的了。。
     Hatiniay ko lalok
-    
 ②  這樣的(人)
     ningra a halilafang.
     她就是這樣的好客。
