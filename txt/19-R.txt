@@ -64,28 +64,33 @@ rafay
 缸，水壺，缽頭。
 
 rafin
-過夜。參見 mirafin。
+過夜。
+=> mirafin。
 
 rafi'
-溢出，泛濫。同 fafas、rafiyas。參見marafi'。
+溢出，泛濫。同 fafas、rafiyas。
+=> marafi'。
 
 rafir
 皮革，皮製品，皮帶。
 
 rafiyas
-溢出，泛濫。同 fafas、rafir。參見marafiyas。
+溢出，泛濫。同 fafas、rafir。
+=> marafiyas。
 
 rafor
 曬乾的煙葉或切絲的煙葉，塞入煙斗內點火來抽。
 
 rafraf
-火勢熊熊。參見 marafraf。
+火勢熊熊。
+=> marafraf。
 
 rahed
 蛋黃，蟹黃。
 
 rahid
-節約，節省，節儉。參見 mirahid。
+節約，節省，節儉。
+=> mirahid。
 
 rahiden(rahid)
 把…節約、節省下來。
@@ -100,7 +105,8 @@ rahidhan(rahid)
     水電要特別節省！
 
 rahkad
-蒸，煮。參見 mirahkad。
+蒸，煮。
+=> mirahkad。
 
 rahkaden(rahkad)
 把…蒸煮。
@@ -108,10 +114,12 @@ rahkaden(rahkad)
     把肉煮了給老人吃。
 
 rahker
-高興，興奮。參見 marahker。
+高興，興奮。
+=> marahker。
 
 rahmed
-淋透，淋濕。同 cepa'、'opic、senger。參見 marahmed。
+淋透，淋濕。同 cepa'、'opic、senger。
+=> marahmed。
 
 rahod
 蒸氣，濕氣。
@@ -128,7 +136,9 @@ rahodayay(rahoday)
     這項工作不是輕而易舉的。
 
 rahrah
-金黃色，也指稻穀成熟。同 ma'ecak。參見 marahrah。
+金黃色，也指稻穀成熟。
+=> ma'ecak。
+=> marahrah。
     Marahrah to ko panay.
     稻子成熟了。
 
@@ -141,7 +151,8 @@ rakad
     甘蔗渣。
 
 rakam
-赤腳走路腳底刺痛難行的樣子。參見marakam。
+赤腳走路腳底刺痛難行的樣子。
+=> marakam。
 
 rakar
 魚籠，魚筌。
@@ -179,7 +190,8 @@ ramah
 嘴巴流口水的痕迹。
 
 rama'
-毫無節制，毫無頭緒。參見 mirama'。
+毫無節制，毫無頭緒。
+=> mirama'。
 
 rama'en(rama')
 毫無節制地把…做。
@@ -187,7 +199,8 @@ rama'en(rama')
     不要毫無節制地喂孩子。
 
 ramet
-緊握拳頭。參見 miramet。
+緊握拳頭。
+=> miramet。
 
 rameten(ramet)
 把…緊緊握住。
@@ -195,7 +208,8 @@ rameten(ramet)
     我要緊握他的手！
 
 rami'
-廚房。同 demi'。
+廚房。
+=> demi'。
 
 rami'
 用來起火的乾草、點火。
@@ -211,10 +225,12 @@ ramod
     。
 
 ramo'
-損壞不堪。參見 maramo'。
+損壞不堪。
+=> maramo'。
 
 ramot
-揀取，撿東西。參見 miramot。
+揀取，撿東西。
+=> miramot。
 
 ramoten(ramot)
 把…揀取。
@@ -230,7 +246,8 @@ rana
 山腳，山麓。
 
 rana
-根基、底部。參見 parana。
+根基、底部。
+=> parana。
 
 ranam
 早餐，早飯。
@@ -241,17 +258,20 @@ ranap
     檳榔花的外殼。
 
 ranih
-可以勝任、完成。參見 maranih。
+可以勝任、完成。
+=> maranih。
 
 ranikay
 快，迅速。
     Ranikay a comikay ko toki.
     時間過得快。
     Ranikay to kako a minokay , aka to katango'or takowanan !
-    我很快會回來的，不要惦念我！同narikay。
+    我很快會回來的，不要惦念我！
+=> narikay。
 
 ranikayay(ranikay)
-快了，迅速了。快的，迅速的。同narikayay。
+快了，迅速了。快的，迅速的。
+=> narikayay。
 
 ranikayen(ranikay)
 把(速度)加快、加速。
@@ -261,7 +281,8 @@ ranikayen(ranikay)
     。
 
 rangi
-相似，相象，類似。參見 mirangi。
+相似，相象，類似。
+=> mirangi。
 
 rangien(rangi)
 把…模仿、複製。
@@ -279,7 +300,8 @@ rangrangen(rangrang)
     烤羊肉。
 
 raod
-走近，接近，靠近。參見 miraod。
+走近，接近，靠近。
+=> miraod。
 
 raoden(raod)
 把…走近、靠近、接近。
@@ -300,16 +322,20 @@ rao'en(rao')
     我們要去採無患子做洗衣服用。
 
 rapic
-涉嫌，牽連。參見 marapic。
+涉嫌，牽連。
+=> marapic。
 
 rapiyac
-石板，磐石。同 dapiyac。
+石板，磐石。
+=> dapiyac。
 
 raponay
 山鴿子。
 
 rapot
-牽連、涉及。同 rapic。參見 mirapot。
+牽連、涉及。
+=> rapic。
+=> mirapot。
 
 rapoten(rapot)
 把…牽連、涉及。
@@ -320,7 +346,8 @@ rapoten(rapot)
     對準我照相吧！
 
 ra'emed
-柔軟，柔滑。同 ra'emih。
+柔軟，柔滑。
+=> ra'emih。
 
 ra'emeday(ra'emed)
 ①  柔軟了，柔滑了。
@@ -329,7 +356,8 @@ ra'emeday(ra'emed)
     。
 
 ra'emih
-柔軟，柔滑。同 ra'emed。
+柔軟，柔滑。
+=> ra'emed。
 
 ra'emihay(ra'emih)
 ①  柔軟了，柔滑了。
@@ -337,7 +365,8 @@ ra'emihay(ra'emih)
     你的頭巾很柔軟，又好看。
 ②  柔軟的，柔滑的。
     Ra'emihay a kiradom.
-    軟布。同ra'emeday。
+    軟布。
+=> ra'emeday。
 
 ra'es'es
 輕聲。
@@ -368,7 +397,8 @@ ra'ra'an(ra'ra')
 豆子、紅豆的種類。
 
 rara
-慢吞吞，漫不經心。參見 marara。
+慢吞吞，漫不經心。
+=> marara。
 
 raracam(raracan)
 三角螺。
@@ -415,10 +445,10 @@ rarahkaden(rahkad)
 [疊 2]
 ①  要蒸煮。
     O rarahkaden ako ko titi no kolong.
-    我要去煮牛肉。。
-    Rarahkaden a
-    
-②  指要蒸煮的(東西) toron. 要下蒸的糯米糕。
+    我要去煮牛肉。
+②  指要蒸煮的(東西)。 
+    Rarahkaden a toron. 
+    要下蒸的糯米糕。
 
 rarakaten(rakat)
 [疊 2]
@@ -462,7 +492,8 @@ rarapoten(rapot)
 ②  指要包含的，牽連的(對象、目標)。
 
 rara'
-延遲，耽擱，等得太久。參見marara'。
+延遲，耽擱，等得太久。
+=> marara'。
 
 rarasa(rara')
 慢吞吞地做事。
@@ -577,7 +608,8 @@ rarekenen(reken)
 ②  指要摁壓、壓制的(對象)。
 
 rarekep(rekep)
-[疊 2]對接，吻合，合縫。參見mararekep。
+[疊 2]對接，吻合，合縫。
+=> mararekep。
 
 rarekih(rekih)
 [疊 2]跛腳。
@@ -632,7 +664,8 @@ rarenasen(renas)
 rarenoken(renok)
 [疊 2]
 ①  要接近、逗留。
-②  指要接近、逗留的(地方、對象)。同raraoden。
+②  指要接近、逗留的(地方、對象)。
+=> raraoden。
 
 rarengecay
 天牛。
@@ -761,7 +794,8 @@ raricingen(ricing)
     。
 
 rarid
-經常，連續。參見 mirarid。
+經常，連續。
+=> mirarid。
 
 rariden(rarid)
 把…經常、連續做。
@@ -841,7 +875,8 @@ rarikowaten(rikowat)
 ②  指要翻轉的(東西)。
 
 rarima
-吃力，費勁。參見 mararima。
+吃力，費勁。
+=> mararima。
 
 rarimaan(rarima)
 令人吃力、費勁的事情。
@@ -893,7 +928,8 @@ raringaten(ringat)
 raringien(ringi)
 [疊 2]
 ①  要模仿、複製。
-②  指要模仿、複製的(物件)。同 rarinien。
+②  指要模仿、複製的(物件)。
+=> rarinien。
 
 raringoen(ringo)
 [疊 2]
@@ -912,10 +948,8 @@ raringringen(ringring)
 ①  要炒豆子。
     O raringringen no ina ko ra'ra , sapakaen to wawa ira.
     媽媽要去炒豆子給她的孩子吃。。
-    Raringringen a
-    
 ②  指要炒的(豆子)
-    kodasing.
+    Raringringen a kodasing.
     要炒的花生。
 
 raripa'en(ripa')
@@ -931,7 +965,8 @@ rariparipen(riparip)
     。
 
 rasi'
-灑水，潑水。參見 mirasi'。
+灑水，潑水。
+=> mirasi'。
 
 rasi'en(rasi')
 給…灑水、潑水。
@@ -1101,7 +1136,8 @@ rarokroken(rokrok)
     即將沸騰的水。
 
 rarom
-悲傷，悔恨。參見 mararom。
+悲傷，悔恨。
+=> mararom。
 
 raromicen(romic)
 [疊 2]
@@ -1187,42 +1223,47 @@ rarosarosen(rosaros)
 [疊 2]
 ①  要鋸斷。
     O rarosarosen koni a sapad.
-    要把這塊木板鋸一鋸。。
-    O maan ko
-    
-②  指要鋸斷的(東西)
-    rarosarosen iso?
+    要把這塊木板鋸一鋸。
+②  指要鋸斷的(東西)。
+    O maan ko rarosarosen iso?
     你要鋸什麼？
 
 rarot
-出發，起程。參見 mararot。
+出發，起程。
+=> mararot。
 
 rarotaroten(rotarot)
 [疊 2]
 ①  要揉搓。
-②  指要揉搓的。同raromicen。
+②  指要揉搓的。
+=> raromicen。
 
 raroyaroy
-平衡。參見
-    mararoyaroy
-    。
+平衡。
+=> mararoyaroy。
 
 rasa
 箅子。( 竹器，用來托墊蒸犯飯的木曾瓦 )。
 
 rasi'
-灑水。同 raso'。參見 mirasi'。
+灑水。
+=> raso'。
+=> mirasi'。
 
 rasi'en(rasi')
 給…灑水，把…灑水。
     Rasi'en ko paenan to nanom.
-    給地板灑水。同raso'en。
+    給地板灑水。
+=> raso'en。
 
 rasiras
-撒落，散落，掉落。同 rasras。參見marasras。
+撒落，散落，掉落。
+=> rasras。
+=> marasras。
 
 rasit
-逐個告知、報信。參見 mirasit。
+逐個告知、報信。
+=> mirasit。
 
 rasiten(rasit)
 給…逐個告知、報信，把…告知、報信。
@@ -1239,15 +1280,20 @@ rasmasen(rasmas)
 給…灑毛毛雨。
 
 raso'
-灑水，噴水。同 rasi' 參見 miraso'。
+灑水，噴水。
+=> rasi' 
+=>  miraso'。
 
 raso'en(raso')
 把…灑水、噴水，把…灑水、噴水。
     Raso'en to nanom ko finangay !
-    給稻子灑水(祭祀)吧！同 rasi'en。
+    給稻子灑水(祭祀)吧！
+=> rasi'en。
 
 rasras
-撒落，散落。同 rasiras。參見marasras。
+撒落，散落。
+=> rasiras。
+=> marasras。
 
 ratar
 大清早，起個大早。
@@ -1270,7 +1316,8 @@ ratohhan(ratoh)
     我特向你報告他的有關情況。
 
 rawac
-周圍、四周。參見 mirawac。
+周圍、四周。
+=> mirawac。
 
 rawacen(rawac)
 把(房子四周)固定好。
@@ -1283,7 +1330,8 @@ rawang
     你們有幾間房子？
 
 rawis
-伸手或使用工具勾取遠處的東西。參見marawis。
+伸手或使用工具勾取遠處的東西。
+=> marawis。
 
 rawisen(rawis)
 把…勾取。
@@ -1298,7 +1346,8 @@ rawishan(rawis)
     我就把他的斗笠勾取下來放在桌子上。
 
 rawraw
-無頭緒，慌亂，不知所措。參見marawraw。
+無頭緒，慌亂，不知所措。
+=> marawraw。
 
 rawrawsa(rawraw)
 處於亂糟糟的、無頭緒的狀況。
@@ -1314,7 +1363,8 @@ rayaray
     集合的人排幾列？
 
 rayas
-平直，保持水平線。參見 marayas。
+平直，保持水平線。
+=> marayas。
 
 rayic
 鐵絲。
@@ -1330,7 +1380,8 @@ rayray
     你的講稿脈絡不清。
 
 recep
-滲透，浸濕、深入。參見 mirecep。
+滲透，浸濕、深入。
+=> mirecep。
 
 recepen(recep)
 把…滲透、浸濕、深入。
@@ -1338,10 +1389,13 @@ recepen(recep)
     把地板浸濕。
 
 recik
-破碎，碎片。同 recing。參見 mirecik。
+破碎，碎片。
+=> recing。
+=> mirecik。
 
 reciken(recik)
-把…弄碎、破碎。同 recingen。
+把…弄碎、破碎。
+=> recingen。
 
 recrec
 鐵箍。
@@ -1352,7 +1406,8 @@ recrecen(recrec)
     把我的水桶箍上鐵絲。
 
 reda'
-熟睡，沈睡。參見 mareda'。
+熟睡，沈睡。
+=> mareda'。
 
 reda'sa(reda')
 處於熟睡、沈睡狀態。
@@ -1360,7 +1415,8 @@ reda'sa(reda')
     你的小孩睡得很熟。
 
 redat
-傷口撕裂似的疼痛，疼痛難耐。參見maredat。
+傷口撕裂似的疼痛，疼痛難耐。
+=> maredat。
 
 redek
 魔力，靈力，超自然的力量。
@@ -1369,13 +1425,17 @@ rideken(redek)
 對…施魔法、念咒。
 
 redes
-發腫，感染。同 lades。參見 maredes。
+發腫，感染。
+=> lades。
+=> maredes。
 
 redih
-因潰爛而裂開。參見 maredih。
+因潰爛而裂開。
+=> maredih。
 
 redo
-始終如一，首尾如一，堅定不移。參見miredo。
+始終如一，首尾如一，堅定不移。
+=> miredo。
 
 redoen(redo)
 把…執著、堅定、始終如一地執行。
@@ -1383,7 +1443,8 @@ redoen(redo)
     你對太太的愛要始終如一。
 
 refay
-不緊，鬆弛，鬆懈。參見 marefay。
+不緊，鬆弛，鬆懈。
+=> marefay。
 
 refong
 坑，洞穴。
@@ -1406,7 +1467,8 @@ rekec
 結實，變硬。
 
 reken
-用手摁壓。參見 mirecek。
+用手摁壓。
+=> mirecek。
 
 rekenen(reken)
 把…摁壓。
@@ -1414,7 +1476,8 @@ rekenen(reken)
     我把木板壓下去了。
 
 reko
-彎曲 , 弄彎。參見 mireko。
+彎曲 , 弄彎。
+=> mireko。
 
 rekoen(reko)
 把…彎曲。
@@ -1422,10 +1485,12 @@ rekoen(reko)
     我們不要屈從他的訓示。
 
 rekoh
-賦閑，無所事事。參見 marekoh。
+賦閑，無所事事。
+=> marekoh。
 
 remes
-血，血迹。同 'ilang。
+血，血迹。
+=> 'ilang。
 
 remesan(remes)
 有血的地方，血型。
@@ -1434,7 +1499,8 @@ remo'
 年糕，米糕。同 'emo'。Remot 部落名稱。今花蓮縣瑞穗鄉地區。
 
 renac
-磨刀。參見 mirenac。
+磨刀。
+=> mirenac。
 
 renacen(renac)
 把…磨礪、磨快。
@@ -1442,7 +1508,8 @@ renacen(renac)
     把這把刀磨快吧！
 
 renaf
-塗抹，粉刷，彌漫。參見 mirenaf。
+塗抹，粉刷，彌漫。
+=> mirenaf。
 
 renafen(renaf)
 把…塗抹、粉刷、彌漫。
@@ -1450,30 +1517,39 @@ renafen(renaf)
     給我們的房子刷上油漆。
 
 rena'
-(挑擔子繩子太長)碰撞地面，碰沾地。參見 marena'。
+(挑擔子繩子太長)碰撞地面，碰沾地。
+=> marena'。
 
 renas
-磨礪，磨快。同 cadiw。
+磨礪，磨快。
+=> cadiw。
 
 renasen(renas)
-把(刀器)磨礪、磨快。同 cadiwen。
+把(刀器)磨礪、磨快。
+=> cadiwen。
 
 renec
-膩，滿足，過癮，知足。參見marenec。
+膩，滿足，過癮，知足。
+=> marenec。
 
 reni'
-輪胎氣不足而壓癟。參見 mareni'。
+輪胎氣不足而壓癟。
+=> mareni'。
 
 renok
-聚集接近，靠近，逗留。同 raod。參見 mirenok。
+聚集接近，靠近，逗留。
+=> raod。
+=> mirenok。
 
 renoken(renok)
 向…接近、靠近，把…接近、靠近。
     Renoken ko loma' ni faki.
-    要道舅舅家逗留一下。同 raoden。
+    要道舅舅家逗留一下。
+=> raoden。
 
 rengec
-切斷，剪斷。參見 mirengc。
+切斷，剪斷。
+=> mirengc。
 
 rengecen(rengec)
 把…切斷、剪斷。
@@ -1502,7 +1578,8 @@ repalopalo(palo)
     。
 
 repat
-毀壞，損壞。參見 mirepat。
+毀壞，損壞。
+=> mirepat。
 
 repaten(repat)
 把…弄壞、損壞。
@@ -1510,7 +1587,8 @@ repaten(repat)
     不要損壞別人的東西。
 
 repel
-圍住，追捕。參見 mirepel。
+圍住，追捕。
+=> mirepel。
 
 repelen(repel)
 把(某人或動物)圍住，追捕。
@@ -1518,7 +1596,8 @@ repelen(repel)
     去追捕貓。
 
 repet
-抓住，逮捕。同 lepet、fo'ot. 參見mirepet。
+抓住，逮捕。同 lepet、fo'ot. 
+=> mirepet。
 
 repeten(repet)
 把…抓住、逮捕。
@@ -1534,13 +1613,15 @@ repingen(reping)
     把客人安排在隔壁住下。
 
 resap
-慢慢移動，散播，彌漫，遊蕩。參見miresap。
+慢慢移動，散播，彌漫，遊蕩。
+=> miresap。
 
 resapen(resap)
 把…慢慢移動、散播開來。
 
 resres
-切絲，切細。參見 miresres。
+切絲，切細。
+=> miresres。
 
 resresen(resres)
 把…切絲、切細。
@@ -1550,7 +1631,8 @@ resresen(resres)
     把菜切細。
 
 retep
-趕上，遇見。參見 miretep。
+趕上，遇見。
+=> miretep。
 
 retepen(retep)
 把…趕上、遇見。
@@ -1558,10 +1640,12 @@ retepen(retep)
     一定要趕上他做的事情。
 
 retes
-慢慢溢出、流出。參見 maretes。
+慢慢溢出、流出。
+=> maretes。
 
 reti'
-鍛冶，冶煉。參見 mireti'。
+鍛冶，冶煉。
+=> mireti'。
 
 reti'en(reti')
 把…冶煉、火煉。
@@ -1569,7 +1653,8 @@ reti'en(reti')
     把這塊銅煉一下！
 
 retret
-用小刀慢慢切割。參見 miretret。
+用小刀慢慢切割。
+=> miretret。
 
 retreten(retret)
 把…慢慢切割。
@@ -1588,13 +1673,17 @@ ricawa'
     。
 
 ricing
-碎片，破碎。同 recik。參見 miricing。
+碎片，破碎。
+=> recik。
+=> miricing。
 
 ricingen(ricing)
-把…弄碎、破碎。同 reciken。
+把…弄碎、破碎。
+=> reciken。
 
 ridrid
-領導，引導，帶路。同 kerid、ri'erid、ri'rir。參見 miridrid。
+領導，引導，帶路。同 kerid、ri'erid、ri'rir。
+=> miridrid。
 
 ridriden(ridrid)
 把…領導、引導、帶路。同 keriden、ri'eriden、ri'eriren。
@@ -1633,7 +1722,8 @@ rihakeday(rihaked)
     可信賴的人。
 
 riharih
-拖著地面移動，曳地而行。參見mariharih。
+拖著地面移動，曳地而行。
+=> mariharih。
 
 riharihan(riharih)
 拖地、曳地的地方。同
@@ -1641,7 +1731,8 @@ riharihan(riharih)
     。
 
 rihaw
-沙啞，嘶啞。參見 marihaw。
+沙啞，嘶啞。
+=> marihaw。
 
 rihawak
 叉開腿。參見
@@ -1649,10 +1740,12 @@ rihawak
     。
 
 rihi
-田埂，田岸。同 rixi'。
+田埂，田岸。
+=> rixi'。
 
 rihnac
-用舌頭舔。參見 mirihnac。
+用舌頭舔。
+=> mirihnac。
 
 rihnacen(rihnac)
 把…舔一舔。
@@ -1660,7 +1753,8 @@ rihnacen(rihnac)
     舔一下，鹹嗎？
 
 riyah
-東方欲曉，曙色。參見 mariyah。
+東方欲曉，曙色。
+=> mariyah。
 
 rikowat
 彎曲，弄彎。參見
@@ -1673,7 +1767,8 @@ rikowaten(rikowat)
     說話不要拐彎抹角。
 
 rikap
-吊慰，吊唁。參見 mirikap。
+吊慰，吊唁。
+=> mirikap。
 
 rikapen(rikap)
 把…吊慰、吊唁。
@@ -1684,7 +1779,8 @@ rikec
     我們公司的法則多。
 
 rikit
-跟腳兒，跟隨。參見 mirikit。
+跟腳兒，跟隨。
+=> mirikit。
 
 rikiten(rikit)
 把…跟隨、跟從。
@@ -1702,7 +1798,8 @@ riko'
     這件衣服漂亮。
 
 rikor
-以後，後面。同 ikor。
+以後，後面。
+=> ikor。
 
 rikoran(rikor)
 走以後，做某事以後。
@@ -1710,7 +1807,8 @@ rikoran(rikor)
     你走以後，他病了。
 
 rikorar
-回憶，重復他人所做的事。參見mirikorar。
+回憶，重復他人所做的事。
+=> mirikorar。
 
 rikoraren(rikorar)
 回憶，把…重復。
@@ -1744,7 +1842,8 @@ rimood
     一元。
 
 rinafo
-犁溝。同 lafos。
+犁溝。
+=> lafos。
 
 rinafo
 準備做花圃、菜圃的地。Rinahem 部落名稱。今臺灣花蓮縣新城鄉壽豐地區。
@@ -1753,13 +1852,15 @@ rinahem
 小米飯。
 
 rinam
-遲到，落後；遲起。同 mapac。
+遲到，落後；遲起。
+=> mapac。
 
 rinamay
 北斗星。
 
 rina'
-印刷，蓋章。參見 mirina'。
+印刷，蓋章。
+=> mirina'。
 
 rina'en(rina')
 把…印刷、蓋章、出版。
@@ -1767,12 +1868,15 @@ rina'en(rina')
     在書的背面蓋上印章吧！
 
 rini
-類似，酷似。同 ringi。參見 mirini。
+類似，酷似。
+=> ringi。
+=> mirini。
 
 rinien(rini)
 把…模仿、複製。
     Aka rinien ko karomadiw ira , tatiih a nengnengen !
-    不要模仿她唱歌的樣子，很難看的！同ringien。
+    不要模仿她唱歌的樣子，很難看的！
+=> ringien。
 
 rinom
 針。
@@ -1789,7 +1893,8 @@ ringasa'
 魚鰓。
 
 ringat
-粘貼，沾上。參見 miringat。
+粘貼，沾上。
+=> miringat。
 
 ringaten(ringat)
 把…粘貼、沾上。
@@ -1797,19 +1902,25 @@ ringaten(ringat)
     把紙貼在牆上。
 
 ringer
-轉動，轉過來。參見 maringer。
+轉動，轉過來。
+=> maringer。
 
 ringi
-類似，酷似。同 rini。參見 miringi。
+類似，酷似。
+=> rini。
+=> miringi。
 
 ringien(ringi)
-把…模仿、複製。同 rinien。
+把…模仿、複製。
+=> rinien。
 
 ringid
 旁邊，側旁。
 
 ringo
-烤火取暖。同 ngiro。參見 miringo。
+烤火取暖。
+=> ngiro。
+=> miringo。
 
 ringoen(ringo)
 把…烤火取暖。
@@ -1827,7 +1938,8 @@ ringringen(ringring)
     把花生炒一炒。
 
 ripa'
-踩踏。參見 miripa'。
+踩踏。
+=> miripa'。
 
 ripa'en(ripa')
 把…踩踏。
@@ -1840,12 +1952,15 @@ ripa'han(ripa')
     我特地用腳掌一踩，洞裏好象有什麼東西嗡嗡地響起來。
 
 riparip
-塗抹，沾抹。同 roparop。參見miriparip。
+塗抹，沾抹。
+=> roparop。
+=> miriparip。
 
 riparipen(riparip)
 把…塗抹、沾抹。同
     roparopen
-    。Ripon 日本，日本國。[日語借詞]同 Dipon。
+    。Ripon 日本，日本國。[日語借詞]
+=> Dipon。
 
 ri'ang
 兇惡，兇狠。參見
@@ -1867,7 +1982,8 @@ ri'eriren(ri'erir)
 把…領導、引導、帶領。同 keriden、ridriden、ri'eriden。
 
 ri'iw
-染齒，刷牙。參見 miri'iw。
+染齒，刷牙。
+=> miri'iw。
 
 ri'iwen(ri'iw)
 把…染齒、刷牙。
@@ -1876,13 +1992,16 @@ ri'iwen(ri'iw)
 
 riri'
 ①  蝗蟲，螞蚱。
-②  餌食。同 fafokod。
+②  餌食。
+=> fafokod。
 
 risris
-剷除草根。參見 mirisris。
+剷除草根。
+=> mirisris。
 
 risris
-模範，榜樣。參見 sarisris。
+模範，榜樣。
+=> sarisris。
 
 risrisen(risris)
 把…剷除草根。
@@ -1891,19 +2010,23 @@ risris
 按順序整理、安排、分配。同 sirsir、silil。
 
 riti
-女性生殖器。同 poki。
+女性生殖器。
+=> poki。
 
 riting
-連接，勾住。參見 miriting。
+連接，勾住。
+=> miriting。
 
 ritingen(riting)
 把…連接、勾住。
 
 riti'
-女性生殖器，女陰。同 riti。
+女性生殖器，女陰。
+=> riti。
 
 ritos
-抽出，抽籤。參見 miritos。
+抽出，抽籤。
+=> miritos。
 
 ritosen(ritos)
 把…抽出、拔出。
@@ -1911,7 +2034,8 @@ ritosen(ritos)
     我已抽籤了。
 
 ritrit
-割草。參見 miritrit。
+割草。
+=> miritrit。
 
 ritriten(ritrit)
 把(稻、草)割去。
@@ -1927,7 +2051,8 @@ riwacen(riwac)
     把肉割下來。
 
 riwang
-用木頭或竹子隔間。參見 miriwang。
+用木頭或竹子隔間。
+=> miriwang。
 
 riwangen(riwang)
 給…做隔間。
@@ -1952,15 +2077,18 @@ riwariwhan(riwariw)
     他就把帶火的木炭攪得亂七八糟。
 
 rixi'
-田埂。同 rihi。
+田埂。
+=> rihi。
 
 riyad
 指一個完整的單元，如章、節、課。
     Sakalima a riyad.
-    第五章。同 liyad。
+    第五章。
+=> liyad。
 
 riyaden(riyad)
-把…連續、持續下去。同 liyaden。
+把…連續、持續下去。
+=> liyaden。
 
 riyo
 女性手臂環。
@@ -1969,7 +2097,8 @@ riyoan(riyo)
 女性手臂環的種類。
 
 rocek
-整個地、完整地擁有、佔有遺產。參見mirocek。
+整個地、完整地擁有、佔有遺產。
+=> mirocek。
 
 roceken(rocek)
 把遺產完全擁有、佔有。
@@ -1980,13 +2109,16 @@ rocewi
     。
 
 rociwa'
-箕踞，一種不禮貌的坐姿。參見marociwa'。
+箕踞，一種不禮貌的坐姿。
+=> marociwa'。
 
 rocod
-專心，專注。參見 marocod。
+專心，專注。
+=> marocod。
 
 rocok
-遺傳，傳承。參見 mirocok。
+遺傳，傳承。
+=> mirocok。
 
 rocoken(rocok)
 把…遺傳，傳承。
@@ -1994,7 +2126,8 @@ rocoken(rocok)
     我們要把好的行為傳承下去。
 
 rodiheng
-回聲，回響。同 lodihang。
+回聲，回響。
+=> lodihang。
 
 rodis
 浪濤，波濤。
@@ -2002,12 +2135,15 @@ rodis
     今天浪濤很大。
 
 roen
-摁壓。同 noer。參見 miroen。
+摁壓。
+=> noer。
+=> miroen。
 
 roenen(roen)
 把…摁壓。
     Adadaay ko kolol ako ,roenen hena !
-    我背上疼痛，給我摁一摁吧！同 noeren。
+    我背上疼痛，給我摁一摁吧！
+=> noeren。
 
 rofiyas
 溢出。參見
@@ -2015,7 +2151,8 @@ rofiyas
     。
 
 rofo
-坐牢、關閉，籠罩。參見 mirofo。
+坐牢、關閉，籠罩。
+=> mirofo。
 
 rofoen(rofo)
 把…關閉、籠罩。
@@ -2023,15 +2160,19 @@ rofoen(rofo)
     要把鴨子關起來，免得吃稻子。
 
 roharoh
-催促，敦促，逼迫。同 coracor。參見miroharoh。
+催促，敦促，逼迫。
+=> coracor。
+=> miroharoh。
 
 roharohen(roharoh)
 把…催促、逼迫去做事。
     Roharohen ko wawa a papimitilid.
-    催孩子去學習。同coracor。
+    催孩子去學習。
+=> coracor。
 
 rohem
-指果實成熟。參見 marohem。
+指果實成熟。
+=> marohem。
 
 rohnac
 光滑。同 dihnac、kohnac。
@@ -2041,7 +2182,8 @@ rohnacay(rohnac)
 ②  光滑的。同 dihnacay、kohnacay。
 
 roho
-彎腰，蹲踞。參見 maroho。
+彎腰，蹲踞。
+=> maroho。
 
 rohorohosa(roho)
 [疊 1]一直處於彎腰。
@@ -2075,7 +2217,8 @@ rokawiten(kawit)
     他把你的衣服鈎住。Rokay 臺灣原住民族之一。魯凱族，魯凱人。
 
 rokic
-撒嬌刁難，為難。參見 mirokic。
+撒嬌刁難，為難。
+=> mirokic。
 
 rokicen(rokic)
 撒嬌把…刁難、為難。
@@ -2111,10 +2254,12 @@ rokitacen(rokitac)
     要把我們修築的道路延伸到遠處。
 
 rokoh
-舊病復發。參見 marokoh。
+舊病復發。
+=> marokoh。
 
 rokrok
-(水)沸騰。參見 mirokrok。
+(水)沸騰。
+=> mirokrok。
 
 rokroken(rokrok)
 把…煮開、沸騰。
@@ -2169,7 +2314,9 @@ romaroma(roma)
     糯米飯的種種雜質很多，所以很硬，不好吃。
 
 romic
-用手揉搓。同 rotaroto。參見 miromic。
+用手揉搓。
+=> rotaroto。
+=> miromic。
 
 romicen(romic)
 把…揉搓。同
@@ -2193,7 +2340,8 @@ romi'ami'ad(romi'ad)
     我們天天學習阿美族語。
 
 romirom
-火苗即將熄滅忽時明忽暗的樣子。參見maromirom。
+火苗即將熄滅忽時明忽暗的樣子。
+=> maromirom。
 
 romoho(roho)
 彎腰，蹲踞。
@@ -2209,10 +2357,13 @@ romohoay(roho)
     蹲著的是父親嗎？
 
 romot
-狹窄，縮小，路窄。同 ringawet。參見maromot。
+狹窄，縮小，路窄。
+=> ringawet。
+=> maromot。
 
 romrom
-點燃火。參見 miromrom。
+點燃火。
+=> miromrom。
 
 romromen(romrom)
 把…點燃。
@@ -2222,16 +2373,20 @@ romromen(romrom)
     點上篝火吧，我們要跳舞了！
 
 ronang
-沼澤，泥塘，池塘。參見 mironang。
+沼澤，泥塘，池塘。
+=> mironang。
 
 ronem
-墳地，墳墓。同 fadem。
+墳地，墳墓。
+=> fadem。
 
 roni
 絲瓜。
 
 ronic
-揉搓。同 lonic。參見 mironic。
+揉搓。
+=> lonic。
+=> mironic。
 
 ronicen(ronic)
 把…揉搓。
@@ -2255,7 +2410,8 @@ rongawiten(ngawit)
     。
 
 rongoh
-低語，交頭接耳說話。參見marongoh。
+低語，交頭接耳說話。
+=> marongoh。
 
 rongorongohsa(rongoh)
 [疊 1]處於交頭接耳的狀況。
@@ -2263,7 +2419,9 @@ rongorongohsa(rongoh)
     他們在交頭接耳講話。
 
 roparop
-塗抹，沾抹。同 riparip。參見miroparop。
+塗抹，沾抹。
+=> riparip。
+=> miroparop。
 
 roparopen(roparop)
 把…塗抹。
@@ -2276,7 +2434,8 @@ roparophan(roparop)
 特地把…塗抹。
 
 ropay
-攤平，整平。參見 miropay。
+攤平，整平。
+=> miropay。
 
 ropayen(ropay)
 把…攤平、整平。
@@ -2284,7 +2443,8 @@ ropayen(ropay)
     這裏石頭多，不容易弄平。
 
 ropera
-指堆積雜物的樣子。參見 maropera。
+指堆積雜物的樣子。
+=> maropera。
 
 ropesa'
 濺濕。參見
@@ -2292,15 +2452,19 @@ ropesa'
     。
 
 ro'is
-流(血、淚等)。同 rowis。參見maro'is。
+流(血、淚等)。
+=> rowis。
+=> maro'is。
 
 ro'issa(ro'is)
 處於流出來的狀態。
     Ro'issa ko losa' ira a tomangic.
-    她哭得淚水汪汪的。同rowissa。
+    她哭得淚水汪汪的。
+=> rowissa。
 
 ro'it
-收割小米。參見 miro'it。
+收割小米。
+=> miro'it。
 
 ro'iten(ro'it)
 把(小米)收割。
@@ -2311,10 +2475,12 @@ rorang
 構樹，俗稱“鹿子樹”。
 
 roray
-疲倦，勞累，辛苦。參見 maroray。
+疲倦，勞累，辛苦。
+=> maroray。
 
 roriyac
-滑倒，打個趔趄。同 torirac。
+滑倒，打個趔趄。
+=> torirac。
 
 roriyacay(roriyac)
 ①  滑倒了。
@@ -2323,7 +2489,8 @@ roriyacay(roriyac)
     。
 
 rorod
-追蹤，跟蹤。參見 mirorod。
+追蹤，跟蹤。
+=> mirorod。
 
 rorodan(rorod)
 追蹤的地方。同
@@ -2341,13 +2508,17 @@ rorodhan(rorod)
     那條狗就特地追蹤山豬的的腳迹。
 
 roroh
-怪罪、遷怒他們。同 loloh。參見miroroh。
+怪罪、遷怒他們。
+=> loloh。
+=> miroroh。
 
 loloh
-舊茅草。同 rorox。
+舊茅草。
+=> rorox。
 
 rorohen(roroh)
-把…怪罪他人、遷怒。同 lolohen。
+把…怪罪他人、遷怒。
+=> lolohen。
 
 rorong
 捆成捆兒。
@@ -2360,7 +2531,8 @@ rorongen(rorong)
     把稻子捆起來。
 
 rorox
-指翻修房子所遺棄的舊茅草。同loloh。
+指翻修房子所遺棄的舊茅草。
+=> loloh。
 
 rosaros
 鋸東西。參見
@@ -2386,12 +2558,13 @@ rosolisolitsa(solit)
     牛爭先恐後地從牛棚裡出來。
 
 rotarot
-用手揉搓。同 romic。參見
-    mirotarot
-    。
+用手揉搓。
+=> romic。
+=> mirotarot。
 
 rotaroten(rotarot)
-把…揉搓。同 romicen。
+把…揉搓。
+=> romicen。
 
 roto
 背袋，背包，網兜。
@@ -2400,10 +2573,12 @@ rowak
 海鰻。
 
 rowis
-流(血、汗等)。同 ro'is。
+流(血、汗等)。
+=> ro'is。
 
 rowissa(rowis)
 情不自禁地流出來。
     Rowissa ko losa' ira.
-    他的眼淚情不自禁地流出來。同ro'issa。
+    他的眼淚情不自禁地流出來。
+=> ro'issa。
 
