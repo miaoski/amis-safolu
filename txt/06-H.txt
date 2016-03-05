@@ -1619,8 +1619,8 @@ hali
     愛喝酒。
 ②  沈迷於某行為。
     halifuti'
-    愛睡，嗜睡，貪睡。同
-    kalafuti'。
+    愛睡，嗜睡，貪睡。
+=> kalafuti'。
 ③  連…都拿走，包括(某物)統統取走。hali'afo 連灰一起取走。
     halilamilamit
     連根統統拔掉。
@@ -1869,7 +1869,8 @@ halihepolay(hepol)
 haliina(ina)
 孝順母親，對母親有特別的感情。
     Haliina kako.
-    我愛媽媽。同 haliwina。
+    我愛媽媽。
+=> haliwina。
 
 haliinaay(ina)
 ①  愛母親的。
@@ -2332,7 +2333,9 @@ hamaan(maan)
 hamadah
 指用力輕柔。
     Hamadah han ningra ko pimi'mi' to kamay ako.
-    她用手指輕輕的揉我的手。同 samadah、sa^enah。
+    她用手指輕輕的揉我的手。
+=> samadah。
+=> sa^enah。
 
 hamadahen(samadah)
 要求對方用力輕柔一點。
@@ -2446,7 +2449,8 @@ hamoten(hamot)
 hamotod
 順手帶走。
     Micaliw kako to pitaw nangra hamotodhan aca ako ko caki.
-    我向他借鋤頭順手帶回畚箕。參見mihamotod。
+    我向他借鋤頭順手帶回畚箕。
+=> mihamotod。
 
 hamotoden(hamotod)
 順手把東西帶走。
@@ -3239,7 +3243,8 @@ hatinihan(tini)
     他於是遵照老婆婆的話特地挖了口井。
 
 hatiped(tiped)
-把東西一起帶走，一個人做的事。同hatipod。
+把東西一起帶走，一個人做的事。
+=> hatipod。
     Hatiped han no pakalongay ko tayal no nigaro'.
 => mihatiped。
 
@@ -3348,7 +3353,7 @@ haw
 
 hawad
 停止，放棄，辭職，退休。
-=> 同 sawad。
+=> sawad。
     Aka pihawad to tayal.
     不要停職。
 => mihawad。
@@ -4031,7 +4036,8 @@ hinawen(hinaw)
     Hinawen ako ko payso.
     我去把錢找一找。
     hinawen ko kolong.
-    去把牛找一找。同 kilim。
+    去把牛找一找。
+=> kilim。
 
 hinefa
 趴著，俯臥。
@@ -4796,7 +4802,8 @@ horhoren(horhor)
 horiyac
 (表面)光滑，滑溜。
     Kameleng ko lalan horiyac sa a mapolin ko romakatay.
-    路滑行走的人都滑倒。參見mahoriyac。
+    路滑行走的人都滑倒。
+=> mahoriyac。
 => tahoriyac
 => tiyac。
 
