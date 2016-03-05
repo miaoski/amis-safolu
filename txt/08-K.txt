@@ -1518,7 +1518,9 @@ kacekokan(cekok)
     這樣的事情有什麼可吃驚的！
 
 kacelalan
-倒塌、坍塌的時間或地方。同kaperaran、kaplalan。
+倒塌、坍塌的時間或地方。
+=> kaperaran。
+=> kaplalan。
     Ihacowa ko kacelalan nona lotok?
     這山何時倒塌的呢？
 
@@ -3541,7 +3543,7 @@ kakiskisen(kiskis)
     今天頭目要來我家。
 
 kakitelen(kitel)
-[疊 2]要撬開、剝開，要撬開、剝開的(東西)。同
+[疊 2]要撬開、剝開，要撬開、剝開的(東西)。
 => kakitkiten。
     Masamo' ko paliding ako o kakitelen a mitoprak ko kikay.
     我車故障須撬開機器。
@@ -5129,7 +5131,9 @@ kalikiay(kaliki)
     他走路很快的。
 
 kalikidhan(likid)
-就把某物沖走。同 likidhan、sukid。
+就把某物沖走。
+=> likidhan。
+=> sukid。
     Kalikidhan no nanom cingra a mipa'esol.
     水流就把他沖走很遠的地方。
 
@@ -6344,7 +6348,8 @@ kaota'an(ota')
     年青人醉酒嘔吐的地方。
 
 kaoto'
-短，心胸狹窄，缺乏耐心。同mamoko'。
+短，心胸狹窄，缺乏耐心。
+=> mamoko'。
     Kaoto' ko impic ako.
     我的鉛筆很短。
 
@@ -6556,7 +6561,8 @@ kapinanom(nanom)
 
 kaping
 ①  官兵。
-②  指台灣本地以外的外省籍移民。[閩南語借詞]同 kowaping。
+②  指台灣本地以外的外省籍移民。[閩南語借詞]
+=> kowaping。
 
 kapinokay(nokay)
 剛回家，方才回家。
@@ -12370,7 +12376,8 @@ koliniw
     使之拐著彎悄悄走掉。
 
 kolit
-臉上污垢、污點。同 kalit。
+臉上污垢、污點。
+=> kalit。
     Makolit ko pising nona wawa.
     這孩臉上有污泥。
 
