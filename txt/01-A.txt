@@ -47,8 +47,8 @@ a
     我就要去砍蘆葦。
 ② 指要砍取的蘆葦乾。
     Oni a 'a'acamen.
-    要砍取的蘆葦。同
-    'a'alacamen。
+    要砍取的蘆葦。
+=> 'a'alacamen。
 
 'a'acawen('acaw)
 [疊 2]
@@ -82,7 +82,7 @@ aadahen(adah)
 ②  指即將埋伏、伏擊的(對象)。
     'A'adapawen a 'ada.
     要埋伏消滅的敵人。
-=>sasalipawen、sasamamawen。
+=> sasalipawen、sasamamawen。
 
 'a'adawangen('adawang)
 [疊 2]
@@ -101,7 +101,7 @@ aadahen(adah)
 ②  指要拔的鬍子草。
     Pina ko 'a'adetomen iso saw?
     你要採多少鬍子草呢？
-=>dada'etomen。
+=> dada'etomen。
 
 'a'adidemen('adidem)
 [疊 2]
@@ -331,7 +331,7 @@ aalomaylayen(alomaylay)
 ②  指要採集的山藤。
     Adihay to ko aalomaylayen ako.
     我要採的山藤很多的。
-=>alolaylay。
+=> alolaylay。
 
 'a'alotocen('alotoc)
 [疊 2]
@@ -548,7 +548,7 @@ aasipen(asip)
 ②  指要夾的(東西)。
     O maan ko 'a'atapaen ira saw?
     他要夾什麼東西呢？
-=>  'a'atimen。
+=> 'a'atimen。
 
 'a'atengen('ateng)
 [疊 2]
@@ -670,7 +670,8 @@ acah
     這個座位漂亮極了！
 
 'acam
-乾蘆葦，助燃柴火。同 'alcam。
+乾蘆葦，助燃柴火。
+=> 'alcam。
 
 'acamen('acam)
 把蘆葦砍伐。
@@ -680,15 +681,18 @@ acah
 acang
 歡慶，宴慶，狂歡。Aacangan 令人喜慶的日子或事情。
     O kaacangan a romi'ad.
-    歡欣的日子。同
-    kaacangan
-    、rimorak。參見 maacang。
+    歡欣的日子。
+=> kaacangan。
+=> rimorak。
+=> maacang。
 
 'acaw
-汲水，舀水。參見 mi'acaw。
+汲水，舀水。
+=> mi'acaw。
 
 'acawa
-女婿，媳婦。同 kadafo。
+女婿，媳婦。
+=> kadafo。
 
 'acawen('acaw)
 把(水)汲取、舀出來。
@@ -700,7 +704,9 @@ acedah
     Pakaka ko acedah nona
     辣椒。這個辣椒非常辣。凶狠，心狠手辣。
     Acedah ko mata ningra.
-    他的眼神很凶。同 ka^edah。
+    他的眼神很凶。
+=>
+ ka^edah。
 
 acedahay(acedah)
 有辣味，辣的。
@@ -718,12 +724,12 @@ acedet(cedet)
 'acefol
 煙霧，蒸汽。
     'Acefol no tamako.
-    香煙的煙兒。同 'acofel。
+    香煙的煙兒。
+=> 'acofel。
 
 'acefolay a fo'is
-短語。彗星。同
-    'acofelay a fo'is
-    。
+短語。彗星。
+=> 'acofelay a fo'is。
 
 'acefolay('acefol)
 ①  冒煙了，冒汽了。
@@ -731,20 +737,21 @@ acedet(cedet)
     他的房子在冒煙。
 ②  冒煙的，冒汽的。
     Icowaay kora 'acefolay saw?
-    那冒煙的是什麼地方呢？同
-    'acofelay
-    。
+    那冒煙的是什麼地方呢？
+=> 'acofelay。
 
 'acfel
 煙霧，燻煙。
     Mafiwfiw no fali ko 'acfel .
-    煙被風吹散。同 'acefol。
+    煙被風吹散。
+=> 'acefol。
 
 acek
 ①  污穢，醜惡。
 ②  令人惡心，嫌惡。
     Maacek kako to kadit.
-    我對髒很厭惡。參見 maacek。
+    我對髒很厭惡。
+=> maacek。
 
 'acicim
 酸，有酸味。
@@ -760,7 +767,9 @@ acek
     酸葡萄。
 
 'acis
-乾燥，枯萎，枯乾；女性不孕。同'asic。參見 ma'acis。
+乾燥，枯萎，枯乾；女性不孕。
+=>'asic。
+=> ma'acis。
 
 aciyah
 (感嘆詞)。表示讚嘆不已。
@@ -770,39 +779,45 @@ aciyah
 'aciyos
 頭旋，發旋。
     Tosaay ko 'aciyos no wawa ako.
-    我的孩子有兩個頭旋。同ariyos、ariyot。
+    我的孩子有兩個頭旋。
+=> ariyos。
+=> ariyot。
 
 'acocol
-陀螺。同 'inger。
+陀螺。
     Misalama ko wawa to 'acocol.
     小孩子在玩陀螺。
+=> 'inger。
 
 'acocolan('acocol)
-陀螺的品種。同 'ingeran。
+陀螺的品種。
+=> 'ingeran。
 
 'acofel
-煙霧，蒸汽。同 'acefol。
+煙霧，蒸汽。
+=> 'acefol。
 
 'acofelay a fo'is
-短語。彗星。同
-    'acefolay a fo'is
-    。
+短語。彗星。
+=> 'acefolay a fo'is。
 
 'acofelay('acofel)
 ①  冒煙了，冒汽了。
-②  冒煙的，冒汽的。同
-    'acefolay
-    。
+②  冒煙的，冒汽的。
+=> 'acefolay。
 
 acohod
 塵土，塵埃，灰塵。
     Mafiyok no fali ko acohod.
-    灰塵被風吹著。同 alafoh、tahfod。
+    灰塵被風吹著。
+=> alafoh。
+=> tahfod。
 
 ada
 請來吧！有請！
     Ada micomod i loma' niyam.
-    請進我們家。同 dada。
+    請進我們家。
+=> dada。
 
 'ada
 敵人，仇敵。
@@ -815,7 +830,10 @@ ada
     他們是異族人，不是阿美族。
 
 'ad'ad
-翻騰，搗騰，挖掘(東西，如石頭)。同 wadwad。參見 mi'ad'ad、ma'ad'ad。
+翻騰，搗騰，挖掘(東西，如石頭)。
+=> wadwad。
+=> mi'ad'ad。
+=> ma'ad'ad。
 
 adada
 ①  疾病，疼痛，傷痛。
@@ -831,8 +849,7 @@ adada
 adadaay(adada)
 ①  正在患病、疼痛。
 ②  指病患者，傷痛者。
-    Cowa kanga'ay ko futi' ako i dadaya, adadaayho ko fongoh ako imatini
-    /hatini. 我昨天晚上睡不好，現在頭還痛呢。
+    Cowa kanga'ay ko futi' ako i dadaya, adadaayho ko fongoh ako imatini/hatini.我昨天晚上睡不好，現在頭還痛呢。
 
 adadaen(adada)
 感到疼痛。
@@ -842,14 +859,13 @@ adadaen(adada)
 'ad'aden('ad'ad)
 把…翻騰、挖掘出來。
     'Ad'aden ko tafok!
-    把沙子翻一翻！同 wadwaden。
+    把沙子翻一翻！
+=> wadwaden。
 
 'adadongac
-甲蟲。同
-    'ararongac
-    、
-    'amamoleng
-    。
+甲蟲。
+=> 'ararongac。
+=> 'amamoleng。
 
 'adadongacan
 甲蟲的種類或有甲蟲的地方。
@@ -857,7 +873,8 @@ adadaen(adada)
 adah
 痊癒。
     maadah ko doka' ako.
-    我傷口癒合。參見 maadah。
+    我傷口癒合。
+=> maadah。
 
 adahen(adah)
 把(病、痛)治痊癒，去治好病吧。
@@ -870,13 +887,15 @@ adahi
     我的知識有所進步。
 ②  稍好。
     Adahi to miming ko 'orip niyam.
-    我們的家境好一點。同 idahi。
+    我們的家境好一點。
+=> idahi。
 
 adaneng
 ①  廣闊，遼闊。
 ②  比喻做的農事多，或閱歷豐富。
     Adaneng ko fana' no kakita'an niyam.
-    我們部落領袖(頭目)的閱歷很豐富。同 ataneng。
+    我們部落領袖(頭目)的閱歷很豐富。
+=> ataneng。
 
 adanengay(adaneng)
 ① 廣闊的，遼闊的。
@@ -894,19 +913,23 @@ adang
 adapaw
 埋伏，伏擊。
     Ira ko 'ada mi adapaw ititaanan.
-    有敵人在埋伏。同 'adapaw/misfeng。參見 miadapaw。
+    有敵人在埋伏。
+=> 'adapaw。
+=> misfeng。
+=> miadapaw。
 
 'adapaw
-埋伏，打伏擊。同 salipaw、samamaw。參見
-    mi'adapaw
-    。
+埋伏，打伏擊。
+=> salipaw。
+=> samamaw。
+=> mi'adapaw。
 
 'adapawen('adapaw)
 把…埋伏、伏擊。
     'Adapawen niyam ko 'ada itini!
-    我們要在這裡伏擊敵人！同
-    salipawen
-    、samamawen。
+    我們要在這裡伏擊敵人！
+=> salipawen。
+=> samamawen。
 
 'adas
 穀子，穀粒。
@@ -944,20 +967,20 @@ adayaw(aday)
 adayay(aday)
 同情，可憐，憐憫。
     Adayay kako to manikaway a tamdaw.
-    我很同情窮人。同
-    sini'adaay
-    。
+    我很同情窮人。
+=> sini'adaay。
 
 'adecaw
-大理石。同 'adicaw。
+大理石。
+=> 'adicaw。
 
 'adecawan('adecaw)
-有很多大理石的地方。同
-    'adicawan
-    。
+有很多大理石的地方。
+=> 'adicawan。
 
 'adepec
-吝嗇，小氣。同 'adepet。
+吝嗇，小氣。
+=> 'adepet。
 
 'adepecay('adepec)
 ①  吝嗇了，小氣的了。
@@ -965,18 +988,17 @@ adayay(aday)
     此人很吝嗇了。
 ②  吝嗇的，小氣的。
     'Adepecay a tamdaw.
-    吝嗇的人。同
-    'adepetay
-    。
+    吝嗇的人。
+=> 'adepetay。
 
 'adepet
-吝嗇，小氣。同 'adepec。
+吝嗇，小氣。
+=> 'adepec。
 
 'adepetay('adepet)
 ①  吝嗇了，小氣了。
-②  吝嗇的，小氣的。同
-    'adepecay
-    。
+②  吝嗇的，小氣的。
+=> 'adepecay。
 
 adeses
 ①  微弱的聲音。
@@ -993,7 +1015,9 @@ adesesay
 ①  樹脂，漿汁，粘兒。
     'Adeteng no caleng.
     松脂。
-②  尼古丁。同 cica'、da'eteng。
+②  尼古丁。
+=> cica'。
+=> da'eteng。
 
 'adetom
 鬍子草。
@@ -1019,12 +1043,12 @@ adiadihay(adihay)
     那裡的螃蟹越來越多。
 
 'adicaw
-大理石。同 'adecaw。
+大理石。
+=> 'adecaw。
 
 'adicawan('adicaw)
-大理石的品種。同
-    'adecawan
-    。
+大理石的品種。
+=> 'adecawan。
 
 'adidem
 桑樹，小葉桑。
@@ -1035,16 +1059,16 @@ adiadihay(adihay)
 'adidemen('adidem)
 把(桑樹)砍伐。
     'Adidemen ako!
-    我去砍桑樹吧！同
-    waxaranan
-    。同waxaran。同
-    waxaranen
-    。
+    我去砍桑樹吧！
+=> waxaranan。
+=> waxaran。
+=> waxaranen。
 
 adifat
 阻擋、封鎖。
     Miadifat to lalan no tomay.
-    阻擋大熊的來路。參見miadifat。
+    阻擋大熊的來路。
+=> miadifat。
 
 'adif
 臨時性的圍牆，籬笆。
@@ -1075,17 +1099,20 @@ adihayen(adihay)
     小女孩的小瓣子。
 
 'adimaceng
-無患子。同 rao'。
+無患子。
     Sapifaca' to riko' ko 'adimaceng.
     無患子可拿來洗衣服。
+=> rao'。
 
 'adimacengen('adimaceng)
 把無患子摘取。
     Cowa 'adimacengen ira.
-    她不摘無患子。同 rao'en。
+    她不摘無患子。
+=> rao'en。
 
 'ading
-遮蓋，遮擋，掩護。參見 mi'ading。
+遮蓋，遮擋，掩護。
+=> mi'ading。
 
 'adingal
 光澤，亮澤，額頭。
@@ -1112,24 +1139,26 @@ adihayen(adihay)
 
 'adipangpang
 ①  蝴蝶。
-②  鰈鶼。同 fadadaki。
+②  鰈鶼。
     Adihay ko 'adipangpang i lawac no ^alo.
     河邊有很多蝴蝶。
+=> fadadaki。
 
 'adipangpangan('adipangpang)
 蝴蝶、鰈鶼的種類。
-=> fadadakian
-    。
+=> fadadakian。
 
 'adipel
 圍牆，籬笆。
     'Adipel no loma'.
-    房子的籬笆。同 hlaoimel。
+    房子的籬笆。
+=> hlaoimel。
 
 'adiping
 雞冠。
     Kahengangay ko 'adiping.
-    雞冠紅了。同 kadiping。
+    雞冠紅了。
+=> kadiping。
 
 'adis
 腳上的浮皮。
@@ -1175,7 +1204,8 @@ adihayen(adihay)
     不要摘野菜，它不好吃！
 
 'adop
-狩獵，打獵。參見 mi'adop。
+狩獵，打獵。
+=> mi'adop。
 
 'adopen('adop)
 把…獵捕、獵獲。
@@ -1431,7 +1461,8 @@ aepinen('epin)
 [疊 2]
 ①  要噎住、噎食。
 ②  指要噎住、噎食的(對象)。
-③  嗆到。參見ma'eyak。
+③  嗆到。
+=> ma'eyak。
 
 'a'eyofen('eyof)
 [疊 2]
@@ -1623,7 +1654,8 @@ afelaway(afelaw)
     他把小孩抱在腿上坐在凳子上。
 
 'afong
-覆蓋，掩蓋。同 lafong。
+覆蓋，掩蓋。
+=> lafong。
 => mi'afong。
 
 'afongen('afong)
@@ -1840,9 +1872,11 @@ aitirasa(tira)
     那位小姐老在那裡唱歌。
 
 aitoen(ito)
-[疊 2]要打發、差遣的(對像)。同aolien、aocoren。
+[疊 2]要打發、差遣的(對像)。
     Itohan ako cingra a talaloma' namo.
     我要派他去你家。
+=> aolien。
+=> aocoren。
 
 a'iw
 膽小的人。
@@ -1981,7 +2015,8 @@ ako
     種不出糧食的地不要了！
 ②  禿的，禿毛的。
     'Akonacay a waco.
-    禿毛狗。同 'analay。
+    禿毛狗。
+=> 'analay。
 
 'akonal
 禿毛，不毛之地。
@@ -2167,7 +2202,7 @@ alaf^afaay(alaf^afa)
     Alaf^afaay ko nanom i fintang.
     臉盆的水有點熱了。
 ②  溫熱的(水)。
-=> fala'efa。
+=> fala'fa。
 
 alafengfengsa(fengfeng)
 嗡嗡的聲音此起彼落地嚮著。
@@ -2695,11 +2730,11 @@ alimacedan(alimaced)
 'alimedas
 。
 ②  花草蛇。
-①  蟒蛇，俗稱“錦蛇”同
-    'alongedas。
+①  蟒蛇，俗稱“錦蛇”
     Ira'ay ko 'alimedas i 'ato'atolan.
     在石砌堤有一條錦蛇。
 => ahowidaray。
+=> 'alongedas。
 
 alingato
 [日本語借詞]感謝，多謝，謝謝。
@@ -3399,7 +3434,7 @@ angatiw
 海草，俗稱“鹿角菜”。可食用，汁可療傷。
 
 'angi
-①  挑釁，找碴打架，找麻煩。
+①  挑釁，找碴兒打架，找麻煩。
 ②  害怕、恐懼感。
     ci'angi kako mita'elif i tadetademan.
     我很害怕經過墓地。
@@ -3409,7 +3444,8 @@ angatiw
 菓菜破損一部份。
     Angid no konga'.
     地瓜有點破損。
-=> ma'agid。 
+    Ma'agid kona kowa'.
+    這個木瓜有點破損。
 
 'angien('angi)
 向…挑釁、找碴兒打架，找麻煩打架。
@@ -4604,9 +4640,7 @@ asip
 asipen(asip)
 把(課文)念誦、朗讀。
     Asipen no singsi ko sakatosa a liyad.
-    老師朗讀第二課。
-	
-'Asiroay 台東市豐年地區。
+    老師朗讀第二課。'Asiro 台東市豐年地區。
 
 'asiro
 柑橘，橘子。
@@ -4681,8 +4715,8 @@ atanengay(ataneng)
 愛哭。
 
 'atangicay(tangic)
-愛哭的人。參見
-    ma'atangicay。
+愛哭的人。
+=> ma'atangicay。
 
 'atapa
 一種魚的名稱。
@@ -5118,9 +5152,10 @@ awtal
 
 'awmingay('awming)
 ①  柔軟了。
-②  柔軟的。同 dawmi'ay。
+②  柔軟的。
     'Awmingay ko wakawak ningra.
     她走路的樣子很輕快。
+=> dawmi'ay。
 
 ax'ax
 肚子脹，飽脹。
