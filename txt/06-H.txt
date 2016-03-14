@@ -6,10 +6,10 @@ ha
 ①  用途。ha'onoc 做扁擔用；hafadil 做竹筏用。
 ②  按照。hatini 按照這樣(做)。
 ③  準備做、計劃做。hakadafo 準備做女婿。
-沝  類似做。hakeliw 野苧麻當線用。
-沀  行為結果。hafikod 撞倒，絆倒。
-泞  行為方式。hatolo 一次拿三個(東西)。
-泀  所有格式。hamako。
+④  類似做。hakeliw 野苧麻當線用。
+⑤  行為結果。hafikod 撞倒，絆倒。
+⑥  行為方式。hatolo 一次拿三個(東西)。
+⑦  所有格式。hamako。
 
 ha
 語氣助詞。表示呼喊與驚示：啊。
@@ -4429,11 +4429,14 @@ ho
     Awaay ho ko wawa ningra.
     他還沒有孩子。
     Cowa ho kasamihecaan.
-    還不到一年。沝 又，一會兒。
+    還不到一年。
+④  又，一會兒。
     Talaen ho ita itini.
     我們在這裡等一會兒。
     pasla'ho cingra.
-    他還在休息。Hoanya (平埔族)。
+    他還在休息。
+
+Hoanya (平埔族)。
 ②  洪雅語。
 ①  台灣洪雅族群
 

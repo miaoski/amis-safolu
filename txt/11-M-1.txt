@@ -3217,7 +3217,8 @@ mapatay(patay)
 mapatayay(patay)
 ①  死亡了，亡故了，逝世了。
 ②  日蝕、月蝕。
-③  形容極度、無可挽救。沝指死亡的(對像)，死者。
+③  形容極度、無可挽救。
+④  指死亡的(對像)，死者。
     Mapatayay koya tamdaw.
     那個人死了。
     Mapatayay ko cidal.
@@ -5752,7 +5753,7 @@ masa
     裝滿一筐，
     masafulad.
     滿月，整一月。
-沝  好像，類似。
+④  好像，類似。
     masahatini.
     好像這樣，如同這樣。
 
@@ -12458,7 +12459,7 @@ matefaday(tefad)
     Matefaday ko paro nara tosiya i fatad no lalan.
     那輛汽車的貨物半路上掉下來了。
 ③  打閃了。
-沝  指成熟的(農作物)、掉落的(東西)，或打雷時的閃電。
+④  指成熟的(農作物)、掉落的(東西)，或打雷時的閃電。
 
 matefafac(tefafac)
 (表皮)被扯破、扯裂。
@@ -14154,31 +14155,31 @@ mi
 ①  採伐，採集。
     mikilang.
     砍樹。
-	midateng. 
-	摘菜。
+    midateng. 
+    摘菜。
 ②  捕獲。
     mifuting.
     捕魚。
-	mi'adop. 
-	狩獵。
+    mi'adop. 
+    狩獵。
 ③  挖掘。
     miofang. 
-	挖洞。
-	mikali. 
-	挖溝。
-沝  參與，參加。
+    挖洞。
+    mikali. 
+    挖溝。
+④  參與，參加。
     mikapot. 
-	加入某團體。
-沀  使用某器具施事。
+    加入某團體。
+⑤  使用某器具施事。
     mipana'. 
-	用箭射。
+    用箭射。
     mikangkang.
     犁地。
-泞  從事某行為。
+⑥  從事某行為。
     mipaloma. 
-	種植。
-	mitengil. 
-	去聽，諦聽。
+    種植。
+    mitengil. 
+    去聽，諦聽。
 => ni-。
 
 miriwariw(riwariw)

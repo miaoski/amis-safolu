@@ -216,7 +216,7 @@ milomekay(lomek)
 ②  指狠揍者。
     Cinira caayko milomekay to wawa.
     他是不會打孩子的。
-	
+    
 milonged(longed)
 點火，點燃。
     Milonged to longlong.
@@ -251,7 +251,7 @@ milongoc(longoc)
 milongocan(longoc)
 ①  請求的、願望達到的。
     Milongocan ko tamdamdaw to sakanga'ay no 'orip. 
-	人人都希望有健康的身體。
+    人人都希望有健康的身體。
 ②  指請求、願望的(對象)。
     Milongocan a tamdaw.
     被請求的人。
@@ -392,7 +392,7 @@ milosiyangay(losiyang)
     他在傳播族語認證考試的新聞。
 ②  指傳播者，傳遞者，說明者。
     O cinira ko milosiyangay to simpon a tamdaw. 
-	他是傳播新聞的人(記者)。
+    他是傳播新聞的人(記者)。
 
 milotlotan(lotlot)
 ①  把…折疊了、揉碎在一起了。
@@ -454,7 +454,7 @@ miloylecay(loylec)
 mimaan(maan)
 ①  做什麼(事情)。
     Mimaan kiso anini? 
-	你今天要做什麼？
+    你今天要做什麼？
 ②  為什麼。
     mimaan cinira a minokay?
     他回家幹麽？
@@ -1122,7 +1122,7 @@ mina'anngay(na'ang)
     他在收藏糧食了。
 ②  指收藏者，收存者。
     O kaka ako ko mina'anngay to payso a tamdaw. 
-	存錢的人是我姐姐。
+    存錢的人是我姐姐。
 
 mina'on(na'on)
 謹慎小心地對待。
@@ -1535,7 +1535,7 @@ minga'ayan(nga'ay)
     我們和那個村子的青年和睦相處了。
 ②  指和睦相處的、搞好關係的(物件)。
     O ci Tali ko minga'ayan ita.
-	Tali(達裡)是跟我們和睦共事的人。
+    Tali(達裡)是跟我們和睦共事的人。
 
 minga'ayay(nga'ay)
 ①  和睦相處了，搞好關係了。
@@ -1809,7 +1809,7 @@ mingingit(ngingit)
 mingingitan(ngingit)
 ①  把…一點一點地吃了。
     Mingingitan no 'edo ko tolak no kilanga a maemin. 
-	老鼠把樹皮都啃光了。
+    老鼠把樹皮都啃光了。
 ②  指一點一點吃掉的(東西)。
 => mingitngitan。
 
@@ -1993,7 +1993,7 @@ mingodangod(ngodangod)
 mingodangodan(ngodangod)
 ①  把…震動了、搖動了；把…擾亂了、搗亂了。
     Mingodangodan Pin Lateng ko hahekalan ita. 
-	Lateng(賓拉登)把我們的世界搞亂了。
+    Lateng(賓拉登)把我們的世界搞亂了。
 ②  指所震動的、搖動的(對象)，或所擾亂的、搗亂的(對象)。
     Mingodangodan a niyaro'.
     被弄亂的村子。
@@ -2180,7 +2180,7 @@ mininniray(ninir)
     他正接近工廠了。
 ②  指逐步接近、達到目標的人。
     O cima ko mininniray to kamaro'an no kaying? 
-	誰接近小姐的住處？
+    誰接近小姐的住處？
 
 minisnis(nisnis)
 割雜草，割田埂草。
@@ -2545,12 +2545,12 @@ miosaay(osa)
     他正在結交 Panay(巴奈)了。
 ②  指靠近者，接近者。
     I sakacowaay ko miosaay kisowanan a kapah? 
-	接近你的小夥子是哪一位？
+    接近你的小夥子是哪一位？
 
 mipa'a'am('a'am)
 給米湯，用米湯漿衣服。
     Mipa'a'am tora macahiway a kaemangay a komaen. 
-	給那個挨餓的少年米湯吃。
+    給那個挨餓的少年米湯吃。
 
 mipa'a'aman('a'am)
 ①  曾經給過米湯，漿過衣服了。
@@ -3398,7 +3398,7 @@ mipace'eran(ce'er)
     他們在那條動物的路插竹尖了。
 ②  指所插上的竹尖及其地方。
     Adihayay ko mipace'eran i lawac no padatengan niyam. 
-	我們在菜園周圍插了很多竹尖。
+    我們在菜園周圍插了很多竹尖。
 
 mipace'eray(ce'er)
 ①  在插竹尖了。
@@ -3535,10 +3535,10 @@ mipacemotan(cemot)
 mipacemotan(cemot)
 ①  把…釣上來了。
     Mipacemotan ni Tomay koya ta'angayay a foting.
-	Tomay(突麥)把那條大魚釣上來了。
+    Tomay(突麥)把那條大魚釣上來了。
 ②  指釣上來的(魚)。 
     Mipacemotan a toda. 
-	被釣上來的鰻魚。
+    被釣上來的鰻魚。
 
 mipacemotay(cemot)
 ①  正在釣魚了。
@@ -4443,7 +4443,7 @@ mipafofo(fofo)
 用魚筌捕撈。
 => micaholak。
 => mirakar。
-	Mipafofo to futing.
+    Mipafofo to futing.
     用魚筌捕魚。
 
 mipafofoan(fofo)
@@ -4614,7 +4614,7 @@ mipahakelongay(hakelong)
     我們跟著老師一起唱歌了。
 ②  指跟隨者，隨同者，隨從者。
     O cima ko mipahakelongay takowanan a tayra? 
-	是誰跟我去。
+    是誰跟我去。
 
 mipahalineknek(neknek)
 使之沉澱、澄清。
@@ -5018,7 +5018,7 @@ mipaitorosan(toros)
     她給神明跪拜了。
 ②  指所跪拜的(對象)。
     O mipaitorosan ita ko Malataw a kawas.
-	Malataw(瑪拉道)神是我們膜拜之神。
+    Malataw(瑪拉道)神是我們膜拜之神。
 
 mipaitorosay(toros)
 ①  正在下跪、跪拜了。
@@ -5387,7 +5387,7 @@ mipakaenengay(eneng)
     孩子看得見那隻小鳥了。
 ②  指能夠看見某物的人。
     O ci Olaw ko mipakaenengay to iraayay a maaman. 
-	Olaw 能看見遠處的東西。
+    Olaw 能看見遠處的東西。
 => mipakanengnengay。
 
 mipakaetim(pakaetim)
@@ -5656,7 +5656,7 @@ mipakakitikitingay(kiting)
     我把那些牛栓起來了。
 ②  指把東西拴起來的(人)。
     Ci kaka ko mipakakitikitingay to kolong a tamdaw. 
-	栓牛的是哥哥。
+    栓牛的是哥哥。
 
 mipakakiting(kiting)
 [疊 1]使之連結起來，互相拴住。
@@ -6957,7 +6957,7 @@ mipalasol(lasol)
 mipalasolan(lasol)
 ①  把…提前了、先做了。
     Mipalasolan to iso a mipa'aca koya tawki to maamaan. 
-	你已經提前把東西給老闆買下來了。
+    你已經提前把東西給老闆買下來了。
 ②  指提前從事的(對象)。
     Mipalasolan a dademak.
     提前做的事情。
@@ -7932,7 +7932,7 @@ mipapialaan(ala)
 mipapialaay(ala)
 ①  叫(人)去拿東西了。
     Mipapialaay ci Kacaw takowanan to paya no hikoki.
-	Kacaw(卡兆)委託我去拿飛機票了。
+    Kacaw(卡兆)委託我去拿飛機票了。
 ②  指叫(人)去拿東西的人。
     O cima ko mipapialaay to paya?
     是誰交代去拿票的？
@@ -8100,7 +8100,7 @@ mipapihodocay(hodoc)
     他叫孩子我拔籬笆了。
 ②  指交代他人抽出、拔出某物的人。
     O cima ko mipapihodocay caniraan to 'adipel? 
-	是誰叫他們去拔籬笆的？
+    是誰叫他們去拔籬笆的？
 
 mipapiholol(holol)
 叫(人)去招待、款待。
@@ -8142,7 +8142,7 @@ mipapikaenay(kaen)
     我們交代孩子們吃蘋果了。
 ②  指叫他人去吃的人。
     O ci mama ko mipapikaenay takowanan to safa. 
-	是爸爸讓我叫弟弟去吃的。
+    是爸爸讓我叫弟弟去吃的。
 
 mipapikarong(karong)
 叫(人)報信、出差。
@@ -8155,7 +8155,7 @@ mipapikarongan(karong)
     青年組受命給上級報信了。
 ②  指受命報信的、出差的(對象)。
     O 'akawangay a kapah ko mipapikarongan to i niyaro'ay a tamdaw. 
-	受命給村裡人傳信息的是那位高個子的青年。
+    受命給村裡人傳信息的是那位高個子的青年。
 
 mipapikarongay(karong)
 ①  叫(人)報信了、出差了。
@@ -8289,7 +8289,7 @@ mipapilaliwan(laliw)
 mipapilaliway(laliw)
 ①  叫(人)逃跑、溜走了。
     Mana mipapilaliway kiso to mari'angay a tamdaw? 
-	你為什麼叫犯人逃跑？
+    你為什麼叫犯人逃跑？
 ②  指叫人逃跑、溜走的人，設法放跑某某的人。
     O cima ko mipapilaliway toya sofitay saw?
     是誰放跑那個士兵的？
@@ -8334,7 +8334,7 @@ mipapililamay(lilam)
     爺爺正讓孩子去拿分配到的糖果了。
 ②  指交代他人分配東西的人。
     O kako ko mipapililamay to nananomen namo. 
-	是我讓人給你們分飲料的。
+    是我讓人給你們分飲料的。
 
 mipapililiw(liliw)
 叫(人)挨家挨戶、一家一家的拜訪。
@@ -8568,7 +8568,7 @@ mipapipafeliay(feli)
     我送槍給他了。
 ②  指委託他人送給、帶給東西的人。
     O ci kaka ako ko mipapipafeliay takowanan to payso. 
-	是我哥哥讓人給我錢的。
+    是我哥哥讓人給我錢的。
 
 mipapipakaen(kaen)
 叫(人)餵食、放牧。
@@ -8625,7 +8625,7 @@ mipapipalomaan(paloma)
     我們今天按照他的要求種橘子了。
 ②  指曾按照他人要求去種植作物的(物件)。
     Papinaay ko mipapipalomaan ira to tefos a tamdaw? 
-	他安排種甘蔗的人有多少？
+    他安排種甘蔗的人有多少？
 
 mipapipalomaay(paloma)
 ①  正在叫(人)去種植、栽種了。
@@ -8874,18 +8874,18 @@ mipapipitek(pitek)
 mipapipitekan(pitek)
 ①  曾經把…請來折斷東西了，受命折斷了。
     Mipapipitekan ako ci Sera to saseti' a kilang. 
-	Sera(瑟拉)按我的要求把木棍折斷了。
+    Sera(瑟拉)按我的要求把木棍折斷了。
 ②  指受命折斷的(對象)。
     Sasiwaay a wawa ko mipapipitekan ira to moetepay a pana'. 
-	有九個孩子按他的要求折斷弓箭了。
+    有九個孩子按他的要求折斷弓箭了。
 
 mipapipitekay(pitek)
 ①  叫(人)折斷了。
     Mipapipitekay ci wawa cawawaan ira to moetepay a pana'. 
-	爸爸命令他的孩子們去折斷那十支箭。
+    爸爸命令他的孩子們去折斷那十支箭。
 ②  指叫人折斷東西的人。
     O cinira ko mipapipitekay to lotong to ca'ang. 
-	是他讓猴子折斷樹枝的。
+    是他讓猴子折斷樹枝的。
 
 mipapiradom(radom)
 叫(人)去挑水、擔水。
@@ -8895,7 +8895,7 @@ mipapiradom(radom)
 mipapiradoman(radom)
 ①  曾經把…叫去挑水、擔水了，受命去挑水了、擔水了。
     Mipapiradoman ni wina ko kaka ako to nanom i 'alo. 
-	母親叫我姐姐到河裡挑水了。
+    母親叫我姐姐到河裡挑水了。
 ②  指受託去挑水的、擔水的(對象)。
     Kako ko mipapiradoman to nanom no tefon.
     我是被安排去挑井水的。
@@ -9083,7 +9083,7 @@ mipapisatoronan(toron)
     我讓他們做糯米糕了。
 ②  指應邀做糯米糕的(對象)。
     Ci Panay ko mipapisatoronan niyam. 
-	Panay(巴奈)是我們請來做糯米糕的。
+    Panay(巴奈)是我們請來做糯米糕的。
 
 mipapisatoronay(toron)
 ①  叫(人)做糯米糕了。
@@ -9146,7 +9146,7 @@ mipapisifin(sifin)
 mipapisifinan(sifin)
 ①  曾按照某某的吩咐去擦拭了。
     Mipapisifinan niyam kora kaying to kamaro'an niyam a 'axenan a maemin. 
-	那位小姐按照我們的要求把我們坐的椅子都擦拭了。
+    那位小姐按照我們的要求把我們坐的椅子都擦拭了。
 ②  指曾按照吩咐去擦拭某物的(物件)。
     Iraay ko mipapisifinan iso to sasingaran a tamdaw.
     你讓擦拭窗戶的人來了。
@@ -9259,7 +9259,7 @@ mipapitinooyan(tinooy)
 mipapitinooyay(tinooy)
 ①  叫(人)用機器編織了。
     Mipapitinooyay ci Panay to tadasay iso. 
-	Pnay(巴奈)讓人編織你的包頭巾了。
+    Pnay(巴奈)讓人編織你的包頭巾了。
 ②  指叫他人用機器編織某物的人。
     Ci mamo ko mipapitinooyay kisowanan.
     是阿婆交代你編織的。
@@ -9320,7 +9320,7 @@ miparakatay(rakat)
     哥哥在駕車。
 ②  指駕駛者，駕馭者，司機。
     Miparakatay to cinamalay ci Kacaw a tamdaw.
-	Kacaw是火車司機。
+    Kacaw是火車司機。
 
 mipararamod(ramod)
 [疊 1]使之結婚，包辦婚姻。
@@ -9363,7 +9363,7 @@ mipararidan(rarid)
 miparariday(rarid)
 ①  正在堅持做著。
     Miparariday ko maomahay a tamdaw a mikorkor to sera. 
-	農民在堅持挖土。
+    農民在堅持挖土。
 ②  指堅持做某事的人。
     Ci wama a ci wina ako ko miparariday a matayal.
     我的父母是堅持勞動的人。
@@ -9540,7 +9540,7 @@ miparingatan(ringat)
     你的照片貼上了。
 ②  指所粘貼的(物件、東西)。
     Makapahay kora miparingatan a sasing iso a enengen. 
-	貼上去的相片裡的你很好看。
+    貼上去的相片裡的你很好看。
 
 miparingatay(ringat)
 ①  正在粘貼，貼著。

@@ -725,7 +725,7 @@ fafeciraken(fecirak)
 fafedfeden(fedfed)
 [疊 2]要把線繞圈成線球，要纏結的繩或線。
     Fafedfeden niyam kona keliw.
-	我們要纏繞的線。
+    我們要纏繞的線。
 
 fafelihen(felih)
 [疊 2]要翻過來的。
@@ -2216,7 +2216,7 @@ fata'an
     我們種植樹豆。
     O fata'an ko sakaorip no 'Amis itiyaho.
     阿美族過去靠樹豆活下去。
-	
+    
 Fata'an 
 部落名稱。今台灣花蓮縣光復鄉馬太鞍。
     O ta'angayay a niyaro' ko Fata'an.
@@ -2604,7 +2604,7 @@ feker
 fekhan(fek)
 於是猛力打擊。
     Maforaw cingra, fekhan ningra i fongoh noya mari'angay a tamdaw. 
-	他一生氣，就狠狠地打擊那壞人的腦袋。
+    他一生氣，就狠狠地打擊那壞人的腦袋。
 => mifek。
 
 fekeloh
@@ -2661,7 +2661,7 @@ fengesen(fenges)
 fengeshan(fenges)
 就狠狠地痛打一頓。
     Miatiw to pitaw,fengeshan ningra a mipatay koya 'oner. 
-	拿起鋤頭，他就狠揍一頓把那條蛇打死。
+    拿起鋤頭，他就狠揍一頓把那條蛇打死。
 
 feray
 繩子等鬆弛，鬆脫。
@@ -3696,7 +3696,7 @@ fodoy
 fofo
 捕魚工具魚籠，魚筌。
     Mafana' a ma'emin ko mato'asay a misanga' to fofo. 
-	族人的長者都會作魚筌。
+    族人的長者都會作魚筌。
 => rakar。
 
 fofor
@@ -4318,13 +4318,13 @@ fowas
 foyfoy
 波濤聲或汽車急疾聲轟隆隆響。
     Foyfoy saan ko cikay no otopay no kapah anini. 
-	現在的年輕人騎的機車聲音轟隆隆響。
+    現在的年輕人騎的機車聲音轟隆隆響。
 => harengreng。
 
 foyol
 把東西推到某角落而倒下。
     Akawang tato ko taring no panay saka foyol sa maloyoh. 
-	米袋推太高了所以倒下來。
+    米袋推太高了所以倒下來。
 => mifoyol。
 
 foyolen(foyol)

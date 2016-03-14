@@ -5,19 +5,20 @@ ta
 前綴。主要表示：
 ①  趨向，去，前往。
     Tayra. 
-	去，前往。
-	Tadi'ec.
-	緊挨著；依靠。
+    去，前往。
+    Tadi'ec.
+    緊挨著；依靠。
 ②  放置所在(通常與尾碼 -an 搭配)。
     Tarakatan.
     鐵軌；路徑。
 ③  攜帶，呈現。
     Takokong.
-	整個地提起來，把大碗整個端起來。
+    整個地提起來，把大碗整個端起來。
     Takodicay.
-    蟾蜍。沝 抵達，碰撞。
-	Tahini. 
-	到達這裏。
+    蟾蜍。
+④  抵達，碰撞。
+    Tahini. 
+    到達這裏。
     Tahafikod.
     絆倒。
 
@@ -25,8 +26,8 @@ ta
 去，去吧。
     Ta tayra i pisalamaan.
     走，一起去娛樂場。
-	
-ta	
+    
+ta    
 指示代詞 toya 的簡形。
     Tayra kako ta tokos.
     我去那座山。
@@ -154,11 +155,11 @@ tada
 ①  真正的，單純的。
     Tada^ekim.
     純金，黃金。
-	Tadawama. 
-	生父。
+    Tadawama. 
+    生父。
 ②  至大，至尊。
     Tadamaan.
-	偉大，至尊，了不起；勇敢。
+    偉大，至尊，了不起；勇敢。
     Tadamafana'ay.
     智者，聰明人。
 
@@ -195,12 +196,12 @@ tadaen
 tadafafahi(fafahi)
 結髮妻子。
     O tadafafahi ako ci panay.
-	Panay(巴奈)是我的結髮妻子。
+    Panay(巴奈)是我的結髮妻子。
 
 tadafana'(fana')
 真知，本領，本事。
     Ira to ko tadafana' ni kolas. 
-	Kolas(古拉斯)有本事的。
+    Kolas(古拉斯)有本事的。
 
 tadafokil(fokil)
 一點不懂、不會。
@@ -246,7 +247,7 @@ tadamaan(maan)
     Tadamaan ko kaolah no kawas.
     神明的關愛是偉大的。
     Tadamaan ko fana' ni Sawram to codad. 
-	Sawram(沙拉姆)的知識淵博。
+    Sawram(沙拉姆)的知識淵博。
     Tadamaan ko kapah no Amis milood.
     阿美族的小夥子打仗很勇敢。
 
@@ -612,7 +613,7 @@ ta'elifen(ta'elif)
     我們經過重安部落。
     Ta'elifen no paliding ako kiso.
     我的車子把你超越過去了。
-	
+    
 Ta'eman 
 部落名稱，今臺灣台東縣長濱鄉膽曼村。
 
@@ -756,8 +757,8 @@ tafoen(tafo)
 把…包裝、包起來。
     Tafoen ko tilid a mipanokay.
     把書包起來送回家。
-	Tafoen to ni wina to papah no facidol koya hmay. 
-	母親用麵包樹葉把年糕包起來了。
+    Tafoen to ni wina to papah no facidol koya hmay. 
+    母親用麵包樹葉把年糕包起來了。
 
 tafohan(tafo)
 特地把…包裝、包起來。
@@ -812,19 +813,19 @@ taha
 前綴。主要表示：
 ①  到達，抵達。
     tahanini.
-	至今，迄今。
-	tahayra. 
-	到達。
+    至今，迄今。
+    tahayra. 
+    到達。
 ②  觸及，碰撞。
     tahaceka. 
-	紮刺。
+    紮刺。
     tahakefeng.
     掉進陷阱。
 ③  導致。
     tahafikod.
     絆倒。
-	tahacefa. 
-	遭到報應。
+    tahacefa. 
+    遭到報應。
 
 tahacaer(caer)
 紮穿，刺破。
@@ -1523,7 +1524,7 @@ tayi'
     鐵銹。
     Tayi' no wadis.
     牙垢。
-	
+    
 Taifoan 
 平埔族群之一，譯作大滿族。
 
@@ -1556,7 +1557,7 @@ ta'isen(ta'is)
 把…縫補、縫合。
     Ta'isen ko riko' ako !
     把我的衣服補一下！
-	
+    
 Taiwan 
 臺灣，臺灣人。
 
@@ -1631,7 +1632,7 @@ takawsa(takaw)
 在以偷偷的方式做。
     Takawsa cangra a misa'epah.
     他們在偷偷地造酒。
-	
+    
 Takay 
 部落名稱。今臺灣花蓮縣玉裏鎮三民地區。
 
@@ -1724,7 +1725,7 @@ takini'en(takini')
 takini'han(takini')
 特地把…夾帶。
     Takini'han ni ina ko lapot a minokay to sapakaen to diyong. 
-	媽媽回家時夾帶著地瓜菜來餵豬。
+    媽媽回家時夾帶著地瓜菜來餵豬。
 
 takiri'
 趔趄(走路不穩要摔到的樣子)。
@@ -2162,7 +2163,7 @@ talakapah(kapah)
 talakapahay(kapah)
 ①  成長了。
     Talakapahay ci kolas.
-	Kolas長大成人了。
+    Kolas長大成人了。
 ②  指成長者。
     Adihayay ko talakapahay i niyaro'.
     村裡長大成人的很多。
@@ -2317,7 +2318,7 @@ talaotalay(aotal)
     我到外面掃地了。
 ②  指到屋外、院外的(人)。
     Talaotalay a waco. 
-	到院外的狗。
+    到院外的狗。
 
 talaotalen(aotal)
 到屋外、院外吧！
@@ -2489,7 +2490,7 @@ talatokosay(tokos)
     他上山砍柴了。
 ②  指到山上的(人)。
     Talatokosay a kapah. 
-	上山的青年。
+    上山的青年。
 
 talatokosen(tokos)
 把…上山，到山上去吧！
@@ -2511,7 +2512,7 @@ talawaliay(wali)
     我去東方看太陽。
 ②  指到東方的(人)。 
     Talawaliay a tamdaw. 
-	往東去的人。
+    往東去的人。
 
 talawalien(wali)
 把…到東方去，到東方去吧！
@@ -2933,7 +2934,7 @@ tamayaay(tamaya)
 ②  開闊的，廣闊的。
     Tamayaay a kitakit.
     廣闊的島嶼。
-	
+    
 Tamayan 
 部落名稱。今臺灣花蓮縣瑞穗鄉瑞北村地區。
 
@@ -3374,7 +3375,7 @@ tano
 ②  除此以外，別無他物。
     tanocokor.
     惟有手杖。
-	
+    
 tano…sa 
 前後加綴詞。主要表示：
 ①  一直處於某行為的狀態之中。
@@ -3816,7 +3817,7 @@ tapedak
     麵包已經發霉了。
 => tafongaw。
 ③  沾染某污染物。
-	Ci tapedak ko riko' no pingki.
+    Ci tapedak ko riko' no pingki.
     衣服沾上一塊油漆。
 
 tapedoh
@@ -4441,7 +4442,7 @@ tata'edi'edipsa(ta'edip)
 [疊 2]呈層層疊疊的樣子。
     Tata'edi'edipsa nani 'amis taha timol ko mihifalatay a tokos.
     重山疊巒南北橫臥。
-	
+    
 tata'en /ta'ta'en 
 把…砍傷。
     Tata'en no naliti' ko kamay ako.
@@ -4755,7 +4756,7 @@ tatekaen(teka)
     我就要開始那項工作。
 ②  指要開始做的(事情)。
     Tatekaen a demak. 
-	即將開始做的工作。
+    即將開始做的工作。
 
 tatekeden(teked)
 [疊 2]
@@ -4939,7 +4940,7 @@ tatentenen(tenten)
 [疊 2]
 ①  要砸傷。
     Tatentenen ni Omah ko kamay ira. 
-	Omah要把他的手砸傷了。
+    Omah要把他的手砸傷了。
 ②  指要砸傷的(對像)。
     Tatentenen a tamdaw.
     即將被砸傷的人。
@@ -5002,7 +5003,7 @@ tateselen(tesel)
     姊姊要刺繡她的裙子。
 ②  指要刺繡的(物件)。
     Tateselen a riko'. 
-	要繡花的衣服。
+    要繡花的衣服。
 
 tatextex
 大青蛙。
@@ -5100,7 +5101,7 @@ tatihelomen(tihelom)
 [疊 2]
 ①  要圍觀、圍繞。
     O tatihelomen niyam ko fa^lohay a tosiya. 
-	我們要去圍觀新車。
+    我們要去圍觀新車。
 ②  指要圍觀、圍繞的(對像)。
     Tatihelomen a tamdaw.
     即將被圍觀的人。
@@ -5232,8 +5233,8 @@ tatiloen(tilo)
     O tatiloen kora futing ato 'afar.
     要把魚蝦捕撈。
 ②  指要用拖網捕撈的(魚)。 
-	Tatiloen a futing. 
-	要捕撈的魚。
+    Tatiloen a futing. 
+    要捕撈的魚。
 
 tatimocen(timoc)
 [疊 2]
@@ -5343,7 +5344,7 @@ tatiretiregan(tireng)
 tatirengsa(tireng)
 [疊 1]呈站立的狀態，站著。
     Tatirengsa koya faki mitiri' toya miatiwan ningra i kamay a sapaiyo a talod. 
-	老伯伯站著注視拿在手裏的草藥。
+    老伯伯站著注視拿在手裏的草藥。
     Tatirengsa kako toya 'ongcoy a mitapal to riyal.
     我站在礁岩上眺望大海。
 
@@ -5660,7 +5661,7 @@ tato'ongen(to'ong)
     他要摸我的頭部。
 ②  指要撫摸的(頭部)。 
     Tato'ongen a fongoh. 
-	要被碰撞的頭部。
+    要被碰撞的頭部。
 
 tato^etoen(to^eto)
 [疊 2]
@@ -5742,7 +5743,7 @@ tatodongen(todong)
 tatodongsa(todong)
 [疊 1]呈合適的狀態，正好，剛好，恰好，恰當其時。
     Itiya tatodongsa malahci to ningra ko ccay a lolod a kiradom. 
-	當時，有一券布恰好被她完成了。
+    當時，有一券布恰好被她完成了。
 
 tatoemen(toem)
 [疊 2]
@@ -5938,7 +5939,7 @@ tatolikawen(tolikaw)
     要開出那條跑道。
 ②  指要開道、開路的(物件)。
     Tatolikawen a(karomakatan).
-	要開出來的人行道。
+    要開出來的人行道。
 
 tatolikan
 編藤、竹的地方。
@@ -5962,7 +5963,7 @@ tatoliyaden(toliyad)
     母親要紡織毛衣。
 ②  指要紡織的(東西)。 
     Tatoliyaden a walay. 
-	即將紡織的線。
+    即將紡織的線。
 
 tatolo(tolo)
 [疊 1]三個人。
@@ -6137,7 +6138,7 @@ tatontonen(tonton)
     要把這野豬腿砍一砍。
 ②  指要砍剁的(東西)。
     Tatontonen a 'okak. 
-	要剁的骨頭。
+    要剁的骨頭。
 
 tatood(tood)
 [疊 2]互相跟隨，相連接。
@@ -6271,7 +6272,7 @@ tatorisen(toris)
     小孩要在紙上劃線。
 ②  指要劃線的(物件)。
     Tatorisen a sapad.  
-	要劃線的板子。
+    要劃線的板子。
 => tatosiren。
 
 tatoro'an(toro')
@@ -6377,7 +6378,7 @@ tatotosen(totos)
     孩子要蘸糖吃。
 ②  指要蘸的(東西)。 
     Tatotosen a cinah. 
-	要蘸的鹽。
+    要蘸的鹽。
 
 tatowa'en(towa')
 [疊 2]
@@ -6620,7 +6621,7 @@ tayoen(tayo)
     慢點走，等等我吧！
     i kaikor kiso, i 'a'ayaw kako, tayoen ita a romakat !
     你在前面，我在後面，我們慢慢走吧！
-	
+    
 Taypak 
 地名。今臺灣臺北市。
 
@@ -8359,7 +8360,7 @@ tingkien(tingki)
 把…註冊備案。
     Tingkien ko misanga'an iso a ngangan.
     把你製造的產品的名字註冊備案一下。
-	
+    
 Tingkoli 
 部落名稱。今臺灣台東縣關山鎮電光里部落。
 
@@ -8678,7 +8679,7 @@ tiwatiwen(tiwatiw)
 把…撥拉、撥弄。
     Aka tiwatiwen ko sapiditek ako !
     不要撥弄我的測量器具！
-	
+    
 Tiway 
 樹神。
 
@@ -8808,17 +8809,17 @@ to
     我們天天忙碌。
 ③  對於，關於。
     Awa to ko pinang noya tatosaay a wawa to kawali、ka^etip、katimol、ka'amis.
-	那兩個小孩子對東西南北沒有辨認能力了。
-沝  原因。
+    那兩個小孩子對東西南北沒有辨認能力了。
+④  原因。
     Awato ko sasowalen ningra to lahekel no faloco' ningra.
     他父親高興得說不出話來。
-沀  行為手段、工具。
+⑤  行為手段、工具。
     Riwariwen niyam to lalal.
     我們用小鋤頭攉土。
-泞  補充說明某種程度等。
+⑥  補充說明某種程度等。
     Si^enaway ko romi'ad to miming anini.
     今天天氣有一點冷。
-泀  比較。
+⑦  比較。
     'Akawangay ko nga'ay to poeneray.
     高個兒比挨個兒好。
 
@@ -9242,7 +9243,7 @@ tokeren(toker)
 toki
 ①  錶，鐘錶。[日語借詞]
     ^Ekim a toki.
-	金錶。
+    金錶。
 ②  量詞。小時，鐘點。
     Pina ko toki?
     幾點鍾？
@@ -9376,7 +9377,7 @@ tolak
     榆樹皮。
     Tolak no cekiw.
     貝殼。
-	
+    
 Tolampo 
 部落名稱。今臺灣花蓮縣富里鄉新興村。
 
@@ -9437,7 +9438,7 @@ tolidacen(tolidac)
 把…剝開、掰開。
     Tolidacen ko tolak no tefi'.
     把扁豆莢剝開。
-	
+    
 Tolik 
 部落名稱，台東縣成功鎮都歷部落。
 
@@ -9760,7 +9761,7 @@ tomesen(tomes)
 tomeshan(tomes)
 特地把…充滿、灌滿。
     Tomeshan ningra ko ciwkeng to miradoman ira a nanom. 
-	他特地挑來水把水缸灌滿。
+    他特地挑來水把水缸灌滿。
 
 tomfo
 蜻蜓。[日語借詞]
@@ -9791,8 +9792,8 @@ tomirengay(tireng)
     Tomirengay a tokos.
     直立的山。
     Ci Kacaw ko tomirengay i paputal. 
-	Kacaw(卡兆)站在院外。
-	
+    Kacaw(卡兆)站在院外。
+    
 Tomiyac 
 部落名稱，今臺灣台東縣成功鎮重安(都威)。
 
@@ -10099,7 +10100,7 @@ topida'en(topida')
 把…污物濺身。
     Topida'en ira ko sota' i tatirengan ako.
     他把污泥濺在我身上。
-	
+    
 topidápida'han(topida') 
 [疊 2]特地連吐口水把…唾棄。
     Topidápida'han no tao ko laway ningra.
@@ -10180,7 +10181,7 @@ tori
 (量詞)。一公里。
     Siwa a tori.
     九公里。
-	
+    
 Torik 
 部落名稱。今臺灣台東縣成功鎮都歷村。
 => Tolik。
@@ -10596,7 +10597,7 @@ tesi'sa(tesi')
 呈噴濺的狀態。
     Tesi'sa ko remes noya fafoy.
     山豬的血噴濺起來。
-	
+    
 Twapon 
 部落名稱。今臺灣花蓮市美侖地區。
 => Takangen。

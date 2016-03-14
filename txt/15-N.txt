@@ -122,7 +122,7 @@ nafiroan(firo)
 經過奮鬥、拼命過、苦幹過的工作。
     Maherekay to nafiroan to inacila.
     終於做完了昨天苦幹的工作。
-	
+    
 nafiroan
 急急忙忙從…，自從…。
     Nafiroan ako naniPosong .
@@ -199,7 +199,7 @@ nai…tala…
 naikoran(ikor)
 某動作、行為之後，所經歷的事情以後，事情發生後。
     Naikoran to noya kaying a minokay, sowalen to ira ko wama ato wina ira. 
-	在那位小姐回去過後，他告訴了自己的父母。
+    在那位小姐回去過後，他告訴了自己的父母。
     Naikoran iso a milaliw,macahiway to ko loma' niyam.
     在你逃離以後，我們家變窮了。
 => nalikolan。
@@ -703,7 +703,7 @@ nano
     從我懂事那一天起。
     Nano ka'oripan no tamdaw awa ho matengil.
     聞所未聞。
-	
+    
 nano…taha…
 表示時間的起訖。從…至…，自從…到…。
     Nano lalood taha tiposan.
@@ -843,7 +843,7 @@ nao
     Nao mafana'ay kako caniraan.
     我本來認識他們。
     Nao harateng ako…'i. 
-	我原來的想法是…。
+    我原來的想法是…。
 => nano。
 
 naol
@@ -1113,7 +1113,7 @@ nawhani(naw)
 nawiro
 為什麼，為何目的，出於什麼原因。
     Nawiro mafokil a caciyaw to no niyah a sowal hani? 
-	為什麼不會用自己的話交談？
+    為什麼不會用自己的話交談？
     Nawiro fafoti'sa kiso saw?
     你為什麼一直睡覺？
 

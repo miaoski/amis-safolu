@@ -1599,7 +1599,7 @@ dipangan(dipang)
 dipangen(dipang)
 要在某處設置障礙捕獲野獸。
     Dipangen niyam ko karomakatan no fafoy alalan. 
-	我們在野豬走動的道路上設置障礙。
+    我們在野豬走動的道路上設置障礙。
     Dipangen ko 'a'adopen !
     把野獸阻擋一下！
 

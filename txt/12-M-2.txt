@@ -581,7 +581,7 @@ mi'aw'aw('aw'aw)
 mi'aw'awan('aw'aw)
 ①  對某某嗷嗷吠叫了，曾經吠叫了。
     Mi'aw'awan no oles i tatokosan to dadaya. 
-	野狼晚上在山間叫喚了。
+    野狼晚上在山間叫喚了。
 ②  指所吠叫的(對象)。
 
 mi'aw'away('aw'aw)
@@ -1235,7 +1235,7 @@ mi'icepay('icep)
     我們正在嚼檳榔。
 ②  指嚼檳榔的人。
     Tada 'aloman to ko mi'icepay niyam a tamdaw. 
-	我們嚼檳榔的人非常多。
+    我們嚼檳榔的人非常多。
 
 mi'id'id('id'id)
 烘烤，烤。
@@ -1266,8 +1266,8 @@ mi'idoc('idoc)
 用矛、叉捕魚、標槍。
     Mi'idoc to futing.
     叉魚。
-	Mi'idoc. 
-	擲標槍。
+    Mi'idoc. 
+    擲標槍。
 
 mi'idocan('idoc)
 ①  用矛、叉把…捕捉了。
@@ -2093,7 +2093,7 @@ mialaay(ala)
     Mialaay ko wawa to kalang.
     小孩在捉蟹。
 ③  去娶人、招人了。
-沝  指攜帶者，捉拿者，娶人者。
+④  指攜帶者，捉拿者，娶人者。
 
 mialingato(alingato)
 感謝、感激。
@@ -2130,7 +2130,7 @@ mianakexay(anakex)
 mianapal
 去埋伏。
     Mianapal kami to ad á. 
-	我們去埋伏迎戰敵人。
+    我們去埋伏迎戰敵人。
 
 mianapal(anapal)
 去埋伏。
@@ -2327,7 +2327,7 @@ mica'aan(ca'a)
     我抬頭看他了。
 ②  指抬頭所看的(對象)。
     Mica'aan a folad. 
-	所仰望的月亮。
+    所仰望的月亮。
 
 mica'aay(ca'a)
 ①  抬頭看著，仰望著。
@@ -2493,7 +2493,7 @@ micadaay(cada)
 micadcad(cadcad)
 把籐或竹子削成細條。
     Micadcad to 'oway ko malitengay sapisanga' to karihic. 
-	老人把籐削成細條要做漁簍。
+    老人把籐削成細條要做漁簍。
 
 micadiw(cadiw)
 磨(刀)，磨礪。
@@ -2577,7 +2577,7 @@ micafayay(cafay)
 ①  作伴了，陪同了。
 ②  指跟人作伴的人，陪伴者。
     Micafayay ci Tomay takowan. 
-	Tomay 在陪著我。
+    Tomay 在陪著我。
 
 micafel(cafel)
 中途停留、順道探訪。
@@ -2757,13 +2757,13 @@ micakilan(cakil)
 ①  把…攀登了，攀登過了。
 ②  指所攀登的(山)。
     Micakilan niyam ko Cilangasan. 
-	我們攀登過Cilangasan(奇萊山)了。
+    我們攀登過Cilangasan(奇萊山)了。
 
 micakilay(cakil)
 ①  去登山了，攀登了。
 ②  指登山者。
     Micakilay ca Kacaw a lalima to Cilangsan. 
-	Kacaw 等五人在攀登Cilangasan。
+    Kacaw 等五人在攀登Cilangasan。
 
 micakod(cakod)
 跳躍過去、跳越過去。
@@ -3656,7 +3656,7 @@ miceleman(celem)
     太陽下山的地方。
 ③  潛水拿的(物件)。
     O miceleman no kapah a mipacing kona futing. 
-	這是年輕人潛水用漁叉射到的魚。
+    這是年輕人潛水用漁叉射到的魚。
 
 micelemay(celem)
 ①  (太陽)正在下山、潛入了。
@@ -3690,7 +3690,7 @@ miceli'ay(celi')
 micelol(celol)
 接替，接班，替換，取代。
 => micror。
-	Micelol kako kisowanan.
+    Micelol kako kisowanan.
     我去接你的班。
 
 micelolan(celol)
@@ -3815,7 +3815,7 @@ micengaway(cengaw)
 micengceng(cengceng)
 壓實、扎緊修補桶子的裂縫。
 => micekcek。
-	Micegnceng to ngela' no pa'etang.
+    Micegnceng to ngela' no pa'etang.
     修補桶子的裂縫。
 
 micengel(cengel)
@@ -4721,7 +4721,7 @@ mico'isay(co'is)
 mico'nek(co'nek)
 插進，插入(頭飾)。
     Sa'akawangen kora hana a mico'nek!
-	把花插高一點！
+    把花插高一點！
 => mico'enek。
 
 mico'nekan(co'nek)
@@ -4832,7 +4832,7 @@ micofelan(cofel)
     箭放在箭鞘裡了。
 ②  指插入鞘裡的(刀)。 
     Micofelan a funus. 
-	入鞘的刀。
+    入鞘的刀。
 
 micofelay(cofel)
 ①  插入刀鞘裡了，入鞘了。
@@ -5099,7 +5099,7 @@ micooan(coo)
 micooay(coo)
 ①  正在出嫁了。
     Micooay ciPanay anini.
-	Panay(巴奈)今天出嫁了。
+    Panay(巴奈)今天出嫁了。
 ②  指出嫁者，嫁人的人。
     Cowa kapapina ko micooay a ramod no 'Amis.
     阿美族人也有女人出嫁的(習俗)但為數不多。
@@ -5693,7 +5693,7 @@ midi'iay(di'i)
     陪睡者。
 ③  孵育著。
     Midi'iay ka koko' to fita'ol.
-	雞孵育著雞蛋。
+    雞孵育著雞蛋。
 
 midifak(difak)
 徹底做完，完成，窮盡。
@@ -6008,7 +6008,7 @@ midoka'(doka')
 midoka'an(doka')
 ①  把…弄傷了、創傷了。
     Midoka'an nora tatiihay a tamdaw ko tireng noniyah. 
-	那個壞蛋傷自己。
+    那個壞蛋傷自己。
 ②  指弄傷、創傷的(對象、地方)。
     Midoka'an a kamay.
     被砍傷的手。
@@ -6152,7 +6152,7 @@ mienengay(eneng)
     他在看你。
 ②  指看者，觀看者。
     O cima ko mienengay?
-	誰在看？
+    誰在看？
 => minengnengay。 
 
 miengac(engac)
@@ -7148,7 +7148,7 @@ mifetir(fetir)
 mifetiran(fetir)
 ①  把…彈射、發射出去了。
     Mifetiran ni Kacaw ko pana'.
-	Kacaw(卡兆) 把箭射出去了。
+    Kacaw(卡兆) 把箭射出去了。
 ②  指所彈射、發射的(物件、東西)。
     Mifetiran niyam ko komo
     我們彈射橡皮筋。
@@ -7568,7 +7568,7 @@ mifolaw(folaw)
 mifolawan(folaw)
 ①  把…驅逐了、趕走了。
     Mifolawan no sifo ko tamdaw no niyaro' niyam. 
-	政府把我們村莊的人遷走了(遷村)。
+    政府把我們村莊的人遷走了(遷村)。
 ②  指所驅逐、趕走的(對象)。
     Mifolawan a niyaro'.
     遷村。
@@ -7733,7 +7733,7 @@ mifutingay(futing)
     豐年祭時我們全村的人都去捕撈魚。
 ②  指捕魚者，漁夫，漁民。
     Mifutingay a tamdaw ciKacaw.
-	Kacaw(卡兆)是漁民。
+    Kacaw(卡兆)是漁民。
 
 mifowak(fowak)
 往上噴水，冒泡沫，冒水。
@@ -8172,7 +8172,7 @@ mihafhafan(hafhaf)
 mihafhafay(hafhaf)
 ①  在吸著(氣味)。 
     Mihafhafay cinira to maan ?
-	他在吸什麼？
+    他在吸什麼？
 ②  指吸者。
     Mihafhafay a tamdaw.
     吸氣者。
@@ -8263,7 +8263,7 @@ mihakelongay(hakelong)
 mihakeno(hakeno)
 表示否認、不知道、不認識。
     Mihakeno ci Mayaw to sowal no wama. 
-	Mayaw(馬要)不知道爸爸說的話。
+    Mayaw(馬要)不知道爸爸說的話。
 
 mihakenoan(hakeno)
 ①  把…否認了、否定了。
@@ -8631,7 +8631,7 @@ mihapopoan(hapopo)
     小孩捧著蘋果送過來了。
 ②  指手捧的(東西)。 
     Mihapopoan a tilid. 
-	捧在手上的書。
+    捧在手上的書。
 
 mihapopoay(hapopo)
 ①  手捧著；緊抱著。
@@ -9082,8 +9082,8 @@ mihecaan(heca)
     你今年幾歲了？
     Tosa a polo' ko mihecaan ako.
     我二十歲。
-	1998 a mihecaan 5 a folad.
-	1998 年 5月。
+    1998 a mihecaan 5 a folad.
+    1998 年 5月。
 
 mihecaay(heca)
 ①  輪一年了，過年了。
@@ -9588,7 +9588,7 @@ mihintaan(hinta)
 mihintaay(hinta)
 ①  在邀請、邀約了、約請了。
     Mihintaay ci Panay takowanan.
-	Panay(巴奈)在邀請我了。
+    Panay(巴奈)在邀請我了。
 ②  指邀請者，約請者。
     O kakeridan no cefang ko mihintaay to singsi.
     邀請老師的班代。
@@ -9601,7 +9601,7 @@ mihiphip(hiphip)
 mihiphipan(hiphip)
 ①  把…嗅了、聞過了。
     Mihiphipan ako koni a hana，tada fangsisay to！
-	這朵花我聞過了，香極了！
+    這朵花我聞過了，香極了！
 ②  指所嗅的、聞味的(對象)。
     O maan ko mihiphipan iso saw ?
     你聞什麼？
@@ -9731,7 +9731,7 @@ mihoka'ay(hoka')
 ①  放鬆了，鬆綁了。
 ②  放鬆者，鬆綁者。
 => mikokalay。
-	
+    
 mihokal(hokal)
 放鬆，鬆開，鬆弛。
     Mihokal to faloco'.
@@ -9987,7 +9987,7 @@ miikoikoray(ikor)
 miikor(ikor)
 告別，辭行。
     Micomod cinira i laloma' miikor a somowal to wina ira. 
-	她進屋裡向母親告別。
+    她進屋裡向母親告別。
 => paikor。
 
 miikoran(ikor)
@@ -10512,7 +10512,7 @@ mikahiran(kahir)
 mikahiray(kahir)
 ①  在用耙子耙耘、耙梳了。
     Mikahiray ci Kacaw to sera.
-	Kacaw(卡兆)在耙土。
+    Kacaw(卡兆)在耙土。
 ②  指耙耘者，耙東西的人。
     O ci kaka ako ko mikahiray to sapanayan.
     耙稻田的是我哥哥。
@@ -10879,7 +10879,7 @@ mikalakomodan(komod)
 mikalakomoday(komod)
 ①  當上領袖了。
     Mikalakomoday ci Kacaw i kitaanan.
-	Kacaw(卡兆)當上我們那裡的領袖了。
+    Kacaw(卡兆)當上我們那裡的領袖了。
 ②  指擔任頭目、領袖的人。
     Cinira ko mikalakomoday.
     是他當上了領袖。
@@ -11276,7 +11276,7 @@ mikalonaan(kalona)
 mikalonaay(kalona)
 ①  在捉弄著，調戲著，嘲弄著。
     Mikalonaay ci Sera to posi.
-	Sera(瑟拉)在捉弄貓。
+    Sera(瑟拉)在捉弄貓。
 ②  指捉弄者，調戲者，嘲弄者。
     Cinira ko mikalonaay kisowanan.
     是他在捉弄你。
@@ -11535,7 +11535,7 @@ mikapo'i(po'i)
 mikapo'ian(po'i)
 ①  把…謾罵了、訓斥了。
     Mikapo'ian no kakita'an ko caay ka cisetik a kapah. 
-	沒有漁獲的年輕人被頭目訓斥了。
+    沒有漁獲的年輕人被頭目訓斥了。
 ②  指所謾罵、訓斥的(對象)。
     O caay ka ci pinag ko faloco' a kapah ko mikapo'ian no kakita'an.
     頭目訓斥心無定見的年輕人。
@@ -11543,7 +11543,7 @@ mikapo'ian(po'i)
 mikapo'iay(po'i)
 ①  正在謾罵、訓斥著。
     Mikapo'iay kami a maemin tora mari'angay a tamdaw. 
-	我們大家都訓斥著那個壞蛋。
+    我們大家都訓斥著那個壞蛋。
 ②  指謾罵者，訓斥者。
     Mikapo'iay a tamdaw.
     謾罵者。
@@ -12011,12 +12011,12 @@ mika
 前綴。主要表示動作行為所造成或導致的必然過程、因由、結果等。
     mikatayal
     勞動成果。
-	mikaira. 
-	來到、出現的原因。
+    mikaira. 
+    來到、出現的原因。
     mika'orip.
     人生經歷、身世經驗。
-	mikaraay. 
-	遙遠的路程。
+    mikaraay. 
+    遙遠的路程。
     mikaadada.
     患病的結果。
     mikaadihay.
@@ -12419,7 +12419,7 @@ miketedan(keted)
 miketeday(keted)
 ①  在切斷，咬斷著。
     Miketeday ko kapah to masay malo safalod to kasoy. 
-	年輕人咬斷用來梱綁木材的蔓藤。
+    年輕人咬斷用來梱綁木材的蔓藤。
 ②  指切斷，咬斷者。
     O cikawasay ko miketeday to titi.
     切肉的是巫師。
@@ -13168,7 +13168,7 @@ mikilidongay(lidong)
     孩子正在那棵樹下乘涼了。
 ②  指遮避風雨的人，遮蔭乘涼的人。
     O cima ko mikilidongay to 'orad i kalaeno no kilang? 
-	誰在樹下避雨呢？
+    誰在樹下避雨呢？
 
 mikilim(kilim)
 找，尋找。
@@ -13679,7 +13679,7 @@ mikiwahan(kiwah)
 mikiwahay(kiwah)
 ①  正在扒開著。
     Mikiwahay ci Omah to matahafay no sera a ekim. 
-	Omah(烏瑪) 在扒開被土掩埋的金礦。
+    Omah(烏瑪) 在扒開被土掩埋的金礦。
 ② 指扒開者。
     O mikiwahay to tafok a tamdaw.
     扒開沙子的人。
@@ -13879,7 +13879,7 @@ mikiyoray(kiyor)
     他在剜掉腐肉。
 ②  指剜除者，剔除者。
     O ci wama ako ko mikiyoray to titi no fafoy. 
-	是我父親在剔豬肉。
+    是我父親在剔豬肉。
 
 miki
 前綴。Mi- 加在 "ki-+ 詞根 " 結構的派生詞根之前，構成動詞，主要表示特定條件下的附加、參與和施動等動作行為。例如：
@@ -14335,7 +14335,7 @@ mikorametay(koramet)
 => mikolametay。
     Mikorametay ko lidep to ciwciw.
     老鷹在抓小雞了。
-②	指攫捕者。
+②    指攫捕者。
     O mikorametay to ciwciw a lidep.
     抓住小雞的老鷹。
 
@@ -15354,7 +15354,7 @@ milaopan(laop)
 milaopay(laop)
 ①  在驅逐著，趕走著。
     Milaopay ci Tali to kolong. 
-	Tali(達力)在趕牛。
+    Tali(達力)在趕牛。
 ②  指驅逐者，驅趕者。
     Ci Tali ko milaopay to kolong.
     趕牛的是 Tali (達力)。
@@ -15693,7 +15693,7 @@ milefoan(lefo)
     我把他壓倒了。
 ②  指壓倒的(對象)。 
     Milefoan a tomay. 
-	被打倒的熊。
+    被打倒的熊。
 
 milefoay(lefo)
 ①  壓在下麵了，壓倒著。
@@ -16110,7 +16110,7 @@ mili'ay(li'ay)
 mili'ayan(li'ay)
 ①  跟…和解了、達成諒解了。
     mili'ayan ako ci Panay. 
-	Panay(巴奈)得到我諒解了。
+    Panay(巴奈)得到我諒解了。
 ②  指和解的、達成諒解的(對象)。
     Mili'ayan a tamdaw.
     得到諒解的人。
@@ -16308,7 +16308,7 @@ miliflif(liflif)
 ①  隱藏，藏匿。
     Miliﬂif kiso to aikor niina.
     你藏在媽媽的身後。
-	Miliﬂif laloma'.
+    Miliﬂif laloma'.
     藏在屋裡。
 => mihimed。
 ②  弄亂，混淆，搞錯；使人認錯目標。
@@ -16341,7 +16341,7 @@ milifok(lifok)
 milifokan(lifok)
 ①  把(遺物)撿起來了。
     Milifokan ako ko padakopak i paenan a maemin. 
-	我把地板上的紙都撿了。
+    我把地板上的紙都撿了。
 ②  指所撿拾的(東西)。
     O milifokan ako a impic.
     我所撿到的鉛筆。
@@ -16497,14 +16497,14 @@ milikakawaay(kakawa)
     我在捆紙張。
 ②  指捆紮東西的人。
     Ora koli ko milikakawaay to lalosidan niyam. 
-	捆我們行李的是那位工人。
+    捆我們行李的是那位工人。
 
 milikakawaay(kakawa)
 [疊 2]
 ①  安排著，準備著。
 ②  指安排，準備的人。
     O kakita'an ko milikakawaay to no kiloma'an a demak. 
-	部落領袖安排豐年祭的事。
+    部落領袖安排豐年祭的事。
 
 milikanoos(kanoos)
 剪指甲，拔指甲。
@@ -16891,7 +16891,7 @@ milingatoay(ngato)
     他們開始收割稻子了。
 ②  指開始做的、接續做的人。
     O wawa to ko milingatoay a misalama itira. 
-	孩子在那裡接續著玩耍了。
+    孩子在那裡接續著玩耍了。
 
 milingkiw(lingkiw)
 摘辣椒。
@@ -16951,7 +16951,7 @@ milingodan(lingod)
 milingoday(lingod)
 ①  簇擁著，圍觀著。
     Milingoday ko lalangaw to 'epang i kafekang no 'eto. 
-	蒼蠅在簇擁著桌子上的麵包。
+    蒼蠅在簇擁著桌子上的麵包。
 ②  指簇擁者，圍觀者。
     O kakonah ko milingoday tora 'odax.
     簇擁那塊糖的是螞蟻。
@@ -17490,10 +17490,10 @@ mili
     剔牙垢。
 ③  使用某種器具手段獲取。
     mili'edo.
-	(用鼠夾)捕老鼠。
+    (用鼠夾)捕老鼠。
     milifongoh.
     獵首，斬首。
-沝  索取。
+④  索取。
     milinamal.
     取火種。
     mililifon.
@@ -17503,7 +17503,7 @@ milmilen(milmil)
 把…撫摸、摸弄。
     Aka milmilen ko kamay ako!
     不要摸弄我的手！
-	
+    
 milmil 
 撫摸，摸弄。
 => mimilmil。

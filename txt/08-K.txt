@@ -17,10 +17,10 @@ ka
 ③  只好、只能這樣做的行為。
     O kamaro' aca no malitengay i fokeloh.
     老人只好坐在石頭上。
-沝  剛剛經歷的行為。
+④  剛剛經歷的行為。
     Kaherekho ningra isawni.
     他剛剛完成。
-沀  否定式、禁止式。
+⑤  否定式、禁止式。
     Cowa katayra.
     不去。
     Aka kafuti' itini !
@@ -76,7 +76,7 @@ ka'alitadan('alitad)
 ka'aloman('aloman)
 人多的、眾多的、聚眾的。
     Watah ka'aloman no mifaca'ay a tamdaw kini!
-	啊，洗衣服的人聚住的真多！
+    啊，洗衣服的人聚住的真多！
 
 ka'ami'amis('amis)
 [疊 2]住於北邊，在北邊。
@@ -225,7 +225,7 @@ ka'emang ho
 ka'emangan(ka'emang)
 幼年時代，少年時代，小時候。
     Nano ka'emangan ho makapahay ko laleko ningra. 
-	她從小時候身材就很漂亮。
+    她從小時候身材就很漂亮。
 
 ka'emangay(ka'emang)
 ①  幼稚的，年輕的，還小的。
@@ -470,12 +470,12 @@ ka'tohay
     住所，座位。
 ②  感受的事情、對象。
     kaacekan 令人厭惡的。
-	kahmekan 令人高興的。
+    kahmekan 令人高興的。
 
 kaa
 [閩南語借詞]坎肩，背心。
     Si^naw ko romi'ad paca'dongen to kaa koya wawa. 
-	天冷給孩子穿背心。
+    天冷給孩子穿背心。
 
 kaacang(acang)
 ①  宴慶的，歡樂的，狂歡的。
@@ -665,7 +665,7 @@ kacacora'(cora')
     Kacacora' ho no kolong.
     牛剛剛才開始鬥角。
 ②  (表促使、命令)使互相角鬥。
-     Aka kacacora' kita.
+    Aka kacacora' kita.
     我們不要彼此相鬥。
 
 kacacorok(corok)
@@ -711,7 +711,7 @@ kacakat(cakat)
 kacalemceman(calemcem)
 令人擔心、擔憂的。
     Matalaw kako to masamaamaanay a kacalemceman demak. 
-	我害怕出現種種令人擔憂的事發生。
+    我害怕出現種種令人擔憂的事發生。
 
 kacalikcikan(calikcik)
 奇癢難忍的地方(部位)或時間。
@@ -766,7 +766,7 @@ kacaw
 =>  mikacaw。
     Mararid ko tayhin a mikacaw to fanaw niyam.
     警察常巡邏我們的池塘。
-	
+    
 Kacaw 
 男性人名。
 
@@ -1392,8 +1392,8 @@ kaciriko'an(riko')
 穿上衣服的模樣。
     Sanengseng a 'nengen ko kaciriko'an iso tonini.
     你穿這件衣服的樣子看起來很漂亮。
-	O kaciriko'an to kiftolay a riko' kona romi'ad. 
-	這個氣候是穿厚衣的時候。
+    O kaciriko'an to kiftolay a riko' kona romi'ad. 
+    這個氣候是穿厚衣的時候。
 
 kaciriw(ciriw)
 ①  (汽車)打斜的，歪斜的。
@@ -1548,7 +1548,7 @@ kacenon(cenon)
 ①  從某事吸取教訓的。
 ②  (表促使、命令)必須吸取教訓。
     Mafana' to kiso to kasipon no 'orip saka kacenon ko miso. 
-	你知道自己的損失須切記教訓。
+    你知道自己的損失須切記教訓。
 
 kaco'afan(co'af)
 噎食堵住的地方。
@@ -1855,7 +1855,7 @@ kadipohaw(pohaw)
 => mafodad。
 => maporahaw。
     Malitengto kako saka kadipohaw saan ko pinengneng to maamaan. 
-	年紀大了看東西就較模糊。
+    年紀大了看東西就較模糊。
 
 kadipohaway(pohaw)
 ①  看不清，模糊。
@@ -2238,7 +2238,7 @@ kafelocan(feloc)
 kafer
 褲子。
     tapad, calaped. 
-	Citpongay ko kafer noya kapah.
+    Citpongay ko kafer noya kapah.
     那年輕人的褲子有破洞。
 
 kafes
@@ -2280,7 +2280,7 @@ kaficekotan(ficekot)
 抽筋的時間或地方。
     O papacem ko kaficekotan ako.
     早晨是我抽筋的時間。
-	
+    
 Kafid 
 海神，海龍王。也指神話傳說中的最高神祇之一，即天神。
 
@@ -2336,7 +2336,7 @@ kafodo'an(fodo')
 kafohatan(fohat)
 打開、揭開的地方，開口處。
     Cima koya mifohatay toya kafohatan no nanom? 
-	誰打開那水管的開關？
+    誰打開那水管的開關？
 
 kafokil(fokil)
 不會、不懂、一無所知的(緣故)。
@@ -2430,7 +2430,7 @@ kahahinam(hinam)
 ①  彼此相愛的。
 ②  (表促使、命令) 彼此互相戀愛吧。
     Ano malitemoh ko masamaanay a rolay i kahahinam kamo.
-	若遇到任何苦難請你們彼此相愛。
+    若遇到任何苦難請你們彼此相愛。
 
 kahahinta(hinta)
 ①  彼此招呼的，相約定的。
@@ -2478,7 +2478,7 @@ kahiceraan(hicera)
 著落處，落腳處；也指定居點。
     I Torik ko kahiceraan.
     都歷是落腳地。
-	
+    
 Kaheciday
     部落名稱，今台灣台東縣成功鎮和平村。
 
@@ -2594,7 +2594,7 @@ kahemaw
 ① (重量)輕。
     Kahemaw ko opih no 'ayam.
     鳥羽毛很輕。
-②  容易(理解)	
+②  容易(理解)    
     kahemaw a tengilen.
     聽起來好懂。
 
@@ -3586,7 +3586,7 @@ kakiwaciay(kakiwaci)
 kakiwahen(kiwah)
 [疊 2]要扒開，要扒開的(東西)。
     O kakiwahen ako koni to pipalomaan to lamlo. 
-	我要扒開這裡來種小米。
+    我要扒開這裡來種小米。
 
 kakiwakiwen(kiwakiw)
 [疊 2]要攪動、攪拌，要攪動、攪拌的(對象)。
@@ -3859,7 +3859,7 @@ kakonayaten(konayat)
 kakongkongen(kongkong)
 [疊 2]要敲的門，要敲擊的。
     Mafuti' cingra i laloma' kakongkongen a mipalal. 
-	他在裡面睡著須敲門叫醒。
+    他在裡面睡著須敲門叫醒。
 
 kakonisen(konis)
 [疊 2]要劃線，要劃線做記號的。
@@ -5570,7 +5570,7 @@ kalotamdaw(tamdaw)
 所有的人，每個人。
     O sakaadihayaw no kakaenen no kalotamdaw.
     為了眾人有更多的糧食。
-	
+    
 Kalotongan
 部落名稱，今台灣花蓮縣光復鄉加禮洞部落。
 
@@ -5591,7 +5591,7 @@ kaleto
 kaletoen(kaleto)
 趁便、順便把事情做了。
     Kaletoen nangra a mieneng koya loma' no widang. 
-	他們順道去看望朋友的家。
+    他們順道去看望朋友的家。
 
 kaletohan(letoh)
 (狗)狂吠、嚎叫的時間或地方。
@@ -5864,8 +5864,8 @@ kana
 (前綴)表示：靠近，往…移動。
     如:kana'ayaw
     靠前，往前面靠；
-	kanaraay 
-	靠遠一點。
+    kanaraay 
+    靠遠一點。
 
 kana'ayan(na'ay)
 指理應，必然否定的行為或事情等。
@@ -6182,7 +6182,7 @@ kanikawan(nikaw)
 缺乏、匱乏物資的時候。
     I kasi'nawan o kanikawan to kasoy.
     在冬季缺少柴火的時候。
-	
+    
 Kaningafar
     部落名稱，今台灣台東縣東河鄉隆昌村。
 => Kanifangar。
@@ -6282,7 +6282,7 @@ kantoken(kantok)
 => kangtoken。
    Kantoken no singsi kami a mitilid.
     老師要監督我們學習。
-	
+    
 Kaokaot
 ①  台灣猴猴族，猴猴人。
 ②  (表促使“命令)一定喜愛，要喜愛。
@@ -6298,7 +6298,7 @@ kaolahan(kaolah)
 所喜歡的，愛好。
     Kaolahan niyam a kapah.
     令我們喜歡的青年。
-	Oya mi'adopay a tamdaw mafana' to kaolahan noya lotong.
+    Oya mi'adopay a tamdaw mafana' to kaolahan noya lotong.
     那些獵人知道猴子的愛好。
     O maan a soyko ko kaolahan iso a komaen?
     你愛吃什麼水果？
@@ -6373,7 +6373,7 @@ kapa'aliwac('aliwac)
 kapa'ekelan(pa'ekel)
 被東西壓著的，被壓抑的。
     Caayka talaw to kapa'ekelan no adihayay a maamaan. 
-	不怕許多東西壓著。
+    不怕許多東西壓著。
     Matedal kami nai kapa'ekelan no datong.
     我們從大原木堆下被拉出來。
 => marepi。
@@ -6737,7 +6737,7 @@ kaporecan(porec)
 kaporohan(poroh)
 (刀)鈍、不快的部位。
     Tahira i kaporohan no mamiya ko pifariw ita. 
-	我們砍草到刀不快的時候。
+    我們砍草到刀不快的時候。
 => kalalesan。
 
 kaporotay(porot)
@@ -7258,7 +7258,7 @@ karariparipa'an(ripa')
 karariyaday(riyad)
 [疊 2]接連不斷的、相互連續的(情)。
     Makapah ko kero nona kaying karariyaday a matahidang no singsi a makero. 
-	這小姐舞跳的不錯經常被老師邀請跳舞。
+    這小姐舞跳的不錯經常被老師邀請跳舞。
 
 kararoman(rarom)
 令人悲傷的。
@@ -7866,7 +7866,7 @@ kasalaloma'an(loma')
 kasalomaloma'(loma')
 [疊 2]每家每戶。
     Pasadak ko kasalomaloma' to alatosa a polo' a payso. 
-	家家戶戶各拿出二十元錢。
+    家家戶戶各拿出二十元錢。
 
 kasani'adaen(sani'ada)
 請可憐、同情(別人)吧。
@@ -8155,12 +8155,12 @@ kasoyen(kasoy)
 kaseta'an(seta')
 昏倒、休克的時間或地方。
     O karoray to ningra a midangoy ko kaseta'an ningra. 
-	他游泳太累而昏倒。
+    他游泳太累而昏倒。
 
 kasetayan(setay)
 疲倦、勞累的時間。
     Caay pimaan cingra o maan ko kasetayan ningra saw?
-	他沒作什麼怎麼會累倒呢？
+    他沒作什麼怎麼會累倒呢？
 
 kasetol(setol)
 ①  碰撞的，撞擊的。
@@ -8371,7 +8371,7 @@ katawaan(tawa)
 katawalan(tawal)
 令人忘記，所忘記的，遺忘的。
     Awaay ko katawalan to nga'ayay a demak ningra. 
-	他做的善事無法忘記。
+    他做的善事無法忘記。
 
 katayal
 ①  忙碌的，工作的。
@@ -8871,7 +8871,7 @@ kaysing
 kaysiya
 工廠，公司。[日語借詞]
     O misanga'ay to kampiwta ko kaysiya niyam. 
-	我們的工廠是製作電腦。
+    我們的工廠是製作電腦。
 
 kaysiyaan(kaysiya)
 公司，工廠。
@@ -9523,7 +9523,7 @@ ketosen(ketos)
 把穀穗摘下來、收回來。
     Ketosen ita ko lamlo.
     我們去摘小米。 
-	Ketos niyam ko sa'anga'ayay a panay malo sapaloma.
+    Ketos niyam ko sa'anga'ayay a panay malo sapaloma.
     我們把最好的稻穗摘下來做種子。ki(前綴)。主要表示：
 ①  附加、寄居。如 kiloma' 寄居、穴居；ki'afala 用肩膀頂著。
 ②  插入、參與。如
@@ -10049,8 +10049,8 @@ kikkik
 kikkiksa(kikkik)
 (腳步聲)吧噠吧噠地嚮著。
     Kikkiksa ko honi noya kawas a ma'fer a milaliw.
-	妖怪飛著逃走時發出了吧噠吧噠的聲音。
-	
+    妖怪飛著逃走時發出了吧噠吧噠的聲音。
+    
 Kiko 
 部落名稱，今台灣花蓮縣壽豐鄉花蓮溪口村。
     Iraay ko widang no fafahi ako i Kiko.
@@ -10144,7 +10144,7 @@ kilidong(lidong)
 kilidongen(lidong)
 在躲避風雨，到某處避風雨吧。
     I kala'no no kilang kilidongen ko 'orad! 
-	在樹下避避雨吧！
+    在樹下避避雨吧！
 
 kilif
 規避，推託，隱瞞。
@@ -10203,7 +10203,7 @@ kilomothan(kilomot)
 就把某某包圍、圍攻。
     Kilomothan to nangra koya tamdaw a mikidkid a pasadak patayra toya hongti.
     他們就馬上把那個人包圍起來，拉出去扭送到皇帝那兒。
-	
+    
 Kilong
 基隆市。[日語借詞]
     Mifuting kami i Kilong.
@@ -10231,7 +10231,7 @@ kimadacay(kimadac)
 kimaden(kimad)
 把(故事)講述、敘述。
     Kimaden no malitengay ko nga'ayay a tengilen a kimad. 
-	老人要講好聽的故事。
+    老人要講好聽的故事。
 
 kimaen(kaen)
 吃，吃飯。
@@ -10278,7 +10278,7 @@ kimiten(kimit)
 kimkim
 找、尋。
     Kimkim saan cingra a mikilim toya masidayay a payso ningra. 
-	他找遍他那遺失的錢。
+    他找遍他那遺失的錢。
 => kilim。
 
 kimkimen(kimkim)
@@ -10390,9 +10390,10 @@ kina
 ③  停靠某處。如
     kina'ayaw
     靠在前面。
-沝  動作行為的次數。如
+④  動作行為的次數。如
     kinacecay
-    (做)一次；kinalima(做)五次。
+    (做)一次；
+    kinalima(做)五次。
 
 kina'alol('alol)
 投河自盡。
@@ -10870,7 +10871,7 @@ kinatelelsa(telel)
 kinatolo(tolo)
 三次，三回，三遍。
     Kinatolo kako a pakayni tonini a lalan a romakat anini. 
-	今天我從這條路走三次。
+    今天我從這條路走三次。
 
 kinatoloay(tolo)
 ①  三次了。
@@ -11126,7 +11127,7 @@ Kirisiya
 希臘。[英語借詞]。
     Minanam kami to sowal no Kirisiya.
     我們學希臘文。
-	
+    
 Kiristo 
 耶穌基督。[日語借詞]。
     Ci Kiristo ko mitooran niyam.
@@ -12306,7 +12307,7 @@ kolas
 kolasen(kolas)
 把某作物間苗、除草了。
     Ano kolasen, cowa to kakidefet ko lengaw no lamlo. 
-	如果間苗，小米就長得不密了。
+    如果間苗，小米就長得不密了。
 
 kolayac
 拉滿弓弦。
@@ -12483,7 +12484,7 @@ komih
 komikili
 毛骨悚然的感覺。
     Romakat kami to to'emanay a lalan i komikili saan ko faloco'.
-	當我們走入陰暗處心裡感到毛骨悚然。
+    當我們走入陰暗處心裡感到毛骨悚然。
 => lingses。
 
 komimit(kimit)
@@ -12867,7 +12868,7 @@ korakoren(korakor)
 korakorsa(korakor)
 慢跑起來，快步著。
     Korakorsa to cingra a tayra i omah mi'neng toya capox. 
-	他慢跑著去田地裡看秧苗。
+    他慢跑著去田地裡看秧苗。
 
 koramet
 (用爪子等)抓、攫取。
@@ -12948,7 +12949,7 @@ koriyat
 (眉頭)皺起，隆起。
 => mikoriyat。
     koriyaten(koriyat) 
-	皺著眉頭。
+    皺著眉頭。
     Masipon cingra saka koriyaten ningra ko mata.
     他失敗了皺著眉頭。
 
@@ -12970,7 +12971,7 @@ korkoren(korkor)
 korkorhan(korkor)
 就把某物挖、掘起來。
     Korkorhan nangra to po'ot ko 'angongolay a refong.
-	他們用小刀挖出深深的洞來。
+    他們用小刀挖出深深的洞來。
 
 koror
 背，背部。

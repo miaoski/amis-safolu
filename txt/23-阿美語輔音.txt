@@ -641,7 +641,7 @@
 把…阻擋、擋住、攔住。
     'Aladen kora paliding ira !
     把他的那輛車攔住。
-	
+    
 'alafin
 久，長久。
     'Alafin caay ko mamafalic.
@@ -816,7 +816,7 @@
 竹竿的尖端。
     'Aliwaca no 'aol.
     竹子的尖端。
-	
+    
 'aliwacan
     竹竿的尖端部分。
 
@@ -826,7 +826,7 @@
     今天是假日。 
 => anopa'aliwacan
     假日。
-     Anopa'aliwacan i , o piilisinan .
+    Anopa'aliwacan i , o piilisinan .
     假日時，是豐年節。
 
 'aliwal
@@ -1771,11 +1771,11 @@ alasa'amamokomokotsa
     O 'a'afalangen kora kilang.
     要把那根木頭扛起來。。
     O maam ko 'a'afalangen ira?
-	他要扛什麼東西?
+    他要扛什麼東西?
 ②  要肩扛的(東西)
     O 'a'afalangen ira ?
     他要扛什麼東西。
-	
+    
 'a'afangen('afang)
 [疊 2]
 ①  要攙扶。
@@ -1811,18 +1811,18 @@ alasa'amamokomokotsa
 ②  指要砍伐的芒草杆。
     O 'a'afaten koni.
     這是要砍取的芒草杆。
-	
+    
 'a'afiliden('afilid) 
 [疊 2]
 ①  要抱起來，提起來，用一隻手臂提起重物。
     'A'afiliden niina ko safa.
     媽媽要去把妹妹抱起來。
     O cima ko 'a'afiliden iso?
-	你要把誰抱起來?
+    你要把誰抱起來?
 ②  指要抱起來的(對象)
     'a'afiliden iso ?
     你要把誰抱起來呢？
-	
+    
 'a'afinongen('afinong)
  [疊 2]
 ①  要採集椰子。
@@ -1863,7 +1863,7 @@ alasa'amamokomokotsa
 [疊 2]
 ①  要覆蓋、掩蓋。
     O 'a'afongen ira koya nipawalian a panay. 
-	他就要把曬著的稻子遮蓋起來。
+    他就要把曬著的稻子遮蓋起來。
 ②  指要覆蓋、掩蓋的(東西)。
     'A'afongen a panay.
     要遮蓋起來的稻子。
@@ -1893,7 +1893,7 @@ alasa'amamokomokotsa
     O 'a'alayen ira kora dofot.
     那個佩袋是他要肩挎的。
     O tatilidan ko 'a'alayen ako.
-	我要肩挎的是書包。
+    我要肩挎的是書包。
 ②  指要挎上的(背包)
     'a'alayen ako ?
     我要挎上的。
@@ -2226,7 +2226,7 @@ alasa'amamokomokotsa
     原野到處是蝸牛。
 ②  指要佈滿、充滿的(物件)
     O 'a'edefen a mipaloma to kilang koni a pala. 
-	這片荒地要全面造林。
+    這片荒地要全面造林。
 
 'a'edongen('edong)
 [疊 2]
@@ -2254,7 +2254,7 @@ alasa'amamokomokotsa
     他即將承包這項工程。
 ②  指要承包的(工程)
     O maan ko 'a'efawenira iso?
-	你要承包什麼工程?
+    你要承包什麼工程?
 
 'a'efecen('efec)
 [疊 2]
@@ -2307,7 +2307,7 @@ alasa'amamokomokotsa
     這小刀我用鈍了。。
 ②  指要磨損的(東西)
     'A'elocen a fokeloh.
-	要磨平的石頭。
+    要磨平的石頭。
 
 'a'emecen('emec)
 [疊 2]
@@ -3463,7 +3463,7 @@ arawien
 => mi'esol。
     Ma'esol ko ngiha iso aromadiw.
     你的歌聲傳得很遠。
-	
+    
 'esolen('esol)
 把…遠投、遠擲。
     'Esolen ako ko kotang.

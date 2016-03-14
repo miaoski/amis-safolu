@@ -6,8 +6,8 @@ ca
 ①  加在人名詞與親屬稱謂詞的前面，表示主格、多數。
     ca Panay.
     巴奈等。
-	ca ina 
-	母親們。
+    ca ina 
+    母親們。
 ②  表否定的副詞cowa 的簡縮形態。
 => cowa。
 
@@ -1034,8 +1034,8 @@ caco'isen(co'is)
 
 caco'nepen(co'nep)
 [疊 2]要浸水的，溺水的人。
-     Caco'nepen i nanom ko kilang.
-     將木材泡在水裡。
+    Caco'nepen i nanom ko kilang.
+    將木材泡在水裡。
 => renem.
 
 caco^eco^eco(co^eco)
@@ -1244,8 +1244,8 @@ caconaken(conak)
 
 cacongacongen(congacong)
 [疊 2]要催促的人或事，依賴別人生活的人。
-     Cacongacongen a tayal.
-     要趕緊做的事。
+    Cacongacongen a tayal.
+    要趕緊做的事。
 => coracor。
 
 cacongdisen(congdis)
@@ -1280,7 +1280,7 @@ cacoodisen(coodis)
 cacooen(coo)
 [疊 2]女子到男方家同居。
     Ci Cangrah ko cacooen ni Sako. 
-	Sako(女)與 Cangrah(男)的家同居。
+    Sako(女)與 Cangrah(男)的家同居。
 
 cacoor(coor)
 [疊 2]要告別的，辭行的人。
@@ -1555,7 +1555,7 @@ ca'edonghan(ca'edong)
 ①  就把衣服穿上。
 ②  就把車、犁等套上。
     Si^enaway ko romi'ad, ca'edonghan a ma^emin ko safohkan iso. 
-	天氣冷了，把你該穿的裝備都穿上。
+    天氣冷了，把你該穿的裝備都穿上。
 
 caer
 障礙，妨礙。
@@ -1993,8 +1993,8 @@ cakodawsa(cakodaw)
 
 cakoden(cakod)
 把某目標跳過去，聳身一躍。
-     no lotong a macakat i kafekang no kilang. 
-	 猴子聳身一躍，爬到了樹上。
+    no lotong a macakat i kafekang no kilang. 
+    猴子聳身一躍，爬到了樹上。
 
 cakodsa(cakod)
 跳躍似地跑。
@@ -2409,7 +2409,7 @@ ca'ngeten(ca'nget)
 
 canghowa
 田岸，田埂。[閩南語借詞]
-     Pakayra i canghowa a romakat.
+    Pakayra i canghowa a romakat.
     要從田埂走。
 => lihi。
 => lako.
@@ -2586,8 +2586,8 @@ ca'owaw
 
 capa'
 分叉處，叉路，樹枝的分叉。
-     Capa' no kilang ko pica'itan.
-     在樹枝的分叉處掛東西。
+    Capa' no kilang ko pica'itan.
+    在樹枝的分叉處掛東西。
 => cipa'。
 => cacipa'。 
 
@@ -2735,8 +2735,8 @@ caripacpac
 
 carofacof
 霧，霧氣。
-     Ci carofacof to ko tokos.
-     山上起霧了。
+    Ci carofacof to ko tokos.
+    山上起霧了。
 => calofacof。
 => canem。
 
@@ -3334,7 +3334,7 @@ cepo'
 結束，結論。
     Cepo' no sowal.
     演講的結論。
-	
+    
 Cepo' 
 地名，今花蓮縣豐濱鄉大港口部落。
 
@@ -3412,7 +3412,7 @@ ceroh
 部落名稱。今台灣花蓮縣玉里鎮春日部落。
     Makapah ko niyaro' no Ceroh.
     春日村很美。
-	
+    
 Ceroh 部落名稱。
 今花蓮縣玉里鎮春日部落。
 
@@ -3451,7 +3451,7 @@ cerosen(ceros)
 cerosen(ceros)
 用燒熱的石頭煮食物。
     Cerosen niyam to faedetay a fakeloh ko futing ato kalang. 
-	我們用燒熱的石頭煮魚和螃蟹。
+    我們用燒熱的石頭煮魚和螃蟹。
 
 cerossa(ceros)
 刺激人的異味噴射出來。
@@ -4529,7 +4529,7 @@ ciem
     O Kalingko ko ciem ako.
     我的親家母住花蓮。
 ②  噘嘴凝思的樣子。
-     Maciem cingra a misaharaharateng tonini a demak.
+    Maciem cingra a misaharaharateng tonini a demak.
     他常噘嘴凝思這件事。
 => maciem。
 
@@ -5335,7 +5335,7 @@ cikatopay(katop)
 ②  生長大葉山欖的地方。
     Mikilidong kita i cikatopay.
     我們在大葉山欖下乘涼。
-	
+    
 Cikatopay
 阿美族氏族名，居住東海岸的大港口，馬稼海、大俱來、石寧埔、白守蓮、蔴荖漏等部落。
 
@@ -5539,7 +5539,7 @@ cikoolay(kool)
 ②  出現腫塊的地方。
     Cikoolay ko salipa' ningra.
     他腳有腫塊。
-	
+    
 Cikor 
 地名。花蓮縣壽豐鄉蕃薯坑村。
 
@@ -5614,7 +5614,7 @@ cila^ed(la^ed)
 cila^eday(la^ed)
 ①  有間隔，有距離，隔開了。
     Oya loma' ako ato loma' ningra cila^day to 'alo. 
-	我家和他家隔著一條河。
+    我家和他家隔著一條河。
 ②  指有間隔的(對像)。
 
 cilacila(cila)
@@ -5695,7 +5695,7 @@ cilamit(lamit)
 有根，生根，長根。
     Cilamit ko kilang.
     樹有根。
-	
+    
 Cilamitay
 部落名稱。今台灣花蓮縣富里鄉豐南部落。
 
@@ -5730,7 +5730,7 @@ cilamokay(lamok)
 ②  指發熱、發燙的(砂石)。
     Romakat kami to cilamokay a lalan.
     我們走在發熱的路上。
-	
+    
 Cilangasan
 地區名稱，今台灣花蓮縣豐濱鄉境內的貓公山。
 
@@ -5786,7 +5786,7 @@ cilikes(likes)
 有蚊子，蚊子猖獗。
     Cilikes ko taliyok no fanaw.
     池子的週圍有蚊子。
-	
+    
 Cilikesay
 部落名稱，今台灣台東縣成功鎮麒麟地區。
     O kasofocan ako ko Cilikesay a niyaro'.
@@ -6073,7 +6073,7 @@ cinanengay(naneng)
 ②  指有智慧的人，智者。
     Cinanengay a tamdaw ko kakitaan niyam.
     我們的村長是有智者。
-	
+    
 Cinang 
 部落名稱，今台灣花蓮縣壽豐鄉池南部落。
 
@@ -6177,7 +6177,7 @@ cingalayay(ngalay)
 ②  流口水的人。
     Cingalayay kona mato'asay a mitamako.
     這老人抽煙時流口水。
-	
+    
 Cingaloan
 部落名稱，今台灣花蓮縣鳳林鎮鳳信村。
 
@@ -6548,7 +6548,7 @@ cipaxar(paxar)
 有臀疣。
     Cipaxaray ko hemot no lotong.
     猴子的屁股有臀疣。有臀疣的(猴子)。
-	
+    
 Cipawkan 
 部落名稱，今花蓮市德安里。
 
@@ -7552,7 +7552,7 @@ ciwawa(wawa)
 ciwawaay(wawa)
 ①  有孩子的。
     Ciwawaay ci Panay.
-	Panay有孩子了。
+    Panay有孩子了。
 ②  生利息的。
     Ciwawaay to adihayay kiyam.
     貸款的利息很高。
@@ -7593,7 +7593,7 @@ ciwidi(widi)
 有水蛭。
     Ciwidi kona omah.
     這塊田有水蛭。
-	
+    
 Ciwidian
 ①  部落名稱，今台灣花蓮縣壽豐鄉水璉村。
     Mikadafo kako i Ciwidian.
@@ -8020,7 +8020,7 @@ cenon
     Macenon cingra a malasang.
     他不想再酒醉了。
 => macnon。
-	
+    
 Co 台灣鄒族，鄒人(古稱曹族)。
     O Co a fidacadan cingra.
     他是鄒族。
@@ -8156,7 +8156,7 @@ co'isen(co'is)
 co'issa(co'is)
 顛倒著，倒立著，倒映著。
     Co'issa a manengneng ko 'adingo ningra i fanaw. 
-	他的身影倒映在湖面上。
+    他的身影倒映在湖面上。
 
 co'iyal
 一蹬腿就死。

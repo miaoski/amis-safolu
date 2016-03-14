@@ -41,7 +41,7 @@ wacay
 wacay no pilifet to sowal
 [合成語]語言認證。
     Pakalifetay to ko wawa to wacay no pilifet to sowal. 
-	小孩子已經過語言認證考試。
+    小孩子已經過語言認證考試。
 
 wacayan(wacay)
 證據，證物。
@@ -405,12 +405,12 @@ wawa
 ①  孩子，晚輩。
     O wawa ako.
     我的孩子。
-	O a wawa. 
-	私生子。
+    O a wawa. 
+    私生子。
 ②  幼崽。
     Wawa no lotong.
     猴崽。
-	Wawa no ngafol.
+    Wawa no ngafol.
     鹿之子，獨生子。
 
 wawa'ilen(wa'il)
@@ -459,7 +459,7 @@ wawahihen(wahih)
     他要把我的電腦挪開。
 ②  指要推開、挪開的(東西)。
     Wawahihen　 a lipa. 
-	即將被挪開的箱子。
+    即將被挪開的箱子。
 => wawalihen。
 => wawaniken。
 
@@ -470,7 +470,7 @@ wawakeliden(wakelid)
     孩子要把那輛自行車推翻。
 ②  指要掀翻、推翻的(物件)。
     Wawakeliden a eto. 
-	即將被人掀翻的桌子。
+    即將被人掀翻的桌子。
 
 wawalawalen(walawal)
 [疊 2]
@@ -789,7 +789,7 @@ wiriwiri(wiri)
 wiriwirisa(wiri)
 [疊 1]身體呈搖擺的狀態。
     Wiriwirisa kora malasangay a malitengay a romakat. 
-	那些喝醉的老人走路搖搖晃晃的。
+    那些喝醉的老人走路搖搖晃晃的。
 => warawarasa。
 
 wisawisan
@@ -935,7 +935,7 @@ yamayamsa(yamayam)
 火勢熊熊的樣子，火勢呈旺盛的狀態。
     Yamayamsa ko iloh no lotok, caay ko mamapadeng.
     山火熊熊，難以撲滅。
-	
+    
 Yami 
 臺灣原住民族之一。雅美族。自稱Tawo(達悟)。
 
@@ -1036,7 +1036,7 @@ yofen(yof)
 把…吹拂。
     Yofen ko lamal nga' caka padeng.
     柴火要吹才不會熄滅。
-	
+    
 yofing 
 郵局，郵差。[日語借詞]。
 

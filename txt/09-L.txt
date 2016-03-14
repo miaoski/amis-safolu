@@ -521,7 +521,7 @@ lahedawsa(lahedaw)
     沒興趣。
     Lahedawsa ko impic ako isawni.
     我的鉛筆剛才不翼而飛了。
-	Lahedawsa to ko nga'ayay matatodongay a mihecaan.
+    Lahedawsa to ko nga'ayay matatodongay a mihecaan.
     就這樣錯過了好的年頭。
 
 laheker
@@ -569,7 +569,7 @@ lahongti(hongti)
 lahoper(hoper)
 變成粉末，分解，崩潰。
     Sengel han i nanom ko 'ikay a sapaiyo lahoper sanay. 
-	把顆粒的藥放入水中就被分解。
+    把顆粒的藥放入水中就被分解。
 => malahoper。
 
 lahorac(horac)
@@ -595,7 +595,7 @@ lakacaw(kacaw)
 lakahemaw(kahemaw)
 變得份量很輕，變得輕鬆、容易。
     Malalada' cangra to 'inorong saka lakahemaw sato ko rakat nangra a minokay. 
-	他們分擔重量所以回去時就顯得輕鬆些。
+    他們分擔重量所以回去時就顯得輕鬆些。
 => malakahmaw。
 
 lakaka(kaka)
@@ -2936,10 +2936,10 @@ li(前綴)。主要表示：
     lifongoh
     斬頭，砍頭。li'ayam 捉鳥，掏鳥窩，受罰。
 ③  拔取，剔除(某物)。如lilamit 拔根；litingal 剔牙垢。
-沝 使用強制手段達到某種目的。如
+④  使用強制手段達到某種目的。如
     lineknek
     搖晃瓶子而後使裡面的污物沈澱下來。
-沀 分割。如 litosa 二分之一。
+⑤  分割。如 litosa 二分之一。
 
 li'an
 (數量詞)。一百，百。
@@ -3159,7 +3159,7 @@ liflifen(liflif)
 把某某隱藏起來。Liﬂ
     ifen no wawa ko mali i kalinik no kafuti'an.
     小孩把球藏匿在床底下。
-	Liflifen ko wawa iso !
+    Liflifen ko wawa iso !
     把你的孩子藏起來吧！
 
 lifoh
@@ -4940,7 +4940,7 @@ lopini'
 (頭髮形狀)分開，分髮；分組，分類。
     Tosaen ko lonini.
     分兩組。
-	Maolah ko aniniay a kapah a milopini' to fokes. 
+    Maolah ko aniniay a kapah a milopini' to fokes. 
     現代年輕人喜歡把頭髮分髮。
 => ropini'。
 => malopini'。

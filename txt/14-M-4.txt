@@ -86,7 +86,7 @@ mipasadakay(sadak)
     孩子放鳥出去了。
 ②  指把東西弄出來或弄出去的(人)。
     Ci Papay ko mipasadakay to tikami. 
-	Papay(芭擺)是郵遞員。
+    Papay(芭擺)是郵遞員。
 
 mipasafon(safon)
 給肥皂，擦肥皂，抹肥皂。
@@ -186,7 +186,7 @@ mipasamo(pasamo)
     Hamaan a mipasamo!
     不要臨時應付！
     Mipasamo a pafeli to ma'mang a lifon. 
-	意思意思給一點工資。
+    意思意思給一點工資。
     Mipasamo to ma'mang a sowal.
     提供一點小意見。
 
@@ -260,7 +260,7 @@ mipasarayaray(rayaray)
 mipasarayarayan(rayaray)
 ①  把…排成隊了、排列成行了。
     Mipasarayarayan no kakitaan ko tamdaw no niyaro' niyam i ka'ayaw no sefi. 
-	頭目讓我們部落成員在會所前面排成排列了。
+    頭目讓我們部落成員在會所前面排成排列了。
 ②  指排列成一行一行的(對象)。
     Mipasarayarayan a kapah.
     被排隊的青年。
@@ -591,7 +591,7 @@ mipasifana'an(fana')
     Mipasifana'an niyam ko tapang to kakedalan niyam.
     我們向官員報告過我們所發生的旱情。
     Mipasifana'an no wama ato wina ko cimacima to demak. 
-	任何人都得到了父母傳授的知識。
+    任何人都得到了父母傳授的知識。
 ②  指報告的、傳授的(對象)。
     O mipasifana'an ita a kakeridan.
     我們所報告的領導。
@@ -974,7 +974,7 @@ mipata'ian(ta'i)
     我給菜施肥了，所以菜長得很好。
 ②  指施過肥的(對象)。 
     Mipata'ian a panay. 
-	施過肥的稻子。
+    施過肥的稻子。
 
 mipata'iay(ta'i)
 ①  正在施肥了。
@@ -1001,7 +1001,7 @@ mipata'isay(ta'is)
     母親在縫補弟弟的衣服了。
 ②  指縫補者，縫紉者。
     Ci Panay ko mipata'isay a sayxo.
-	Panay(巴奈)是縫紉師傅。
+    Panay(巴奈)是縫紉師傅。
 
 mipatada(tada)
 拿東西承接，鋪墊。
@@ -1292,7 +1292,7 @@ mipatalaomahay(omah)
     婦女送午飯到田裡了。
 ②  指送東西到田裡的人。
     Ci kaka ko mipatalaomahay to nananomen a ociya. 
-	是姐姐送茶水到田裡的。
+    是姐姐送茶水到田裡的。
 
 mipatalasekal(sekal)
 使之到岸上，送上岸。
@@ -1416,7 +1416,7 @@ mipatangasaan(tangasa)
     我把他送到家了。
 ②  指送到目的地的(對象)。
     O nima a wawa ko mipatangasaan iso i sitaw? 
-	你送誰的孩子到火車站呢？
+    你送誰的孩子到火車站呢？
 
 mipatangasaay(tangasa)
 ①  送到了。
@@ -1829,7 +1829,7 @@ mipatengilay(tengil)
     我讓我的孩子聽了。
 ②  指讓他人去聽的人。
     O wawa ko mipatengilay to pakimadan no faki. 
-	是孩子在聽爺爺講述的故事。
+    是孩子在聽爺爺講述的故事。
 
 mipatera'(tera')
 使之滴落、滴水。
@@ -2054,7 +2054,7 @@ mipatingkiay(tingki)
     我在註冊摩托車的車牌。
 ②  指權狀簽定者，登記者。
     O cima ko mipatingkiay to sapaliwal a maamaan? 
-	誰在註冊出售的貨物？
+    誰在註冊出售的貨物？
 
 mipatingting(tingting)
 使之秤重量。
@@ -2077,7 +2077,7 @@ mipatingtingay(tingting)
     我在秤香蕉。
 ②  指秤東西的人。
     Ora taoki ko mipatingtingay to diyong ako. 
-	是那位老闆秤我的豬。
+    是那位老闆秤我的豬。
 
 mipatireng(tireng)
 樹立，建立，建造。
@@ -2122,7 +2122,7 @@ mipatiri'an(tiri')
 mipatiri'ay(tiri')
 ①  使之閱讀著、流覽著、查閱著、查看著。
     Mipatiri'ay ko singsi kamiyanan to tilid no sowal no 'Amis. 
-	老師正讓我們讀阿美語課本。
+    老師正讓我們讀阿美語課本。
 ②  指讓他人閱讀的、流覽的、查看的人。
     'Alomanay ko mipatiri'ay toni a tilid a tamdaw.
     這本書的讀者很多。
@@ -2479,7 +2479,7 @@ mipaxowaay(xowa)
 mipayakiyak(yakiyak)
 傳播小道消息，給別人說閒話。
     Ca kanga'ay a mipayakiyak to sowal no tao. 
-	給別人說閒話很不好。
+    給別人說閒話很不好。
 
 mipayakiyakan(yakiyak)
 ①  給傳播小道消息了、說閒話了。
@@ -2618,7 +2618,7 @@ mipececan(pecec)
     把木瓜擠壓成木瓜汁了。
 ②  指所擠壓的、壓扁的(對象)。
     O mipececan ko tapececan no kawti a mifawah ko fawahan. 
-	高鐵的車門是需按鈕才可開啟的。
+    高鐵的車門是需按鈕才可開啟的。
 
 mipececay(pecec)
 ①  擠壓著，壓扁了。
@@ -2888,7 +2888,7 @@ mipeli(peli)
 mipelian(peli)
 ①  把…踩踏了、踩倒了。
     Mipelian no efa ko mipalomaan niyam a 'emi a maemin. 
-	馬把我們種的麥子都踩倒了。
+    馬把我們種的麥子都踩倒了。
 ②  指所踩踏的、踩倒的(對象、地方)。
     Mipelian a rengos.
     被踩踏的草。
@@ -3308,7 +3308,7 @@ mipitawan(pitaw)
 ②  指用鋤頭所挖的(地方)。
     Mamatangay ko mipitawan niyam a omah.
     我們鋤耕的田地肥沃。
-	
+    
 mipitaway(pitaw)
 ①  正用鋤頭挖著，鋤耕著。
     Mipitaway canira to omah i tokos.
@@ -3756,7 +3756,7 @@ miporongan(porong)
 miporongay(porong)
 ①  正在編頭髮、打結了。
     Miporongay ci Panay to fokes ira. 
-	Panay 在編頭髮。
+    Panay 在編頭髮。
 ②  指打結子的或編草結子的人。
     Cinira ko miporongay to 'asisiw.
     是他在打稻草結。
@@ -3951,7 +3951,7 @@ mirahekadan(rahekad)
     山豬肉煮過了。
 ②  指所生火作飯的食物，蒸煮的(物件、東西)。
     O maan ko mirahekadan iso sapakaen to wawa iso han? 
-	你準備煮什麼給你的孩子吃呢？
+    你準備煮什麼給你的孩子吃呢？
 
 mirahekaday(rahekad)
 ①  正在蒸煮著，生火作飯了。
@@ -3974,7 +3974,7 @@ mirahidan(rahid)
     我們把水和電節省下來了。
 ②  指所節約的、節省的(物件、東西)。
     Pinaay ko mirahidan niyam a tingki to anini a folad? 
-	我們這個月節約多少電呢？
+    我們這個月節約多少電呢？
 
 mirahiday(rahid)
 ①  正在節約、節省了。
@@ -4141,7 +4141,7 @@ mirapotay(rapot)
     他正涉及著犯法的事。
 ②  指被牽連，涉及的(人)。
     O kako ko mirapotay to mararaway a demak. 
-	涉案的人是我。
+    涉案的人是我。
 
 miraradiw(radiw)
 [疊 1]唱唱歌，反復或不停地唱。
@@ -4268,7 +4268,7 @@ miratohay(ratoh)
 mirawis(rawis)
 伸手鉤取東西，伸手過去拿。
     Mirawis ko malonem to papah no kilang a komaen. 
-	鹿伸過去鉤取樹葉吃。
+    鹿伸過去鉤取樹葉吃。
 
 mirawisan(rawis)
 ①  把…鉤取了。
@@ -4664,7 +4664,7 @@ mirina'(rina')
 mirina'an(rina')
 ①  把…印刷了、出版了。
     Mirina'an to ko《fangcalay codad》.
-	《新約聖經》已經出版了。
+    《新約聖經》已經出版了。
 ②  指所印刷的、出版的(書籍、讀物)。
     Mirina'an a tilid.
     所出版的書。
@@ -4672,7 +4672,7 @@ mirina'an(rina')
 mirina'ay(rina')
 ①  正在印刷、出版了。
     Mirina'ay kami to《o codad no 'Amis》. 
-	我們在印刷《阿美語課本》。
+    我們在印刷《阿美語課本》。
 ②  指印刷者，出版者。
     Mirina'ay a koli.
     印刷工人。
@@ -5524,7 +5524,7 @@ misa'akawangay('akawang)
     我們在弄高前後牆。
 ②  指拔高者，把某物弄高的、增高的(人)。
     Ora maapaay ko misa'akawangay a capox a tamdaw. 
-	揠苗助長的是那個傻瓜。
+    揠苗助長的是那個傻瓜。
 
 misa'alangad('alangad)
 做飯團、便當。
@@ -5705,7 +5705,7 @@ misa'apacangay('apacang)
     他馬馬虎虎地犁地了。
 ②  指做事馬虎、草率的人。
     Ci Opay ko misa'apacangay a tamdaw. 
-	Opay 是馬虎草率的人。
+    Opay 是馬虎草率的人。
 
 misa'apelad('apelad)
 做成團塊、一塊。
@@ -5852,7 +5852,7 @@ misa'ayamay('ayam)
     我在殺公雞了。
 ②  指殺鳥者、殺雞者。
     O cima ko misa'ayamay to tawinaan a koko' ako? 
-	是誰殺我的母雞呢？
+    是誰殺我的母雞呢？
 
 misa'edah(sa'edah)
 放輕，弄輕，減輕。
@@ -5962,7 +5962,7 @@ misa'epahay('epah)
 misa'et(sa'et)
 去阻止、去塞住。
 => miso^ot。
-	Misa'et to ofang no lesa'.
+    Misa'et to ofang no lesa'.
     塞住漏水口。
 
 misa'icel('icel)
@@ -6794,7 +6794,7 @@ misacingacinga(cinga)
     Mimaan kiso a misacingacinga?
     你為什麼東張西望？
     Misacingacinga sa kami a mikilim to masidayay a wawa. 
-	我們東張西望著尋找迷失的小孩。
+    我們東張西望著尋找迷失的小孩。
 
 misacingacingaan(cinga)
 [疊 2]
@@ -6967,7 +6967,7 @@ misadawdawan(dawdaw)
     我把燈具做出來了。
 ②  指所製造的燈具、照明物。
     Ca katada 'akawang ko misadawdawan ira. 
-	他做的燈具不太高。
+    他做的燈具不太高。
 
 misadawdaway(dawdaw)
 ①  在製造燈具、照明物了。
@@ -7915,7 +7915,7 @@ misafelifelinay(felin)
     我輾轉反側睡不好。
 ②  指翻來覆去者，輾轉反側者。
     O ci faki ko misafelifelinay a tamdaw i dadaya. 
-	昨夜是爺爺翻來覆去的。
+    昨夜是爺爺翻來覆去的。
 
 misafi(safi)
 擲標槍，投擲長矛，投中。
@@ -8014,7 +8014,7 @@ misafita'oay(fita'o)
     我們在造水池。
 ②  指造小水池的人。
     Misafita'oay a tamdaw.
-	做水窪的人。
+    做水窪的人。
     
 misafiting(fiting)
 做耳飾，製造耳飾。
@@ -9765,7 +9765,7 @@ misakilikiliman(kilim)
     她假裝在屋外尋找自己的孩子。
 ②  假裝尋找的(對象)。
     O ci Papay ko misakilikiliman ako a tamdaw. 
-	Papay 是我假裝尋找的人。
+    Papay 是我假裝尋找的人。
 
 misakilikilimay(kilim)
 [疊 2]
@@ -9944,7 +9944,7 @@ misakodasingay(kodasing)
     我和弟弟在種花生了。
 ②  指種花生的人。
     Awaay ko misakodasingay a tamdaw i niyaro' naira. 
-	他們村沒有人種花生。
+    他們村沒有人種花生。
 
 misakodait(kodait)
 弄結實，牢固，加固。
@@ -10159,7 +10159,7 @@ misakolangay(kolang)
     我正在後面的菜園裡種芥菜。
 ②  指種芥菜或白菜的人。
     'Alomanay ko misakolangay a tamdaw i niyaro' niyam. 
-	我們村子裡種芥菜的人很多。
+    我們村子裡種芥菜的人很多。
 
 misakoli(koli)
 做工人，做搬運工，打工。
@@ -10943,7 +10943,7 @@ misalipaay(lipa)
     我的師傅在做箱子。
 ②  指做箱子的人。
     Ci Papay ko misalipaay a sayxo. 
-	Papay(芭擺)是做箱子的工匠。
+    Papay(芭擺)是做箱子的工匠。
 
 misalipaw(lipaw)
 暗中策劃，伺機行事。
@@ -11237,7 +11237,7 @@ misamaanan(maan)
     Misamaanan cinira tomangic?
     她為什麼哭了？
     Misamaanan a mitilid?
-	為何要讀書呢?
+    為何要讀書呢?
 
 misamaanay(maan)
 製造什麼東西了。
@@ -12922,7 +12922,7 @@ misaronoan(rono)
 misaronoay(rono)
 ①  正在挑食著，偏食著。
     Misaronoay ko safa ako to titi no diyong a komaen. 
-	我弟弟吃飯時挑食豬肉了。
+    我弟弟吃飯時挑食豬肉了。
 ②  指挑食者，偏食者。
     Cinira ko misaronoay to titi a wawa.
     他是挑食肉的孩子。
@@ -13170,7 +13170,7 @@ misasekaseka'an(seka')
 [疊 2]
 ①  曾經假裝休克、昏倒了；曾經常休克、昏倒。
     Pasowalen kako mana misasekaseka'an nora tamdaw isawni. 
-	告訴我那個人剛才是如何假裝休克的。
+    告訴我那個人剛才是如何假裝休克的。
 ②  指假裝休克、昏倒過的；經常休克、昏倒(地方)。
     Misasekaseka'an kora malitengay i paisingan.
     那位老人在醫院經常休克。
@@ -13390,7 +13390,7 @@ misasiwakawakalay(wakal)
     他把我們要做的工作都搞亂了。
 ②  指把東西搞得非常淩亂、一團糟的人。
     O cima ko misasiwakawakalay to pitilidan niyam? 
-	誰搞亂我們的教室呢？
+    誰搞亂我們的教室呢？
 
 misasiyor(siyor)
 改變方向，轉向。
@@ -14010,7 +14010,7 @@ misawicewicek(wicek)
 [疊 2]反復不停地掙扎、掙脫。
     Satawitawingsa misawicewicek ko wikol na futing a matating.
     被吊起來的魚不停地擺動著尾巴掙扎著。
-	
+    
 misawicewicekan(wicek)
 [疊 2]
 ①  反復不停地把…掙扎了。
@@ -15574,7 +15574,7 @@ mita'elifay(ta'elif)
 mita'elifay(ta'elif)
 ①  正在經過、通過了。
     Mita'elifay kora malonem i 'a'ayaw no loma' niyam. 
-	那隻鹿從我家前面走過了。
+    那隻鹿從我家前面走過了。
 ②  指經過者，越過者，通過者。
 
 mita'emod(ta'emod)
@@ -16175,7 +16175,7 @@ mitalakal(talakal)
 mitalakalan(talakal)
 ①  用套獸圈把…獵捕了，曾經使用套獸圈了。
     Mitalakalan no mi'adopay a tamdaw ko karomakatan no 'a'adopen a lalan. 
-	獵人特地在野獸必經之地設下套獸圈了。
+    獵人特地在野獸必經之地設下套獸圈了。
 ②  指使用套獸圈捕獵的(物件、地方)。
 
 mitalakalay(talakal)
@@ -17078,7 +17078,7 @@ miteli(teli)
     放衣服。
     Miteli to fakar i 'atol.
     放背筐石堤上。
-	
+    
 mitelian(teli)
 ①  把…放置了。
     Mitelian to ko riko' i lipa.
@@ -17482,7 +17482,7 @@ mitifacan(tifac)
 mitifacay(tifac)
 ①  超過了，勝出了。
     Mitifacay ci Lamelo takowanan. 
-	Lamelo(拉慕洛)比我突出了。
+    Lamelo(拉慕洛)比我突出了。
 ②  指超過者，勝出者。
 
 mitifek(tifek)
@@ -18495,7 +18495,7 @@ miwakelid(wakelid)
 miwakelidan(wakelid)
 ①  把…掀翻、壓碎了。
     Miwakelidan no ta'angayay a fokeloh ko talo'an ako. 
-	大石頭把我的田寮壓碎了。
+    大石頭把我的田寮壓碎了。
 ②  指掀翻的、壓碎的(物件、地方)。
 
 miwakeliday(wakelid)
@@ -18976,7 +18976,7 @@ mo'mo'
 手捏，揉，按摩。
 => mimo'mo'。
     Mo'mo' to hemay.
-	把糯米飯用手捏成飯團。
+    把糯米飯用手捏成飯團。
 => mo'emo'。
 
     
@@ -19308,7 +19308,7 @@ moliwi
 太陽偏西。
     Moliwi ko cidal.
     太陽偏西，黃昏時分。
-	
+    
 Moliyaw 
 部落名稱。今台灣台東縣池上鄉地區。
 
@@ -19653,9 +19653,9 @@ mowak
 mo
 前綴。主要表示自動意義的動作行為。
     mocedis. 
-	露牙，呲牙咧嘴。
-	modihal. 
-	(天色)發白，發亮，破曉。
+    露牙，呲牙咧嘴。
+    modihal. 
+    (天色)發白，發亮，破曉。
 
 mipakatesekan(tesek)
 ①  曾經把…刺中了，刺中過目標了。

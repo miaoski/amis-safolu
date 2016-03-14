@@ -14,31 +14,31 @@ ma
 (前綴)。主要表示：
 ①  受動，被動。
     mafali.
-	刮風。
-	matengil.
-	被聽見。
+    刮風。
+    matengil.
+    被聽見。
 ②  心理情態。
     ma'ilol.
-	想念。
-	mahemek.
-	高興，興奮。
+    想念。
+    mahemek.
+    高興，興奮。
 ③  發展，變化。
     (1)水、液態物溢出容器，撒落一地。
-	(2)容器接縫處密合度不夠或有洞液態物滲漏滿地之意。
+    (2)容器接縫處密合度不夠或有洞液態物滲漏滿地之意。
     marasras.
-	撒落下來。
+    撒落下來。
 ④  性質，狀態。
     makapah. 
-	漂亮。
+    漂亮。
     macedeng.
-	緩慢。
-	manaon.
-	馬太鞍用語。
+    緩慢。
+    manaon.
+    馬太鞍用語。
 五  形狀，距離。
     ma'akong.
     彎曲。
-	maraay.
-	遠，遙遠。
+    maraay.
+    遠，遙遠。
 
 ma'a'aca('aca)
 [疊 2]交易，貿易。
@@ -202,7 +202,7 @@ ma'afangay('afang)
 ma'afas('afas)
 被搶劫，被掠奪。
     Ma'afas no tao ko 'alangad ni Taroh. 
-	Taroh的飯糰被別人搶走。
+    Taroh的飯糰被別人搶走。
 
 ma'afasay('afas)
 ①  被搶劫了，被掠奪了。
@@ -925,7 +925,7 @@ ma'iringay('iring)
 ①  側著腦袋了，歪著頭。
 ②  指歪著頭的(對像)。
     Ma'iringay ko fongoh ni Lekal a maro'.
-	Lkal歪著頭坐著。
+    Lkal歪著頭坐著。
 
 ma'isa'is('isa'is)
 摩擦，搓擦，磨蹭。
@@ -1143,7 +1143,7 @@ ma'odangay('odang)
 ①  違法亂紀了，做出荒唐之事了。
 ②  指違法亂紀的(對像)。
     Ma'odangay kiso. 
-	你違法亂紀了。
+    你違法亂紀了。
     Ma'odangay a tamdaw.
     違法亂紀之人。
 
@@ -1316,7 +1316,7 @@ ma'oripay('orip)
 ①  有生命了，生長起來了，生活著。
 ②  指有生命的(對像)。
     Ma'oripay ko ciwciw. 
-	小雞活過來了。
+    小雞活過來了。
     O maan ko ma'oripay i faniyot?
     綠洲上生長什麼？
 
@@ -1819,7 +1819,7 @@ maamoot(amoot)
     這塊肉有霉味了。
     Matapokaw to koni a toron.
     這塊糯米餅發霉了。
-	
+    
 maamoot(amoot)
 發霉，有霉味。
 
@@ -2295,7 +2295,7 @@ macacinowas(cinowas)
 macacinowasay(cinowas)
 分手的，分開的，分離的。
     Macacinowasay to ci Hana aci Kolas.
-	Hana和 Kolas 已經分手了。
+    Hana和 Kolas 已經分手了。
 
 macaciwas(ciwas)
 [疊 2]彼此隔離、分離。
@@ -2393,7 +2393,7 @@ macacolicoliay(coli)
 [疊 2]
 ①  兩個群體、單位互相爭論。
     Macacolicoliay cangra.
-	他們在互相頂嘴、吵架了。
+    他們在互相頂嘴、吵架了。
 ②  指彼此吵架的群體成員。
 
 macacora'(cora')
@@ -2866,7 +2866,7 @@ macangalay(cangal)
 macangalen(cangal)
 感到不滿意、不滿足。
     Macangalen cingra cowaho ka adihay ko mialaan ningra. 
-	他感到數量太少，拿的還不夠多。
+    他感到數量太少，拿的還不夠多。
 
 macanger(canger)
 被卡住，阻塞，滯留。
@@ -2928,7 +2928,7 @@ macaraay(cara)
 macaroh(caroh)
 趕著去、急著去。
     Macaroh ko rakat ni kolas tayra i taipak. 
-	kolas先生趕著去台北。
+    kolas先生趕著去台北。
 
 macawang(cawang)
 開叉，呈開叉貌，水田的水叉口開了。
@@ -3277,7 +3277,7 @@ macemotay(cemot)
     Macemotay ako kaya kalang.
     那隻螃蟹被我鈎上來了。
     Miparoan i paetang ko macemotay a foting. 
-	鈎上來的魚放在桶裡。
+    鈎上來的魚放在桶裡。
 
 macengaw(cengaw)
 睜開眼睛，復活，活過來。
@@ -3847,7 +3847,7 @@ micoscos(coscos)
 催討，催促。
 => micoracor。
     Micoscos to tadah ci Sawmah. 
-	Sawmah先生去催討債錢。
+    Sawmah先生去催討債錢。
 
 micepa'(cepa')
 弄濕，浸泡。
@@ -4304,7 +4304,7 @@ madakaway(dakaw)
     你的自行車被我的朋友騎走了。
 ③  乘坐、騎的意思。
     Madakawdy to camalay(kasoling).
-	乘坐火車。
+    乘坐火車。
 
 madangoy(dangoy)
 游泳，被游泳。
@@ -5573,7 +5573,7 @@ mafelonay(felon)
 mafelot(felot)
 被拽下來，拉下來。
     Mafelot no nanom cingra tayra i 'angongolay a nanom. 
-	他被水拽到深水處。
+    他被水拽到深水處。
 
 mafelotay(felot)
 ①  被拽下來了，拉下來了。
@@ -6101,7 +6101,7 @@ mahalengaway(lengaw)
 ①  出芽了，發芽了，萌芽了。
 ②  指發芽、萌芽的(作物)。
     Mahalengaway ko mipalomaan niyam a sapal a ma^emin. 
-	我們種下的苗兒都發芽了。
+    我們種下的苗兒都發芽了。
 
 mahalhal(halhal)
 被期盼，盼來。
@@ -6870,7 +6870,7 @@ mahoniay(honi)
     Mahoniay ko kakeleng.
     雷打響了。
     Mahoniay to ko ci'acoﬂay. 
-	輪船鳴笛了。
+    輪船鳴笛了。
 
 mahopac(hopac)
 被搓、擦洗。
@@ -6941,7 +6941,7 @@ mailangay(ilang)
 mailil(ilil)
 埋怨，怨恨。
     Mailil kako a somowal tora tamdaw “aka to kapiliyaw a tayni !”sa. 
-	我對那個人埋怨道：“不要再來這裡了！
+    我對那個人埋怨道：“不要再來這裡了！
 
 maililay(ilil)
 ①  埋怨起來，怨恨起來。
@@ -7035,8 +7035,8 @@ maka
 ①  擁、具有許多。
     makahafay.
     豐收。
-	makaheci.
-	結果累累。
+    makaheci.
+    結果累累。
 ②  有某種突出相貌或生理特點。
     makafongoh.
     長大頭兒，有大腦袋。
@@ -7348,7 +7348,7 @@ makakanga'ayay(nga'ay)
 makakaolah(olah)
 [疊 2]相愛，相戀。
     Makakaolah ci Soda a ci Nikar.
-	Soda 和 Nikar 彼此相愛。
+    Soda 和 Nikar 彼此相愛。
 
 makakaolahay(olah)
 [疊 2]
@@ -7578,7 +7578,7 @@ makalat(kalat)
 ①  被咬。
     Makalat no 'oner ko o'o ningra.
     他的腿被蛇咬了。
-②	控告。
+②    控告。
 
 makalatay(kalat)
 ①  被咬了。
@@ -7881,7 +7881,7 @@ makapkap(kapkap)
 makapkap(kapkap)
 被摸索。
     Sato^emansa ko romi'ad , makapkap niyam ko lalan a minokay. 
-	天黑漆漆的，我們摸索道路回去。
+    天黑漆漆的，我們摸索道路回去。
     makapkap nira kako.
     我被他偷襲。
 
@@ -7989,7 +7989,7 @@ makatahefoday(tahefod)
 ②  指塵埃落滿、瀰漫的(對像)。
     Makatahefoday ko kadademakan.
     工地上塵土飛揚。
-	
+    
 Makatao 
 台灣平埔族群之一，屬 Siraya 族支系。
 
@@ -8144,7 +8144,7 @@ makefingay(kefing)
 ①  患痳疹了。
 ②  指痳疹患者。
     Makefingay ci Tipos. 
-	Tipos 患痳疹了。
+    Tipos 患痳疹了。
 
 makelikeling(keling)
 [疊 2]鈴鐺等物叮叮響了。
@@ -9375,8 +9375,8 @@ mala
 ①  變成，演變。
     malaso^eda.
     結冰，霜凍。
-	malaheci.
-	結果實，有成績。
+    malaheci.
+    結果實，有成績。
 ②  彼此建立某種關係。
     malawama.
     (此方與彼方是) 父子(女)關係。
@@ -9494,7 +9494,7 @@ mala'ayam('ayam)
 mala'ayamay('ayam)
 ①  變成鳥了。
     Mala'ayamay koya matokaay a tamdaw ko pakimad no faki. 
-	伯伯講人變鳥的故事，他說那個懶人變成鳥了。
+    伯伯講人變鳥的故事，他說那個懶人變成鳥了。
 
 mala'ayaw('ayaw)
 領頭，當先鋒。
@@ -10823,7 +10823,7 @@ malapeditay(lapedit)
 malapina'orip('orip)
 變成牲畜、牲口。
     O sowal no malitengay “oya tatiihay ko faloco' a tamdaw malapina'orip.” 
-	老人說：“那些心眼壞的人會變成動物。
+    老人說：“那些心眼壞的人會變成動物。
 
 malapina'oripay('orip)
 ①  變成牲畜、牲口了。
@@ -11151,7 +11151,7 @@ malawamaay(wama)
 ①  成為人父了，雙方是父子(女)關係了。
 ②  指有父子(女)關係的人。
     Malawamaay ci Arang aci Tali. 
-	Arang 和 Tali 是父女關係。
+    Arang 和 Tali 是父女關係。
 
 malawawa(wawa)
 變成孩子，演變為孩子。
@@ -11189,7 +11189,7 @@ malawinaay(wina)
 ①  成為人母了，雙方是母子(女)關係了。
 ②  指母子(女)關係的人。
     Malawinaay ci Ranam aci Lakaw.
-	Ranam 和 Lakaw 是母女關係。
+    Ranam 和 Lakaw 是母女關係。
 
 malaya'(laya')
 伸展兩臂，用兩臂測量。
@@ -11534,7 +11534,7 @@ maletohay(letoh)
 ②  指嚎叫的(對像)。
     Maletohay ko lokedaw i lotolotokan.
     豹子在山林裡嚎叫起來。
-	
+    
 mali 
 球，皮球。[日語借詞]。
 
@@ -11649,7 +11649,7 @@ maliflifay(liflif)
 malifok(lifok)
 被拾取，撿起來。
     Malifok na malitengay ko pa'eno no ciyak i tokos. 
-	那個老人在山上撿南瓜籽。
+    那個老人在山上撿南瓜籽。
 
 malifokay(lifok)
 ①  被拾取了，撿起來了。
@@ -12072,7 +12072,7 @@ malipowakay(powak)
 ②  指散架的(東西)。
     Malipowakay ko lofoc.
     袋子裂開了。
-	
+    
 Malir 
 溪名。今台灣花蓮境內的木瓜溪。
 
@@ -12216,7 +12216,7 @@ malitoday(litod)
 ②  指摘取的、收成的(穀物)。
     Malitoday ko lamelo.
     小米收成了。
-	Awa ko mimimiming aca malitoday a kakaenen.
+    Awa ko mimimiming aca malitoday a kakaenen.
     沒收成一點點糧食。
 
 malitoday
@@ -12659,7 +12659,7 @@ malonolay(lonol)
 ①  工作及時趕上、供上了。
 ②  指及時供應他人使用的(工作)。
     Malonolay no mi'anipay ko mikaraan niyam a omah. 
-	我們耙平的農田正供上插秧的人(插秧)。
+    我們耙平的農田正供上插秧的人(插秧)。
 
 malood(lood)
 被打敗，輸了。
@@ -13423,7 +13423,7 @@ mamoso'ay(moso')
 mamowad(mowad)
 被拱出來，冒出來。
     Mamowad to noya ta'angayay a futing cingra i riyal. 
-	他被大魚拱出海面了。
+    他被大魚拱出海面了。
 
 mamowaday(mowad)
 ①  被拱出來了，冒出來了。
@@ -13441,7 +13441,7 @@ mamowakay(mowak)
 ①  (從裡面)噴出來了，湧出來了。
 ②  指噴湧的(水)。 
     Mamowakay ko nemnem. 
-	泉水噴湧。
+    泉水噴湧。
 
 mana
 怎麼，為什麼，怎麼這樣。
@@ -13677,7 +13677,7 @@ manayatay(nayat)
 ②  指延長、延伸的(東西)。
     Manayatay ko romi'ad no lalood.
     夏季的白天長起來了。
-	
+    
 Mancelan 
 部落名稱。今台灣花蓮縣玉里鎮地區。
 
@@ -13874,8 +13874,8 @@ mangata(ngata)
 臨近，將近，靠近，差一點兒。
     Mangata to ko pikolasan to lamelo.
     小米除草間苗的季節快到了。
-	Mangata a matawal ako a m'aca ko paya no tosiya. 
-	我差點兒忘了買車票。
+    Mangata a matawal ako a m'aca ko paya no tosiya. 
+    我差點兒忘了買車票。
 
 mangataay(ngata)
 ①  臨近了，靠近了，差一點兒了。
@@ -14356,7 +14356,7 @@ manono'ay(nono')
 manonoh(nonoh)
 (遺棄物)被拾取、索取。
     Mana manonoh to mifalahan no tao a maamaan? 
-	別人不要的東西怎麼要回來了？
+    別人不要的東西怎麼要回來了？
 
 manonohay(nonoh)
 ①  (遺棄物)被拾取、索取了。
@@ -14624,13 +14624,13 @@ maota'ay(ota')
 ②  指嘔吐的(人)。
     Maota'ay ko adadaay a tamdaw.
     病人在嘔吐了。
-	
+    
 mapa-
 前加成分。主要表示使役動作行為的實現或完成。
     mapatireng.
     被樹立起來，當選。
-	mapakaen.
-	被餵食，被放牧。
+    mapakaen.
+    被餵食，被放牧。
     mapalolol.
     恢復原狀。
 
@@ -14711,7 +14711,7 @@ mapa'aliwacay('aliwac)
 ①  被放假了，準許放假了。
 ②  指獲準放假的(對像)。
     Toya pafilongan mapa'aliwacay ko matayalay a ma^emin. 
-	春節那天，工人都放假了。
+    春節那天，工人都放假了。
 
 mapa'alofo('alofo)
 送酬金，送紅包，行賄。
@@ -14900,7 +14900,7 @@ mapa^exiway(^exiw)
 ①  享用香火了，被供奉了。
 ②  指被供奉的(神明)。
     Mapa^exiway no 'Amis ko Malataw a kawas. 
-	Malataw 神享受著阿美人供奉的香火。
+    Malataw 神享受著阿美人供奉的香火。
 
 mapaadada(adada)
 被傳染而得病，染病。
