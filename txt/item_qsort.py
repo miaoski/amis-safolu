@@ -9,7 +9,7 @@ if __name__ == '__main__':
         item_dict = {}
         keys = []
         for i in items:
-            tmp = i.split('\n')[0].replace('\'', '').lower()
+            tmp = i.split('\n')[0].replace('\'', '').replace('^', '').lower()
             if "(" in tmp: 
                 tmp = tmp[:tmp.find("(")]
                 tmp = tmp.strip()
@@ -23,7 +23,7 @@ if __name__ == '__main__':
 
         for k in skeys:
             if k == "": continue
-            #print k
+            print k
             print item_dict[k]
             print ""
 
