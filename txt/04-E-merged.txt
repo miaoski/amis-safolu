@@ -1,3 +1,24 @@
+^eli'
+茅草。
+    O ^eli' ko fadahong no loma' niyam itiyaho.
+    過去我們家的屋頂是用茅草蓋的。
+
+^eli^eli'an(^eli' )
+[疊 2]茅草地，茅草園。
+    Kakahad ko 'eli'eli'an niyam.
+    我們的茅草園很廣。
+
+^eli'an(^eli' )
+①  茅草的種類
+②  指一束茅草。
+    Cecay a 'eli'an.
+    一束茅草。
+
+^eli'en(^eli' )
+把茅草割下來，去割茅草吧。
+    ^Eli'en ko omah.
+    把田裏的茅草割下來。
+
 e
 阿美語元音之一，屬元音，音值為[∂]。一般出現詞中音節，不作詞尾；作詞首時產生弱化，發音短促，並出現輕微的喉塞化。如 'efa(馬)讀如 'fa ，enem(六)讀如 'nem。
 
@@ -12,13 +33,6 @@ e
 煮熟，成熟。
 =>  cacak。
 =>  ma'ecak。
-
-'ecak('cak)
-成熟，煮熟。
-    'Ecaken a mitangtang ko futing.
-    魚要煮熟。
-=>  malohem。
-=>  ma'cak。
 
 'eced
 黑蜂。
@@ -41,12 +55,6 @@ e
 =>  ki'eciw。
 =>  mi'eciw。
 
-'eciw('ciw)
-(揚鞭發出的嚮聲)嗖地一聲。
-    'Eciw sa ko temela i kafekang.
-    子彈在上面嗖地一聲而過。
-=>  siw。
-
 'eciwen('eciw)
 請領唱吧！把…領唱。
     Ki'eciwen to a misatapang ko likuda.
@@ -56,9 +64,6 @@ e
 'eco
 擠佔，佔領他人的位置。
 =>  mi'eco。
-
-'eco('co)
-象。[日語借詞]
 
 'ecoen('eco)
 把…擠掉。
@@ -70,10 +75,6 @@ e
     Mi'edaw ko cikawasay.
     巫師作法。
 
-'edaw
-卜卦，算命，詛咒。
-=>  mi'edaw。
-
 'edawen('edaw)
 把…卜卦、算命、詛咒。
 
@@ -81,34 +82,15 @@ e
 關門，覆蓋，佈滿。
 =>  mi'edef。
 
-'edef('def)
-①  全面性的，散佈整個區域。
-    Ma'def no nanom ko niyaro' a manawnaw.
-    部落全部淹水。
-②  關門。
-    'Edefen ko fawahan.
-    要關門。 
-=>  mi'def。
-
 'edefen('def)
 要全部的。
     'Eedefen no nanom ko paenan no loma' iso a manawnaw.
     你家地板淹水了。
 
-'edefen('edef)
-把(門戶)關閉。
-    'Edefen ko sasingaran !
-    把你窗戶關閉吧！
-
 'edeng
 夠了。
     Ma'edeng to kako.
     我夠了。
-
-'edeng
-唯一，惟有，僅有。
-=>  'eto。
-=>  ma'edeng。
 
 'edeng ci
 (短語)。除了…之外，…之外。
@@ -121,15 +103,16 @@ e
     只有我一個人吸煙。
 =>  'etoan。
 
+'edengan 
+唯一的、僅有的(人、東西)。
+    O 'edengan cinira ko mafana'ay.
+    只有他知道。
+    O 'edengan kako ko mitamakoay.
+    只有我一個人吸煙。
+
 'edes
 嚴厲，兇悍，兇殘。
 =>  ma'edes。
-
-'edes('des)
-殘酷，凶悍，嚴酷。
-    Ma'des konini a waco.
-    這條狗很兇悍。
-=>  maedes。
 
 'edil
 光亮，閃耀；反照，反光。
@@ -138,22 +121,12 @@ e
 'edo
 鼠，老鼠。
 
-'edo('do)
-老鼠。
-    'Adihay ko 'edo i loma' namo.
-    你家有很多老鼠。
-
 'edoan('edo)
 鼠類。
 
 'edok
 穀子，種子。
 =>  'edox。
-
-'edok('dok)
-草莓果。
-    Talalotok ci ina ako a paloma to 'edok.
-    我媽去山上種草莓。
 
 'edokan('edok)
 穀子、種子的種類。
@@ -171,19 +144,10 @@ e
 穀子，種子。
 =>  'edok。
 
-'edox('dox)
-種子。
-    Icowaay a miala tona 'edox kiso?
-    你在哪裡拿這種子？
-
 'edoxan('dox)
 種子的種類。
     O maan ko 'edoxan iso?
     你的種子是哪一種？
-
-'edoxan('edox)
-穀子、種子的種類。
-=>  'edokan。
 
 'e'el
 自刎，自殺。
@@ -202,11 +166,6 @@ e
 'efaw
 包工，承包工。
 
-'efaw('efaw)
-承包工。
-    'Efaw saan kora wawa to tatayalen.
-    這小子認真承包工作。
-
 'efawen('efaw)
 把…承包、包工。
     'Efawen ko kamaomahan niyam !
@@ -216,13 +175,6 @@ e
 ①  阻止、禁止(他人說話) 纏頭。
 ②  用毛巾。
 =>  mi'efac。
-
-'efec('efec)
-①  阻止、禁止他人說話
-②  包頭。
-    'Efecen ningra ko tao.
-    他禁止別人說話。
-=>  mi'efec。
 
 'efecen('efec)
 ①  把…阻止、禁止。
@@ -249,20 +201,10 @@ e
 拋棄，遺棄，丟棄。
 =>  mi'efeng。
 
-'efeng('efeng)
-拋棄，丟掉。
-=>  falah。
-=>  mi'feng。
-
 'efengen('efeng)
 把…拋棄、遺棄、丟棄。
     'Efengen ko 'atang.
     把木屑扔掉。
-
-'efengen('efeng)
-把東西拋棄、丟掉。
-    'Efengen ako i tafalahan ko lakaw.
-    我把垃圾拋在垃圾場。
 
 'efer('efer)
 飛，飛翔，飛行。
@@ -285,15 +227,8 @@ e
 'efo
 點心，小吃。
 
-'efo
-①  (道德上)有污點，罪過。
-    Ci'efo kora tamdaw.
-    那人有污點
-②  難以勝任。
-    Caka 'efo kako to tatayalen.
-    我不能勝任工作。
-=>  'ilo。
-=>  ma'efo。
+'Efong
+部落名稱。今台灣花蓮縣瑞穗鄉瑞源村地區。
 
 'efong('fong)
 峽谷，深溝，窪地。
@@ -316,17 +251,6 @@ eika
 =>  ma'akik。
 =>  ma'ekak。
 
-'ekak
-詛咒。
-=>  mi'ekak。
-
-'ekak
-釀酒的酒母，酒糟，咒詛。
-    Misa'ekak ko ina ako.
-    我母親在做釀酒用的酒母。
-    O sapisa'epah ko 'ekak.
-    酒母是用來釀酒的。
-
 'ekaken('ekak)
 把…詛咒。
     Aka 'ekaken ko tao !
@@ -335,12 +259,6 @@ eika
 'eked
 另起爐竈，另立派系。
 =>  'iked、hiked。
-
-'eked('eked)
-分離出來，另建派系。
-    'Eked saan nani niyaro' niyam cangra.
-    他們由我部落分出來。
-=>  mi'eked。
 
 'ekeden('eked)
 把某些人分離出來，要另建派系。
@@ -388,21 +306,10 @@ eika
 自刎，自殺。
 =>  mi'elel。
 
-^eli'
-茅草。
-    O ^eli' ko fadahong no loma' niyam itiyaho.
-    過去我們家的屋頂是用茅草蓋的。
-
-^eli'an(^eli' )
-①  茅草的種類
-②  指一束茅草。
-    Cecay a 'eli'an.
-    一束茅草。
-
-^eli'en(^eli' )
-把茅草割下來，去割茅草吧。
-    ^Eli'en ko omah.
-    把田裏的茅草割下來。
+'elelen('elel)
+把…自刎、自殺，去自刎、自殺吧！
+    'Elelen ko pipatayay to tamdaw !
+    殺人犯被槍決！
 
 'elik('elik)
 踩，踩踏。
@@ -414,11 +321,6 @@ eika
 把某物踩了，踩踏了。
     'Eliken no mamo ko lamlo.
     祖母把小米踩踏著。
-
-^eli^eli'an(^eli' )
-[疊 2]茅草地，茅草園。
-    Kakahad ko 'eli'eli'an niyam.
-    我們的茅草園很廣。
 
 'elo'('elo')
 撒嬌，嬌聲嬌氣。
@@ -446,19 +348,9 @@ eika
 'emahay
 黃牛的叫聲。
 
-'emahay('mahay)
-黃牛。
-=>  fadakolong。
-
 'emamosa
 眼珠，瞳孔。
 =>  mamosa。
-
-'emamosa('mamosa)
-瞳孔。
-    Madocoh ko 'emamosa nora waco.
-    那隻狗的瞳孔出來了。
-=>  'amamosa。
 
 'emangic('mangic)
 懇求，哀求，苦苦要求。
@@ -475,23 +367,11 @@ eika
 夾住，剎住。
 =>  'imec。
 
-'emec('mec)
-用手掐、勒。
-    'Emec han ako koya posi.
-    我把那隻貓勒死。
-=>  'imec。
-=>  mi'mec。
-
 'emecen('emec)
 把…夾住、剎住。
     'Emecen ko li'el ira.
     把他的脖子夾住。
 =>  'imecen。
-
-'emecen('emec)
-把某人掐著、勒著。
-    'Emecen a mipatay.
-    掐死。
 
 'emek
 沈沒，淹水。
@@ -545,17 +425,9 @@ eika
 'emo
 碎米糝。
 
-'emo
-年糕。
-    Misa'emo i pafilongan.
-    過年時做年糕。
-
 'emod
 吞沒。
 =>  ma'emod。
-
-'emod
-牛胯股上的爛瘡。
 
 'emoy
 ①  常春藤
@@ -611,12 +483,6 @@ eika
 沈迷，被吸引住。
 =>  ma'enep。
 
-'enep
-留戀，沉迷，被吸引住。
-    'Enep saan ko Dipong to niyaro' niyam.
-    日本人很留戀我們的部落。
-=>  ma'enep。
-
 'engac
 ①  月桃
 ②  美人蕉
@@ -635,9 +501,6 @@ eika
     Pa'engeden ko sioy.
     鍋子要墊底。
 =>  lenged。
-
-'enged
-熱鍋的網架。
 
 'eng'eng
 砍到樹頭根。
@@ -659,10 +522,6 @@ eika
 =>  adeses。
 =>  ma'engiw。
 
-'engiw
-尖的聲響。
-=>  ma'engiw。
-
 'enip
 鼈，龜。
 
@@ -682,10 +541,6 @@ eika
 坨。
     'Enor no tingting.
     秤坨。
-
-'enor
-錨，船錨。
-=>  tenol.
 
 'epah
 酒。
@@ -721,7 +576,6 @@ eika
     'Epinen ako cingra.
     我一定要告發他。
 =>  a'epinen.
-    
 
 'epip
 笛子，口哨。
@@ -789,10 +643,6 @@ eika
     阿美人的打扮很講究的。
 =>  'eningray。
 
-'eres
-裝飾品。
-=>  'iray。
-
 'eric
 鐵絲。
 
@@ -835,18 +685,10 @@ eika
 指正，指出，指導。
 =>  mi'eses。
 
-'es'es
-口哨、笛子。
-=> mi'es'es。
-=> ‘es'esen。
-
 'esesen('eses)
 當面把…指出、指正。
     'Esesen ko raraw ako !
     把我的錯誤指出來吧！
-
-'es'esen('es'es)
-把(口哨等)吹奏，吹口哨吧！
 
 'esing
 打噴嚏。
@@ -891,28 +733,13 @@ mi'so。
 'etip
 西，西方。
 
-'etip
-西，西方。
-    'Etip no loma' niyam o tokos.
-    我家西邊是山。
-=>  sa'etip.
-
 'eto
 只有，惟有，僅有。
 =>  'edeng。
 
-'eto
-桌子。[閩南語借詞]
-=>  cokowi。
-
 'etoan
 只有、惟有、僅有的(人、事等)。
 =>  'edengan。
-
-'etoan('eto)
-桌子的種類。
-    O maan a 'etoan koni?
-    這是哪一類桌子？
 
 'etol
 翹起來，撅起，勃起。
@@ -950,6 +777,9 @@ mi'so。
 'eyak
 噎住。
 =>  ma'eyak。
+
+'eyaken('eyak)
+把…噎住。
 
 'eyof
 改變主意、主張。
