@@ -9,20 +9,12 @@ reg = re.compile(pat)
 
 JSON = {}
 
-def ng(s):
-    res =  s.strip().replace('g', 'ng')
-    idx = res.find("(")
-    if idx!= -1:
-        res = res[:idx]
-    return res
-    #return s.strip()
-
 def ngtilde(s):
     import re
     from amis_stemmer import gnostic
     w1 = re.split(r"([\w:']+)", s.strip())
     w2 = map(gnostic, w1)
-    return ng(''.join(w2))
+    return ''.join(w2)
     #return re.sub(r'([\w\']+)', r'`\1~', ng(s))
 
 # 加入萌典前端使用的標記
@@ -89,7 +81,7 @@ def readdict(fn):
 
 
         if state is None:           # 詞
-            title = ng(l)
+            title = l
             definitions = []
             examples = []
             link = [] 
@@ -107,7 +99,13 @@ def readdict(fn):
             if idx!=-1:
                 tag = l[:idx+1]
                 l = l[idx+1:]
-            defi = l
+
+            if defi!="": # 有上一個def
+                defdic = mkdef(defi, examples, link)
+                if len(defdic) > 0:
+                    definitions.append(defdic)
+            
+            defi = l;
             state = 'd'
             continue
 
