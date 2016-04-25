@@ -87,6 +87,10 @@ def readdict(fn):
             state = None
             tag = None
             stem = None
+            definitions = []
+            examples = []
+            link = [] 
+            defi = "" 
             continue
         if l == '':             # 空白行
             continue
@@ -118,6 +122,8 @@ def readdict(fn):
                 defdic = mkdef(defi, examples, link)
                 if len(defdic) > 0:
                     definitions.append(defdic)
+                    examples = []
+                    link = [] 
             
             defi = l;
             state = 'd'
