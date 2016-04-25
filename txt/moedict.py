@@ -10,6 +10,7 @@ reg = re.compile(pat)
 JSON = {}
 
 def removeStems(s):
+    s = s.replace('。', '')         # Dirty
     idx = s.find("(")
     if idx!= -1:
         s = s[:idx]
