@@ -9,6 +9,13 @@ reg = re.compile(pat)
 
 JSON = {}
 
+def removeStems(s):
+    idx = s.find("(")
+    if idx!= -1:
+        s = s[:idx]
+    return s.strip()
+
+
 def ngtilde(s):
     import re
     from amis_stemmer import gnostic
@@ -16,6 +23,9 @@ def ngtilde(s):
     w2 = map(gnostic, w1)
     return ''.join(w2)
     #return re.sub(r'([\w\']+)', r'`\1~', ng(s))
+
+def synonyms(s):
+    return s.replace('。', '').strip()
 
 # 加入萌典前端使用的標記
 # \ufff9: 阿美語例句
@@ -43,7 +53,8 @@ def mkdef(defi, examples, link):
         examples = []
     defdic['def'] = addsplt(['', '', defi]) # workaround 
     if link:
-        defdic['synonyms'] = map(ngtilde, link)
+        defdic['synonyms'] = map(synonyms, link)
+        # defdic['synonyms'] = map(ngtilde, link)
     return defdic
 
 def readdict(fn):
@@ -83,7 +94,7 @@ def readdict(fn):
 
 
         if state is None:           # 詞
-            title = l
+            title = removeStems(l)
             definitions = []
             examples = []
             link = [] 
