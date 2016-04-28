@@ -69,8 +69,8 @@ ta^etaen(ta^eta)
     他一旦外出就把家上鎖。
 => ciker。
 
-ta…an 
-前後綴詞。主要表示：
+ta
+前後綴詞 (後綴接 -an)。主要表示：
 ①  放置的地方、場所。如米缸。
 ②  工具，器具。
     Tailangan.
@@ -3376,8 +3376,8 @@ tano
     tanocokor.
     惟有手杖。
     
-tano…sa 
-前後加綴詞。主要表示：
+tano
+前後加綴詞，後綴加 -sa。主要表示：
 ①  一直處於某行為的狀態之中。
     tanotangicsa.
     一直在哭泣。
@@ -10101,9 +10101,9 @@ topida'en(topida')
     Topida'en ira ko sota' i tatirengan ako.
     他把污泥濺在我身上。
     
-topidápida'han(topida') 
+topidapida'han(topida') 
 [疊 2]特地連吐口水把…唾棄。
-    Topidápida'han no tao ko laway ningra.
+    Topidapida'han no tao ko laway ningra.
     人往他臉上連吐唾沫。
 
 topin

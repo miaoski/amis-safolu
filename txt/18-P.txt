@@ -744,15 +744,15 @@ pa'orongay('orong)
 pa'orongen('orong)
 讓…扛東西；把…扛起來。
 
-pa…an 前後綴。主要表示使役動作、行為的時間或地點等。
+pa
+前後綴，後綴接 -an。主要表示使役動作、行為的時間或地點等。
     pa'aliwacan.
     假日，假期。
     pa'erican.
     電線，電杆，電話機。
     pananoman.
     水田，放水的地方。
-    
-pa…en 前後綴。主要表示請求實施使役性的動作、行為。
+前後綴，後綴接 -en。主要表示請求實施使役性的動作、行為。
     patairaen.
     讓(他) 去吧。
     pananomen.
@@ -14256,8 +14256,8 @@ pasa'opoen('opo)
     Pasa'opoen canira.
     把他們集合起來。
     
-pasa…an 
-前後綴。表示對形狀、重量、程度等的估計、推測。
+pasa
+前後綴，後綴接 -an。表示對形狀、重量、程度等的估計、推測。
     pasafaedetan.
     看樣子很熱。
     pasakaretengan.
@@ -19275,17 +19275,15 @@ pi'atipan('atip)
 夾籬笆的地方、時間。
 => pi'atepan。
 
-pi…an 
-前後綴。主要表示動作行為的地點或時間。
+pi
+前後綴，後綴接 -an。主要表示動作行為的地點或時間。
     Pinanoman.
     喝水地點、時間。
     Pi'adopan.
     狩獵的地點、時間。
     Pipakaenan.
     餵食、飼養的地點、時間。
-    
-pi…an 
-前後綴。主要表示動作行為的地點或時間。
+前後綴，後綴接 -an。主要表示動作行為的地點或時間。
     pinanoman
     喝水地點、時間。
 

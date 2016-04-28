@@ -28,7 +28,7 @@ la'afas('afas)
 雙方互相搶，彼此爭奪。
     La'afas to kakaenen ko pakoyoc a tamdaw.
     窮人爭食。
-mala'afas。
+=> mala'afas
 
 la'afo('afo)
 燒成灰燼，變成灰。
@@ -2345,7 +2345,7 @@ lataken(latak)
     Lataken ko omah.
     用平田器平田。
 
-latang。
+latang
 ①  (計量單位)斗、升。
     Palalenen ko latang a misorot to felac.
     取米時要公正的斗量。
@@ -3569,7 +3569,7 @@ lima
     Lima a kilang.
     五棵樹。
 
-limaay(lima)。
+limaay(lima)
 ②  有五個的。
 ①  有五個(物品)
     Limaay ko tilid.
@@ -4743,7 +4743,7 @@ lomidic
     Lomidic ko pakah no waco.
     狗的腰部長肉。
 
-lomidicay(lomidic)。
+lomidicay(lomidic)
 ①  上膘、長肉。
 ②  指上膘的(牲口)
     Lomidicay i ngoso' no siri.

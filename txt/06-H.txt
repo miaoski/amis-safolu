@@ -1041,7 +1041,7 @@ hahinamen(hinam)
     Awaay a matama no tayhin koya hahinamen a tamdaw. 
     警方沒找到要找的人。
 
-(hinefa)
+hinefa
 [疊 2]要俯臥或趴著，要趴下的東西。
     Hahinefaen niyam konini a sikar a misanga' to tosiya.
     這蓆子是我們趴下修車用的。
@@ -1258,7 +1258,7 @@ hakadafo(kadafo)
     Hakadafo namo kako,makahi kamo han?
     我決定做你們的媳婦，你們同意嗎？
 
-hakadafoay(kadafo)。
+hakadafoay(kadafo)
 ②  指準備做女
 ①  準備做女婿(媳婦) 婿(媳婦)的人。
     Hakadafoay niyam ci Masaw.
@@ -4002,7 +4002,7 @@ hinapec
     Hinapec kako to sowal ningra.
     我懷疑他的話。
 
-hinapecay(hinapec)。
+hinapecay(hinapec)
 ①  懷疑，猶豫。
 ②  指疑心的(人)
     Hinapecay a tamdaw.
@@ -4436,7 +4436,7 @@ ho
     pasla'ho cingra.
     他還在休息。
 
-Hoanya (平埔族)。
+Hoanya
 ②  洪雅語。
 ①  台灣洪雅族群
 

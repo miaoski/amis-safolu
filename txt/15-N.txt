@@ -183,18 +183,10 @@ nai
     從臺北來的。
     Naipi'adopan
     從獵場開始。
-
-nai… taha…
-(表示時間的起訖)。從…至…，從…到…。
     Nai liteng taha anini.
     從古到今。
-=> nani…taha…。
-
-nai…tala…
-(表示地點、場所的起訖)。從…至…，從…到…。
     Nai Posong tala Taypak.
     從台東到臺北。
-=> nani…tala …。
 
 naikoran(ikor)
 某動作、行為之後，所經歷的事情以後，事情發生後。
@@ -561,13 +553,12 @@ nani
 nani'ol
 小蝌蚪。
 
-nani…tala…
+nani
 表示地點、場所的起訖。從…至…，自從…到…。
     Nani loma niyam tala Taypak.
     從我們家到台北。
     Nani katimol tala ka'amis.
     從南方到北方。
-=> nai…tala…。
 
 nanicowa(cowa)
 從哪裡，從何處。
@@ -703,8 +694,6 @@ nano
     從我懂事那一天起。
     Nano ka'oripan no tamdaw awa ho matengil.
     聞所未聞。
-    
-nano…taha…
 表示時間的起訖。從…至…，自從…到…。
     Nano lalood taha tiposan.
     從春到冬
@@ -885,8 +874,8 @@ napi'acaan('aca)
 napi'is'isan('is'is)
 曾經理髮、剃頭的地方(時間)。
 
-napi…an 
-曾經經歷某動作、行為的場所或地點。如napikadafoan入贅過的人家。
+napi
+曾經經歷某動作、行為的場所或地點。如napikadafoan入贅過的人家。後綴加an。
 
 napialaan(ala)
 原來拿東西的地方、時間，曾經取物的地方、時間。
@@ -1244,9 +1233,9 @@ ni
     Pacing niwama.
     父親的漁槍。
 
-ni…an
-前綴。
-=> mi…an。
+ni
+前綴。後面加 -an
+=> mi
 
 nia
 指示代詞，領有格形態。這，這個，這些；這個的，這些的。

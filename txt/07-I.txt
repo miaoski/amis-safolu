@@ -1182,11 +1182,11 @@ ipi
 桃子，枇杷樹。
 => lopas、ipa。
 
-ipa。
+ipa
 桃子，枇杷樹。
 => ipi。
 
-ipa。
+ipa
 側邊。
     Ipaen ko piteli to 'ehong.
     把書本側放。

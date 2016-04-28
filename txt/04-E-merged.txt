@@ -698,7 +698,7 @@ eika
 教唆，唆使。
     Aka pihai to pi'eso no tao.
     不要被人教唆。
-mi'so。
+=> mi'so
 
 'esoen('eso)
 有意識去教唆、唆使他人。
@@ -707,9 +707,9 @@ mi'so。
 
 'esol
 遠投，遠擲。拋遠。
-=>  mi'esol。
     Ma'esol ko ngiha iso a romadiw.
     你的歌聲拋得很遠。
+=>  mi'esol。
 
 'esolen('esol)
 把…遠投、遠擲。

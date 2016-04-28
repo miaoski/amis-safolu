@@ -297,7 +297,7 @@ ka'emoh
     你刨的桌子很光滑。
 => da'emoh。
 
-ka'emohay(ka'emoh)。
+ka'emohay(ka'emoh)
 ①  光滑，平滑。
 ②  指光滑的(東西)
     Ka'emohay a fakeloh.
@@ -309,7 +309,7 @@ ka'enih
     Ka'enih kako.
     我便急。
 
-ka'enihay(ka'enih)。
+ka'enihay(ka'enih)
 ①  便急，大便。
 ②  指便急的(人)
     Ka'enihay ci kaka.
@@ -435,7 +435,7 @@ ka'eso'ay(ka'eso')
     O maan koni a ka'so'ay dateng?
     這好吃的(菜餚)是什麼？
 
-ka'soay(ka'so)。
+ka'soay(ka'so)
 ①  可口，好吃。
 ②  好吃的(食物)
     Ka'soay ko titi no kaciw.
@@ -806,7 +806,7 @@ kacdah
     pakaka ko kacdah noni a dateng.
     這個菜太辣。
 
-kacdahay(kacdah)。
+kacdahay(kacdah)
 ①  辣，有辣味。
 ②  指辣的(菜等)
     Kacdahay a dateng.
@@ -896,9 +896,9 @@ kaci'ekim('ekim)
 kaci'odihang('odihang)
 ①  回應的，有反嚮的。
 ②  (表促使、命令)請回應，請反嚮。
-lodihang。
     Kaci'odihang ko namo ano patapalen.
     呼叫你們時請回答
+=> lodihang
 
 kaci'orong('orong)
 ①  扛著的，肩扛的。
@@ -1639,7 +1639,7 @@ kacepi'(cepi')
     Ci kacepi' han no tao a pacimil cingra.
     別人取他的外號叫大腿。
 
-kacepi'ay(cepi')。
+kacepi'ay(cepi')
 ①  大腿粗壯。
 ②  指粗腿的(東西)
     Kacepi'ay a kafer.
@@ -1746,7 +1746,7 @@ kadahkat(dahkat)
     Kadahkat i cingraan !
     要對他寄托希望！
 
-kadakawan(dakaw)。
+kadakawan(dakaw)
 ①  車站。
 ②  乘載的地方(工具)
     Kadakawan a paliding.
@@ -2385,7 +2385,7 @@ kafuladan(fulad)
     Makapah ko pisalama i kafuladan.
     有月亮照射的夜晚真好玩。
 
-kafuti'(futi')。
+kafuti'(futi')
 ①  睡覺的。
 ②  (表促使、命令)
     Kafuti'ho namo isawni i , iraayto kako a tayni.
@@ -2482,7 +2482,7 @@ kahiceraan(hicera)
 Kaheciday
     部落名稱，今台灣台東縣成功鎮和平村。
 
-kaheciday(kahecid)。
+kaheciday(kahecid)
 ①  鹹。
 ②  指鹹的(食物)
     Kaheciday ko riyal.
@@ -4780,7 +4780,7 @@ kalasimed(simed)
     Kalasimed ko payrang to dafong.
     漢人喜歡收藏東西。
 
-kalasimeday(simed)。
+kalasimeday(simed)
 ① 指喜歡藏匿的
 ② 喜歡藏匿(東西) 人，收藏家。
     O kalasimeday a tamdaw cingra.
@@ -5242,8 +5242,8 @@ kalimsa(kalim)
     Kalimsa cingra to sakatayraaw i Padaka.
     他多麼期盼著去美國。
 
-Kalingko 地名。
-今台灣花蓮市。[日語借詞]
+Kalingko
+地名。今台灣花蓮市。[日語借詞]
 
 kalingsesan(lingses)
 令人厭惡的、惡心的(事情)。
@@ -6039,7 +6039,7 @@ kangawi'an(ngawi')
     Madoka' ko kangawi'an.
     嘴角受傷。
 
-kangayaw(ngayaw)。
+kangayaw(ngayaw)
 ①  征伐敵人的(狀況)
 ②  (表促使、命令)出征去吧，獵頭去吧。
     Kangayaw no mita anini.
@@ -6243,7 +6243,7 @@ kaniw
 Kaniw 
 卡紐，阿美族男性名。
 
-kanocoray。
+kanocoray
 ①  瑪瑙果，俗稱“紅子仔”蓮。
 ②  卵葉莢
 => kalocoday。
@@ -6574,7 +6574,7 @@ kapitamako(tamako)
     Kapitamako ho ako isawni.
     我剛抽過煙。
 
-kapitan。
+kapitan
 ②  血桐樹。
 ①  輕木塞(白塞木)
     Panokayen ko kapitan.
@@ -7120,7 +7120,7 @@ karangodoay(ngodo)
 karaori'(ori')
 愛撒嬌。
 
-karaori'ay(ori')。
+karaori'ay(ori')
 ①  愛撒嬌。
 ②  指經常撒嬌的(對象)
     Karaori'ay a wawa.
@@ -7459,7 +7459,7 @@ karaya'
     Karaya' ko fatac no tefos.
     甘蔗的節兒很長。
 
-karaya'ay(karaya')。
+karaya'ay(karaya')
 ①  長，長了。
 ②  指長的(東西)
     Karaya'ay a funus.
@@ -11882,10 +11882,9 @@ kodait
 
 kodaitay(kodait)
 ①  結實耐用，堅韌。
-②  指結實耐用的(東西)，堅韌不拔的(人)。O
-
-kodaitay a faloco' ko sapilaheci to
-tayal. 用堅定的心才能完成事業。
+②  指結實耐用的(東西)，堅韌不拔的(人)。
+    O kodaitay a faloco' ko sapilaheci to tayal.
+	用堅定的心才能完成事業。
 
 kodasing
 花生，也指土豆。
@@ -12260,7 +12259,7 @@ kolafaw
     卑南族喜歡吃田鼠。
 => kalafaw。
 
-kolah。
+kolah
 ①  麻織男式長外衣。
 ②  褐色(毛)
     Ciriko' to kolah ko kapah a masa'opo i sefi.
@@ -12492,7 +12491,7 @@ komimit(kimit)
     Komimit to tangila.
     捏耳朵。
 
-komimitay(kimit)。
+komimitay(kimit)
 ②  指捏的人。
 ①  捏(臉頰、皮膚等)
     Komimitay kora wawa.

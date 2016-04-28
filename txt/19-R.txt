@@ -447,8 +447,7 @@ rarahkaden(rahkad)
 [疊 2]
 ①  要蒸煮。
     O rarahkaden ako ko titi no kolong.
-    我要去煮牛肉。。
-    
+    我要去煮牛肉。
 ②  指要蒸煮的(東西) 
     Rarahkaden a toron. 
 	要下蒸的糯米糕。
@@ -1444,7 +1443,8 @@ rekad
     Tolo a rekad ko tatayni a tamdaw anini.
     今天要來三個團體。
 	
-Rekat 部落名稱。今台東縣鹿野鄉永安部落。
+Rekat
+部落名稱。今台東縣鹿野鄉永安部落。
 
 rekec
 結實，變硬。
@@ -1482,7 +1482,8 @@ remo'
 年糕，米糕。
 => 'emo'。
 
-Remot 部落名稱。今花蓮縣瑞穗鄉地區。
+Remot
+部落名稱。今花蓮縣瑞穗鄉地區。
 
 renac
 磨刀。
@@ -1834,7 +1835,8 @@ rinafo
 rinafo
 準備做花圃、菜圃的地。
 
-Rinahem 部落名稱。今臺灣花蓮縣新城鄉壽豐地區。
+Rinahem
+部落名稱。今臺灣花蓮縣新城鄉壽豐地區。
 
 rinahem
 小米飯。
@@ -1946,7 +1948,8 @@ riparipen(riparip)
 把…塗抹、沾抹。
 => roparopen。
     
-Ripon 日本，日本國。[日語借詞]
+Ripon
+日本，日本國。[日語借詞]
 => Dipon。
 
 ri'ang
@@ -2212,7 +2215,8 @@ rokawiten(kawit)
     Rokawiten ira ko riko' iso.
     他把你的衣服鈎住。
 	
-Rokay 臺灣原住民族之一。魯凱族，魯凱人。
+Rokay
+臺灣原住民族之一。魯凱族，魯凱人。
 
 rokic
 撒嬌刁難，為難。

@@ -3413,7 +3413,8 @@ ceroh
     Makapah ko niyaro' no Ceroh.
     春日村很美。
     
-Ceroh 部落名稱。
+Ceroh
+部落名稱。
 今花蓮縣玉里鎮春日部落。
 
 ceroh
@@ -5117,7 +5118,8 @@ cikaciken(cikacik)
     Pala cikaciken koni a kilang i riyal.
     讓這塊木頭漂浮海上。
 
-Cikadaan 部落名稱。
+Cikadaan
+部落名稱。
 今台灣台東縣長濱鄉南溪部落地區。
 
 cikadafo(kadafo)
@@ -7631,7 +7633,8 @@ ciwkeng
 水缸。[閩南語借詞]。
 => ﬂalonan。
 
-Ciwlo 教會長老。[日語借詞]。
+Ciwlo
+教會長老。[日語借詞]。
     O Ciwlo no Falangaw Kiwkay ko fafahi ako.
     我太太是馬蘭教會的長老。
     Ciwlokiwkay
@@ -8021,7 +8024,8 @@ cenon
     他不想再酒醉了。
 => macnon。
     
-Co 台灣鄒族，鄒人(古稱曹族)。
+Co
+台灣鄒族，鄒人(古稱曹族)。
     O Co a fidacadan cingra.
     他是鄒族。
 
