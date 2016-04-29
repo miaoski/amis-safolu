@@ -42,7 +42,7 @@ def mkword(title, definitions, tag):
         'tag': tag,
         'heteronyms': [{'definitions': definitions}]}
     if title in JSON:
-        print "Duplicated definition: " + title
+        print "Add heteronym: " + title
         JSON[title]['heteronyms'].append({'definitions': definitions})
     else:
         JSON[title] = word
