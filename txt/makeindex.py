@@ -41,8 +41,11 @@ for fn in glob.iglob('*.txt'):
             if title == '':
                 print 'Wrong!', l
             state = 't'
-INDEX.append(title)
+if title:
+    INDEX.append(title)
 
+INDEX = set(INDEX)                  # dedup
+INDEX = list(INDEX)
 f = codecs.open('index.json', mode='w', encoding='utf8')
 x = json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False)
 try:
