@@ -1842,8 +1842,7 @@ takor
 
 takora'
 田雞。
-=> takora'ay。
-=> takola'。
+=> takora'ay, takola'
 
 takora'ay no riyal
 (短語)。魷魚乾。
@@ -4381,12 +4380,15 @@ tata
     走吧，請去我那裡！
 => ata。
 
-tata' /ta' ta' 
+tata'
 用刀砍傷。
-=> mitata'。
-
-tata' /ta' ta' 
 興師問罪。
+=> mitata', ta'ta'
+
+ta'ta' 
+用刀砍傷。
+興師問罪。
+=> mitata', tata'
 
 tata'ak
 粗大，粗壯。
@@ -4443,10 +4445,13 @@ tata'edi'edipsa(ta'edip)
     Tata'edi'edipsa nani 'amis taha timol ko mihifalatay a tokos.
     重山疊巒南北橫臥。
     
-tata'en /ta'ta'en 
+tata'en
 把…砍傷。
     Tata'en no naliti' ko kamay ako.
     芒草割傷我的手。
+=> ta'ta'en
+
+ta'ta'en = tata'en
 
 tatafik
 鯊魚。
