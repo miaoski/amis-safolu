@@ -475,11 +475,8 @@ iingkay
 
 'i'irhan('i'ir)
 特地席地而坐吧。
-    'I'irhan ko kapah
-    
-
-nitengil to karomidiw(karomadiw)
-ira. 年輕人就席地而坐聽她唱歌。
+    'I'irhan ko kapah nitengil to karomidiw (karomadiw) ira.
+	年輕人就席地而坐聽她唱歌。
 
 'i'irsa('i'iir)
 呈蹲踞狀態、蹲踞著。
@@ -666,7 +663,7 @@ ilasolay(lasol)
     Ilasolay cingra a minokay.
     他已先回家。
 	
-'ilay 
+'ilay
     凝結成塊兒。
 => 'ikay。
 
@@ -892,9 +889,18 @@ impic
 in
 (中加綴)。一般插入詞根的開頭輔音之後，主要表示：動作行為的必然產物。
 經歷過某動作。作行為的對像。某動作行為經歷的特殊地方。
-pinaro 裝進去的東西，內裝的物品，內容，內涵。
-sinafel 煮炸過的食品。'inorong 肩挑的擔子，負荷。
-pina'orip 飼養的家禽家畜。tina'i 腸子。finariwan. 人工砍伐過的初墾地。
+	pinaro
+	裝進去的東西，內裝的物品，內容，內涵。
+	sinafel
+	煮炸過的食品。
+	'inorong
+	肩挑的擔子，負荷。
+	pina'orip
+	飼養的家禽家畜。
+	tina'i
+	腸子。
+	finariwan
+	人工砍伐過的初墾地。
 
 ina
 (對稱)媽媽。
@@ -1306,10 +1312,9 @@ iroma tini
 
 ironong
 擔子，重擔，負荷。
+	aka pakinalien to kaltengay a ironong cingra.
+	不要給他很重的擔子。
 => 'inorong。
-
-aka pakinalien to kaltengay a ironong
-cingra. 不要給他很重的擔子。
 
 'iros
 勺、匙。

@@ -1201,7 +1201,7 @@ saadihaysa(adihay)
     Saadihaysa to ko kakaenen ako.
     我的糧食越來越多了。
 
-saalaf'af(alaf 'af)
+saalaf'af(alaf'af)
 加溫、加熱。
 => misaalaf'af。
 
@@ -1602,11 +1602,8 @@ sacingacingasa(cinga)
 
 sacingacingasa(cinga)
 [疊 2]東張西望著、四周張望起來。
-    Sacingacingasa koya mi'adopay
-    
-
-a tamdaw to tatihitihi a mikilim to
-lotong. 獵人擡頭張望四周找猴子。
+    Sacingacingasa koya mi'adopay a tamdaw to tatihitihi a mikilim to lotong.
+	獵人擡頭張望四周找猴子。
 
 sacitosiya(citosiya)
 製造汽車。
@@ -2403,11 +2400,8 @@ safaloen(falo)
 
 safalokfoksa(falokfok)
 嘩啦啦地響起來。
-    Safalokfoksa
-    
-
-marokrok koya mifadisawan a
-nanom. 煮開的水嘩啦啦地沸騰著。
+    Safalokfoksa marokrok koya mifadisawan a nanom.
+	煮開的水嘩啦啦地沸騰著。
     Safalokfoksa ko tahatekoday to tilo a futing.
     撞進網裏的魚劈裏啪啦地響著。
 
@@ -6567,8 +6561,8 @@ sakaliekien(kalieki)
 
 sakaliekihan(kalieki)
 特地把…加速。
-    Ira ko tomay a milafa' i takowanan sakaliekihan ako a
-milaliw. 因有熊追趕著我，我就加速跑開。
+    Ira ko tomay a milafa' i takowanan sakaliekihan ako a milaliw.
+	因有熊追趕著我，我就加速跑開。
 => sakalikihan。
 
 sakaliekisa(kalieki)
@@ -21399,10 +21393,7 @@ sapipapi'araw('raw)
 
 sapipapi'arawaw('araw)
 想叫人去看、想派人參觀。
-
-sapipapi'arawaw no kakeridan
-
-    tamoanan.
+	sapipapi'arawaw no kakeridan tamoanan.
     領導想叫你們去看。
 
 sapipapero(papero)
@@ -27476,7 +27467,7 @@ sapisefetaw(sefet)
     Sapisefetaw ako to fokes no wawa.
     我想紮好孩子的頭髮。
 
-sapisefi'(sefi' )
+sapisefi'(sefi')
 投擲使用的器具。
     Sapisefi' a kotang.
     投槍。
@@ -30105,10 +30096,9 @@ sapitoperaw(toper)
     我想走近他家裡。
 
 sapitoris(toris)
-劃線、規劃壟溝使用的器具。O
-
-faketaw ko sapitoris no sayxo to
-kilang. 木匠用墨斗線在木頭上劃線條。
+劃線、規劃壟溝使用的器具。
+	O faketaw ko sapitoris no sayxo to kilang. 
+	木匠用墨斗線在木頭上劃線條。
 
 sapitorisaw(toris)
 想劃線、想規劃壟溝。
@@ -30870,11 +30860,8 @@ sararimasa(rarima)
 呈衰竭、軟弱無力、疲憊不堪的狀態。
     Sararimasa ko faloco' ako.
     我的心臟處於衰竭的樣子。
-    Sararimasa cingra
-    
-
-a midangoy pasitira toya mimingay a
-kitakit. 他非常吃力地遊向那個小島。
+    Sararimasa cingra a midangoy pasitira toya mimingay a kitakit. 
+	他非常吃力地遊向那個小島。
 
 sararimok(rarimok)
 有意識地加快節奏、緊張地做事。

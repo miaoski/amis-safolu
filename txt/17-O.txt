@@ -275,7 +275,7 @@ olahen(olah)
 'olalip
 一種樹的名稱。黑皮、有彈性、適宜製造套竿。
 
-'Olalip 
+'Olalip
 部落名稱。今台灣花蓮縣瑞穗鄉鶴岡村。
 
 'olalipen('olalip)
@@ -290,7 +290,7 @@ olatek
 過份，過量，超過限度。
 => maolatek。
 
-'Olaw 
+'Olaw
 部落名稱。今台灣花蓮縣瑞穗鄉鶴岡北村。
 
 'olaw

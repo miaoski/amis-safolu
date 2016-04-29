@@ -879,7 +879,7 @@ mi'emi'
 => mi'mi'。
 => mimi'emi'。
 
-mi'emi'en(mi 'emi')
+mi'emi'en(mi'emi')
 把…揉捏、按摩。
     Mi'emi'en no ising ko kolol ako.
     醫生要把我的背按摩一下。
@@ -2519,7 +2519,7 @@ micadok(cadok)
     Micadok to sapianip a sepal.
     平平的鏟取秧苗拿去插秧。
 
-micaeca' (caeca')
+micaeca'(caeca')
 燒烤，烤(食物)。
 
 micaeca'an(caeca')
@@ -2530,7 +2530,7 @@ micaeca'an(caeca')
     Micaeca'an a maymay.
     烤鴨。
 
-micaeca'ay( caeca')
+micaeca'ay(caeca')
 ①  在燒烤了。
 ②  指燒烤者，燒烤食物的人。
 
@@ -2613,7 +2613,7 @@ micaferay(cafer)
 ②  指順道探訪者。
 => micafelay。
 
-micafi' (cafi')
+micafi'(cafi')
 超越，超過。
     Micafi' kita caniraan.
     我們要超過他們。
@@ -2927,7 +2927,7 @@ micaliw(caliw)
     Micaliw to impic sapitilid.
     去借鉛筆來寫字。
 
-micaliwa' (caliwa')
+micaliwa'(caliwa')
 調劑。
 => micalina'。
 
@@ -3129,7 +3129,7 @@ micapetay(capet)
     Micapetay a tamdaw.
     接東西的人。
 
-micapo'( capo')
+micapo'(capo')
 一刀砍斷一根樹。
     Micapo' to hakasoy.
     一根根砍斷木柴。
@@ -3482,7 +3482,7 @@ micekerohan(cekeroh)
     O micekerohan ako a paliding koni.
     這是我所推動的車。
 
-micekroh (cekroh)
+micekroh(cekroh)
 去推開、要推動。
     Micekeroh to masamo'ay a tosya.
     去推故障的車子。
@@ -3497,7 +3497,7 @@ micekerohay(cekeroh)
     Micekerohay to paliding.
     推車的人。
 
-miceki' (ceki')
+miceki'(ceki')
 擊打；打火石。
     Miceki' to namal.
     敲擊打火石起火。
@@ -17504,7 +17504,7 @@ milmilen(milmil)
     Aka milmilen ko kamay ako!
     不要摸弄我的手！
     
-milmil 
+milmil
 撫摸，摸弄。
 => mimilmil。
 

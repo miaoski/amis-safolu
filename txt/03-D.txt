@@ -90,7 +90,7 @@ dadadimawen(dadimaw)
     O dadadimawen ako ko wina.
     我要照顧老媽。
 
-dadado'en(dado' )
+dadado'en(dado')
 [疊 2]要安慰、撫慰，要安慰的人。
     Dadado'en niyam koya mararomay a salikaka.
     我們要去安慰那憂傷的人。
@@ -102,7 +102,7 @@ dadadoyen(dadoy)
     要秤的稻穀。
 =>  tatingtingen。
 
-dadafo'en(dafo' )
+dadafo'en(dafo')
 [疊 2]要碾的稻穀，要去穀倉取稻穀。
     Dadafo'en a panay.
     要碾的稻穀。
@@ -204,7 +204,7 @@ dadapongen(dapong)
     要遮蓋孩子的腹部。
 =>  tahpo。
 
-dadasa'en(dasa' )
+dadasa'en(dasa')
 [疊 2]要奉祀、祭奠的(對象)。
     Dadasa'en a kawas.
     要祭祀的神明。
@@ -331,7 +331,7 @@ dadihdihen(dihdih)
     那孩子受傷的頭要撫摸安慰。
 =>  pohpoh。
 
-dadimata'en(dimata' )
+dadimata'en(dimata')
 [疊 2]要用肩挑的，要肩挑起來的貨物。
     Dadimata'en a 'inorong.
     要挑起來的擔子。
@@ -522,7 +522,7 @@ dadohingaen(dohinga)
     Dadohingaen a mitengil ko sowal no faki.
     要聆聽叔叔的話 .
 
-dadoka'en(dako' )
+dadoka'en(dako')
 [疊 2]即將被打傷，要被創傷的傷口。
     Icowaay ko dadoka'en a kolong?
     那頭牛要刺傷？
@@ -650,7 +650,7 @@ dafo'
     取穀物。
 =>  midafo'。
 
-dafo'en(dafo' )
+dafo'en(dafo')
 (去殼倉)把所需穀物取來。
     Dafo'en ako ko tatifeken a panay.
     我去把要杵的稻谷拿來。
@@ -917,7 +917,7 @@ damso'
 =>  marenec。
 =>  midamso'。
 
-damso'en(damso' )
+damso'en(damso')
 決心滿足他人的需要。
     Damso'en kako to pipadang nangra.
     我對他們的幫忙感到滿意。
@@ -959,7 +959,7 @@ danta'
     Danta' ko patay no wawa ningra.
     他的兒子瘁死。
 
-danta'ay(danta' )
+danta'ay(danta')
 罹難的，瘁死者。
     O danta'ay ko patay ningra.
     他是罹難而死。
@@ -974,12 +974,12 @@ da'ocen(da'oc)
     Tahada'oc ko kalaolah nangra.
     他們終其一生相愛。
 
-da'olaw( 'olaw)
+da'olaw('olaw)
 (廚房)燻黑。
     Da'olaw ko kofaw.
     廚房燻黑。
 
-da'olaway( 'olaw)
+da'olaway('olaw)
 ①  燻黑。
 ②  指燻黑的(東西)
     Da'olaway ko kofaw iso.
@@ -1058,7 +1058,7 @@ dapti
 dasa'
 舉行祭祀儀式。
 
-dasa'en(dasa' )
+dasa'en(dasa')
 要舉行祭祀儀式。
     Dasa'en ita anohatini !
     我們現在就舉行祭祀吧！
@@ -1163,7 +1163,7 @@ dawmi'
 =>  dawming。
 =>  'awming。
 
-dawmi'ay(dawmi' )
+dawmi'ay(dawmi')
 柔軟的，細軟的。
     Dawmi'ay a kamay.
     柔軟的手。
@@ -1482,12 +1482,12 @@ dimata'
     肩挑香茅草。
 =>  midimata'。
 
-dimata'en(dimata' )
+dimata'en(dimata')
 把擔子挑起來。
     Dimata'en ko kartengay a 'inorong !
     把重擔挑起來！
 
-dimata'han(dimata' )
+dimata'han(dimata')
 就把擔子挑起來。
     Dimata'han koya kiradom a mipanokay.
     於是把布挑回去了。
@@ -1667,7 +1667,7 @@ dita'
     Misalama to dita' ko ka'mangay.
     小孩們在玩粘土。
 
-dita'en(dita' )
+dita'en(dita')
 挖粘土，把粘土挖取。
     Dita'en ko satapid to ofang no kofaw.
     挖粘土補廚房牆壁的洞口。
@@ -1998,7 +1998,7 @@ doka'
     Maremes ko doka'.
     傷口流血。
 
-doka'en(doka' )
+doka'en(doka')
 要把…弄傷，創傷。
     Doka'en ko paenan o laliyawen a miamoto.
     把地板刨刮，要重新打水泥。

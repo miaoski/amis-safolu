@@ -504,13 +504,13 @@ aarayen
     'A'arien a talid.
     要打碎的瓶子。
 
-aaro'en(aro' )
+aaro'en(aro')
 [疊 2]
 要坐，要坐的位置。
     O aaro'en ako koni.
     這是我要坐的座位。
 
-aaro'sa(aro' )
+aaro'sa(aro')
 [疊 2]
 坐著，老坐著，一直坐著。
     Aaro'sa to cangra i salawacan no 'alo a makesem.
@@ -1332,7 +1332,7 @@ a'efeken('efek)
 ②  指要自殺的(對象)。
 => 'a'e'elen。
 
-aeli'en('eli' )
+aeli'en('eli')
 [疊 2]
     I omah na Kacaw ko a'eli'en.
     要割下來的茅草在卡兆先生的田裡。
@@ -1616,7 +1616,7 @@ afih
 抱，懷抱。
 => mi'afilid。
 
-'afilid 
+'afilid
 抱起來，一手抱起。
 => mi'afilid。
 
@@ -1628,7 +1628,7 @@ afih
 'afinong
 椰子，椰果。
 
-'afinong 
+'afinong
 椰子，椰果。
 
 'afinongan('afinong)
@@ -2079,12 +2079,12 @@ alaceficefis(cefis)
 => la'afa'afas。
 => micefis。
 
-alacefocefo'(cefo' )
+alacefocefo'(cefo')
 [疊 2]一個個爭相往下跳。
     Alacefocefo' ko wawa a midangoy.
     孩子一個個爭相往下跳水游泳。
 
-alacefocefo'sa(cefo' )
+alacefocefo'sa(cefo')
 [疊 1]於是一個個噗咚噗咚跳下水。
     Alacefocefo'sa ko takola' i nanom.
     青蛙一隻隻噗咚噗咚地跳下水。
@@ -2211,7 +2211,7 @@ alahan(ala)
     我就把架子下面的鹽取來了。
 => miala。
 
-ala'iri'iring (' iring)
+ala'iri'iring ('iring)
 [疊 2]一個個都斜著頭瞪眼。
 
 ala'iri'iringsa
@@ -2569,7 +2569,7 @@ aleni'
 => ka^nih。
 => ani'ih。
 
-aleni'ay(aleni' )
+aleni'ay(aleni')
 內急了，想大便了。
 => alenihay。
 => ka^nihay。
@@ -3022,7 +3022,7 @@ amanal
 => 'akonal。
 => 'anal。
 
-amanalay(am anal)
+amanalay(amanal)
 光禿禿的、寸草不長的。
     Amanalay a lotok.
     光禿禿的山。
@@ -3690,7 +3690,7 @@ anolatek
     Anolatek i, tayra i tokotokosan a mi'adop.
     有時上山打獵。
 
-anomamiheca(miheca )
+anomamiheca(miheca)
 明年。
     Mimaan kiso anomamiheca saw?
     明年你要做什麼(工作)呢？
@@ -3740,7 +3740,7 @@ anosamaan
     Anosamaan aca tanamen ita a milicay cangra.
     無論如何我們試著詢問他們。
 
-anosawni(sawni )
+anosawni(sawni)
 等一會兒、馬上、立刻。
     Ira to anosawni ci Kolas. Kolas
     馬上就來。
@@ -3759,7 +3759,7 @@ anta'
     Anta' ho ko titi.
     肉還沒有煮熟。
 
-anta'ay(anta' )
+anta'ay(anta')
 ①  生的，還沒有熟的。
     Aanta'ay koni a hemay.
     這個飯是生的。
@@ -3947,7 +3947,7 @@ apac
 菠蘿蜜。
 => facidol。
 
-'Apaloay 
+'Apaloay
 臺灣花蓮縣壽豐鄉月眉地區。
 
 'apaloay('apalo)
@@ -4013,7 +4013,7 @@ apek
     'Apelad no hemot.
     臀部。
 
-'apelad    
+'apelad
 ①  一塊(麵包等)
     Tosa a 'apelad ko 'epang.
     兩塊麵包。
@@ -4424,7 +4424,7 @@ arodaway(arodaw)
     Arodaway ko cengel no tosiya ako.
     我車子是黑色的。
 
-aro'en(aro' )
+aro'en(aro')
 ①  把位置坐了。
     Aro'en ako ko 'anengang ni Kacaw.
     我把卡照的椅子坐了。
@@ -4452,7 +4452,7 @@ aro'en(aro' )
 甲蟲的種類。
 => 'adadongacan。
 
-aro'sa(aro' )
+aro'sa(aro')
 坐著，坐下來。
     Aro'sa a caciyaw.
     坐著說話。
@@ -4545,7 +4545,7 @@ asipen(asip)
 'asiroan('asiro)
 柑橘的種類或有柑橘的地方。
 
-'Asiroay 
+'Asiroay
 部落名稱。今台灣台東市豐年地區。
 
 'asisiw

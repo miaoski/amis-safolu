@@ -1725,7 +1725,7 @@ hali'epah('epah)
     Hali'epah koni a ka'emangay.
     這個年輕人嗜酒。
 
-hali'epahay( 'epah)
+hali'epahay('epah)
 ①  愛喝酒的
 ②  愛喝酒的人。
     Hali'epahay ko faki ni Kacaw.

@@ -19528,7 +19528,7 @@ moretohay(retoh)
 ②  指安逸者，心平氣和的人。
 => morihaday。
 
-mori' 
+mori'
 蝸牛。
 
 moricen(moric)
@@ -19569,7 +19569,7 @@ morohoay(roho)
 moroken(morok)
 把…緊逼到角落裏、擠到角落裏。
 
-morok 
+morok
 緊逼到某一角落，逼到死角。
 => mimorok。
 

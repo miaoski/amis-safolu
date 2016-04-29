@@ -674,10 +674,10 @@ mapakakaay(kaka)
 ①  被誇獎或被推崇了。
 ②  指被誇獎或被推崇的(對像)。
 
-mapakaki'ayaw('ayaw ')
+mapakaki'ayaw('ayaw)
 能被超過或被搶先。
 
-mapakaki'ayaway('ayaw ')
+mapakaki'ayaway('ayaw)
 ①  能被超過或被搶先了。
 ②  指可能被超過或搶先的(對像)。
 

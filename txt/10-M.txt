@@ -397,7 +397,7 @@ ma'angaay('angaay)
     Aka pakasolin to maangaay a tamdaw.
     不要相信愛吹牛的人。
 
-ma 'angacngac( 'angacngac)
+ma'angacngac('angacngac)
 一絲不掛。
     Ma'angacngac kora wawa.
     那小孩沒穿衣服裸著身體。
@@ -411,7 +411,7 @@ ma'angangetay('anganget)
     Ma'angangetay a waco.
     捲毛狗。
 
-ma 'angat( 'angat)
+ma'angat('angat)
 剃光頭。
     Ma'angat ko malasafitay'ay.
     當兵的人要剃光頭。
@@ -464,15 +464,15 @@ ma'ansitay('ansit)
     Ma'ansitay ko tireng no siri.
     羊身上有煤油味兒。
 
-ma 'apacang( 'apacang)
+ma'apacang('apacang)
 做的事太馬虎、隨便。
 
-ma 'apacangay( 'apacang)
+ma'apacangay('apacang)
 馬虎的、隨便的。
     O ma'apacagay a demak caay ka nga'ay.
     馬虎的事不會成。
 
-ma 'apak( 'apak)
+ma'apak('apak)
 頭癬、瘡疤。
     Ma'apak to ko doka'.
     傷口已經結疤了。
@@ -493,7 +493,7 @@ ma'apid('apid)
     Ma'apid namo ko marafasay a kakaenen.
     剩下來的食物被你們貪吃了。
 
-ma 'apid( 'apid))
+ma'apid('apid)
 被搶去吃了，雙手拿著。。
     Ma'apid namo ko marafasay a kakaenen .
     剩下來的食物被你們貪吃了。
@@ -587,7 +587,7 @@ ma'ariay('ari)
     Ma'ariay ko dodoh to mafikoday no waco.
     竹筒被狗絆倒而破裂了。
 
-ma 'arokakot( 'arokakot)
+ma'arokakot('arokakot)
 捲縮著身體。
     Ma'arokakot kora tamdaw to si^naw.
     那個人因寒冷而捲縮著身體。
@@ -643,7 +643,7 @@ ma'atolay('atol)
 ①  用石頭砌成墻了。
 ②  被砌墻的(對像，地方)。
 
-ma 'atoray('atoray)
+ma'atoray('atoray)
 發生地震。
     Honihoni a ma'atoray ko Dipon.
     日本常常發生地震。
@@ -706,7 +706,7 @@ ma'engiw('engiw)
     Ma'engiw ko ngiha'.
     聲音刺耳。
 
-ma 'eyak('eyak)
+ma'eyak('eyak)
 食物或水進到氣管嗆到。
     Ma'eyak no nanom kako.
     我被水滄到喉嚨。
@@ -954,12 +954,12 @@ ma'isangay('isang)
 ①  感到厭煩了，不耐煩了。
 ②  指表現出不耐煩的(人)。
 
-ma 'iwil('iwil)
+ma'iwil('iwil)
 感到寂寞、孤獨、傷心。
     Ma'iwil kako toya sowal ningra .
     我對他的話感到傷心。
 
-ma 'iwilay('iwil)
+ma'iwilay('iwil)
 ①  感到寂寞了，傷心、孤獨的情緒了。
 ②  指感到寂寞的 ( 人 )。
     Ma'iwilay ci kaka a masacecay i Dowic .
@@ -1070,7 +1070,7 @@ ma'alol('alol)
 溺水，被激流沖走。
 => ma'elol。
 
-ma'em 'emay('em 'em)
+ma'em'emay('em'em)
 ①  忍受住，忍住了。
 ②  指被忍受、忍耐的(行為等)。
 
@@ -11535,7 +11535,7 @@ maletohay(letoh)
     Maletohay ko lokedaw i lotolotokan.
     豹子在山林裡嚎叫起來。
     
-mali 
+mali
 球，皮球。[日語借詞]。
 
 mali'akong('akong)
