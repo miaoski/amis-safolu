@@ -113,10 +113,10 @@ def readdict(fn):
             state = 'e' + state
         
         if state == 'd':            # 漢語定義
-            idx = l.find(']')       # 疊字
-            if idx!=-1:
-                tag = l[:idx+1]
-                l = l[idx+1:]
+            tag_r = re.search(ur'\[.+\]', l)    # [疊2] [日語借詞] 這類
+            if tag_r:
+                tag = l[tag_r.start():tag_r.end()]
+                l = l.replace(tag, '').replace('。。', '。')
 
             if defi!="": # 有上一個def
                 defdic = mkdef(defi, examples, link)
