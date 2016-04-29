@@ -21839,8 +21839,8 @@ piki'orad('ored)
 piki'oradan('orad)
 淋雨的地點、時間。
 
-piki…an 
-前後綴。主要表示從事、參與或施動等行為的地點、時間。
+piki
+前後綴，後綴接 -an。主要表示從事、參與或施動等行為的地點、時間。
     pikicidalan.
     曬太陽的地方，陽台。
 
@@ -23787,8 +23787,8 @@ pipa'orong('orong)
 pipa'orongan('orong)
 肩扛著搬運、運輸的地點、時間。
 
-pipa…an 
-前後綴。主要表示使役動作行為的地點、時間。
+pipa
+前後綴，後綴接 -an。主要表示使役動作行為的地點、時間。
     pipaisingan.
     看病的地點、時間。
     pipatayaan.
@@ -27050,8 +27050,8 @@ pisa'oradan('orad)
 pisa'aliwacan('aliwac)
 做釣魚竿的地方、時間。
 
-pisa…an 
-前後綴。主要表示動作行為的場所或時間。
+pisa
+前後綴，後綴接 -an。主要表示動作行為的場所或時間。
     pisaloma'an.
     蓋房子的地方、時間。
     pisa'opoan.
