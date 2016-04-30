@@ -20,34 +20,34 @@
 
 a
 阿美語元音之一，系展唇、後低舌面元音，音值為[a]，[a/a]等變體。a 元音處於音節開頭與收尾時，有輕微喉塞化，讀如['a]、[a']。用法如下：
-(1)前綴詞。一般表示人的數目或其他附加意義。aenem 六個人，aira 即將有，aikor 在後面。
-(2)連接詞。連接人名詞、人稱代詞主格形態，或者以指示代詞為修飾語的詞組，表示如、與、跟、以及等意義。
+前綴詞。一般表示人的數目或其他附加意義。aenem 六個人，aira 即將有，aikor 在後面。
+連接詞。連接人名詞、人稱代詞主格形態，或者以指示代詞為修飾語的詞組，表示如、與、跟、以及等意義。
     Ci Kacaw aci Panay. 
     Kacaw 和 Panay。
     Kako ato kiso.
     我與你。
     Ona faki atora mamo.
     這位爺爺和那位婆婆。
-(3)結構助詞。表示：
-①  修飾關係。
+結構助詞。表示：
+(1)修飾關係。
     Kilang a kayakay.
     木橋。
     Mi'adopay a tamdaw.
     獵人。
-②  並列關係。
+(2)並列關係。
     Ta'angayay a kohecalay.
     又大又白。
-③  連動關係。
+(3)連動關係。
     Talariyal a mifuting.
     去海上打魚。m 補充關係。
     Karetengay a tatoyen.
     提起來很重。
-(4)語氣助詞。放在動詞之後，並與之連讀，表示提醒對方警惕和提防即將出現的險情。
-    Akaka komaen, mawaraka(讀 mawaraka)！
+語氣助詞。放在動詞之後，並與之連讀，表示提醒對方警惕和提防即將出現的險情。
+    Akaka komaen, mawaraka!
     不要吃，會中毒的！ 
-    Mapolina(讀mapolina) kiso i a'aloan!
+    Mapolina kiso i a'aloan!
     小心啊，你要掉到河裡去啊！
-(5)感嘆詞。表示驚訝、驚奇、驚嘆。
+感嘆詞。表示驚訝、驚奇、驚嘆。
     A! cima ko matefaday saw?
     啊！誰掉下去了？
 
