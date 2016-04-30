@@ -121,7 +121,7 @@ def readdict(fn):
             state = 'e' + state
         
         if state == 'd':                        # 漢語定義
-            tag_r = re.search(ur'\[.+\]', l)    # [疊2] [日語借詞] 這類
+            tag_r = re.search(ur'(\[([^]]+詞|[^]]+語|疊[^]]*|[^]]+綴)\])', l)    # [疊2] [日語借詞] 這類
             if tag_r:
                 tag = l[tag_r.start():tag_r.end()]
                 l = l.replace(tag, '').replace(u'。。', u'。')

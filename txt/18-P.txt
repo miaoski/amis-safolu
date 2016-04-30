@@ -7484,7 +7484,7 @@ palatamdamdaway(tamdaw)
 ②  指培養他人成長、成人的人。
 
 palatamdamdawen(tamdaw)
-[ 疊 2 ] 把…培養成人。
+[疊 2 ] 把…培養成人。
     Palatamdamdawen no wama ato wina kami.
     父母把我們培養成人。
 
@@ -14450,7 +14450,7 @@ pasakeroen(kero)
     請小姐跳舞。
 
 pasakeropasakerohan(kero)
-[ 疊 1] 特地讓…跳舞。
+[疊 1] 特地讓…跳舞。
     Pasakeropasakerohan ako koya kapah.
     我特地請那些年輕人跳舞。
 
