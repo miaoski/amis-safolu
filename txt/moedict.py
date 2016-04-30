@@ -36,11 +36,14 @@ def addsplt(s):
     return u'\ufff9'+s[0].decode('utf8')+u'\ufffa'+s[1].decode('utf8')+u'\ufffb'+s[2].decode('utf8')
 
 
-def mkword(title, definitions, tag):
+def mkword(title, definitions, tag, stem):
     global JSON
     word = {'title': title, 
-        'tag': tag,
         'heteronyms': [{'definitions': definitions}]}
+    if tag:
+        word['tag'] = tag
+    if stem:
+        word['stem'] = stem
     if title in JSON:
         print "Add heteronym: " + title
         JSON[title]['heteronyms'].append({'definitions': definitions})
@@ -82,7 +85,7 @@ def readdict(fn):
             defdic = mkdef(defi, examples, link)
             if len(defdic) > 0:
                 definitions.append(defdic)
-            mkword(title, definitions, tag)
+            mkword(title, definitions, tag, stem)
             title = None
             state = None
             tag = None
@@ -99,6 +102,11 @@ def readdict(fn):
 
 
         if state is None:                       # 詞
+            stem_r = re.search(ur'\(.+\)', l)
+            if stem_r:
+                stem = l[stem_r.start() + 1:stem_r.end() - 1]
+            else:
+                stem = ''
             title = removeStems(l)
             definitions = []
             examples = []
@@ -147,7 +155,7 @@ def readdict(fn):
         defdic = mkdef(defi, examples, link )
         if len(defdic) > 0:
             definitions.append(defdic)
-        mkword(title, definitions, tag)
+        mkword(title, definitions, tag, stem)
     fp.close()
     print 'Total %d words in %s' % (num_words, fn)
 
