@@ -4,15 +4,10 @@
 import glob
 import codecs
 import json
+from moedict import removeStems, getStem
 
 INDEX = []
-
-def strip_brakets(s):
-    p = s.find('(')
-    if p == -1:
-        return s
-    else:
-        return s[:p]
+STEMS = []
 
 title = None
 state = None
@@ -21,7 +16,7 @@ for fn in glob.iglob('*.txt'):
     print fn
     for line in fp:
         l = line.strip()
-        if l == '' and title:           # 寫入詞條
+        if l == '' and title:       # 寫入詞條
             INDEX.append(title)
             title = None
             state = None
@@ -37,7 +32,12 @@ for fn in glob.iglob('*.txt'):
             title = None
             continue
         if state is None:           # 詞
-            title = strip_brakets(l)
+            stem = getStem(l)
+            if stem:
+                STEMS.append(stem)
+                if stem.find('(') > -1:
+                    print '!!!', l
+            title = removeStems(l)
             if title == '':
                 print 'Wrong!', l
             state = 't'
@@ -46,8 +46,20 @@ if title:
 
 INDEX = set(INDEX)                  # dedup
 INDEX = list(INDEX)
+STEMS = set(STEMS)
+STEMS = list(STEMS)
+
 f = codecs.open('index.json', mode='w', encoding='utf8')
 x = json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False)
+try:
+    f.write(x)
+except UnicodeDecodeError as e:
+    print x[e.start-20:e.start+20]
+    raise
+f.close()
+
+f = codecs.open('stems.json', mode='w', encoding='utf8')
+x = json.dumps(STEMS, indent=2, separators=(',', ':'), ensure_ascii = False)
 try:
     f.write(x)
 except UnicodeDecodeError as e:

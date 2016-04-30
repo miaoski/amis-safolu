@@ -7663,7 +7663,7 @@ makalisin(lisin)
     Itiyaho makalisin kami o 'Amis.
     我們阿美人以前禁忌很多。
 
-makalisinay((lisin)
+makalisinay(lisin)
 ①  充滿禁忌了，禁忌多了，迷信成風了。
 ②  指禁忌、迷信成風的(對像)。
 
@@ -7672,7 +7672,7 @@ makalisepat(sepat)
     Makalisepat ko kasasikerol niyam.
     我們的級別分四級。
 
-makalisepatay((sepat)
+makalisepatay(sepat)
 ①  分成四級、四等了。
 ②  被分成四級、四等的(對像)。
 
@@ -8759,7 +8759,7 @@ makiyoray(kiyor)
 makelac(kelac)
 被削皮，被削去。
 
-makelacay((kelac)
+makelacay(kelac)
 ①  被削皮了，被削去了。
 ②  指被削皮的、被削掉的(東西)。
     Makelacay ko tefus iso.

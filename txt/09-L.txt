@@ -2930,7 +2930,8 @@ letosa(leto)
     Letosa ko 'acofel i laloma'.
     煙霧在屋裡擴散開來。
 	
-li(前綴)。主要表示：
+li-
+(前綴)。主要表示：
 ①  索求，索取。linamal 取火，取火種。
 ②  通過某種手段(工具)得到，奪取。如
     lifongoh

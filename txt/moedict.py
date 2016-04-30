@@ -16,6 +16,12 @@ def removeStems(s):
         s = s[:idx]
     return s.strip()
 
+def getStem(s):
+    stem_r = re.search(ur'\(.+\)', s)
+    if stem_r:
+        return s[stem_r.start() + 1:stem_r.end() - 1]
+    else:
+        return None
 
 def ngtilde(s):
     import re
@@ -102,11 +108,7 @@ def readdict(fn):
 
 
         if state is None:                       # 詞
-            stem_r = re.search(ur'\(.+\)', l)
-            if stem_r:
-                stem = l[stem_r.start() + 1:stem_r.end() - 1]
-            else:
-                stem = ''
+            stem = getStem(l)
             title = removeStems(l)
             definitions = []
             examples = []
