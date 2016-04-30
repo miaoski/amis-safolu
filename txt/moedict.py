@@ -10,7 +10,7 @@ reg = re.compile(pat)
 JSON = {}
 
 def removeStems(s):
-    s = s.replace('。', '')         # Dirty
+    s = s.replace('。', '')                     # Dirty
     idx = s.find("(")
     if idx!= -1:
         s = s[:idx]
@@ -52,7 +52,7 @@ def mkdef(defi, examples, link):
     if len(examples) > 0:
         defdic['example'] = examples
         examples = []
-    defdic['def'] = addsplt(['', '', defi]) # workaround 
+    defdic['def'] = addsplt(['', '', defi])     # workaround 
     if link:
         defdic['synonyms'] = map(synonyms, link)
         # defdic['synonyms'] = map(ngtilde, link)
@@ -60,9 +60,9 @@ def mkdef(defi, examples, link):
 
 def readdict(fn):
     fp = open(fn, 'ru')
-    title = None    #詞
-    tag = None    #疊文
-    stem = None     #字根
+    title = None                                # 詞
+    tag = None                                  # 疊文
+    stem = None                                 # 字根
     state = None    
     num_words = 0
     for line in fp:
@@ -77,7 +77,7 @@ def readdict(fn):
              .replace('⑨ ', '')
         l = l.strip()
 
-        if l == '' and title:           # 寫入詞條
+        if l == '' and title:                   # 寫入詞條
             num_words += 1
             defdic = mkdef(defi, examples, link)
             if len(defdic) > 0:
@@ -92,13 +92,13 @@ def readdict(fn):
             link = [] 
             defi = "" 
             continue
-        if l == '':             # 空白行
+        if l == '':                             # 空白行
             continue
-        if l[0] == '#':             # 註解
+        if l[0] == '#':                         # 註解
             continue
 
 
-        if state is None:           # 詞
+        if state is None:                       # 詞
             title = removeStems(l)
             definitions = []
             examples = []
@@ -107,18 +107,18 @@ def readdict(fn):
             state = 'd'
             continue
 
-        if l[0:2] == '=>':          # 相關詞
+        if l[0:2] == '=>':                      # 相關詞
             state = 'l'
-        if line[0:4] == '    ':         # 例句
+        if line[0:4] == '    ':                 # 例句
             state = 'e' + state
         
-        if state == 'd':            # 漢語定義
+        if state == 'd':                        # 漢語定義
             tag_r = re.search(ur'\[.+\]', l)    # [疊2] [日語借詞] 這類
             if tag_r:
                 tag = l[tag_r.start():tag_r.end()]
                 l = l.replace(tag, '').replace('。。', '。')
 
-            if defi!="": # 有上一個def
+            if defi!="":                        # 有上一個def
                 defdic = mkdef(defi, examples, link)
                 if len(defdic) > 0:
                     definitions.append(defdic)
@@ -129,16 +129,16 @@ def readdict(fn):
             state = 'd'
             continue
 
-        if state == 'ed':       # 阿美語例句
-            ex = [l, '', ''] # workaround for addsplt
+        if state == 'ed':                       # 阿美語例句
+            ex = [l, '', '']                    # workaround for addsplt
             state = 'a'
             continue
-        if state == 'ea':           # 漢文例句
+        if state == 'ea':                       # 漢文例句
             ex[2] = l
             examples.append(addsplt(ex))
             state = 'd'
             continue
-        if state == 'l':            # 相關詞
+        if state == 'l':                        # 相關詞
             link.append(l[2:])
             state = 'd'
 
