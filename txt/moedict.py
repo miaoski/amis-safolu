@@ -55,7 +55,7 @@ def mkdef(defi, examples, link):
     if len(examples) > 0:
         defdic['example'] = examples
         examples = []
-    defdic['def'] = addsplt(['', '', defi])     # workaround 
+    defdic['def'] = defi
     if link:
         defdic['synonyms'] = map(synonyms, link)
         # defdic['synonyms'] = map(ngtilde, link)
