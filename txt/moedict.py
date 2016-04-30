@@ -1,7 +1,8 @@
-#-*- coding: utf8 -*-
+# -*- coding: utf8 -*-
 # Convert .txt files in the same directory to dict-amis.json for moedict
 
 import sys
+import codecs
 import re
 
 pat = "\[.*?(\d)\]"
@@ -10,7 +11,7 @@ reg = re.compile(pat)
 JSON = {}
 
 def removeStems(s):
-    s = s.replace('。', '')                     # Dirty
+    s = s.replace(u'。', '')                    # Dirty
     idx = s.find("(")
     if idx!= -1:
         s = s[:idx]
@@ -23,23 +24,21 @@ def getStem(s):
     else:
         return None
 
-def ngtilde(s):
+def affixation(s):
     import re
     from amis_stemmer import gnostic
-    w1 = re.split(r"([\w:']+)", s.strip())
+    s = s.replace(u'。', '').strip()
+    w1 = re.split(r"([\w:'^]+)", s.strip())
     w2 = map(gnostic, w1)
     return ''.join(w2)
-    #return re.sub(r'([\w\']+)', r'`\1~', ng(s))
 
-def synonyms(s):
-    return s.replace('。', '').strip()
 
 # 加入萌典前端使用的標記
 # \ufff9: 阿美語例句
 # \ufffa: 英文例句
 # \ufffb: 漢語例句
 def addsplt(s):
-    return u'\ufff9'+s[0].decode('utf8')+u'\ufffa'+s[1].decode('utf8')+u'\ufffb'+s[2].decode('utf8')
+    return u'\ufff9'+s[0]+u'\ufffa'+s[1]+u'\ufffb'+s[2]
 
 
 def mkword(title, definitions, tag, stem):
@@ -63,27 +62,26 @@ def mkdef(defi, examples, link):
         examples = []
     defdic['def'] = defi
     if link:
-        defdic['synonyms'] = map(synonyms, link)
-        # defdic['synonyms'] = map(ngtilde, link)
+        defdic['synonyms'] = map(affixation, link)
     return defdic
 
 def readdict(fn):
-    fp = open(fn, 'ru')
+    fp = codecs.open(fn, mode='r', encoding='utf8')
     title = None                                # 詞
     tag = None                                  # 疊文
     stem = None                                 # 字根
     state = None    
     num_words = 0
     for line in fp:
-        l = line.replace('① ', '') \
-             .replace('② ', '') \
-             .replace('③ ', '') \
-             .replace('④ ', '') \
-             .replace('⑤ ', '') \
-             .replace('⑥ ', '') \
-             .replace('⑦ ', '') \
-             .replace('⑧ ', '') \
-             .replace('⑨ ', '')
+        l = line.replace(u'① ', '') \
+             .replace(u'② ', '') \
+             .replace(u'③ ', '') \
+             .replace(u'④ ', '') \
+             .replace(u'⑤ ', '') \
+             .replace(u'⑥ ', '') \
+             .replace(u'⑦ ', '') \
+             .replace(u'⑧ ', '') \
+             .replace(u'⑨ ', '')
         l = l.strip()
 
         if l == '' and title:                   # 寫入詞條
@@ -126,7 +124,7 @@ def readdict(fn):
             tag_r = re.search(ur'\[.+\]', l)    # [疊2] [日語借詞] 這類
             if tag_r:
                 tag = l[tag_r.start():tag_r.end()]
-                l = l.replace(tag, '').replace('。。', '。')
+                l = l.replace(tag, '').replace(u'。。', u'。')
 
             if defi!="":                        # 有上一個def
                 defdic = mkdef(defi, examples, link)
@@ -140,7 +138,7 @@ def readdict(fn):
             continue
 
         if state == 'ed':                       # 阿美語例句
-            ex = [l, '', '']                    # workaround for addsplt
+            ex = [affixation(l), '', '']
             state = 'a'
             continue
         if state == 'ea':                       # 漢文例句

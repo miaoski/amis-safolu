@@ -17,7 +17,7 @@ for fn in glob.iglob('*.txt'):
     for line in fp:
         l = line.strip()
         if l == '' and title:       # 寫入詞條
-            INDEX.append(title)
+            INDEX.append(title.lower())
             title = None
             state = None
             continue
@@ -28,13 +28,13 @@ for fn in glob.iglob('*.txt'):
         xs = l.split()              # 處理 word'a = word'b
         if state is None and len(xs) == 3 and xs[1] == '=':
             title = xs[0].strip()
-            INDEX.append(title)
+            INDEX.append(title.lower())
             title = None
             continue
         if state is None:           # 詞
             stem = getStem(l)
             if stem:
-                STEMS.append(stem)
+                STEMS.append(stem.lower())
                 if stem.find('(') > -1:
                     print '!!!', l
             title = removeStems(l)
@@ -42,7 +42,7 @@ for fn in glob.iglob('*.txt'):
                 print 'Wrong!', l
             state = 't'
 if title:
-    INDEX.append(title)
+    INDEX.append(title.lower())
 
 INDEX = set(INDEX)                  # dedup
 INDEX = list(INDEX)

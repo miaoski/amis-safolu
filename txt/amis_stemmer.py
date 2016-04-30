@@ -4,6 +4,13 @@
 # Ref.: Fey, Virginia (1986) pp.357--365
 
 import json
+import re
+import codecs
+
+with codecs.open('index.json', mode='r', encoding='utf8') as f:
+    INDEX = json.load(f)
+with codecs.open('stems.json', mode='r', encoding='utf8') as f: # 要怎麼用還想不到
+    STEMS = json.load(f)
 
 # I hate exceptions, but let's cut things short
 EXCEPTIONS = {
@@ -109,23 +116,16 @@ def compose(*wx):
 
 def gnostic(w):
     "Stemmer that refers to index.json"
-    import re
-    with open('index.json', 'r') as f:
-        INDEX = []
-        for x in json.load(f):
-            if x is not None:
-                INDEX.append(x.replace('ng', 'g'))
-
-        # INDEX = [x.replace('ng', 'g') for x in json.load(f)]
     if len(w) < 1 or not re.search(r"[\w:']+", w): return w
-    if w in INDEX: return compose(w)
-    if w in EXCEPTIONS: return compose(*EXCEPTIONS[w])
+    wl = w.lower()
+    if wl in INDEX: return compose(w)
+    if wl in EXCEPTIONS: return compose(*EXCEPTIONS[w])
 
     # prefix + suffix
     px = None
     sx = None
     for (pre, suf) in pre_suffix:
-        if w.lower().startswith(pre) and w.endswith(suf):
+        if wl.startswith(pre) and w.endswith(suf):
             psw = w[len(pre):-len(suf)]
             if psw in INDEX: 
                 (px, psw, sx) = (w[:len(pre)], psw, w[-len(suf):])
@@ -133,7 +133,7 @@ def gnostic(w):
     # prefix
     psw = w
     for p in prefix:        # longest -> shortest
-        if w.lower().startswith(p):
+        if wl.startswith(p):
             psw = w[len(p):]
             if psw in INDEX: 
                 (px, psw) = (w[:len(p)], psw)
