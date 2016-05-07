@@ -11,7 +11,7 @@ STEMS = []
 
 title = None
 state = None
-for fn in glob.iglob('*.txt'):
+for fn in glob.iglob('[0-9][0-9]-*.txt'):
     fp = open(fn)
     print fn
     for line in fp:
