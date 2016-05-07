@@ -15,6 +15,8 @@ with codecs.open('stems.json', mode='r', encoding='utf8') as f: # 要怎麼用�
 # I hate exceptions, but let's cut things short
 EXCEPTIONS = {
     'mapararaw': ('mapa', 'raraw'),
+    'niyam': ('niyam',),
+    'ningra': ('ningra',),
 }
 
 # ordering is important
@@ -161,7 +163,7 @@ def deduplication(*pps):
         return compose(px, w[0:6], w[6:], sx) # not sure if specially for dadayadaya
     if len(w) >= 6 and w[0:2] == w[2:4]:    # (CV)CV.. => CV..
         return compose(px, w[:2], w[2:], sx)
-    return compose(w)
+    return compose(px, w, sx)
 
 def runtest():
     failed = False
@@ -174,4 +176,5 @@ def runtest():
         print "Success"
 
 if __name__ == '__main__':
-    runtest()
+    # runtest()
+    print gnostic('niyam')
