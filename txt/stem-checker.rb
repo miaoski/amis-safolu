@@ -7,6 +7,7 @@ require "json"
 
 @words = []
 @stems = []
+@mapping = {}
 
 Dir.glob("txt/*.txt").each do |filename|
   next if filename.include?("24-")
@@ -30,7 +31,11 @@ Dir.glob("txt/*.txt").each do |filename|
   terms.each do |term|
     word, stem = term.sub(")", "").split("(")
     words << word
-    stems << stem if stem
+    if stem
+      stems << stem
+      @mapping[stem] ||= []
+      @mapping[stem] << term
+    end
   end
 
   @words += words
@@ -45,8 +50,9 @@ missed = []
 end
 missed.uniq!
 
-File.open("tmp/缺少定義的詞幹.txt", "w") do |file|
+File.open("tmp/缺少定義的詞幹.csv", "w") do |file|
+  file.puts "詞幹,字"
   missed.each do |term|
-    file.puts term
+    file.puts "#{term},#{@mapping[term].join(',')}"
   end
 end
