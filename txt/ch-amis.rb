@@ -3,7 +3,7 @@
 #   請先到 https://goo.gl/LHnG1B，匯出成 csv
 #   將檔案更名為 amis-ch-mapping-sheet.csv，並放到專案的 tmp/
 #   在終端機下執行命令 $ ruby txt/ch-amis.rb
-# 結果：執行命令後，會輸出結果在 tmp/amis-ch-mapping.json
+# 結果：執行命令後，會輸出/更新結果在 txt/amis-ch-mapping.json
 
 require 'csv'
 require 'json'
@@ -22,7 +22,7 @@ csv.each do |data|
   end
 end
 
-filepath = File.expand_path('../../tmp/amis-ch-mapping.json', __FILE__)
+filepath = File.expand_path('../amis-ch-mapping.json', __FILE__)
 File.open(filepath, "w") do |file|
   file.puts JSON.pretty_generate(@mapping)
 end
