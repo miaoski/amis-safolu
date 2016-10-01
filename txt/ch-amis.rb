@@ -22,6 +22,7 @@ csv.each do |data|
   end
 end
 
-File.open("tmp/amis-ch-mapping.json", "w") do |file|
+filepath = File.expand_path('../../tmp/amis-ch-mapping.json', __FILE__)
+File.open(filepath, "w") do |file|
   file.puts JSON.pretty_generate(@mapping)
 end

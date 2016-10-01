@@ -33,6 +33,7 @@ end
 
 @stems = @stems.inject({}) {|hash, stem| hash[stem[0]] = stem[1].sort; hash}
 
-File.open("tmp/amis-stem-words.json", "w") do |file|
+filepath = File.expand_path('../../tmp/amis-stem-words.json', __FILE__)
+File.open(filepath, "w") do |file|
   file.puts JSON.pretty_generate(@stems)
 end
