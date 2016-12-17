@@ -1,6 +1,7 @@
 # -*- coding: utf8 -*-
 # vim: ts=4 et sw=4 sts=4
 # 產生阿美語-漢語的超長字串
+# 執行 $ cd txt; python revdict.py;
 
 import sys
 import json

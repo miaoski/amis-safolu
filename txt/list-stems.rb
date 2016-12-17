@@ -1,7 +1,7 @@
 #
 # 目的：抓出詞幹讓大家去編輯對應的漢字，提高漢阿搜尋精確度
 # 運行方式：在終端機下執行命令
-#   請先跑過 $ ruby txt/steam-mapping.rb
+#   請先跑過 $ ruby txt/stem-mapping.rb
 #   再跑 $ ruby txt/list-stems.rb
 # 結果：執行命令後，會輸出結果在 tmp/list-amis-stems.csv
 #   結果可以匯入 google sheets 方便協作
