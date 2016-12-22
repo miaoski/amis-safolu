@@ -2,6 +2,7 @@
 
 感謝 cpyang 將 PDF 原稿轉為 TXT 檔~
 
+辭典檔案在： [txt/dict-amis.json](https://github.com/miaoski/amis-safolu/blob/master/txt/dict-amis.json)
 
 # License
 
