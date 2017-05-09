@@ -17,8 +17,11 @@ csv.each do |data|
   data[2..4].each do |chinese|
     next if chinese.nil?
     next if chinese == ''
-    puts "重複： #{chinese}, 位置： #{data}" unless @mapping[chinese].nil?
-    @mapping[chinese] ||= stem
+    if @mapping[chinese].nil?
+      @mapping[chinese] = stem
+    else
+      @mapping[chinese] << ",#{stem}" unless @mapping[chinese].include?(stem)
+    end
   end
 end
 
