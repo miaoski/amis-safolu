@@ -10,7 +10,7 @@ import codecs
 def load_amis():
     longTitle = {}
     longEx = {}
-    dictionary = json.load(open("dict-amis.json"))
+    dictionary = json.load(open("dict-amis-safolu.json"))
     for word in dictionary:
         title = word['title']
         longTitle[title] = ''
