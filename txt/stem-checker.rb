@@ -49,10 +49,11 @@ missed = []
   end
 end
 missed.uniq!
+missed.sort!
 
 File.open("tmp/缺少定義的詞幹.csv", "w") do |file|
   file.puts "詞幹,字"
   missed.each do |term|
-    file.puts "#{term},#{@mapping[term].join(',')}"
+    file.puts "'#{term},#{@mapping[term].join(',')}"
   end
 end
