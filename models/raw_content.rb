@@ -11,4 +11,5 @@
 #
 
 class RawContent < ApplicationRecord
+  belongs_to :term
 end

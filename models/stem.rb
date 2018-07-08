@@ -9,4 +9,5 @@
 #
 
 class Stem < ApplicationRecord
+  has_many :terms
 end
