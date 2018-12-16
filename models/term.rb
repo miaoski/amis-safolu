@@ -7,6 +7,7 @@
 #  stem_id    :integer
 #  created_at :datetime         not null
 #  updated_at :datetime         not null
+#  repetition :integer
 #
 
 class Term < ApplicationRecord
