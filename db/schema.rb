@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_07_08_095635) do
+ActiveRecord::Schema.define(version: 2018_12_16_174152) do
 
   create_table "raw_contents", force: :cascade do |t|
     t.string "key"
@@ -32,6 +32,7 @@ ActiveRecord::Schema.define(version: 2018_07_08_095635) do
     t.integer "stem_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "repetition"
     t.index ["stem_id"], name: "index_terms_on_stem_id"
   end
 
