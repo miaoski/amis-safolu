@@ -1,4 +1,2 @@
-.ruby-version
-.ruby-gemset
 /tmp/*
 !/tmp/.keep
