@@ -42,5 +42,7 @@ require './models/application_record.rb'
 require './models/raw_content'
 
 h.each do |key, value|
+  key = key.gsub(/’/, "'")
+  value = value.to_s.gsub(/’/, "'")
   RawContent.create(key: key, value: value)
 end
