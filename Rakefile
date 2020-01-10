@@ -7,6 +7,10 @@ require "sqlite3"
 require "active_record"
 require "./models/application_record.rb"
 
+# command list:
+# `rake db:migrate`
+# `rake db:rollback`
+# `rake db:schema`
 namespace :db do
   task :environment do
     APP_ENV = ENV['APP_ENV'] || 'development'
@@ -18,7 +22,7 @@ namespace :db do
   desc "Migrate the database"
   task migrate: :environment do
     ActiveRecord::Base.establish_connection(DB_CONFIG)
-    ActiveRecord::MigrationContext.new("#{DB_DIR}/migrate/").migrate
+    ActiveRecord::MigrationContext.new("#{DB_DIR}/migrate/", ActiveRecord::SchemaMigration).migrate
     Rake::Task["db:schema"].invoke
     puts "Database migrated."
   end
@@ -26,13 +30,10 @@ namespace :db do
   desc "Rollback the database"
   task rollback: :environment do
     ActiveRecord::Base.establish_connection(DB_CONFIG)
-    ActiveRecord::MigrationContext.new("#{DB_DIR}/migrate/").rollback
+    ActiveRecord::MigrationContext.new("#{DB_DIR}/migrate/", ActiveRecord::SchemaMigration).rollback
     Rake::Task["db:schema"].invoke
     puts "Last migration has been reverted."
   end
-
-  desc "Reset the database"
-  task reset: [:migrate]
 
   desc 'Create a db/schema.rb file that is portable against any DB supported by AR'
   task schema: :environment do
@@ -43,8 +44,14 @@ namespace :db do
       ActiveRecord::SchemaDumper.dump(ActiveRecord::Base.connection, file)
     end
   end
+
+  task 'migrate:up'
+  task 'migrate:down'
+  task 'migrate:reset'
+  task 'migrate:redo'
 end
 
+# command: `rake g:migration your_migration`
 namespace :g do
   desc "Generate migration"
   task migration: :"db:environment" do
@@ -56,7 +63,7 @@ namespace :g do
 
     File.open(path, 'w') do |file|
       file.write <<-EOF
-class #{migration_class} < ActiveRecord::Migration[5.0]
+class #{migration_class} < ActiveRecord::Migration[6.0]
   def up
   end
 

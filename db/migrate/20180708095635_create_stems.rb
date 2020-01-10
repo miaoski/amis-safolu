@@ -1,4 +1,4 @@
-class CreateStems < ActiveRecord::Migration[5.0]
+class CreateStems < ActiveRecord::Migration[6.0]
   def up
     create_table :stems do |t|
       t.string :name

@@ -1,4 +1,4 @@
-class AddRepetitionToTerms < ActiveRecord::Migration[5.0]
+class AddRepetitionToTerms < ActiveRecord::Migration[6.0]
   def up
     add_column :terms, :repetition, :integer
   end

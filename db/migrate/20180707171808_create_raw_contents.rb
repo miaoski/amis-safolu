@@ -1,4 +1,4 @@
-class CreateRawContents < ActiveRecord::Migration[5.0]
+class CreateRawContents < ActiveRecord::Migration[6.0]
   def up
     create_table :raw_contents do |t|
       t.string  :key

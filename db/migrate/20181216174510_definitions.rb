@@ -1,4 +1,4 @@
-class Definitions < ActiveRecord::Migration[5.0]
+class Definitions < ActiveRecord::Migration[6.0]
   def up
     create_table :definitions do |t|
       t.integer :term_id

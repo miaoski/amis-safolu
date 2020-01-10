@@ -1,4 +1,4 @@
-class CreateTerms < ActiveRecord::Migration[5.0]
+class CreateTerms < ActiveRecord::Migration[6.0]
   def up
     create_table :terms do |t|
       t.string  :name
