@@ -7,6 +7,7 @@
 #  content       :string
 #  created_at    :datetime         not null
 #  updated_at    :datetime         not null
+#  term_type     :string(5)
 #
 
 class Synonym < ApplicationRecord
