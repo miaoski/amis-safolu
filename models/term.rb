@@ -13,4 +13,5 @@
 class Term < ApplicationRecord
   belongs_to :stem
   has_one    :raw_content
+  has_many   :definitions
 end

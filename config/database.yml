@@ -1,4 +1,3 @@
 development:
   adapter: sqlite3
   database: db/amis-sqlite3-db.sqlite3
-

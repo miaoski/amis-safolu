@@ -1,6 +1,6 @@
 # == Schema Information
 #
-# Table name: alternatives
+# Table name: synonyms
 #
 #  id            :integer          not null, primary key
 #  definition_id :integer
@@ -9,6 +9,6 @@
 #  updated_at    :datetime         not null
 #
 
-class Alternative < ApplicationRecord
+class Synonym < ApplicationRecord
   belongs_to :definition
 end

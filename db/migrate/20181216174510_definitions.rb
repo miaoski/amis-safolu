@@ -1,4 +1,4 @@
-class Definitions < ActiveRecord::Migration[5.0]
+class Definitions < ActiveRecord::Migration[6.0]
   def up
     create_table :definitions do |t|
       t.integer :term_id
@@ -12,7 +12,7 @@ class Definitions < ActiveRecord::Migration[5.0]
       t.timestamps
     end
 
-    create_table :alternatives do |t|
+    create_table :synonyms do |t|
       t.integer :definition_id
       t.string  :content
       t.timestamps
@@ -22,6 +22,6 @@ class Definitions < ActiveRecord::Migration[5.0]
   def down
     drop_table :definitions
     drop_table :examples
-    drop_table :alternatives
+    drop_table :synonyms
   end
 end
