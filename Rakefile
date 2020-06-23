@@ -5,6 +5,7 @@
 require "yaml"
 require "sqlite3"
 require "active_record"
+require "./models/application_record.rb"
 
 namespace :db do
   task :environment do

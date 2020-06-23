@@ -8,7 +8,9 @@ current_key=''
 html_doc.css('multicol p').each do |p|
   is_content = false
 
-  text   = p.text.gsub(/\n|\t| /, "")
+  text   = p.text.gsub(/\n|\t| /, ' ')
+                 .gsub(/ +/, ' ')
+                 .sub(/\A /, '')
   styles = p['style'].split(';').inject({}){|h,s| k,v=s.split(': '); h[k]=v; h}
   styles.each do |property, value|
     if ['text-indent', 'margin-left'].include?(property)

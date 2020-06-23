@@ -10,7 +10,28 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_07_08_095635) do
+ActiveRecord::Schema.define(version: 2018_12_16_174510) do
+
+  create_table "alternatives", force: :cascade do |t|
+    t.integer "definition_id"
+    t.string "content"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "definitions", force: :cascade do |t|
+    t.integer "term_id"
+    t.string "content"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "examples", force: :cascade do |t|
+    t.integer "definition_id"
+    t.string "content"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
   create_table "raw_contents", force: :cascade do |t|
     t.string "key"
@@ -32,6 +53,7 @@ ActiveRecord::Schema.define(version: 2018_07_08_095635) do
     t.integer "stem_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "repetition"
     t.index ["stem_id"], name: "index_terms_on_stem_id"
   end
 
