@@ -4,7 +4,7 @@ t
 ta
 前綴。主要表示：
 ①  趨向，去，前往。
-    Tayra. 
+    Tayra.
     去，前往。
     Tadi'ec.
     緊挨著；依靠。
@@ -17,7 +17,7 @@ ta
     Takodicay.
     蟾蜍。
 ④  抵達，碰撞。
-    Tahini. 
+    Tahini.
     到達這裏。
     Tahafikod.
     絆倒。
@@ -26,7 +26,7 @@ ta
 去，去吧。
     Ta tayra i pisalamaan.
     走，一起去娛樂場。
-    
+
 ta
 指示代詞 toya 的簡形。
     Tayra kako ta tokos.
@@ -121,7 +121,7 @@ ta'ar
 ta'elif
 越過，跨躍。
 => mita'elif。
-    
+
 
 ta'elifen(ta'elif)
 把某物某地越過、跨躍過去。
@@ -155,7 +155,7 @@ tada
 ①  真正的，單純的。
     Tada^ekim.
     純金，黃金。
-    Tadawama. 
+    Tadawama.
     生父。
 ②  至大，至尊。
     Tadamaan.
@@ -200,7 +200,7 @@ tadafafahi(fafahi)
 
 tadafana'(fana')
 真知，本領，本事。
-    Ira to ko tadafana' ni kolas. 
+    Ira to ko tadafana' ni kolas.
     Kolas(古拉斯)有本事的。
 
 tadafokil(fokil)
@@ -246,7 +246,7 @@ tadamaan(maan)
 偉大，至尊，了不起；勇敢。
     Tadamaan ko kaolah no kawas.
     神明的關愛是偉大的。
-    Tadamaan ko fana' ni Sawram to codad. 
+    Tadamaan ko fana' ni Sawram to codad.
     Sawram(沙拉姆)的知識淵博。
     Tadamaan ko kapah no Amis milood.
     阿美族的小夥子打仗很勇敢。
@@ -393,7 +393,7 @@ tadengalay(tadengal)
     天亮了，快點起來！
 ②  光亮的，明亮的。
 => taengaday。
-    
+
 tadi
 前綴。主要表示：類似，近似，好似。
     tadipangpang.
@@ -431,7 +431,7 @@ tadifasoen(tadifaso)
 tadihang
 喊叫，大聲喊叫。
 => mitadihang。
-    
+
 tadihangen(tadihang)
 對…喊叫、大聲喊叫。
     Mana tadihangen kako saw?
@@ -451,12 +451,12 @@ tadikangkangay(kangkang)
 tadikaxkax(kaxkax)
 仰翻，往上翻。
 => tadikangkang。
-    
+
 tadikaxkaxay(kaxkax)
 ①  仰翻了，往上翻了。
 ②  指仰翻的、往上翻的(東西)。
 => tadikangkangay。
-    
+
 tadimocok
 房子的角落，向隅。
     Tadimocok no loma'.
@@ -489,7 +489,7 @@ tadipana'(pana')
 tadipangpang
 蝴蝶。
 => 'adipangpang。
-    
+
 
 tadipi(dipi)
 依傍，緊挨著。
@@ -499,13 +499,13 @@ tadipi(dipi)
 tadipian(dipi)
 依傍、依靠的物件。
 => tadi'ecan。
-    
+
 tadipien(dipi)
 把…依傍、緊挨著。
     Tadipien no wawa kora wina ira.
     孩子一定要緊挨著她母親。
 => tadi'ecen。
-    
+
 tadipisa(dipi)
 呈依傍、緊靠著的樣子。
     Tata'ang ko fali, saka tadipisa kako i 'ongcoy.
@@ -535,7 +535,7 @@ tadiwicay(tadiwic)
     Tadiwicay a saseti'.
     長短不齊的棍子。
 => tadiwiday。
-    
+
 tadiwid
 長短不一，不勻。
 => tadiwic。
@@ -544,7 +544,7 @@ tadiwiday(tadiwid)
 ①  長短不一了，不勻了。
 ②  指長短不一的、不勻的(東西)。
 => tadiwicay。
- 
+
 tadkel
 切菜板。
 
@@ -605,7 +605,7 @@ ta'edipen(ta'edip)
 ta'elif
 走過，經過，越過。
 => mita'elif。
-    
+
 
 ta'elifen(ta'elif)
 把…走過、越過、經過。
@@ -613,8 +613,8 @@ ta'elifen(ta'elif)
     我們經過重安部落。
     Ta'elifen no paliding ako kiso.
     我的車子把你超越過去了。
-    
-Ta'eman 
+
+Ta'eman
 部落名稱，今臺灣台東縣長濱鄉膽曼村。
 
 ta'emod
@@ -640,7 +640,7 @@ ta'emodhan(ta'emod)
 ta'enang
 仰臥，仰面躺下來。
 => mita'enang。
-    
+
 ta'enangan(ta'enang)
 仰臥的地方。
 
@@ -652,7 +652,7 @@ ta'enangen(ta'enang)
 ta'esel
 穿透，刺入，戳進去。
 => mita'esel。
-    
+
 ta'eselen(ta'esel)
 把…穿透、戳進去。
     Ta'eselen to kotang !
@@ -693,7 +693,7 @@ tafaeday(faed)
     Tafaeday a tamdaw.
     去上面的人。
 => talafaeday。
-    
+
 tafak
 煙絲。
 
@@ -717,7 +717,7 @@ tafalen(tafal)
 tafalian(fali)
 脫稻殼的鼓風機，風櫃；大篩子。
 
-Tafalong 
+Tafalong
 部落名稱，今臺灣花蓮縣光復鄉富田村地區。
 
 tafangar
@@ -737,7 +737,7 @@ tafedo'
 tafelik
 騰空翻，翻騰。
 => matafelik。
-    
+
 tafeliksa(tafelik)
 呈騰空翻的姿勢，翻騰著。
     Tafeliksa koya wawa a maskong no tao.
@@ -746,7 +746,7 @@ tafeliksa(tafelik)
 tafihaw
 孤寂，孤單。
 => matafihaw。
-    
+
 tafiyotan(fiyot)
 風箱。
 
@@ -757,7 +757,7 @@ tafoen(tafo)
 把…包裝、包起來。
     Tafoen ko tilid a mipanokay.
     把書包起來送回家。
-    Tafoen to ni wina to papah no facidol koya hmay. 
+    Tafoen to ni wina to papah no facidol koya hmay.
     母親用麵包樹葉把年糕包起來了。
 
 tafohan(tafo)
@@ -791,7 +791,7 @@ tafowahan(fowah)
 tafesiw
 飛過，經過，越過。
 => mitafesiw。
-    
+
 
 tafesiwen(tafesiw)
 把…直接經過、越過。
@@ -808,23 +808,23 @@ tafesiwtafesiwhan(tafesiw)
     Tafesiwtafesiwhan ningra a miki'ayaw koya i 'ayaway a tamdaw.
     他颼颼一下子把前面的人超越過去，走在最前面。
 => tafesiwfesiw。
-    
+
 taha
 前綴。主要表示：
 ①  到達，抵達。
     tahanini.
     至今，迄今。
-    tahayra. 
+    tahayra.
     到達。
 ②  觸及，碰撞。
-    tahaceka. 
+    tahaceka.
     紮刺。
     tahakefeng.
     掉進陷阱。
 ③  導致。
     tahafikod.
     絆倒。
-    tahacefa. 
+    tahacefa.
     遭到報應。
 
 tahacaer(caer)
@@ -1180,7 +1180,7 @@ tahapinangan(pinang)
 
 tahapinga'(pinga')
 踩到糞便。
-    O pipatai' ho isawni tora sadatengan, tahapinga'' kiso.
+    O pipatai' ho isawni tora sadatengan, tahapinga' kiso.
     剛給那塊菜園施肥，你會踩到糞便的。
 
 tahapinga'ay(pinga')
@@ -1328,7 +1328,7 @@ tahatekoh(tekoh)
     她的腦袋要撞牆了。
 => tahatekong。
 
-    
+
 tahatekohay(tekoh)
 ①  碰撞了，撞上了。
     Tahatekohay kora koliciw tora kilang.
@@ -1341,14 +1341,14 @@ tahatekohay(tekoh)
    tahatekong(tekong)
 碰撞，撞上。
 => tahatekoh。
-    
+
 tahatekongay(tekong)
 ①  碰撞了，撞上了。
     Tahatekongay ko safa ako tora kilang.
     我弟弟撞上那棵樹了。
 ②  指碰撞的、撞上的(人)。
 => tahatekohay。
-    
+
 
 tahatini(ini)
 直到現在，長期以來。
@@ -1391,7 +1391,7 @@ tahfod
 tahidang
 邀請，約請，請來。
 => mitahidang。
-    
+
 tahidangen(tahidang)
 把…邀請、約請。
     Tahidangen ira ko tamdaw no niyaro' a komaen.
@@ -1467,7 +1467,7 @@ tahekolhan(tahekol)
     Tahekolhan ako ko titi i 'a'ayaw no waco.
     我特地把肉扔在狗的面前。
 => fahekolhan。
-    
+
 tahod
 趁熱(吃)。立即、馬上。
 => mitahod。
@@ -1524,8 +1524,8 @@ tayi'
     鐵銹。
     Tayi' no wadis.
     牙垢。
-    
-Taifoan 
+
+Taifoan
 平埔族群之一，譯作大滿族。
 
 tailangan(ilang)
@@ -1557,8 +1557,8 @@ ta'isen(ta'is)
 把…縫補、縫合。
     Ta'isen ko riko' ako !
     把我的衣服補一下！
-    
-Taiwan 
+
+Taiwan
 臺灣，臺灣人。
 
 taiyofan(iyof)
@@ -1585,7 +1585,7 @@ takalen(takal)
 takamayan(kamay)
 手套，袖套，筒袖。
 => takayaman。
-    
+
 takang
 墊，鋪墊。
 => mitakang。
@@ -1601,7 +1601,7 @@ takar
 takarar
 顛蹲兒。
 => matakarar。
-    
+
 takaraw
 高，高大。
 => 'akaraw。
@@ -1611,7 +1611,7 @@ takaraway(takaraw)
 ②  高的，高大的。
 => 'akaraway。
 
-Takaw 
+Takaw
 地名，高雄。[日語借詞]
 
 takaw
@@ -1632,14 +1632,14 @@ takawsa(takaw)
 在以偷偷的方式做。
     Takawsa cangra a misa'epah.
     他們在偷偷地造酒。
-    
-Takay 
+
+Takay
 部落名稱。今臺灣花蓮縣玉裏鎮三民地區。
 
 takayaman(kayam)
 手套，袖套，袖筒。
 => takamayan。
-    
+
 
 takec
 擁抱，抱住。
@@ -1716,7 +1716,7 @@ takingkingay
 takini'
 夾在腋下帶走，夾帶。
 => mitakini'。
-    
+
 takini'en(takini')
 把…夾帶。
     Takini'en ningra ko tilid.
@@ -1724,7 +1724,7 @@ takini'en(takini')
 
 takini'han(takini')
 特地把…夾帶。
-    Takini'han ni ina ko lapot a minokay to sapakaen to diyong. 
+    Takini'han ni ina ko lapot a minokay to sapakaen to diyong.
     媽媽回家時夾帶著地瓜菜來餵豬。
 
 takiri'
@@ -1734,7 +1734,7 @@ takiri'
 takirikiri(takiri)
 走路東道西歪，趔趔趄趄。
 => matakirikiri。
-    
+
 takiyaki'an(kiyaki')
 搖鈴。
 
@@ -1761,13 +1761,13 @@ takoden(takod)
 takodicay(kodic)
 大蟾蜍。
 
-Takofan 
+Takofan
 部落名稱，今臺灣台東縣關山鎮德高地區。
 
 takokong(kokong)
 整個地端起來喝，整個把頭蒙起來。
 => mitakokong。
-    
+
 takokongen(kokong)
 把…整個地端起來喝，把…蒙起頭來。
     Takokongen ako ko cecay a 'atomo a minanom.
@@ -1791,14 +1791,14 @@ takolil
 兔子。
 => koliyol。
 => kodiwis。
-    
+
 Takoliyaw
 部落名稱。今臺灣花蓮縣玉裏鎮高寮村地區。
 
 takololo
 白背啄木鳥。
 
-Takomi 
+Takomi
 部落名稱。今臺灣台東縣長濱鄉田組村地區。
 
 takomod(komod)
@@ -1822,7 +1822,7 @@ takongkongay(kongkong)
 takonol
 駝背。
 => matakonol。
-    
+
 takop
 追趕，及時趕上。
 => mitakop。
@@ -1876,7 +1876,7 @@ takosi
 takotakop
 [疊 1]拼命追趕，追了又追。
 => mitakotakop。
-    
+
 
 takotakopen(takotakop)
 [疊 1]拼命地把…追趕。
@@ -2139,15 +2139,15 @@ tala'iyaken('iyak)
 
 talakal
 鐵製陷阱、套獸圈。
-    
+
 talakal ni Idek.
 (短語)。彩虹。
 => talakal no Idek。
-    
+
 talakal no Idek
 (短語)。彩虹。
 => talakal ni Idek。
-    
+
 talakalen(talakal)
 用陷阱、套獸圈把…捕獲。
     Talakalen ako ko tomay.
@@ -2182,16 +2182,16 @@ talaktaksa(talaktak)
 talalafacay
 喜鵲。
 => 'arakakay。
-    
+
 talalikor(ikor)
 後退，退步，倒退。
 => talaaikor。
-    
+
 talalikoray(ikor)
 ①  後退了，退步了，倒退了。
 ②  指後退者，退步者，倒退者。
 => talaaikoray。
-    
+
 
 talalikoren(ikor)
 把…後退、倒退。
@@ -2224,7 +2224,7 @@ talariyalen(riyal)
 talalokan(lalok)
 雞窩，雞籠，雞舍。
 => pakoko'an。
-    
+
 talaloma'(loma')
 去家裏，到家裏。
     Talaloma' kamo.
@@ -2264,8 +2264,8 @@ talamacien(maci)
 talamangaw
 公雞。
 => talangawan。
-   
-Talampo 
+
+Talampo
 部落名稱。今臺灣花蓮縣富里鄉東竹村。
 
 talangaan(langa)
@@ -2316,7 +2316,7 @@ talaotalay(aotal)
     Talaotalay ko kaka a miasik.
     我到外面掃地了。
 ②  指到屋外、院外的(人)。
-    Talaotalay a waco. 
+    Talaotalay a waco.
     到院外的狗。
 
 talaotalen(aotal)
@@ -2367,7 +2367,7 @@ talararem(rarem)
 
 talararemay(rarem)
 ①  到下游了，去下游了。
-    Talararemay kami a mi''iwas to tamina.
+    Talararemay kami a mi'iwas to tamina.
     我們到下游劃船了。
 ②  指到下游的(人)。
     Talararemay a tamina.
@@ -2488,7 +2488,7 @@ talatokosay(tokos)
     Talatokosay cingra a mikasoy.
     他上山砍柴了。
 ②  指到山上的(人)。
-    Talatokosay a kapah. 
+    Talatokosay a kapah.
     上山的青年。
 
 talatokosen(tokos)
@@ -2509,8 +2509,8 @@ talawaliay(wali)
 ①  到東方去了。
     Talawaliay kako a mi'araw to cidal.
     我去東方看太陽。
-②  指到東方的(人)。 
-    Talawaliay a tamdaw. 
+②  指到東方的(人)。
+    Talawaliay a tamdaw.
     往東去的人。
 
 talawalien(wali)
@@ -2819,7 +2819,7 @@ talokan(talok)
 雞籠，雞舍。
 => talalokan。
 
-Taloko 
+Taloko
 臺灣原住民族群之一，太魯閣族。
 => Tairoko。
 
@@ -2916,7 +2916,7 @@ tamarang
 
 tamarangan(tamarang)
 海蟹的種類。
-    
+
 Tamasaydan
 部落名稱。今臺灣花蓮市北濱一帶地區。
 
@@ -2933,8 +2933,8 @@ tamayaay(tamaya)
 ②  開闊的，廣闊的。
     Tamayaay a kitakit.
     廣闊的島嶼。
-    
-Tamayan 
+
+Tamayan
 部落名稱。今臺灣花蓮縣瑞穗鄉瑞北村地區。
 
 tamdamdaw(tamdaw)
@@ -3165,7 +3165,7 @@ tangaen(tanga)
     Tangaen niyam ci Omah a romakat.
     我們一定走近 Omah (烏瑪)。
 => ngataen。
-    
+
 Tangaforan
 平埔族。因接受漢化既早且深，明顯溶入漢民社會文化中，因此文獻上稱之熟番或化番。
 
@@ -3374,7 +3374,7 @@ tano
 ②  除此以外，別無他物。
     tanocokor.
     惟有手杖。
-    
+
 tano
 前後加綴詞，後綴加 -sa。主要表示：
 ①  一直處於某行為的狀態之中。
@@ -3540,7 +3540,7 @@ tano'oka'okak('okak)
     Ca kakomaen kora waco, tano'oka'okak sa.
     那隻狗不吃東西，只剩下一把骨頭了。
 
-tano'oka''kaksa('okak)
+tano'oka'kaksa('okak)
 [疊 2]只有骨頭的樣子，瘦骨嶙峋的模樣。
     Awaay ko kakaenen,tano'oka'okaksa to ko wawa a mangiriw.
     缺乏食物，孩子瘦的只剩一把骨頭的樣子了。
@@ -3641,7 +3641,7 @@ taof
 末端往下拽彎。
 => mataof。
 
-Taokas 
+Taokas
 平埔族之一。道卡斯族，道卡斯人。
 
 ta'ol'olan('ol'ol)
@@ -4020,7 +4020,7 @@ tapowacayen(tapowacay)
 把(野菜)採摘吧！
     Tapowacayen niyam !
     我們去摘野菜去吧！
-    
+
 Tapowaray
 部落名稱。今臺灣台東縣長濱鄉大俱來村地區。
 
@@ -4183,7 +4183,7 @@ tarepetan(repet)
     Tarepetan no kangkang.
     犁扶手。
 
-tarico'co''(co'co')
+tarico'co'(co'co')
 菱角形。
 => mataco'co'。
 
@@ -4444,7 +4444,7 @@ tata'edi'edipsa(ta'edip)
 [疊 2]呈層層疊疊的樣子。
     Tata'edi'edipsa nani 'amis taha timol ko mihifalatay a tokos.
     重山疊巒南北橫臥。
-    
+
 tata'en
 把…砍傷。
     Tata'en no naliti' ko kamay ako.
@@ -4760,7 +4760,7 @@ tatekaen(teka)
     O tatekaen ako kora tayal.
     我就要開始那項工作。
 ②  指要開始做的(事情)。
-    Tatekaen a demak. 
+    Tatekaen a demak.
     即將開始做的工作。
 
 tatekeden(teked)
@@ -4944,7 +4944,7 @@ tatenooyen(tenooy)
 tatentenen(tenten)
 [疊 2]
 ①  要砸傷。
-    Tatentenen ni Omah ko kamay ira. 
+    Tatentenen ni Omah ko kamay ira.
     Omah要把他的手砸傷了。
 ②  指要砸傷的(對像)。
     Tatentenen a tamdaw.
@@ -5007,7 +5007,7 @@ tateselen(tesel)
     O tateselen no kaka ko talip ira.
     姊姊要刺繡她的裙子。
 ②  指要刺繡的(物件)。
-    Tateselen a riko'. 
+    Tateselen a riko'.
     要繡花的衣服。
 
 tatextex
@@ -5105,7 +5105,7 @@ tatihedaken(tihedak)
 tatihelomen(tihelom)
 [疊 2]
 ①  要圍觀、圍繞。
-    O tatihelomen niyam ko fa^lohay a tosiya. 
+    O tatihelomen niyam ko fa^lohay a tosiya.
     我們要去圍觀新車。
 ②  指要圍觀、圍繞的(對像)。
     Tatihelomen a tamdaw.
@@ -5237,8 +5237,8 @@ tatiloen(tilo)
 ①  要用拖網捕撈。
     O tatiloen kora futing ato 'afar.
     要把魚蝦捕撈。
-②  指要用拖網捕撈的(魚)。 
-    Tatiloen a futing. 
+②  指要用拖網捕撈的(魚)。
+    Tatiloen a futing.
     要捕撈的魚。
 
 tatimocen(timoc)
@@ -5348,7 +5348,7 @@ tatiretiregan(tireng)
 
 tatirengsa(tireng)
 [疊 1]呈站立的狀態，站著。
-    Tatirengsa koya faki mitiri' toya miatiwan ningra i kamay a sapaiyo a talod. 
+    Tatirengsa koya faki mitiri' toya miatiwan ningra i kamay a sapaiyo a talod.
     老伯伯站著注視拿在手裏的草藥。
     Tatirengsa kako toya 'ongcoy a mitapal to riyal.
     我站在礁岩上眺望大海。
@@ -5664,8 +5664,8 @@ tato'ongen(to'ong)
 ①  要摸，撫摸。
     Tato'ongen ira ko fongoh ako.
     他要摸我的頭部。
-②  指要撫摸的(頭部)。 
-    Tato'ongen a fongoh. 
+②  指要撫摸的(頭部)。
+    Tato'ongen a fongoh.
     要被碰撞的頭部。
 
 tato^etoen(to^eto)
@@ -5747,7 +5747,7 @@ tatodongen(todong)
 
 tatodongsa(todong)
 [疊 1]呈合適的狀態，正好，剛好，恰好，恰當其時。
-    Itiya tatodongsa malahci to ningra ko ccay a lolod a kiradom. 
+    Itiya tatodongsa malahci to ningra ko ccay a lolod a kiradom.
     當時，有一券布恰好被她完成了。
 
 tatoemen(toem)
@@ -5966,8 +5966,8 @@ tatoliyaden(toliyad)
 ①  要紡織。
     Tatoliyaden ni ina ko fodoy a riko'.
     母親要紡織毛衣。
-②  指要紡織的(東西)。 
-    Tatoliyaden a walay. 
+②  指要紡織的(東西)。
+    Tatoliyaden a walay.
     即將紡織的線。
 
 tatolo(tolo)
@@ -6142,7 +6142,7 @@ tatontonen(tonton)
     O tatontonen koni o'o no fafoy.
     要把這野豬腿砍一砍。
 ②  指要砍剁的(東西)。
-    Tatontonen a 'okak. 
+    Tatontonen a 'okak.
     要剁的骨頭。
 
 tatood(tood)
@@ -6276,7 +6276,7 @@ tatorisen(toris)
     Tatorisen no wawa ko padakopak.
     小孩要在紙上劃線。
 ②  指要劃線的(物件)。
-    Tatorisen a sapad.  
+    Tatorisen a sapad.
     要劃線的板子。
 => tatosiren。
 
@@ -6381,8 +6381,8 @@ tatotosen(totos)
 ①  要蘸。
     Tatotosen no wawa ko 'odax a komaen.
     孩子要蘸糖吃。
-②  指要蘸的(東西)。 
-    Tatotosen a cinah. 
+②  指要蘸的(東西)。
+    Tatotosen a cinah.
     要蘸的鹽。
 
 tatowa'en(towa')
@@ -6560,7 +6560,7 @@ takaraway(takaraw)
 taxerxeran(xerxer)
 紡車，縫紉機。
 
-Taya 
+Taya
 泰雅族，泰雅人。
 => Congaw。
 => Tayan。
@@ -6626,8 +6626,8 @@ tayoen(tayo)
     慢點走，等等我吧！
     i kaikor kiso, i 'a'ayaw kako, tayoen ita a romakat !
     你在前面，我在後面，我們慢慢走吧！
-    
-Taypak 
+
+Taypak
 地名。今臺灣臺北市。
 
 taypiaw
@@ -6771,7 +6771,7 @@ tekaen(teka)
 把…開始吧！
     Tekaen ko laloodan.
     開闢戰場吧。
-=> satapangen。    
+=> satapangen。
 
 tekal
 扭曲變形。
@@ -7161,7 +7161,7 @@ tomessa(tomes)
 
 tomestomessa(tomes)
 [疊 1]裝得非常滿的樣子。
-    'Alomanay ko tamdaw, tomestomessa ko palo no tosiya i lalan. 
+    'Alomanay ko tamdaw, tomestomessa ko palo no tosiya i lalan.
     路上人多，公車乘客都坐滿。
 
 temik
@@ -7262,7 +7262,7 @@ tenaken(tenak)
 tenas
 蘸食品的醬汁。
 
-Tenem 
+Tenem
 地名。今臺灣花蓮縣豐濱鄉巴里灣的鹹泉。
 
 tenem
@@ -8295,7 +8295,7 @@ tingal
 tingalac
 圈套中的活扣兒，紐襻。
 
-Tingalaw 
+Tingalaw
 部落名稱。今臺灣花蓮縣豐濱鄉豐富村。
 
 tingalaw
@@ -8365,8 +8365,8 @@ tingkien(tingki)
 把…註冊備案。
     Tingkien ko misanga'an iso a ngangan.
     把你製造的產品的名字註冊備案一下。
-    
-Tingkoli 
+
+Tingkoli
 部落名稱。今臺灣台東縣關山鎮電光里部落。
 
 tingpa'
@@ -8387,7 +8387,7 @@ tingsien(tingsi)
 用鍋鏟把…炒。
     Tingsien ko dateng a mician.
     用鍋鏟把菜炒一下。
-    
+
 Tingsokiw
 天主教。[日語借詞]。
 
@@ -8488,7 +8488,7 @@ tipelok
 tipid
 木盤，盤子。
 
-Tipod 
+Tipod
 地名。今臺灣台東縣卑南鄉知本地區。
 
 tipod
@@ -8510,7 +8510,7 @@ tipolok
 
 tipos
 ①  北風。
-②  粳稻。 
+②  粳稻。
 => forayan。
 
 tiposan(tipos)
@@ -8684,8 +8684,8 @@ tiwatiwen(tiwatiw)
 把…撥拉、撥弄。
     Aka tiwatiwen ko sapiditek ako !
     不要撥弄我的測量器具！
-    
-Tiway 
+
+Tiway
 樹神。
 
 tiwi
@@ -9205,7 +9205,7 @@ tokaksa(tokak)
     Tado tokaksa koya malitengey a pasla'.
     那個老人突然停下來休息。
 
-Tokar 
+Tokar
 部落名稱。今臺灣花蓮縣玉鎮觀音部落。
 
 tokar
@@ -9382,8 +9382,8 @@ tolak
     榆樹皮。
     Tolak no cekiw.
     貝殼。
-    
-Tolampo 
+
+Tolampo
 部落名稱。今臺灣花蓮縣富里鄉新興村。
 
 tolang
@@ -9443,8 +9443,8 @@ tolidacen(tolidac)
 把…剝開、掰開。
     Tolidacen ko tolak no tefi'.
     把扁豆莢剝開。
-    
-Tolik 
+
+Tolik
 部落名稱，台東縣成功鎮都歷部落。
 
 tolik
@@ -9593,7 +9593,7 @@ tomato
 tomatoan(tomato)
 番茄的種類。
 
-Tomay 
+Tomay
 部落名稱。今臺灣花蓮縣壽豐鄉鹽寮村地區。
 
 tomay
@@ -9765,7 +9765,7 @@ tomesen(tomes)
 
 tomeshan(tomes)
 特地把…充滿、灌滿。
-    Tomeshan ningra ko ciwkeng to miradoman ira a nanom. 
+    Tomeshan ningra ko ciwkeng to miradoman ira a nanom.
     他特地挑來水把水缸灌滿。
 
 tomfo
@@ -9796,10 +9796,10 @@ tomirengay(tireng)
 ②  指站立者。
     Tomirengay a tokos.
     直立的山。
-    Ci Kacaw ko tomirengay i paputal. 
+    Ci Kacaw ko tomirengay i paputal.
     Kacaw(卡兆)站在院外。
-    
-Tomiyac 
+
+Tomiyac
 部落名稱，今臺灣台東縣成功鎮重安(都威)。
 
 tomiyac(tiyac)
@@ -10105,7 +10105,7 @@ topida'en(topida')
 把…污物濺身。
     Topida'en ira ko sota' i tatirengan ako.
     他把污泥濺在我身上。
-    
+
 topidapida'han(topida')
 [疊 2]特地連吐口水把…唾棄。
     Topidapida'han no tao ko laway ningra.
@@ -10186,8 +10186,8 @@ tori
 (量詞)。一公里。
     Siwa a tori.
     九公里。
-    
-Torik 
+
+Torik
 部落名稱。今臺灣台東縣成功鎮都歷村。
 => Tolik。
 
@@ -10489,7 +10489,7 @@ towakoy
 towami
 麵條。[閩南語借詞]。
 
-Towapon 
+Towapon
 部落名稱。今臺灣花蓮市內地區。
 
 towasing
@@ -10602,8 +10602,8 @@ tesi'sa(tesi')
 呈噴濺的狀態。
     Tesi'sa ko remes noya fafoy.
     山豬的血噴濺起來。
-    
-Twapon 
+
+Twapon
 部落名稱。今臺灣花蓮市美侖地區。
 => Takangen。
 
