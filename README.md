@@ -19,6 +19,12 @@ $ ruby parsing-terms.rb
 $ ruby parsing-content.rb
 ```
 
+## 從 sqlite 產生 json 單詞檔案
+
+```
+$ ruby generate-json-from-sqlite.rb
+```
+
 ## 操作 model table
 
 使用 ActiveRecord gem 來操作，目前專案使用 v6.0.1，相關指令放在 Rakefile。
