@@ -12,4 +12,7 @@
 
 class Synonym < ApplicationRecord
   belongs_to :definition
+
+  scope :alts, -> { where(term_type: '同') }
+  scope :refs, -> { where(term_type: '參見') }
 end
