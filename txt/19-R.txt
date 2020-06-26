@@ -448,8 +448,8 @@ rarahkaden(rahkad)
 ①  要蒸煮。
     O rarahkaden ako ko titi no kolong.
     我要去煮牛肉。
-②  指要蒸煮的(東西) 
-    Rarahkaden a toron. 
+②  指要蒸煮的(東西)
+    Rarahkaden a toron.
 	要下蒸的糯米糕。
 
 rarakaten(rakat)
@@ -685,7 +685,7 @@ rarengosan(rengos)
     Ira ko 'oner i rarengosan.
     草叢裡有蛇。
 => rengorengosan。
-   
+
 
 rarepaten(repat)
 [疊 2]
@@ -888,7 +888,7 @@ rarimok
 rarimowang
 有很多的、成群的、大量的。
 => mararimowang。
-   
+
 rarina'en(rina')
 [疊 2]
 ①  要出版、印刷。
@@ -995,7 +995,7 @@ rarisrisen
 要按順序整理、安排、分配。
 => rasirsiren。
 => rasilsilen。
-    
+
 raritingen(riting)
 [疊 2]
 ①  要連接、鈎在一起。
@@ -1179,7 +1179,7 @@ paropini'en(ropini')
 
 raropit
 傷口癒合。
-=> mararopit。 
+=> mararopit。
 
 raropitsa(raropit)
 傷口呈癒合狀態。
@@ -1221,7 +1221,7 @@ rarotaroten(rotarot)
 raroyaroy
 平衡。
 => mararoyaroy。
-    
+
 rasa
 箅子。( 竹器，用來托墊蒸犯飯的木曾瓦 )。
 
@@ -1442,7 +1442,7 @@ rekad
     我要寫幾段？
     Tolo a rekad ko tatayni a tamdaw anini.
     今天要來三個團體。
-	
+
 Rekat
 部落名稱。今台東縣鹿野鄉永安部落。
 
@@ -1649,7 +1649,7 @@ retreten(retret)
 ricaric
 搓手。
 => miricaric。
-   
+
 
 ricaricen(ricaric)
 把…搓擦。
@@ -1683,7 +1683,7 @@ ridriden(ridrid)
 rifowas(fowas)
 撒過去，分散開。
 => mirifowas。
-    
+
 rifowasen(fowas)
 把…撒過去、分散開。
     Rifowasen ko tafok i lalan.
@@ -1719,7 +1719,7 @@ riharih
 riharihan(riharih)
 拖地、曳地的地方。
 => pariharihan。
-    
+
 rihaw
 沙啞，嘶啞。
 => marihaw。
@@ -1874,7 +1874,7 @@ rinom
 ringaring
 夕陽西下。
 => miringaring。
-    
+
 ringaringen(ringaring)
 太陽一定下山。
 
@@ -1947,14 +1947,14 @@ riparip
 riparipen(riparip)
 把…塗抹、沾抹。
 => roparopen。
-    
+
 Ripon
 日本，日本國。[日語借詞]
 => Dipon。
 
 ri'ang
 兇惡，兇狠。
-=> mari''ang。
+=> mari'ang。
 
 ri'erid
 領導，引導，帶頭。
@@ -2148,7 +2148,7 @@ roenen(roen)
 rofiyas
 溢出。
 => marofiyas。
-    
+
 rofo
 坐牢、關閉，籠罩。
 => mirofo。
@@ -2214,7 +2214,7 @@ rokawiten(kawit)
 把…鈎住。
     Rokawiten ira ko riko' iso.
     他把你的衣服鈎住。
-	
+
 Rokay
 臺灣原住民族之一。魯凱族，魯凱人。
 
@@ -2388,7 +2388,7 @@ ronicen(ronic)
 ronirom
 刺桐樹。
 => karonirom。
-    
+
 ronong
 鯉魚。
 
@@ -2400,7 +2400,7 @@ rongawit(ngawit)
 rongawiten(ngawit)
 把…勾取。
 => korawiten。
-    
+
 
 rongoh
 低語，交頭接耳說話。
@@ -2421,7 +2421,7 @@ roparopen(roparop)
     Roparopen ko laway ira to sota' !
     給他臉上抹泥巴！
 => riparipen。
-    
+
 
 roparophan(roparop)
 特地把…塗抹。
@@ -2551,7 +2551,7 @@ rotarot
 => mirotarot。
 
 rotaroten(rotarot)
-把…揉搓。 
+把…揉搓。
 => romicen。
 
 roto

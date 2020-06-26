@@ -1055,7 +1055,7 @@ tahalitengay(liteng)
     Tahalitengay cangra a matayal.
     他們工作到老。。
     Tahalitengay
-    
+
 ②  指活到老的(人)
     a tamdaw.
     堅持直到老年的人。
@@ -1134,7 +1134,7 @@ tahapinangan(pinang)
 
 tahapinga'(pinga')
 踩到糞便。
-    O pipatai' ho isawni tora sadatengan, tahapinga'' kiso.
+    O pipatai' ho isawni tora sadatengan, tahapinga' kiso.
     剛給那塊菜園施肥，你會踩到糞便的。
 
 tahapinga'ay(pinga')
@@ -1392,7 +1392,7 @@ tahiraay(ira)
     Pina ko toki a romakat,tahiraay saw?
     走幾個鐘頭才到呢？。
     O kako ko
-    
+
 ②  到達那裡的(人)
     tahiraay i Posong.
     到達台東那裡的是我。
@@ -1606,7 +1606,7 @@ takeling(keling)
 takelongan(kelong)
 驅逐鳥獸的響板。
     No misimaw kami
-    
+
 
 to omah i lotok mihawikid kami to
 
@@ -1657,7 +1657,7 @@ takini'en(takini')
 takini'han(takini')
 特地把…夾帶。
     Takini'han ni ina
-    
+
 
 ko lapot a minokay to sapakaen to
 diyong. 媽媽回家時夾帶著地瓜菜來餵豬。
@@ -2234,7 +2234,7 @@ talaotalay(aotal)
     Talaotalay ko kaka a miasik.
     我到外面掃地了。。
     Talaotalay
-    
+
 ②  指到屋外、院外的(人) a waco. 到院外的狗。
 
 talaotalen(aotal)
@@ -2285,7 +2285,7 @@ talararem(rarem)
 
 talararemay(rarem)
 ①  到下游了，去下游了。
-    Talararemay kami a mi''iwas to tamina.
+    Talararemay kami a mi'iwas to tamina.
     我們到下游劃船了。
 ②  指到下游的(人)。
     Talararemay a tamina.
@@ -2406,7 +2406,7 @@ talatokosay(tokos)
     Talatokosay cingra a mikasoy.
     他上山歌柴了。。
     Talatokosay a
-    
+
 ②  指到山上的(人) kapah. 上山的青年。
 
 talatokosen(tokos)
@@ -2427,7 +2427,7 @@ talawaliay(wali)
     Talawaliay kako a mi'araw to cidal.
     我去東方看太陽。。
     Talawaliay a
-    
+
 ②  指到東方的(人) tamdaw. 往東去的人。
 
 talawalien(wali)
@@ -3431,10 +3431,10 @@ tano'oka'okak('okak)
     Ca kakomaen kora waco, tano'oka'okak sa.
     那隻狗不吃東西，只剩下一把骨頭了。
 
-tano'oka''kaksa('okak)
+tano'oka'kaksa('okak)
 [疊 2]只有骨頭的樣子，瘦骨嶙峋的模樣。
     Awaay ko kakaenen,
-    
+
 
 tano'oka'okaksa to ko wawa a
 
@@ -4040,7 +4040,7 @@ tarepetan(repet)
     Tarepetan no kangkang.
     犁扶手。
 
-tarico'co''(co'co')
+tarico'co'(co'co')
 菱角形。參見
     mataco'co'
     。
@@ -4592,7 +4592,7 @@ tatekaen(teka)
     O tatekaen ako kora tayal.
     我就要開始那項工作。。
     Tatekaen a
-    
+
 ②  指要開始做的(事情) demak. 即將開始做的工作。
 
 tatekeden(teked)
@@ -4610,7 +4610,7 @@ tatekeken(tekek)
     Tatekeken no tangalawan ko felac.
     公雞要啄米。。
     O tatekeken no
-    
+
 ②  指要啄的(對像)
     'ayam a fao.
     鳥要啄食的蟲子。
@@ -4696,7 +4696,7 @@ tatekolen(tekol)
     O tatekolen ira kora kotang.
     他要把標槍投擲過來。。
     Tatekolen a
-    
+
 ②  指要投擲的(物件)
     fokeloh.
     要投過去的石頭。
@@ -4841,7 +4841,7 @@ tateselen(tesel)
     O tateselen no kaka ko talip ira.
     姊姊要刺繡她的裙子。。
     Tateselen a
-    
+
 ②  指要刺繡的(物件) riko'. 要繡花的衣服。
 
 tatextex
@@ -5072,7 +5072,7 @@ tatiloen(tilo)
     O tatiloen kora futing ato 'afar.
     要把魚蝦捕撈。。
     Tatiloen a
-    
+
 ②  指要用拖網捕撈的(魚) futing. 要捕撈的魚。
 
 tatimocen(timoc)
@@ -5184,7 +5184,7 @@ tatiretiregan(tireng)
 tatirengsa(tireng)
 [疊 1]呈站立的狀態，站著。
     Tatirengsa koya faki mitiri' toya
-    
+
 
 miatiwan ningra i kamay a sapaiyo a
 talod. 老伯伯站著注視拿在手裏的草藥。
@@ -5464,7 +5464,7 @@ tatenoken(tenok)
     Tatenoken no efa kora wawa.
     馬要踢那個孩子。。
     Tatenoken
-    
+
 ②  指要用後蹄踢的(物件)
     a tamdaw.
     (馬)即將要踢的人。
@@ -5505,7 +5505,7 @@ tato'ongen(to'ong)
     Tato'ongen ira ko fongoh ako.
     他要摸我的頭部。。
     Tato'ongen a
-    
+
 ②  指要撫摸的(頭部) fongoh. 要被碰撞的頭部。
 
 tato^etoen(to^eto)
@@ -5590,7 +5590,7 @@ tatodongen(todong)
 tatodongsa(todong)
 [疊 1]呈合適的狀態，正好，剛好，恰好，恰當其時。
     Itiya tatodongsa
-    
+
 
 malahci to ningra ko ccay a lolod a
 kiradom. 當時，有一券布恰好被她完成了。
@@ -5821,7 +5821,7 @@ tatoliyaden(toliyad)
     Tatoliyaden ni ina ko fodoy a riko'.
     母親要紡織毛衣。。
     Tatoliyaden a
-    
+
 ②  指要紡織的(東西) walay. 即將紡織的線。
 
 tatolo(tolo)
@@ -5939,7 +5939,7 @@ tatongihen(tongih)
     Tatongihen no waco ko ^pang.
     狗要把麵包咬一口。。
     O maan ko
-    
+
 ②  指要咬一塊的(對像)
     tatongihen ira?
     他要咬一口什麼東西？
@@ -5994,7 +5994,7 @@ tatonoken(tonok)
     Tatonoken ko matelangay a dimel.
     要推倒舊圍牆。。
     Tatonoken a
-    
+
 ②  指要推倒的(物件) hecek. 要推倒的柱子。
 
 tatontonen(tonton)
@@ -6003,7 +6003,7 @@ tatontonen(tonton)
     O tatontonen koni o'o no fafoy.
     要把這野豬腿砍一砍。。
     Tatontonen a
-    
+
 ②  指要砍剁的(東西) 'okak. 要剁的骨頭。
 
 tatood(tood)
@@ -6136,7 +6136,7 @@ tatorisen(toris)
     Tatorisen no wawa ko padakopak.
     小孩要在紙上劃線。。
     Tatorisen a
-    
+
 ②  指要劃線的(物件) sapad. 要劃線的板子。同
     tatosiren
     。
@@ -6247,7 +6247,7 @@ tatotosen(totos)
     Tatotosen no wawa ko 'odax a komaen.
     孩子要蘸糖吃。。
     Tatotosen a
-    
+
 ②  指要蘸的(東西) cinah. 要蘸的鹽。
 
 tatowa'en(towa')
@@ -6948,7 +6948,7 @@ tomessa(tomes)
 tomestomessa(tomes)
 [疊 1]裝得非常滿的樣子。
     'Alomanay ko tamdaw,
-    
+
 
 tomestomessa ko palo no tosiya i
 lalan. 路上人多，公車乘客都坐滿。
@@ -8471,7 +8471,7 @@ to'olan(to'ol)
 to'olsa(to'ol)
 呈寂寞狀態。
     To'olsa a maro' i
-    
+
 
 makamiday a loma' ningra koya
 
@@ -8760,7 +8760,7 @@ tokeren(toker)
 toki
 [日語借詞]
     ^Kim a toki.
-    
+
 ①  表，鐘錶。金表。
 ②  量詞。小時，鐘點。
     Pina ko toki?
@@ -9918,7 +9918,7 @@ towisen(towis)
 towistowissa(towis)
 [疊 1]呈上下擺盪的樣子。
     Towistowissa ko heci noya lamlo,
-    
+
 
 mahecad to wikol no waco ko
 

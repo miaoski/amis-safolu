@@ -2,7 +2,7 @@ a
 阿美語元音之一，系展唇、後低舌面元音，音值為[a]，[a/a]等變體。a 元音處於音節開頭與收尾時，有輕微喉塞化，讀如['a]、[a']。用法如下：
 (1)前綴詞。一般表示人的數目或其他附加意義。aenem 六個人，aira 即將有，aikor 在後面。
 (2)連接詞。連接人名詞、人稱代詞主格形態，或者以指示代詞為修飾語的詞組，表示如、與、跟、以及等意義。
-    Ci Kacaw aci Panay. 
+    Ci Kacaw aci Panay.
     Kacaw 和 Panay。
     Kako ato kiso.
     我與你。
@@ -24,7 +24,7 @@ a
     提起來很重。
 (4)語氣助詞。放在動詞之後，並與之連讀，表示提醒對方警惕和提防即將出現的險情。
     Akaka komaen, mawaraka(讀 mawaraka)！
-    不要吃，會中毒的！ 
+    不要吃，會中毒的！
     Mapolina(讀mapolina) kiso i a'aloan!
     小心啊，你要掉到河裡去啊！
 (5)感嘆詞。表示驚訝、驚奇、驚嘆。
@@ -65,7 +65,7 @@ a
     O 'a'ad'aden iso ko panay.
     你就去把稻穀搗騰翻動一下。
 ②  指要搗騰、翻動的(對象)。
-    O 'a'ad''aden ako a pali.
+    O 'a'ad'aden ako a pali.
     我要翻動的箱子。
 
 aadahen(adah)
@@ -249,7 +249,7 @@ aadahen(adah)
 'a'afongen('afong)
 [疊 2]
 ①  要覆蓋、掩蓋。
-    O 'a'afongen ira koya nipawalian a panay. 
+    O 'a'afongen ira koya nipawalian a panay.
     他就(將)要把曬著的稻子遮蓋起來。
 ②  指要覆蓋、掩蓋的(東西)。
     'A'afongen a panay.
@@ -422,7 +422,7 @@ a'angien('angi)
 'a'anipen('anip)
 [疊 2]
 ①  要栽種、插播。
-    O 'a'anipen niyam ko(koni) panay. 
+    O 'a'anipen niyam ko(koni) panay.
     我們要去插秧(這是我們插秧用的秧苗)。
 ②  指要栽種、插播的(秧苗)
     O 'a'anipen a panay.
@@ -612,7 +612,7 @@ aatiwen(atiw)
 
 'a'ayad
 [疊 2]
-白螞蟻，白蟻。 
+白螞蟻，白蟻。
 => aayad。
 
 aayad
@@ -1225,12 +1225,12 @@ adihayen(adihay)
 [疊 2]
 ①  要揚聲領唱。
     'A'eciwen ako koni a radiw.
-    我要領唱這首歌。    
+    我要領唱這首歌。
 ②  指要領唱的(歌)
-    'A'eciwen a radiw. 
+    'A'eciwen a radiw.
     要領唱的歌。
 => ki'eciwen
-    
+
 
 'a'ecocen('eco)
 [疊 2]
@@ -1280,7 +1280,7 @@ adihayen(adihay)
     'A'efangen a padakopak.
     要丟棄的紙張。
 =>  'a'efengen
-    
+
 
 'a'efawen('efaw)
 [疊 2]
@@ -1749,7 +1749,7 @@ ahokaw
 ahowid
 感謝，感激。
     Ahowid to ruray iso
-    。謝謝你的辛勞。 
+    。謝謝你的辛勞。
 => alay。
 
 ahowiday(ahowid)
@@ -2090,7 +2090,7 @@ alaca'nga'ngawsa(ca'ngaw)
     Alaca'nga'ngawsa ko kolong a ma^min, ca ka komaen to rengos.
     牛一隻隻都抬著頭張望，不吃草。
 => mica'ngaw.
-    
+
 
 alacecay(cecay)
 均分一個，平均每人得一個。
@@ -2353,7 +2353,7 @@ alaneng
     Minisnis to alaneng.
     除田埂的草。
     Ci Alaneng ko ngangan ni ina ako.
-    我媽媽的名字叫Alaneng。 
+    我媽媽的名字叫Alaneng。
 => rihi。
 => tadina。
 
@@ -2367,7 +2367,7 @@ alaneng
 alaninininip(ninip)
 [疊 2]每個人輪著啜一小口。
     Alaninininip to kohaw.
-    每個人輪著啜一小口湯。 
+    每個人輪著啜一小口湯。
 => 'enip。
 => 'inip。
 => mininip。
@@ -2430,7 +2430,7 @@ alapkapkawsa(pekaw)
     他們個個拔腿逃跑了。
 
 'alapit
-夾持東西的工具，筷子，夾子，夾板。 
+夾持東西的工具，筷子，夾子，夾板。
 => mi'alapit。
 
 'alapitan('alapit)
@@ -2765,7 +2765,7 @@ alinongnong
     Mikilang kako to saki alinongnong.
     我去伐木做房屋脊樑。
 => anongnong。
-    
+
 
 'alip
 性交，做愛。
@@ -3099,7 +3099,7 @@ amecid
 => si'elac。
 => ma'otit。
 
-Amirika 
+Amirika
 美國。(英語借詞)。
     Tayra kami i Amirika ano roma a fulad.
     下個月我們要去美國。
@@ -3118,8 +3118,8 @@ Amirika
 風騷，放蕩(專指女性)，輕浮。
 => 'anitir。
 => ma'amitir。
-    
-Amohoan 
+
+Amohoan
 外國人，白種人。
     Ira ko Widang ako to Amohoan.
     我有一位白種人的朋友。
@@ -3172,7 +3172,7 @@ amoto
 amoto'
 => amoko'。
 
--an 
+-an
 (後綴)。主要表示：
 ①  類別、種類。
     panayan 稻子的種類。
@@ -4011,7 +4011,7 @@ apa
     Apa saan ko faloco' ako.
     我的心很亂。
 => pla。
-=> fola。 
+=> fola。
 => maapa。
 
 'ap'ap
@@ -4052,7 +4052,7 @@ apac
 菠蘿蜜。
 => facidol。
 
-'Apaloay 
+'Apaloay
 臺灣花蓮縣壽豐鄉月眉地區。
 
 'apaloay('apalo)
@@ -4089,7 +4089,7 @@ apek
     Apeken ko 'ongcoy.
     把磐石敲打。
 => pekpek。
-=> ti'ti'。 
+=> ti'ti'。
 => miapek。
 
 'apekpek
@@ -4105,7 +4105,7 @@ apek
     'Apekpekay a fafoy.
     矮墩墩的豬。
 
-'apelad    
+'apelad
 ①  一塊(麵包等)
     Tosa a 'apelad ko 'epang.
     兩塊麵包。
@@ -4176,7 +4176,7 @@ apet
 
 apicemod(cemod)
 讓人進來、叫進來。
-    Sedisa ko singsi a apicemod i laloma' toya wawa. 
+    Sedisa ko singsi a apicemod i laloma' toya wawa.
     老師微笑著叫孩子進屋裏。
 => papicomod。
 
@@ -4419,7 +4419,7 @@ arekahay(arekah)
     這草蓆是很粗糙的。
 ②  粗糙的。
 => carekahay。
-    
+
 
 'arekam
 (食物)乾巴，酥脆。
@@ -5200,7 +5200,7 @@ ayah
     Mipacok to 'ayam.
     殺雞。
 
-''ayaman('ayam)
+'ayaman('ayam)
 鳥的種類或有鳥的地方。
 
 'ayaw

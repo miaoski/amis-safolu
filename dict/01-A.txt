@@ -32,7 +32,7 @@ a
     O maan ko 'a'acaen iso saw?
     你要買什麼呢？。
     O 'a'acaen
-    
+
 ②  指即將購買的(東西)
     a kiradom.
     要買的布。
@@ -63,7 +63,7 @@ a
     O 'a'ad'aden iso ko panay.
     你就去把稻穀搗騰翻動一下。
 ②  指要搗騰、翻動的(對象)。
-    O 'a'ad''aden ako a pali.
+    O 'a'ad'aden ako a pali.
     我要翻動的箱子。
 
 aadahen(adah)
@@ -75,7 +75,7 @@ aadahen(adah)
 [疊 2]
 ①  即將埋伏、伏擊。
     O 'a'adapawen niyam ko 'ada.
-    
+
 ②  我們要去伏擊敵人。
 ③  指即將埋伏、伏擊的(對象)。
     'A'adapawen a 'ada.
@@ -174,7 +174,7 @@ aadahen(adah)
     O'a'afalangen kora kilang.
     要把那根木頭扛起來。。
     O maan ko
-    
+
 ②  要肩扛的(東西)
     'a'afalangen
     ~ ira? 他要扛什麼東西？
@@ -222,7 +222,7 @@ iso)? 你要攙扶誰？
     'A'afiliden ni ina ko safa.
     媽媽就要去抱妹妹。。
     O cima ko
-    
+
 ②  指要懷抱的(對象)
     'a'afiliden iso?
     你要抱誰呢？
@@ -311,7 +311,7 @@ aalaen(ala)
     O 'a'alayen ira kora dofot.
     那個佩袋是他要肩挎的。。
     O tatilidan
-    
+
 ②  指要肩挎上的(背包)
     ko 'a'alayen ako?
     我要肩挎的是書包。
@@ -393,7 +393,7 @@ aalomaylayen(alomaylay)
     O 'a'angien no 'ada kami.
     敵人要向我們挑釁。。
     Canira ko
-    
+
 ②  指要挑釁、挑撥的(人)
     'a'angien niyam.
     他們是我們要挑釁的人。
@@ -1202,7 +1202,7 @@ adihayen(adihay)
     'A'eciwen ako koni a radiw.
     我要領唱這首歌。。
     'A'eciwen a
-    
+
 ②  指要領唱的(歌) radiw. 要領唱的歌。參見
     ki'eciwen
     。
@@ -2022,7 +2022,7 @@ alaca'nga'ngawsa(ca'ngaw)
     Alaca'nga'ngawsa ko kolong a ma^min, ca ka komaen to rengos.
     牛一隻隻都抬著頭張望，不吃草。參見
     mica'ngaw.
-    
+
 
 alacecay(cecay)
 均分一個，平均每人得一個。
@@ -2410,7 +2410,7 @@ alateketekek(tekek)
 alateketekeksa(tekek)
 [疊 2]一個個紛紛啄、叮著。
     Ngoyangoyen nangra koya 'aol,
-    
+
 
 alateketekeksa ko acacengal a
 
@@ -2647,7 +2647,7 @@ alinongnong
     Mikilang kako to saki alinongnong.
     我去伐木做房屋脊樑。同
     anongnong.
-    
+
 
 'alip
 性交，做愛。參見 ma'alip，mi'alip。
@@ -3559,7 +3559,7 @@ anohacowa
     你明天什麼時候來？
 ②  無論什麼時候，永遠。
     Anohacowa to cowa ko
-    
+
 
 mamasadak kako a tayra i loma a
 kitakit. 我永遠不會出國。
@@ -3854,7 +3854,7 @@ apac
 'apapitanay('apapitan)
 ①  果實累累了。
     'Apapitanay ko
-    
+
 
 nipalomaan a falisan anini a
 
@@ -3893,7 +3893,7 @@ apek
 'apelad
 。
     Tosa a 'apelad
-    
+
 ①  一塊(麵包等)
     ko 'epang.
     兩塊麵包。
@@ -4202,7 +4202,7 @@ arekahay(arekah)
     這草蓆是很粗糙的。
 ②  粗糙的。同
     carekahay.
-    
+
 
 'arekam
 (食物)乾巴，酥脆。
@@ -4927,7 +4927,7 @@ ayah
     Mipacok to 'ayam.
     殺雞。
 
-''ayaman('ayam)
+'ayaman('ayam)
 鳥的種類或有鳥的地方。
 
 'ayaw

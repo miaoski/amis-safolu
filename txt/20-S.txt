@@ -1270,7 +1270,7 @@ saara'awsa(ara'aw)
 那麼嘈雜喧鬧的樣子。
     Saara'awsa a lahekel ko tamdamdaw malasalilam to omah. 人們嘈雜喧鬧地叫嚷著互相分田地。
 
-Saarowa 
+Saarowa
 臺灣原住民族之一。沙阿魯阿族，沙阿魯阿人。
 
 saasik(asik)
@@ -1348,7 +1348,7 @@ sacaholak(caholak)
 
 sacaholaken(caholak)
 把(竹籠)做起來、做竹籠吧。
-    Sacaholaken ako hasapifuting(hasapifuting). 
+    Sacaholaken ako hasapifuting(hasapifuting).
     我要做竹籠準備捕魚用。
 
 sacaiker(caiker)
@@ -1819,7 +1819,7 @@ sademademaken(demak)
 
 sademi'(demi')
 建造廚房。
-=> misademi''。
+=> misademi'。
 
 sademi'en(demi')
 把…建造廚房。
@@ -1956,7 +1956,7 @@ saedahay(saedah)
 
 saedahen(saedah)
 把…輕拿、輕放。
-    Saedahen kora kaysing a mipateli i kafekang no eto! 
+    Saedahen kora kaysing a mipateli i kafekang no eto!
     把碗輕輕地放在桌子上吧！
     Saedahen ko sowal iso !
     你說話輕一點！
@@ -3189,7 +3189,7 @@ sahatinihan(tini)
 
 sahatinisa(tini)
 這樣子地、如此地。
-    Ama, mana sahatinisa a mangilos ko faloco' iso saw ! 
+    Ama, mana sahatinisa a mangilos ko faloco' iso saw !
     父親，你的心為什麼這樣狠！
 
 sahatira(tira)
@@ -3588,7 +3588,7 @@ saka'esingaw('esing)
 saka^eca(^eca)
 之所以不會(出現)。
     Saka^eca kataira i loma' iso, awaay to ko romi'ad ako !
-    
+
 
 saka^efo(^efo)
 犯罪、造成過失的用具、原因。
@@ -4691,7 +4691,7 @@ sakacikadit(kadit)
 
 sakacikaditaw(kadit)
 希望弄髒、有污點。
-    Mana sakacikaditaw iso to faelohay a kiping? 
+    Mana sakacikaditaw iso to faelohay a kiping?
     你為什麼想弄髒新上衣呢？
 
 sakacikafer(kafer)
@@ -5315,7 +5315,7 @@ sakacipidaaw(pida)
 
 sakacipinang(pinang)
 標示、指示所用的工具。
-    O sakacipinang ita a misa'osi to romi'ad ko toki. 
+    O sakacipinang ita a misa'osi to romi'ad ko toki.
     時鐘是我們計算時間的工具。
 
 sakacipinangaw(pinang)
@@ -5762,7 +5762,7 @@ sakacitiyadaw(tiyad)
 
 sakacitodong(todong)
 主持祭祀的原因，之所以有責任。
-    O cikawasay kako oni ko sakacitodong ako. 
+    O cikawasay kako oni ko sakacitodong ako.
     因為我是祭司，所以有責任主祭。
 
 sakacitodongaw(todong)
@@ -8624,10 +8624,10 @@ sakopiden(kopid)
 sakopol(kopol)
 鳥的爪子。
 
-Sakor 
+Sakor
 部落名稱。今臺灣花蓮市國福地區。
 
-Sakor 
+Sakor
 部落名稱。今臺灣花蓮縣富里鄉富里村地區。
 
 sakoramet(koramet)
@@ -9122,7 +9122,7 @@ salimpo(limpo)
 種蓮霧果。
 => misalimpo。
 
-Salimpo 
+Salimpo
 部落名稱。今臺灣台東縣長濱鄉寧浦村。
 
 salimpoan(limpo)
@@ -9737,7 +9737,7 @@ samedacen(samedac)
 
 samedachan(samedac)
 特地把…偏食、挑食。
-    Ano awa ko dateng samedachan ko holo a komaen. 
+    Ano awa ko dateng samedachan ko holo a komaen.
     如果沒有菜，就單吃飯。
 => samecedhan。
 
@@ -10410,7 +10410,7 @@ sanohirnohir(nohir)
 [疊 2]有意識地在地上打滾。
 => misanohinohir。
 
-Sao 
+Sao
 臺灣原住民族之一。邵族、邵人。
 
 saolatek(olatek)
@@ -10667,7 +10667,7 @@ sapalalitemoh(litemoh)
 
 sapalaliwalen(liwal)
 [疊 1]供出售、出賣的。
-    Mikorkor cingra to sapaiyo a lamit sapalaliwalen ningra. 
+    Mikorkor cingra to sapaiyo a lamit sapalaliwalen ningra.
     他挖中草藥供出售的。
 
 sapalasang(lasang)
@@ -12630,7 +12630,7 @@ sapicapoxaw(capox)
 
 sapicara(cara)
 干擾、妨礙他人使用的手段、工具。
-    O maan ko sapicara iso to kanpiwta no tao saw? 
+    O maan ko sapicara iso to kanpiwta no tao saw?
     你用什麼手段干擾別人的電腦呢？
 
 sapicaraaw(cara)
@@ -12703,7 +12703,7 @@ sapicelem(celem)
 
 sapicelemaw(celem)
 想潛水。
-    Sapicelemaw ako tora liay(liyal). 
+    Sapicelemaw ako tora liay(liyal).
     我想潛海。
 
 sapiceli'(celi')
@@ -12949,7 +12949,7 @@ sapicingaaw(cinga)
 
 sapicingcing(cingcing)
 侵佔、蠶食憑藉的工具、手段。
-    O maan ko sapicingcing iso to omah ira? 
+    O maan ko sapicingcing iso to omah ira?
     你通過什麼手段侵佔他的田產。
 
 sapicingcingaw(cingcing)
@@ -13846,7 +13846,7 @@ sapifadisaw(fadisaw)
 
 sapifadisawaw(fadisaw)
 想燒開水。
-    Sapifadisawaw kako to sakamino' nanom. 
+    Sapifadisawaw kako to sakamino' nanom.
     我想燒洗澡水。
 sapifadiso'so'(fadiso'so')
 摘葡萄使用的器具。
@@ -13950,7 +13950,7 @@ sapifariri(fariri)
     Sapifariri a funus.
     砍伐用的刀。
 => sapifariw.
-    
+
 
 sapifaririaw(fariri)
 想砍伐新墾地的草木。
@@ -14723,7 +14723,7 @@ sapihangingicaw(ngingic)
 
 sapihangorngor(ngorngor)
 用來直接衝擊、捕獲的器具。
-    O kanoos ko sapihangorngor no lokedaw to tamdaw. 
+    O kanoos ko sapihangorngor no lokedaw to tamdaw.
     豹子用瓜子抓人。
 
 sapihangorngoraw(ngorngor)
@@ -15234,7 +15234,7 @@ sapihofoc(hofoc)
 
 sapihofocaw(hofoc)
 想分娩、生育。
-    Sapihofocaw ni Panay to wawa. 
+    Sapihofocaw ni Panay to wawa.
     Panay(巴奈)想生孩子。
 
 sapihoka'(hoka')
@@ -15722,7 +15722,7 @@ sapikaloloaw(kalolo)
 
 sapikalona(kalona)
 捉弄、調戲他人使用的器具。
-    O maan ko sapikalona noya posi toya 'edo saw? 
+    O maan ko sapikalona noya posi toya 'edo saw?
     那隻貓用什麼方式捉弄老鼠呢？
 
 sapikalonaaw(kalona)
@@ -16653,7 +16653,7 @@ sapikohkohaw(kohkoh)
 
 sapikolahot(kolahot)
 抓傷、抓破使用的器具。
-    O kanoos ko sapikolahot no tamay(tomay) to tamdaw. 
+    O kanoos ko sapikolahot no tamay(tomay) to tamdaw.
     狗熊用爪子傷人。
 
 sapikolahotaw(kolahot)
@@ -17233,7 +17233,7 @@ sapilaladaw(lalad)
 
 sapilalakaw(lalakaw)
 準備建造房子使用的器物。
-    O kilang lingka 'amoto ko sapilalakaw to loma'. 
+    O kilang lingka 'amoto ko sapilalakaw to loma'.
     建造房子要準備木頭、紅磚、水泥。
 
 sapilalakawaw(lalakaw)
@@ -18093,7 +18093,7 @@ sapilisowa'aw(lisowa')
 sapilitangal(tangal)
 獵頭、砍頭使用的器具。
 => sapilifongoh。
-    
+
 sapilitangalaw(tangal)
 想獵頭、砍頭。
 => sapifongohaw。
@@ -18959,7 +18959,7 @@ sapingataaw(ngata)
 
 sapingato(ngato)
 繼續、接續工作憑藉的手段。
-    Oni mamiya ko sapingato iso a miritrit to panay. 
+    Oni mamiya ko sapingato iso a miritrit to panay.
     你用這把鐮刀繼續割稻子。
 
 sapingatoaw(ngato)
@@ -19904,12 +19904,12 @@ sapipacidalaw(cidal)
 
 sapipacingcing(cingcing)
 侵佔、霸佔他人東西使用的手段。
-    O maan ko sapipacingcing ira to dafong iso saw? 
+    O maan ko sapipacingcing ira to dafong iso saw?
     他用什麼手段霸佔你的財產呢？
 
 sapipacingcingaw(cingcing)
 想侵佔、霸佔。
-    Awaay ko sapipacingcingaw ako to maamaan no tao. 
+    Awaay ko sapipacingcingaw ako to maamaan no tao.
     我沒有貪圖他人財物的念頭。
 
 sapipacoco(coco)
@@ -21248,7 +21248,7 @@ sapipamo'edaw(mo'ed)
 
 sapipamo^ecek(mo^ecek)
 睜大眼睛、瞪眼憑藉的器具。
-    Ora wawa sapipamo^ecek sa mieneng i takowan. 
+    Ora wawa sapipamo^ecek sa mieneng i takowan.
     那孩子，睜大眼睛看我。
 
 sapipamo^ecekaw(mo^ecek)
@@ -22115,7 +22115,7 @@ sapipatalahekal(hekal)
 
 sapipatalahekal(hekal)
 坦露、披露事情憑藉的工具。
-    O tilifi ko sapipatalahekal niyam to demak ira. 
+    O tilifi ko sapipatalahekal niyam to demak ira.
     通過電視披露他的行為。
 
 sapipatalahekalaw(hekal)
@@ -22598,7 +22598,7 @@ sapipatoro'aw(toro')
 
 sapipatosok(tosok)
 達到目標、目的憑藉的工具。
-    O koliciw ko sapipatosok ako ciniraan a miraod. 
+    O koliciw ko sapipatosok ako ciniraan a miraod.
     我用自行走近他那裡。
 
 sapipatosokaw(tosok)
@@ -22987,7 +22987,7 @@ sapipiked(piked)
 
 sapipikedaw(piked)
 想彎曲、扭曲、想把東西搞彎、拐彎。
-    Sapipikedaw ni Kacaw to marad a saseti'. 
+    Sapipikedaw ni Kacaw to marad a saseti'.
     Kacaw(卡兆)想扭曲鐵棍子。
 
 sapipikpik(pikpik)
@@ -23051,7 +23051,7 @@ sapipoco'(poco')
 
 sapipoco'aw(poco')
 想復仇、報仇。
-    Sapipoco'aw na Rata kamowanan. 
+    Sapipoco'aw na Rata kamowanan.
     Rata(拉達)他們想報復你們。
 
 sapipodaw(podaw)
@@ -24012,7 +24012,7 @@ sapisa'adifaw('adif)
 
 sapisa'akawang('akawang)
 拔高、增高、弄高使用的器具。
-    O maan ko sapisa'akawang ira to capox saw? 
+    O maan ko sapisa'akawang ira to capox saw?
     他用什麼手段拔苗助長呢？
 
 sapisa'akawangaw('akawang)
@@ -24727,7 +24727,7 @@ sapisadodangaw(dodang)
 
 sapisadodoh(dodoh)
 鑿空樹幹、錛槽使用的器具。
-    O pawtaw ko sapisadodoh to tapang no kilang. 
+    O pawtaw ko sapisadodoh to tapang no kilang.
     錛樹幹的工具是斧頭。
 
 sapisadodohaw(dodoh)
@@ -24829,7 +24829,7 @@ sapisafadasaw(fadas)
 
 sapisafadic(fadic)
 造殼兒、封皮、外表使用的工具。
-    O kifetolay a padakopak ko sapisafadic to tikami. 
+    O kifetolay a padakopak ko sapisafadic to tikami.
     做信封用原紙。
 
 sapisafadicaw(fadic)
@@ -24985,7 +24985,7 @@ sapisafatiaw(fati)
 
 sapisafaya'(faya')
 欺淩、虐待他人使用的器具。
-    Oni a saseti' ko sapisafaya' ira toya pakoyoc. 
+    Oni a saseti' ko sapisafaya' ira toya pakoyoc.
     他用這根棍子虐待那個孤兒。
 
 sapisafaya'aw(faya')
@@ -25125,7 +25125,7 @@ sapisafokilaw(fokil)
 
 sapisafola(fola)
 愚弄他人使用的工具。
-    O maan ko sapisafola no miso to tamdamdaw saw? 
+    O maan ko sapisafola no miso to tamdamdaw saw?
     你怎麼會愚弄別人？
 
 sapisafolaaw(fola)
@@ -27987,7 +27987,7 @@ sapisoikoraw(ikor)
 
 sapisokadi(sokadi)
 糟蹋、損壞東西使用的器具。
-    Oni a satoktok ko sapisokadi ira to maamaan. 
+    Oni a satoktok ko sapisokadi ira to maamaan.
     他用這把錘子弄壞東西。
 
 sapisokadiaw(sokadi)
@@ -29570,7 +29570,7 @@ sapitilid(tilid)
 
 sapitilidan(tilid)
 曾經寫字、繪畫的器具。
-    Sapitilidan ako to pina a mihecaan koni a manihic. 
+    Sapitilidan ako to pina a mihecaan koni a manihic.
     我這跟鋼筆使用過好多年了。
 
 sapitilidaw(tilid)
@@ -29930,7 +29930,7 @@ sapitoker(toker)
 
 sapitokeraw(toker)
 想抵制，想頂住、挺住。
-    Sapitokeraw niyam to mararaway a miharatengan ira. 
+    Sapitokeraw niyam to mararaway a miharatengan ira.
     我們想抵制他的錯誤主張。
 
 sapitokinih(tokinih)
@@ -30097,7 +30097,7 @@ sapitoperaw(toper)
 
 sapitoris(toris)
 劃線、規劃壟溝使用的器具。
-	O faketaw ko sapitoris no sayxo to kilang. 
+	O faketaw ko sapitoris no sayxo to kilang.
 	木匠用墨斗線在木頭上劃線條。
 
 sapitorisaw(toris)
@@ -30860,7 +30860,7 @@ sararimasa(rarima)
 呈衰竭、軟弱無力、疲憊不堪的狀態。
     Sararimasa ko faloco' ako.
     我的心臟處於衰竭的樣子。
-    Sararimasa cingra a midangoy pasitira toya mimingay a kitakit. 
+    Sararimasa cingra a midangoy pasitira toya mimingay a kitakit.
 	他非常吃力地遊向那個小島。
 
 sararimok(rarimok)
@@ -32081,7 +32081,7 @@ sasetolen(setol)
 
 sasetoseto'sa(seto')
 [疊 1]有氣無力的樣子。
-    Mahrek a comikay cingra i sasetoseto'sa ko rakat ningra. 
+    Mahrek a comikay cingra i sasetoseto'sa ko rakat ningra.
     他跑走路沒力氣。
 
 sasi^enaw(si^enaw)
@@ -32378,7 +32378,7 @@ sasinoetsa(sinoet)
 [疊 1]大汗淋漓的樣子。
     Sasinoetsa cingra a mitilid to paya.
     他滿身流汗地寫著牌子。
-    Sasinoetsa cingra a mataya(matayar). 
+    Sasinoetsa cingra a mataya(matayar).
     他汗流夾背地工作。
 
 sasinowayen(sinoway)
@@ -32802,7 +32802,7 @@ sasopeten(sopet)
 sasopiten(sopit)
 [疊 1]
 ①  要捋鬍子，使平坦。
-    O sasopiten no malitengay ko ngisngis ira. 
+    O sasopiten no malitengay ko ngisngis ira.
     老人要捋自己的鬍鬚。
 ②  指要捋的(東西)。
     Sasopiten a ngisngis.
@@ -33248,7 +33248,7 @@ sataminaen(tamina)
     Sataminaen kora 'aol !
     把那些竹子造船吧！
 
-Satan 
+Satan
 撒旦。[英語借詞]《聖經》中的魔鬼。
 =>Satang。
 
@@ -34149,7 +34149,7 @@ saysi
     O saysi ko painiay to kakaenen no kawas.
     祭師獻上祭品給神。
 
-Saysiyat 
+Saysiyat
 臺灣原住民族之一。賽夏族、賽夏人。
 
 saytaw
@@ -34158,7 +34158,7 @@ saytaw
 sayxo
 師傅、工匠。[閩南語借詞]
 
-Sedeng 
+Sedeng
 部落名稱。今臺灣花蓮縣玉裏鎮大禹地區。
 
 sedeng
@@ -34372,7 +34372,7 @@ semot
     Akawang to ko semot i padatengan.
     菜園的雜草長高了。
 
-Sena' 
+Sena'
 部落名稱。今臺灣台東縣東河鄉北源村地區。
 
 sena'
@@ -35110,7 +35110,7 @@ singda
     Singkapol
     新加坡。[日語借詞]
 
-Singko 
+Singko
 地名。今臺灣台東縣成功鎮。
 => Sinko。
 => Madawdaw。
@@ -35147,7 +35147,7 @@ sinilen(sinil)
     Sinilen to ira kora kaying.
     他瞟了那個小姐一眼。
 
-Sinko 
+Sinko
 地名、今臺灣台東縣成功鎮、舊稱新港。
 => Singko。
 => Madawdaw。
@@ -35250,7 +35250,7 @@ sirawen(siraw)
     Sirawen ko titi no fafoy.
     把野豬肉醃起來。
 
-Siraya 
+Siraya
 臺灣平埔族群之一。西拉雅族、西拉雅人，分布於台南縣市。
 
 siri
@@ -35595,7 +35595,7 @@ semo'ot(mo'ot)
     Semo'ot kako to 'asisiw.
     我捆稻草。
 ②  計量單位、百。
-    原指“cecay a eli'an. 
+    原指“cecay a eli'an.
     一大捆茅草。”
 
 semot
@@ -35723,7 +35723,7 @@ sodat
 
 sodatsa(sodat)
 一鑽出來、一竄出來。
-    Sodatsa a masadak nai ofang no 'ongcoy ko 'onen. 
+    Sodatsa a masadak nai ofang no 'ongcoy ko 'onen.
     火從洞口竄出來。
 
 sodoc
@@ -36059,7 +36059,7 @@ sonay
 衣服耐穿、耐用。
 => masonay。
 
-Sonay 
+Sonay
 女人的名字。
 
 songada
@@ -36115,7 +36115,7 @@ songidet(ngidet)
 => misongidet。
 
 songideten(ngidet)
-把鼻涕擤掉。 
+把鼻涕擤掉。
 => dingeten。
 => ngoseten。
 => songeten。

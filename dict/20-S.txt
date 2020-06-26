@@ -268,7 +268,7 @@ sa'alangad('alangad)
 sa'alangaden('alangad)
 把…做飯團、做飯團吧。
     Sa'alangaden
-    
+
 
 koni hemay hakakaenen ako i
 
@@ -1123,7 +1123,7 @@ sa'oca'ocay('ocay)
 sa'oca'ocayen('ocay)
 [疊 2]拼命掙扎吧。
     Sa'oca'ocayen
-    
+
 
 ira i 'a'aloan a midangoy saaikor
 
@@ -1358,7 +1358,7 @@ saan(sa)
 saanalalsa(analal)
 那麼焦急、越來越焦急。
     Saanalalsa
-    
+
 
 ko faloco' naira to sakaciwawaaw no
 wawa. 他們盼望有孩子的心情是那麼迫切焦急。
@@ -1391,7 +1391,7 @@ saapaen(apa)
 saara'awsa(ara'aw)
 那麼嘈雜喧鬧的樣子。
     Saara'awsa a
-    
+
 
 lahekel ko tamdamdaw malasalilam to
 omah. 人們嘈雜喧鬧地叫嚷著互相分田地。Saarowa 臺灣原住民族之一。沙阿魯阿族，沙阿魯阿人。
@@ -1743,7 +1743,7 @@ sacingacingasa(cinga)
 sacingacingasa(cinga)
 [疊 2]東張西望著、四周張望起來。
     Sacingacingasa koya mi'adopay
-    
+
 
 a tamdaw to tatihitihi a mikilim to
 lotong. 獵人擡頭張望四周找猴子。
@@ -1973,7 +1973,7 @@ sademademaken(demak)
 
 sademi'(demi')
 建造廚房。參見
-    misademi''
+    misademi'
     。
 
 sademi'en(demi')
@@ -2112,7 +2112,7 @@ saedahay(saedah)
 saedahen(saedah)
 把…輕拿、輕放。
     Saedahen kora
-    
+
 
 kaysing a mipateli i kafekang no eto
 ! 把碗輕輕地放在桌子上吧！
@@ -2539,7 +2539,7 @@ safaloan(falo)
 
 safaloco'(faloco')
 用心、深思熟慮。參見
-    misafaloco''
+    misafaloco'
     。
 
 safaloco'en(faloco')
@@ -2556,7 +2556,7 @@ safaloen(falo)
 safalokfoksa(falokfok)
 嘩啦啦地響起來。
     Safalokfoksa
-    
+
 
 marokrok koya mifadisawan a
 nanom. 煮開的水嘩啦啦地沸騰著。
@@ -3104,7 +3104,7 @@ safaliwfiwsa(faliwfiw)
 
 safolo'(folo')
 種箭竹。參見
-    misafolo''
+    misafolo'
     。
 
 safolo'an(folo')
@@ -3398,7 +3398,7 @@ sahatiraen(tira)
 sahatirahan(tira)
 就把…按照那樣子做。
     Sahatirahan ira
-    
+
 
 ko sowal noya malitengay mikiting ko
 
@@ -3801,7 +3801,7 @@ saka'esingaw('esing)
 saka^eca(^eca)
 之所以不會(出現)。
     Saka^eca kataira i loma' iso, awaay to ko romi'ad ako !
-    
+
 
 saka^efo(^efo)
 犯罪、造成過失的用具、原因。
@@ -3882,7 +3882,7 @@ saka'orad('orad)
 saka'oripaw('orip)
 想活命，希望維持生命。
     Saka'oripaw
-    
+
 
 no 'a'adopen nihimeday i lalotokan a
 maemin. 野獸想活命，全都隱藏在山林裡。
@@ -4371,7 +4371,7 @@ sakacicengelaw(cengel)
 sakacicengo'(cengo')
 有芽、長芽的原因。
     Raridsa kako
-    
+
 
 pananom to sapaloma oya ko
 
@@ -4589,7 +4589,7 @@ sakaciekim('ekim)
 sakaciekimaw('ekm)
 想有金、有銀。
     Sakaciekimaw no
-    
+
 
 tamdamdaw kawrira ca to kapapina ko
 
@@ -4667,7 +4667,7 @@ sakacifangtaaw(fangta)
 sakacifanoh(fanoh)
 有毛、長毛的原因。
     Nga'ayay a
-    
+
 
 adihayay ko nikaenan na ciwciw oya
 
@@ -4834,7 +4834,7 @@ sakacihadecaw(hadec)
 sakacihafay(hafay)
 有小米、財產的原因。
     Adihayay ko
-    
+
 
 omah ato kakaenen ora ko sakacihafay
 ira. 田產多，糧食多，所以他富有財產。
@@ -5259,7 +5259,7 @@ sakacilengacaw(lengac)
 sakacilidong(lidong)
 有樹蔭、遮蔭的原因。
     Kidefetay ko
-    
+
 
 ca'ang ato papah na kilang oni ko
 
@@ -5368,7 +5368,7 @@ sakacilosidaw(losid)
 sakacima'ad(ma'ad)
 有講稿、故事的原因。
     Maolahay to
-    
+
 
 ko malitengay a mikimad toya no
 
@@ -5811,7 +5811,7 @@ sakacisamo'aw(samo')
 sakacisaong(saong)
 戴斗笠的原因。
     Ma'oraday to ko
-    
+
 
 romi'ad oni to ko sakacisaong no
 
@@ -5948,7 +5948,7 @@ sakacitalipaw(talip)
 sakacitama'(tama')
 有獵獲的原因。
     Ni'adopan ako ko siri
-    
+
 
 fafoy mancel oya to ko sakacitama'
 ako. 我捕獲了山羊、野豬、鹿，因此我有獵物了。
@@ -6031,7 +6031,7 @@ sakacitawidwidaw(tawidwid)
 sakacitfos(tefos)
 有甘蔗、產甘蔗的緣故。
     Faedetay ko
-    
+
 
 romi'ad mamatangay ko sera oya to
 
@@ -6547,7 +6547,7 @@ sakaino'aw(ino')
 sakaira(ira)
 所以有、有的原因。
     Lolaysa kami a
-    
+
 
 mifariw mipitaw tona mimingay a
 
@@ -6677,7 +6677,7 @@ sakakoten(kakot)
 sakakoyokoyolsa(kakoyol)
 [疊 2]成群結隊地。
     Sakakoyokoyolsa
-    
+
 
 ko tamdaw a micemod i kadademakan
 
@@ -6765,7 +6765,7 @@ sakalafinaw(lafin)
 sakalaheci(heci)
 取得成績、成果的緣故。
     Sakalaheci
-    
+
 
 niyam o malacecay to ko faloco'
 niyam. 我們之所以取得成績，是因為我們一條心。
@@ -6913,7 +6913,7 @@ sakaliekien(kalieki)
 sakaliekihan(kalieki)
 特地把…加速。
     Ira ko tomay a milafa'
-    
+
 
 i takowanan sakaliekihan ako a
 milaliw. 因有熊追趕著我，我就加速跑開。同
@@ -6925,7 +6925,7 @@ sakaliekisa(kalieki)
     Sakaliekisa cangra a milimek.
     他們很快地躲藏起來。
     sakaliekisa cingra
-    
+
 
 mihimed toya po'ot i cani'iw no
 talo'an. 他趕快把小刀藏在工寮的角落裏。同
@@ -7130,7 +7130,7 @@ sakamaino'aw(ino')
 sakamaomah(omah)
 耕墾勞動工具、農具。
     O kangkang
-    
+
 
 ato sasenat ato pitaw ato maamaan ko
 
@@ -7236,7 +7236,7 @@ sakamoko'han(kamoko')
 sakamoko'sa(kamoko')
 弄得短短的樣子。
     Sakamoko'sa ko
-    
+
 
 farawfawan nira ca kanga'ay a
 
@@ -7462,7 +7462,7 @@ sakapahen(kapah)
 sakapalasol(lasol)
 使之先行、先走的緣故。
     Sakapalasol
-    
+
 
 canira ira to ko dademaken ira i
 loma'. 之所以讓他們先走，因為家裡有要做的事情。
@@ -7650,7 +7650,7 @@ sakaranamen(ranam)
 sakararamod(ramod)
 [疊 1]所以結婚的緣故。
     Sakararamod
-    
+
 
 naira tatosa o makahiay ko wama ato
 
@@ -7787,7 +7787,7 @@ sakaro'en(karo')
 sakaroho(roho)
 蹲踞的原因。
     Sakaroho a komaen
-    
+
 
 o awaay ko sakakomaen a eto ato
 'axenan. 所以蹲著吃飯，是因為沒有吃飯用的桌椅。
@@ -8330,7 +8330,7 @@ saki'oradan('orad)
 saki'oradansa('orad)
 處於淋雨之中。
     Saki'oradansa cangra
-    
+
 
 tayra toya ci'acofelay a tokos a miala
 
@@ -8690,7 +8690,7 @@ sako'edaway(ko'edaw)
 sako'edawen(ko'edaw)
 把…弄長、加長。
     Oya samimingay a
-    
+
 
 lotong sako'edawen ningra ko kamay
 
@@ -9280,7 +9280,7 @@ salafiisa(lafii)
 salahekelsa(lahekel)
 那麼快活、痛快、興奮。
     Salahekelsa
-    
+
 
 ko faloco' no wina a mieneng ta
 wawa. 著那些孩子，母親心裏是那麼陶醉、興奮。
@@ -9867,7 +9867,7 @@ saloma'en(loma')
 salomaingsa(lomaing)
 軟弱無力、虛弱的樣子。
     O kaadah ho
-    
+
 
 no adada ira salomaingsa ko tireng
 ira. 他的病剛好，身體軟弱無力的樣子。
@@ -11179,7 +11179,7 @@ sapakoyocay(pakoyoc)
     Awaay ko cecacecay aca a payso ira, salaw sapakoyocay cinira.
     他一分錢也沒有，所以他最貧窮了。。
     Sapakoyocay a
-    
+
 ②  最貧窮的(人) tamdaw. 窮人。
 
 sapal
@@ -11503,7 +11503,7 @@ sapatersa(pater)
     Sapatersa cingra a satalifutifuti'.
     他靜伏不動地假裝睡覺。
     Sapatersa a mitengil
-    
+
 
 koya mitiliday a tamdaw to sowal no
 singsi. 學生靜靜地聽老師的話。
@@ -12672,7 +12672,7 @@ sapi'owid('owid)
 sapi'owidaw('owid)
 想要稍稍提起重物。
     Sapi'owidaw
-    
+
 
 kora fainayan to fokeloh mikilim to
 
@@ -13081,7 +13081,7 @@ sapicalapedaw(calaped)
 sapicalay(calay)
 牽引、牽制的用具。
     O towaso ko
-    
+
 
 sapicalay niyam toya matelangay a
 
@@ -14460,12 +14460,12 @@ sapifadicaw(fadic)
 sapifadisaw(fadisaw)
 燒開水使用的器具。
     O sapifadisaw konini a nanom.
-    
+
 
 sapifadisawaw(fadisaw)
 想燒開水。
     Sapifadisawaw kako to sakamino' nanom.
-    
+
 
 sapifadiso'so'(fadiso'so')
 摘葡萄使用的器具。
@@ -14569,7 +14569,7 @@ sapifariri(fariri)
     Sapifariri a funus.
     砍伐用的刀。同
     sapifariw
-    
+
 
 sapifaririaw(fariri)
 想砍伐新墾地的草木。
@@ -15388,7 +15388,7 @@ sapihaop(haop)
 sapihaopaw(haop)
 想整個地歸攏、總括。
     Sapihaopaw
-    
+
 
 ho no wina to maamaan mipateli i
 
@@ -18799,7 +18799,7 @@ sapilisowa'aw(lisowa')
 sapilitangal(tangal)
 獵頭、砍頭使用的器具。同
     sapilifongoh
-    
+
 
 sapilitangalaw(tangal)
 想獵頭、砍頭。同
@@ -19869,7 +19869,7 @@ sapingodangodaw(ngodangod)
 sapingohah(ngohah)
 約會、幽會的方式。
     O maan ko sapingohah naira tatosa
-    
+
 
 sapingohahaw(ngohah)
 想約會、幽會。
@@ -20046,7 +20046,7 @@ sapinonoh(nonoh)
 sapinonohaw(nonoh)
 想撿破爛。
     Sapinonohaw nora
-    
+
 
 malitengay to rakad ato lata' o
 maamaan. 那位老人想撿渣滓、木屑等東西。
@@ -22621,7 +22621,7 @@ sapipasifana'aw(fana')
 sapipasifekang(fekang)
 讓東西朝上面方向的用具。
     Pakafana'en
-    
+
 
 kako o maan ko sapipasifekang toni
 maamaan? 告訴我，用什麼工具把這東西朝上翻過去？
@@ -23192,7 +23192,7 @@ sapipatenak(tenak)
 sapipatenakaw(tenak)
 想傳播、散播、想繁衍。
     Sapipatenakaw
-    
+
 
 ako to sowal no malitengay i
 
@@ -24459,7 +24459,7 @@ sapirina'aw(rina')
 sapiringaring(ringaring)
 太陽下山的方式。
     O sowal noya
-    
+
 
 malitengay o kalileng ko sapiringaring
 
@@ -26753,21 +26753,21 @@ sapisakopidaw(kopid)
 sapisakoreng(koreng)
 做陶器使用的器物。
     Sapisakoreng
-    
+
     a dita'.
     做陶器的泥土。
 
 sapisakorengaw(koreng)
 想做陶器。
     Sapisakorengaw
-    
+
     ako to pipananoman.
     我想做裝水的陶器。
 
 sapisakoriyat(koriyat)
 睜開眼睛使用的器具。
     Sapisakoriyat
-    
+
     no kawas to mata.
     妖怪睜眼用的工具。
 
@@ -27873,7 +27873,7 @@ sapisatangkiaw(tangki)
 sapisatanoktok(tanoktok)
 捆紮結實使用的用具。
     O walay ko
-    
+
 
 sapisatanoktok niyam a mipaketing to
 fayang. 拴船帆時我們用線捆結實。
@@ -28813,7 +28813,7 @@ sapiso'ayaw('ayaw)
 sapiso'ayawaw('ayaw)
 想抗衡、想抵制。
     Sapiso'ayawaw
-    
+
 
 niyam toya tatiihay ko faloco' a
 tawki. 我們想抵制那些心地不善的老闆。
@@ -29294,7 +29294,7 @@ sapita'owakaw(ta'owak)
 sapita'esel(ta'esel)
 戳穿、刺透使用的器具。
     Oni a kotang
-    
+
 
 ko sapita'esel ako to fadahong no
 tomay. 我用這把矛槍穿透狗熊的胸膛。
@@ -29374,7 +29374,7 @@ sapitadihang(tadihang)
 sapitadihangaw(tadihang)
 想喊叫、想喊人。
     Sapitadihangaw ako
-    
+
 
 toya widang ako kataini i takowanan
 sanay. 我想對我的朋友喊道：“請到我這裡來！”
@@ -30511,7 +30511,7 @@ sapitilid(tilid)
 sapitilidan(tilid)
 曾經寫字、繪畫的器具。
     Sapitilidan
-    
+
 
 ako to pina a mihecaan koni a
 manihic. 我這跟鋼筆使用過好多年了。
@@ -30876,7 +30876,7 @@ sapitoker(toker)
 sapitokeraw(toker)
 想抵制，想頂住、挺住。
     Sapitokeraw
-    
+
 
 niyam to mararaway a miharatengan
 ira. 我們想抵制他的錯誤主張。
@@ -31616,7 +31616,7 @@ sapiyatayataw(yatayat)
 sapiyopiyoksa(piyok)
 [疊 2]不停地頓足的樣子，頓足踏蹄地。
     Kasini'adaan kona wawa
-    
+
 
 sapiyopiyoksa ko rakat ningra a
 miraod. 這孩子滿可憐的他蹣跚的走來。
@@ -31835,7 +31835,7 @@ sararimasa(rarima)
     Sararimasa ko faloco' ako.
     我的心臟處於衰竭的樣子。
     Sararimasa cingra
-    
+
 
 a midangoy pasitira toya mimingay a
 kitakit. 他非常吃力地遊向那個小島。
@@ -32357,7 +32357,7 @@ sasafatien(fati)
     Sasafatien no sayxo ko tadaekim.
     工匠要把金子打成戒指。。
     Sasafatien
-    
+
 ②  指要戴在手上的(戒子)
     a 'ekim.
     要做戒指的金子。
@@ -32574,7 +32574,7 @@ sasalamaen(salama)
     O sasalamaen koni tosiya.
     這輛汽車是要玩耍用的。。
     Sasalamaen a
-    
+
 ②  指要玩耍的(東西)
     'acocol.
     要玩耍用的陀螺。
@@ -32842,7 +32842,7 @@ sasekayen(sekay)
     Oni a lalosidan ko sasekayen.
     這件行李即將被寄託。。
     Sasekayen
-    
+
 ②  指要寄託的(物件)
     a maamaan.
     即將被寄託的東西。
@@ -33276,7 +33276,7 @@ sasina'adasa(sina'ada)
     sasini'adasa
     。
     Sasina'adasa
-    
+
 
 kako toya mapolinay i lalan a
 
@@ -33304,7 +33304,7 @@ sasinanoten(sinanot)
 sasinanoten
 自律、鎮定的行為管理。
     Sasinanoten
-    
+
 
 ko pinangan iso hamaan ira ko tatiihay
 a demak. 你要保守行事，不要做壞事。
@@ -33672,7 +33672,7 @@ sasolinga'en(solinga')
     Sasolinga'en ako ko kafuti'an ako.
     我要把床舖收拾好。。
     Sasolinga'en
-    
+
 ②  指要擺整齊的(東西)
     a demak.
     即將被整理收拾好的事情。同
@@ -33882,7 +33882,7 @@ saso'solen(so'sol)
     O saso'solen ako ko sasimi.
     我要把生魚片串起來。。
     O maan ko
-    
+
 ②  指要編串的(東西)
     saso'solen iso?
     你要編串的是什麼東西？同
@@ -33912,7 +33912,7 @@ sasowalen(sowal)
     O sasowalen ako koya demak.
     我要把那件事說出來的。。
     O maan ko
-    
+
 ②  指要手說的(物件)
     sasowalen iso?
     你要說什麼？
@@ -33927,7 +33927,7 @@ sasowasowawen(sowasowaw)
 sasowasowawsa(sowasowaw)
 [疊 1]上下顛簸著。
     Sasowasowawsa
-    
+
 
 ko tamina mico'a'ang to taplik a
 
@@ -34772,7 +34772,7 @@ satiritiri'en(tiri')
 satiritiri'han(tiri')
 [疊 2]特地把…仔細看。
     Satiritiri'han
-    
+
 
 ningra i kamay koya makapahay a
 toko. 他把美麗的田螺特地放在手裏反覆仔細地看。
@@ -35682,7 +35682,7 @@ sied
 sierodhan(sierod)
 特地把…弄整齊。
     Sierodhan ni Foray
-    
+
 
 a ni'afalang a mipanokay koya
 
@@ -36864,7 +36864,7 @@ solimet
 solimeten(solimet)
 把…收拾、整理、歸攏。
     Solimeten ita
-    
+
 
 kona malaklakay a tilid i kafekang no
 ^to. 我們把散亂在桌子上的書籍收拾一下。
@@ -36929,7 +36929,7 @@ solsol
 solsolen(solsol)
 把…編串在一起。
     Solsolen ni Atang
-    
+
 
 ko papah no kilang a misanga' to
 talip. 亞當把樹葉編串起來做裙子。
@@ -37096,7 +37096,7 @@ soot
 sooten(soot)
 把…堵住、堵塞。
     Sooten ningra to
-    
+
 
 ma'icangay a talod ko ngoyos noya
 dipong. 他用乾草把鳥巢的口兒堵住。
