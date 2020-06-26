@@ -2,7 +2,6 @@ class Definitions < ActiveRecord::Migration[6.0]
   def up
     create_table :definitions do |t|
       t.integer :term_id
-      t.string  :content
       t.timestamps
     end
 

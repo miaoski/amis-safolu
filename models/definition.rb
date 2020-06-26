@@ -4,7 +4,6 @@
 #
 #  id         :integer          not null, primary key
 #  term_id    :integer
-#  content    :string
 #  created_at :datetime         not null
 #  updated_at :datetime         not null
 #
