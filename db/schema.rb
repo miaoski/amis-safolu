@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_06_21_140234) do
+ActiveRecord::Schema.define(version: 2020_06_27_174257) do
 
   create_table "definitions", force: :cascade do |t|
     t.integer "term_id"
@@ -23,6 +23,8 @@ ActiveRecord::Schema.define(version: 2020_06_21_140234) do
     t.string "content"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "term_id"
+    t.index ["term_id"], name: "index_descriptions_on_term_id"
   end
 
   create_table "examples", force: :cascade do |t|

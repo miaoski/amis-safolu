@@ -10,5 +10,5 @@
 #
 
 class Example < ApplicationRecord
-  belongs_to :definition
+  belongs_to :description
 end
