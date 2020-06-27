@@ -11,6 +11,7 @@
 #
 
 class Description < ApplicationRecord
+  belongs_to :term
   belongs_to :definition
   has_many   :examples
   has_many   :synonyms
