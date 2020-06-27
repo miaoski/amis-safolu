@@ -8,6 +8,7 @@ RawContent.find_each do |raw|
   key.sub!('）', '')
   _term, _stem = key.split('（')
   _term.strip!
+  _stem.strip!
 
   stem = Stem.find_or_create_by(name: _stem) if _stem.present?
   if stem.present?
