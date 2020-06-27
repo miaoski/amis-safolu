@@ -7,6 +7,7 @@
 #  content       :string
 #  created_at    :datetime         not null
 #  updated_at    :datetime         not null
+#  term_id       :integer
 #
 
 class Description < ApplicationRecord
