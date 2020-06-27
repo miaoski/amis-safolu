@@ -10,6 +10,7 @@ require './models/description'
 require './models/example'
 require './models/synonym'
 
+# 跑一次大約要 220 秒
 Term.includes(:stem, definitions: {descriptions: [:examples, :synonyms]})
     .find_each do |term|
   hash = {
