@@ -15,4 +15,6 @@ class Term < ApplicationRecord
   has_one    :raw_content
   has_many   :definitions
   has_many   :descriptions
+
+  validates_uniqueness_of :name
 end
