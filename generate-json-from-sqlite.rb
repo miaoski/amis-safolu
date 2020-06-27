@@ -10,11 +10,18 @@ require './models/description'
 require './models/example'
 require './models/synonym'
 
-# 跑一次大約要 220 秒
-Term.includes(:stem, definitions: {descriptions: [:examples, :synonyms]})
-    .find_each do |term|
-  hash = {
-    h: term.definitions.map do |definition|
+index_json = File.read("s/index.json")
+terms = JSON.parse(index_json)
+
+# 跑一次大約要 40 分
+terms.each do |name|
+  hash = {t: name, h: []}
+
+  Term.includes(:stem, definitions: {descriptions: [:examples, :synonyms]})
+      .where("LOWER(name) = ?", name)
+      .order(stem_id: :desc, repetition: :desc)
+      .each_with_index do |term, i|
+    hash[:h] += term.definitions.map do |definition|
       {
         d: definition.descriptions.map do |description|
           def_hash     = { f: description.content }
@@ -29,11 +36,13 @@ Term.includes(:stem, definitions: {descriptions: [:examples, :synonyms]})
           def_hash
         end
       }
-    end,
-    t: term.name
-  }
-  hash[:stem] = term.stem.name if term.stem.present?
-  hash[:tag] = "[疊 #{term.repetition}]" if term.repetition.to_i > 0
+    end
 
-  File.write("s/#{term.name}.json", hash.to_json)
+    if i.zero?
+      hash[:stem] = term.stem.name            if term.stem.present?
+      hash[:tag]  = "[疊 #{term.repetition}]" if term.repetition.to_i > 0
+    end
+  end
+
+  File.write("s/#{name}.json", hash.to_json)
 end

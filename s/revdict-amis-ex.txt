@@ -40839,7 +40839,6 @@ arawien
 'enigTadamakapah ko 'enig nora kaying.那位小姐的首飾非常漂亮。
 'eyaken
 'inco
-A
 acinomotoPaacinomotoen ko dateng.菜要加一點味精。
 angkiAngkien ko Cudad. 背書。
 akacingkiMatekes konini a akacingki.紅藥水的價錢很貴。
@@ -40866,7 +40865,6 @@ aycen
 aycu
 aysacu
 aysklim
-C
 campang
 canli
 cap
@@ -40897,7 +40895,6 @@ cyoking
 cyolo Kyokay
 cyukakko
 cyumpi
-D
 dansu
 ici das
 dayhiw
@@ -40912,7 +40909,6 @@ dinsya
 doksing
 duku
 tuku
-F
 fangko
 fakici
 fakking
@@ -40942,7 +40938,6 @@ fuliki
 funka
 funsang
 futo
-H
 hakasi
 hakaki
 hakufuku
@@ -40976,7 +40971,6 @@ hotilo
 hong
 hucu
 hwana
-I
 icifang
 ingkang
 ikakang
@@ -40991,7 +40985,6 @@ insacu
 insoko
 ingkihoy
 iwasi
-K
 kacali
 kaciwdinto
 kacudu
@@ -41074,7 +41067,6 @@ kwaping
 kyacci
 kyodang
 kyoday
-L
 lacyo
 lakasang
 lakuda
@@ -41098,7 +41090,6 @@ lisok
 liwkang
 losoko
 luingtay
-M
 mafulusi
 mapulusi
 mahofin
@@ -41126,7 +41117,6 @@ mukung
 munday
 musing
 muwa
-N
 nafi
 namali
 ningkiw
@@ -41134,7 +41124,6 @@ nikifi
 nikutay
 niwsu
 noli
-O
 ocyaya
 ofa
 ofasang
@@ -41151,7 +41140,6 @@ osyongac
 oysang
 otong
 oytaming
-P
 pangku
 pangiiw
 pakayaro
@@ -41189,9 +41177,7 @@ polopila
 pompu
 pudaw
 puaki
-R
 ristolan
-S
 safun
 sakas
 sailailay
@@ -41270,7 +41256,6 @@ syasing
 syasingki
 syataw
 syohing
-T
 Takasakucok
 tangiiw
 tangku
@@ -41320,7 +41305,6 @@ tulangko
 twami
 twasu
 tiyamsim
-U
 uculi
 ucya
 ucyaya
@@ -41332,13 +41316,10 @@ unpang
 unsuya
 usuy
 uyya
-W
 wakay
 wangkang
 wani
 waya
-X
-Y
 yacing
 yasumi
 yakang
