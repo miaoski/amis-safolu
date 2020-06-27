@@ -3,6 +3,7 @@ require './models/raw_content'
 require './models/term'
 require './models/stem'
 
+# 跑一次大約要 10 分鐘
 RawContent.find_each do |raw|
   key = raw.key
   key.sub!('）', '')
