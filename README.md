@@ -2,6 +2,13 @@
 
 辭典檔案在： [txt/dict-amis.json](https://github.com/miaoski/amis-safolu/blob/master/txt/dict-amis.json)
 
+## 環境
+
+* Ruby v2.6+
+* bundler v2.0.1
+* ActiveRecord v6.0.3.2
+* sqlite
+
 ## 轉換 docx 到 html
 
 透過 https://soffice.sheethub.net 轉換 docx 到 html。
@@ -13,17 +20,22 @@ $ ruby ../../docx-to-html.rb
 
 ## 轉換 html 存到 sqlite
 
-```
-$ ruby parsing.rb
-$ ruby parsing-terms.rb
-$ ruby parsing-content.rb
-```
-
-## 從 sqlite 產生 json 檔案
+需要依序執行。
 
 ```
-$ ruby generate-json-from-sqlite.rb # 產生單詞 json
+$ ruby parsing.rb # 從 html 存到 RawContent
+$ ruby parsing-terms.rb # 從 RawContent 建立單詞和詞幹
+$ ruby parsing-content.rb # 從 RawContent 建立定義、例句和關連詞
+```
+
+## 從 sqlite 產生 json 單詞檔案
+
+需要依序執行。
+
+```
 $ ruby generate-moedict-json.rb # 產生阿美語萌典需要的 json
+$ ruby link-json-to-terms.rb # 將定義、例句和關連詞的內容，連結到對應詞
+$ ruby generate-json-from-sqlite.rb # 產生單詞 json
 ```
 
 ## 操作 model table
