@@ -95,6 +95,7 @@ def parsing_by_file(name:)
   end
 end
 
+# 跑一次大約要 150 秒
 FILE_LIST.each do |filename|
   parsing_by_file(name: filename)
 end
