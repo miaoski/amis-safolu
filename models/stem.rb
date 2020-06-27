@@ -11,5 +11,5 @@
 class Stem < ApplicationRecord
   has_many :terms
 
-  validates_uniqueness_of :name
+  validates :name, uniqueness: { case_sensitive: false }
 end
