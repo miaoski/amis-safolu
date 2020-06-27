@@ -19,10 +19,11 @@ $ ruby parsing-terms.rb
 $ ruby parsing-content.rb
 ```
 
-## 從 sqlite 產生 json 單詞檔案
+## 從 sqlite 產生 json 檔案
 
 ```
-$ ruby generate-json-from-sqlite.rb
+$ ruby generate-json-from-sqlite.rb # 產生單詞 json
+$ ruby generate-moedict-json.rb # 產生阿美語萌典需要的 json
 ```
 
 ## 操作 model table
