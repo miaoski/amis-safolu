@@ -14,7 +14,6 @@ ActiveRecord::Schema.define(version: 2020_06_21_140234) do
 
   create_table "definitions", force: :cascade do |t|
     t.integer "term_id"
-    t.string "content"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -27,10 +26,10 @@ ActiveRecord::Schema.define(version: 2020_06_21_140234) do
   end
 
   create_table "examples", force: :cascade do |t|
-    t.integer "definition_id"
+    t.integer "description_id"
     t.string "content"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "raw_contents", force: :cascade do |t|
@@ -49,10 +48,10 @@ ActiveRecord::Schema.define(version: 2020_06_21_140234) do
   end
 
   create_table "synonyms", force: :cascade do |t|
-    t.integer "definition_id"
+    t.integer "description_id"
     t.string "content"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
     t.string "term_type", limit: 5
   end
 
