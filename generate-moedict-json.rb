@@ -42,6 +42,7 @@ def revdict_amis_ex_txt
   end
 end
 
+# 跑一次大約要 150 秒
 %w(index_json stem_words_json revdict_amis_def_txt revdict_amis_ex_txt).each do |name|
   eval(name)
 end

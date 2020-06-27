@@ -9,6 +9,7 @@ require './models/description'
 require './models/example'
 require './models/synonym'
 
+# 跑一次大約要 10 分鐘
 def process_definition(def_string)
   # puts "\n\n\n.............process_definition.............."
   # puts def_string

@@ -3960,7 +3960,7 @@ ha'anongnonganHa'anongnongan no talo'an niyam konini a kilang. 把這個木料�
 ha'anongnonganen
 ha'eminCaay kafana'en ha'emin han nangra a mitakaw ko omah niyam. 在不知不覺中他們把我們的地全部偷光了？
 ha'eminayCangra ko ha' eminay to tayal. 他們把工作全部作完。
-ha' eminenHa' eminen niyam kona ' epah i koreng a komaen anini. 今天我們要把這陶器皿內的酒全部喝完。
+ha'eminenHa' eminen niyam kona ' epah i koreng a komaen anini. 今天我們要把這陶器皿內的酒全部喝完。
 ha'onocMisanga' kako to ha'onoc a miradom. 我來製做扁擔準備挑水。
 ha'onocenHa'onocen niyam ko 'aol. 我們以竹子當扁擔。
 hacaMisaholo i loma' cingra, midipot haca to tatoloay a safa ako. 她在家做飯，又要照顧三個弟妹。
@@ -8854,7 +8854,7 @@ ma'iyofay
 ma'ikos(‘ikos)
 ma'elocMa'eloc to miming koya cokap. 那雙鞋被磨損一點點。Ma'eloc to no kolong kona rengos a komaen. 青草被牛吃掉一層了。
 ma'elocayMa'elocay no nanom ko fokeloh. 石頭被水磨光了。
-ma'em 'emay
+ma'em'emay
 ma'em'emMa'em'em ako ko adada. 我能忍住傷病。
 ma'emec
 ma'emecay
@@ -39431,6 +39431,7 @@ tata'edi'edip
 tata'edi'edipsaTata'edi'edipsa nani 'amis taha timol ko mihifalatay a tokos. 重山疊巒南北橫臥。
 tata'elifenO tata'elifen noniyam konini a niyaro'. 我們要經過這個部落。
 tata'enTata'en no naliti' ko kamay ako. 芒草割傷我的手。
+ta'ta'enTata'en no naliti' ko kamay ako. 芒草割傷我的手。
 tatafik
 tatafokan
 tataheciw
@@ -41349,4 +41350,3 @@ yakuwing
 Yis／Yisu
 yofingkyok
 yuducingki
-ta'ta'enTata'en no naliti' ko kamay ako. 芒草割傷我的手。

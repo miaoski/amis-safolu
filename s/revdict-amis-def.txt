@@ -3960,7 +3960,7 @@ ha'anongnongan當中樑用，準備做中樑用。
 ha'anongnonganen把某物準備當中樑用。
 ha'emin一下子都拿走，全部完成。
 ha'eminay一下子都拿走的 。全部完成的人。
-ha' eminen把某物全部取走，把事情全部完成。
+ha'eminen把某物全部取走，把事情全部完成。
 ha'onoc當扁擔用，準備做扁擔用。
 ha'onocen把某物準備做扁擔用。
 haca又，再，再次，又一次。
@@ -8854,7 +8854,7 @@ ma'iyofay改變心意或想法了。指改變心意、想法的人。
 ma'ikos(‘ikos)要賭氣，要生氣，要忸怩作態。Ma'ikos kora wawa.你不要賭氣。參見ka'ikos。
 ma'eloc被磨損，被啃去一層革皮。
 ma'elocay被磨損了，被啃掉一層草皮了。指被磨損的（對象）。
-ma'em 'emay忍受住，忍住了。指被忍受、忍耐的（行為等）。
+ma'em'emay忍受住，忍住了。指被忍受、忍耐的（行為等）。
 ma'em'em忍受，忍耐，忍住。
 ma'emec被掐住或勒住（脖子），剎車。
 ma'emecay被掐住或勒住（脖子）了，剎車了。指被掐住或勒住的（對象），被剎住的（車）。
@@ -39431,6 +39431,7 @@ tata'edi'edip層層疊疊，重重疊疊。
 tata'edi'edipsa呈層層疊疊的樣子。
 tata'elifen要經過、跨越，要跨越過去的東西。
 tata'en把…砍傷。
+ta'ta'en把…砍傷。
 tatafik鯊魚。
 tatafokan沙灘，海灘。
 tataheciw紅嘴黑鴉。
@@ -41349,4 +41350,3 @@ yakuwing委員〈日語借詞〉。
 Yis／Yisu耶穌〈希拉語／拉丁文／日語借詞〉。
 yofingkyok郵政局〈日語借詞〉。
 yuducingki碘酒〈日語借詞〉。
-ta'ta'en把…砍傷。
