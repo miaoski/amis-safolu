@@ -18,7 +18,7 @@ terms.each do |name|
   hash = {t: name, h: []}
 
   Term.includes(:stem, definitions: {descriptions: [:examples, :synonyms]})
-      .where("LOWER(name) = ?", name)
+      .where(lower_name: name)
       .order(stem_id: :desc, repetition: :desc)
       .each_with_index do |term, i|
     hash[:h] += term.definitions.map do |definition|
