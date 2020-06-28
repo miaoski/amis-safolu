@@ -13,12 +13,12 @@ require './models/synonym'
 index_json = File.read("s/index.json")
 terms = JSON.parse(index_json)
 
-# 跑一次大約要 40 分
+# 跑一次大約要 25 分
 terms.each do |name|
   hash = {t: name, h: []}
 
   Term.includes(:stem, definitions: {descriptions: [:examples, :synonyms]})
-      .where("LOWER(name) = ?", name)
+      .where(lower_name: name)
       .order(stem_id: :desc, repetition: :desc)
       .each_with_index do |term, i|
     hash[:h] += term.definitions.map do |definition|

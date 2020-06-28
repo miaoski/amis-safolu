@@ -9,6 +9,7 @@ require './models/example'
 # index.json
 def index_json
   terms_array = Term.pluck(:name).map(&:downcase).uniq
+  terms_array = terms_array.sort_by {|x| -x.length }
   File.write("s/index.json", terms_array.to_json)
 end
 
