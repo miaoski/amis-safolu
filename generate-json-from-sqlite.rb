@@ -13,7 +13,7 @@ require './models/synonym'
 index_json = File.read("s/index.json")
 terms = JSON.parse(index_json)
 
-# 跑一次大約要 40 分
+# 跑一次大約要 25 分
 terms.each do |name|
   hash = {t: name, h: []}
 
