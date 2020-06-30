@@ -34,6 +34,7 @@ $ ruby parsing-content.rb # 從 RawContent 建立定義、例句和關連詞
 
 ```
 $ ruby generate-moedict-json.rb # 產生阿美語萌典需要的 json
+$ ruby generate-ufff-code-to-example.rb # 將 \ufff9, \ufffa, \ufffb 加入例句
 $ ruby link-json-to-terms.rb # 將定義、例句和關連詞的內容，連結到對應詞
 $ ruby generate-json-from-sqlite.rb # 產生單詞 json
 ```
