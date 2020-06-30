@@ -25,14 +25,10 @@ terms.each_with_index do |term, i|
                .where('content LIKE ?', "%#{term}%")
                .find_each do |description|
       new_content = description.content.split(' ').map do |part|
-        if part.include?("`") && part.include?("~")
+        if part.include?("`") || part.include?("~")
           part
         else
-          if part.include?(term)
-            part.sub(term, "`#{term}~")
-          else
-            part
-          end
+          part.gsub(/(#{term})/i, '`\1~')
         end
       end.join(' ')
 
@@ -43,14 +39,10 @@ terms.each_with_index do |term, i|
            .where('content LIKE ?', "%#{term}%")
            .find_each do |example|
       new_content = example.content.split(' ').map do |part|
-        if part.include?("`") && part.include?("~")
+        if part.include?("`") || part.include?("~")
           part
         else
-          if part.include?(term)
-            part.sub(term, "`#{term}~")
-          else
-            part
-          end
+          part.gsub(/(#{term})/i, '`\1~')
         end
       end.join(' ')
 
@@ -61,14 +53,10 @@ terms.each_with_index do |term, i|
            .where('content LIKE ?', "%#{term}%")
            .find_each do |synonym|
       new_content = synonym.content.split(' ').map do |part|
-        if part.include?("`") && part.include?("~")
+        if part.include?("`") || part.include?("~")
           part
         else
-          if part.include?(term)
-            part.sub(term, "`#{term}~")
-          else
-            part
-          end
+          part.gsub(/(#{term})/i, '`\1~')
         end
       end.join(' ')
 
