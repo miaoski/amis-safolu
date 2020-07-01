@@ -1,13 +1,11 @@
-# amis-safolu
-
-辭典檔案在： [txt/dict-amis.json](https://github.com/miaoski/amis-safolu/blob/master/txt/dict-amis.json)
+# amis-safolu 阿美語萌典—蔡中涵大辭典 字典檔
 
 ## 環境
 
 * Ruby v2.6+
 * bundler v2.0.1
 * ActiveRecord v6.0.3.2
-* sqlite
+* SQLite3
 
 ## 轉換 docx 到 html
 
@@ -59,6 +57,8 @@ $ annotate --models --model-dir models
 # 致謝
 
 感謝 cpyang 將 PDF 原稿轉為 TXT 檔。
+
+舊版說明請看 [PREV_README](PREV_README.md)
 
 # License
 
