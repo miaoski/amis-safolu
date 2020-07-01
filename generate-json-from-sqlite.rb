@@ -12,9 +12,15 @@ require './models/synonym'
 
 index_json = File.read("s/index.json")
 terms = JSON.parse(index_json)
+terms = terms.select {|t| t.length < 25} # 25 字以上先視為 bug
 
-# 跑一次大約要 25 分
-terms.each do |name|
+total = terms.size
+
+# 跑一次大約要 18 分
+terms.each_with_index do |name, i|
+  counter = i + 1
+  print "\r** << #{format('%5d', counter)} / #{total}, #{format('%.2f', (counter.to_f / total * 100))}% >> **\tID: #{name}"
+
   hash = {t: name, h: []}
 
   Term.includes(:stem, definitions: {descriptions: [:examples, :synonyms]})
