@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_06_28_085743) do
+ActiveRecord::Schema.define(version: 2020_07_04_002733) do
 
   create_table "definitions", force: :cascade do |t|
     t.integer "term_id"
@@ -40,6 +40,7 @@ ActiveRecord::Schema.define(version: 2020_06_28_085743) do
     t.integer "term_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.boolean "loanword", default: false
     t.index ["term_id"], name: "index_raw_contents_on_term_id"
   end
 
@@ -64,6 +65,7 @@ ActiveRecord::Schema.define(version: 2020_06_28_085743) do
     t.datetime "updated_at", precision: 6, null: false
     t.integer "repetition"
     t.string "lower_name"
+    t.boolean "loanword", default: false
     t.index ["lower_name"], name: "index_terms_on_lower_name"
     t.index ["stem_id"], name: "index_terms_on_stem_id"
   end

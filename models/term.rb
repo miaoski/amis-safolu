@@ -9,6 +9,7 @@
 #  updated_at :datetime         not null
 #  repetition :integer
 #  lower_name :string
+#  loanword   :boolean          default(FALSE)
 #
 
 class Term < ApplicationRecord

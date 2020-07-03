@@ -8,6 +8,7 @@
 #  term_id    :integer
 #  created_at :datetime         not null
 #  updated_at :datetime         not null
+#  loanword   :boolean          default(FALSE)
 #
 
 class RawContent < ApplicationRecord
