@@ -13,4 +13,7 @@
 
 class RawContent < ApplicationRecord
   belongs_to :term
+
+  scope :amis,      -> { where(loanword: false) }
+  scope :loanwords, -> { where(loanword: true) }
 end

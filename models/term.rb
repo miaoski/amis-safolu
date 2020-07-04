@@ -22,6 +22,9 @@ class Term < ApplicationRecord
 
   before_save :set_lower_name
 
+  scope :amis,      -> { where(loanword: false) }
+  scope :loanwords, -> { where(loanword: true) }
+
   private
 
   def set_lower_name
