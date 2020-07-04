@@ -95,6 +95,8 @@ def parsing_by_file(name:)
 
   h.each do |key, value|
     key = key.gsub(/’/, "'")
+    key.strip!
+    value.each(&:strip!)
     value = value.to_s.gsub(/’/, "'")
 
     if (key =~ /\p{Han}/) != nil
