@@ -8,7 +8,7 @@ require './models/example'
 
 # index.json
 def index_json
-  terms_array = Term.pluck(:name).map(&:downcase).uniq
+  terms_array = Term.pluck(:lower_name).map(&:downcase).uniq
   terms_array = terms_array.sort_by {|x| -x.length }
   File.write("s/index.json", terms_array.to_json)
 end
@@ -17,7 +17,7 @@ end
 def stem_words_json
   stems_hash = {}
   Stem.includes(:terms).find_each do |stem|
-    stems_hash[stem.name] = stem.terms.pluck(:name).map(&:downcase).uniq
+    stems_hash[stem.name] = stem.terms.pluck(:lower_name).map(&:downcase).uniq
   end
 
   File.write("s/stem-words.json", stems_hash.to_json)
@@ -32,7 +32,7 @@ def revdict_amis_def_txt
   File.open('s/revdict-amis-def.txt', 'w') do |file|
     Term.includes(:descriptions).find_each do |term|
       content = term.descriptions.pluck(:content).join
-      file.puts "\ufffa#{term.name}\ufffb#{content}"
+      file.puts "\ufffa#{term.lower_name}\ufffb#{content}"
     end
   end
 end
@@ -46,12 +46,12 @@ def revdict_amis_ex_txt
   File.open('s/revdict-amis-ex.txt', 'w') do |file|
     Term.includes(:descriptions).find_each do |term|
       content = Example.where(description_id: term.descriptions.select(:id)).pluck(:content).join
-      file.puts "\ufffa#{term.name}\ufffb#{content}"
+      file.puts "\ufffa#{term.lower_name}\ufffb#{content}"
     end
   end
 end
 
-# 跑一次大約要 190 秒
-%w(index_json stem_words_json revdict_amis_def_txt revdict_amis_ex_txt).each do |name|
-  eval(name)
+# 跑一次大約要 300 秒
+%w(index_json stem_words_json revdict_amis_def_txt revdict_amis_ex_txt).each do |method_name|
+  eval(method_name)
 end
