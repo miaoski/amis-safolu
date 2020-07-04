@@ -6,8 +6,8 @@ require './models/stem'
 # 跑一次大約要 10 分鐘
 RawContent.find_each do |raw|
   key = raw.key
-  key.sub!('）', '')
-  _term, _stem = key.split('（')
+  key.sub!(/）|\)/, '')
+  _term, _stem = key.split(/（|\(/)
   _term.strip!
   _stem&.strip!
 
