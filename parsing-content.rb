@@ -9,7 +9,6 @@ require './models/description'
 require './models/example'
 require './models/synonym'
 
-# 跑一次大約要 10 分鐘
 def process_definition(def_string)
   # puts "\n\n\n.............process_definition.............."
   # puts def_string
@@ -55,7 +54,14 @@ def process_definition(def_string)
   end
 end
 
+# 跑一次大約要 17 分鐘
+total = RawContent.count
+counter = 0
+
 RawContent.find_each do |raw|
+  counter += 1
+  print "\r** << #{format('%5d', counter)} / #{total}, #{format('%.2f', (counter.to_f / total * 100))}% >> **\tID: #{raw.id}"
+
   @term = raw.term
   # puts "\n\n\n=============#{term.name}====================="
 
