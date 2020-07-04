@@ -38,6 +38,7 @@ def parsing_by_file(name:)
   @wrong_parsing << nil << nil << "***************#{name}***************"
 
   html_doc = Nokogiri::HTML(File.read("tmp/dict-html/#{name}"))
+  loanword = '24-阿美族常用借詞.html' == name
 
   h={}
   current_key=''
@@ -102,7 +103,7 @@ def parsing_by_file(name:)
     elsif '[]' == value
       @wrong_parsing << key
     else
-      RawContent.create(key: key, value: value)
+      RawContent.create(key: key, value: value, loanword: loanword)
     end
   end
 end
