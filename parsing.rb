@@ -17,8 +17,8 @@ FILE_LIST = [
   '09-L.html',
   '10-M.html',
   '11-Map-1.html',
-  '12-M-2(mi).html',
-  '13-M-3(mil-mip).html',
+  '12-M-2-mi.html',
+  '13-M-3-mil-mip.html',
   '14-M-4.html',
   '15-N.html',
   '16-Ng.html',
@@ -32,8 +32,13 @@ FILE_LIST = [
   '24-阿美族常用借詞.html',
 ]
 
+@wrong_parsing = []
+
 def parsing_by_file(name:)
+  @wrong_parsing << nil << nil << "***************#{name}***************"
+
   html_doc = Nokogiri::HTML(File.read("tmp/dict-html/#{name}"))
+  loanword = '24-阿美族常用借詞.html' == name
 
   h={}
   current_key=''
@@ -90,8 +95,18 @@ def parsing_by_file(name:)
 
   h.each do |key, value|
     key = key.gsub(/’/, "'")
+    key.strip!
+    value.each(&:strip!)
     value = value.to_s.gsub(/’/, "'")
-    RawContent.create(key: key, value: value)
+
+    if (key =~ /\p{Han}/) != nil
+      @wrong_parsing << key
+      @wrong_parsing << eval(value).join("\n") if '[]' != value
+    elsif '[]' == value
+      @wrong_parsing << key
+    else
+      RawContent.create(key: key, value: value, loanword: loanword)
+    end
   end
 end
 
@@ -99,3 +114,6 @@ end
 FILE_LIST.each do |filename|
   parsing_by_file(name: filename)
 end
+
+@wrong_parsing.shift(2)
+File.write("tmp/dict-html/wrong_parsing.txt", @wrong_parsing.join("\n"))

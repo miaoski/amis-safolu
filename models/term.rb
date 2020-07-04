@@ -9,6 +9,7 @@
 #  updated_at :datetime         not null
 #  repetition :integer
 #  lower_name :string
+#  loanword   :boolean          default(FALSE)
 #
 
 class Term < ApplicationRecord
@@ -20,6 +21,9 @@ class Term < ApplicationRecord
   validates_uniqueness_of :name
 
   before_save :set_lower_name
+
+  scope :amis,      -> { where(loanword: false) }
+  scope :loanwords, -> { where(loanword: true) }
 
   private
 
