@@ -8,7 +8,7 @@ require './models/example'
 
 # index.json
 def index_json
-  terms_array = Term.pluck(:lower_name).map(&:downcase).uniq
+  terms_array = Term.pluck(:lower_name).uniq
   terms_array = terms_array.sort_by {|x| -x.length }
   File.write("s/index.json", terms_array.to_json)
 end
@@ -17,7 +17,7 @@ end
 def stem_words_json
   stems_hash = {}
   Stem.includes(:terms).find_each do |stem|
-    stems_hash[stem.name] = stem.terms.pluck(:lower_name).map(&:downcase).uniq
+    stems_hash[stem.name] = stem.terms.pluck(:lower_name).uniq
   end
 
   File.write("s/stem-words.json", stems_hash.to_json)
