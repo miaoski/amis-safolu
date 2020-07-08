@@ -12,7 +12,7 @@ require './models/synonym'
 
 index_json = File.read("s/index.json")
 terms = JSON.parse(index_json)
-terms = terms.select {|t| t.length < 25} # 25 字以上先視為 bug
+terms = terms.select {|t| t.length >= 25} # 25 字以上先視為 bug
 
 total = terms.size
 
