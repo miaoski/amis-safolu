@@ -24,6 +24,7 @@ $ ruby ../../docx-to-html.rb
 $ ruby parsing.rb # 從 html 存到 RawContent
 $ ruby parsing-terms.rb # 從 RawContent 建立單詞和詞幹
 $ ruby parsing-content.rb # 從 RawContent 建立定義、例句和關連詞
+$ ruby clean-dummy-in-db.rb # 將資料庫裡的已知垃圾資訊清除
 ```
 
 ## 從 sqlite 產生 json 單詞檔案
@@ -33,9 +34,8 @@ $ ruby parsing-content.rb # 從 RawContent 建立定義、例句和關連詞
 ```
 $ ruby generate-moedict-json.rb # 產生阿美語萌典需要的 json
 $ ruby generate-ufff-code-to-example.rb # 將 \ufff9, \ufffa, \ufffb 加入例句
-$ ruby clean-dummy-in-db.rb # 將資料庫裡的已知垃圾資訊清除
-$ ruby link-json-to-terms.rb # 將定義、例句和關連詞的內容，連結到對應詞
-$ ruby generate-json-from-sqlite.rb # 產生單詞 json
+$ ruby link-json-to-terms.rb # 將定義、例句和關連詞的內容，用 `~ 包住，連結到對應詞
+$ ruby generate-json-from-sqlite.rb # 產生單詞 json 檔案
 ```
 
 ## 操作 model table
