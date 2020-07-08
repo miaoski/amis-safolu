@@ -8,9 +8,13 @@ require './models/example'
 
 # index.json
 def index_json
-  terms_array = Term.pluck(:lower_name).uniq
-  terms_array = terms_array.sort_by {|x| -x.length }
-  File.write("s/index.json", terms_array.to_json)
+  terms_hash = {}
+  Term.find_each do |term|
+    next if terms_hash[term.lower_name].present?
+    terms_hash[term.lower_name] = term.descriptions.pluck(:content).join[0..10]
+  end
+  result = terms_hash.sort_by {|k,_| -k.length }.map{|term, description| "#{term}\ufffa#{description}" }
+  File.write("s/index.json", result.to_json)
 end
 
 # stem-words.json
@@ -52,6 +56,6 @@ def revdict_amis_ex_txt
 end
 
 # 跑一次大約要 300 秒
-%w(index_json stem_words_json revdict_amis_def_txt revdict_amis_ex_txt).each do |method_name|
+%w(index_json).each do |method_name|
   eval(method_name)
 end
