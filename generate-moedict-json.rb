@@ -10,7 +10,7 @@ require './models/synonym'
 # index.json
 def index_json
   terms_hash = {}
-  Term.find_each do |term|
+  Term.includes(:descriptions).find_each do |term|
     next if terms_hash[term.lower_name].present?
     terms_hash[term.lower_name] = term.descriptions.pluck(:content).join[0..10]
   end
@@ -23,6 +23,12 @@ def stem_words_json
   stems_hash = {}
   Stem.includes(:terms).find_each do |stem|
     stems_hash[stem.name] = stem.terms.pluck(:lower_name).uniq
+
+    stems_hash[stem.name].map! do |term_name|
+      term = Term.includes(:descriptions).find_by(lower_name: term_name)
+      description = term.descriptions.pluck(:content).join[0..10]
+      "#{term_name}\ufffa#{description}"
+    end
   end
 
   File.write("s/stem-words.json", stems_hash.to_json)
