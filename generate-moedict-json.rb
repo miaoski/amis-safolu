@@ -5,6 +5,7 @@ require './models/stem'
 require './models/term'
 require './models/description'
 require './models/example'
+require './models/synonym'
 
 # index.json
 def index_json
@@ -55,7 +56,31 @@ def revdict_amis_ex_txt
   end
 end
 
+def copy_content_to_linked_content
+  Example.find_in_batches do |examples|
+    Example.transaction do
+      examples.each do |example|
+        example.update(linked_content: example.content)
+      end
+    end
+  end
+
+  Synonym.find_in_batches do |synonyms|
+    Synonym.transaction do
+      synonyms.each do |synonym|
+        synonym.update(linked_content: synonym.content)
+      end
+    end
+  end
+end
+
 # 跑一次大約要 300 秒
-%w(index_json).each do |method_name|
+[
+  'index_json',
+  'stem_words_json',
+  'revdict_amis_def_txt',
+  'revdict_amis_ex_txt',
+  'copy_content_to_linked_content'
+].each do |method_name|
   eval(method_name)
 end

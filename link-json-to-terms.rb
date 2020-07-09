@@ -30,25 +30,18 @@ terms_with_spaces.each_with_index do |term, i|
   current_description_ids = Description.where(term_id: current_term_ids).pluck(:id)
 
   ApplicationRecord.transaction do
-    Description.where.not(id: current_description_ids)
-               .where('content LIKE ?', "%#{term}%")
-               .find_each do |description|
-      new_content = description.content.gsub(/(#{term})/i, '`\1~')
-      description.update(content: new_content)
-    end
-
     Example.where.not(description_id: current_description_ids)
            .where('content LIKE ?', "%#{term}%")
            .find_each do |example|
-      new_content = example.content.gsub(/(#{term})/i, '`\1~')
-      example.update(content: new_content)
+      new_content = example.linked_content.gsub(/(#{term})/i, '`\1~')
+      example.update(linked_content: new_content)
     end
 
     Synonym.where.not(description_id: current_description_ids)
-           .where('content LIKE ?', "%#{term}%")
+           .where('linked_content LIKE ?', "%#{term}%")
            .find_each do |synonym|
-      new_content = synonym.content.gsub(/(#{term})/i, '`\1~')
-      synonym.update(content: new_content)
+      new_content = synonym.linked_content.gsub(/(#{term})/i, '`\1~')
+      synonym.update(linked_content: new_content)
     end
   end
 end
@@ -63,26 +56,10 @@ terms_without_spaces.each_with_index do |term, i|
   current_description_ids = Description.where(term_id: current_term_ids).pluck(:id)
 
   ApplicationRecord.transaction do
-    Description.where.not(id: current_description_ids)
-               .where('content LIKE ?', "%#{term}%")
-               .find_each do |description|
-      new_content = description.content.split(/(`.*?~)/).map do |part|
-        if part.include?("`")
-          part
-        else
-          part.split(/( )/).map do |fragment|
-            fragment.gsub(/(#{term})/i, '`\1~')
-          end.join
-        end
-      end.join
-
-      description.update(content: new_content)
-    end
-
     Example.where.not(description_id: current_description_ids)
-           .where('content LIKE ?', "%#{term}%")
+           .where('linked_content LIKE ?', "%#{term}%")
            .find_each do |example|
-      new_content = example.content.split(/(`.*?~)/).map do |part|
+      new_content = example.linked_content.split(/(`.*?~)/).map do |part|
         if part.include?("`")
           part
         else
@@ -92,13 +69,13 @@ terms_without_spaces.each_with_index do |term, i|
         end
       end.join
 
-      example.update(content: new_content)
+      example.update(linked_content: new_content)
     end
 
     Synonym.where.not(description_id: current_description_ids)
-           .where('content LIKE ?', "%#{term}%")
+           .where('linked_content LIKE ?', "%#{term}%")
            .find_each do |synonym|
-      new_content = synonym.content.split(/(`.*?~)/).map do |part|
+      new_content = synonym.linked_content.split(/(`.*?~)/).map do |part|
         if part.include?("`")
           part
         else
@@ -108,7 +85,7 @@ terms_without_spaces.each_with_index do |term, i|
         end
       end.join
 
-      synonym.update(content: new_content)
+      synonym.update(linked_content: new_content)
     end
   end
 end
