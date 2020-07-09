@@ -31,9 +31,9 @@ terms.each_with_index do |name, i|
       {
         d: definition.descriptions.map do |description|
           def_hash     = { f: description.content }
-          def_hash[:e] = description.examples.map(&:content)
-          def_hash[:s] = description.synonyms.alts.map(&:content)
-          def_hash[:r] = description.synonyms.refs.map(&:content)
+          def_hash[:e] = description.examples.map(&:linked_content)
+          def_hash[:s] = description.synonyms.alts.map(&:linked_content)
+          def_hash[:r] = description.synonyms.refs.map(&:linked_content)
 
           def_hash.keys.each do |key|
             def_hash.delete(key) if def_hash[key].blank?
