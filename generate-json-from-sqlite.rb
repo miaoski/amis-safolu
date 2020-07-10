@@ -11,7 +11,8 @@ require './models/example'
 require './models/synonym'
 
 index_json = File.read("s/index.json")
-terms = JSON.parse(index_json)
+json = JSON.parse(index_json)
+terms = json.map { |term| term.split("\ufffa").first }
 
 total = terms.size
 
