@@ -1,5 +1,9 @@
 # amis-safolu 阿美語萌典—蔡中涵大辭典 字典檔
 
+## Warning for Deprecated Repo
+蔡中涵字典的來源已經改到 https://github.com/g0v/amis-moedict/tree/master/docs/s 了。最新的修改必須從那個 repo 取得。
+因此本 repo 的內容在 2022.3.20 之後 freeze 。造成不便敬請原諒。
+
 ## 環境
 
 * Ruby v2.6+
